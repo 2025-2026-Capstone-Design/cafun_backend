@@ -5,6 +5,8 @@ import { UserModule } from './user/user.module';
 import { ConfigModule, ConfigService } from '@nestjs/config';
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { APP_INTERCEPTOR, APP_PIPE } from '@nestjs/core';
+import { AuthModule } from './auth/auth.module';
+import { CafeModule } from './cafe/cafe.module';
 
 @Module({
   imports: [
@@ -27,6 +29,8 @@ import { APP_INTERCEPTOR, APP_PIPE } from '@nestjs/core';
       }),
     }),
     UserModule,
+    AuthModule,
+    CafeModule,
   ],
   controllers: [AppController],
   providers: [

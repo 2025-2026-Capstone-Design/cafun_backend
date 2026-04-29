@@ -1,3 +1,4 @@
+import { Review } from 'src/cafe/entities/review.entity';
 import {
     Entity,
     PrimaryGeneratedColumn,
@@ -6,6 +7,7 @@ import {
     UpdateDateColumn,
     DeleteDateColumn,
     Check,
+    OneToMany,
   } from 'typeorm';
   
 export type UserRole = 'USER' | 'ADMIN';
@@ -36,4 +38,8 @@ export class User {
 
   @DeleteDateColumn({ name: 'deleted_at', type: 'timestamp' })
   deletedAt: Date | null;
+
+  // 리뷰 (1:N 양방향)
+  @OneToMany(() => Review, (review) => review.user)
+  reviews: Review[];
 }
