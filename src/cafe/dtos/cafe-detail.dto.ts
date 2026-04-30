@@ -2,6 +2,7 @@ import { Expose, Transform, Type } from 'class-transformer';
 import { CafeBasicInfo } from './cafe-basic-info.fragment';
 import { MenuInfo } from './menu-info.fragment';
 import { ReviewListResponseDto } from './review.dto';
+import { TopKeywordDto } from './top-keyword.dto';
 
 export class CafeDetailResponseDto extends CafeBasicInfo {
   @Expose()
@@ -47,4 +48,8 @@ export class CafeDetailResponseDto extends CafeBasicInfo {
   @Expose()
   @Type(() => ReviewListResponseDto)
   reviews: ReviewListResponseDto;
+
+  @Expose()
+  @Type(() => TopKeywordDto)
+  topKeywords: TopKeywordDto[];
 }

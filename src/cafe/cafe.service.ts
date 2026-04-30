@@ -5,6 +5,8 @@ import { In, Repository } from 'typeorm';
 import { AI_RECOMMENDATION_PORT, AiRecommendationPort } from './ai-recommendation.port';
 import { Review } from './entities/review.entity';
 import { CreateReviewRequestDto, ReviewResponseDto } from './dtos/review.dto';
+import { CafeRecommendationCacheService } from './cafe-recommendation-cache.service.ts';
+import { CafeWithTopKeywords, TopKeyword } from './dtos/cafe-with-keywords.interface';
 
 @Injectable()
 export class CafeService {
@@ -13,6 +15,7 @@ export class CafeService {
         private readonly cafeRepository: Repository<Cafe>,
         @InjectRepository(Review)
         private readonly reviewRepository: Repository<Review>,
+        private readonly cacheService: CafeRecommendationCacheService,
         @Inject(AI_RECOMMENDATION_PORT)
         private readonly aiModelAdapter: AiRecommendationPort,
     ) { }
@@ -22,12 +25,17 @@ export class CafeService {
         aspectVector: number[],
         page: number = 1,
         limit: number = 20
-    ): Promise<{ cafes: Cafe[]; totalCount: number; totalPages: number }> {
+    ): Promise<{ cafes: CafeWithTopKeywords[]; totalCount: number; totalPages: number }> {
         // AI 어댑터에서 전체 정렬된 ID 리스트를 가져옴
         const allRecommendedIds = await this.aiModelAdapter.getRecommendedCafeIds(aspectVector);
-        
-        // 공통 페이지네이션 및 DB 페치 로직 위임
-        return this.fetchAndSortPaginatedCafes(allRecommendedIds, page, limit);
+
+        // A. 공통 조회 및 정렬
+        const { cafes, totalCount, totalPages } = await this.fetchAndSortPaginatedCafes(allRecommendedIds, page, limit);
+
+        // B. 데이터 가공 (Top 10 키워드 부착)
+        const enrichedCafes = this.enrichCafesWithTopKeywords(cafes);
+
+        return { cafes: enrichedCafes, totalCount, totalPages };
     }
 
     // 2. 신규: 측면 + 키워드 기반 세부 검색
@@ -36,12 +44,17 @@ export class CafeService {
         keywords: string[],
         page: number = 1,
         limit: number = 20
-    ): Promise<{ cafes: Cafe[]; totalCount: number; totalPages: number }> {
+    ): Promise<{ cafes: CafeWithTopKeywords[]; totalCount: number; totalPages: number }> {
         // AI 어댑터에서 키워드가 반영된 전체 정렬된 ID 리스트를 가져옴
         const allRecommendedIds = await this.aiModelAdapter.getRecommendedCafeIdsWithKeywords(aspectVector, keywords);
-        
-        // 공통 페이지네이션 및 DB 페치 로직 위임
-        return this.fetchAndSortPaginatedCafes(allRecommendedIds, page, limit);
+
+        // A. 공통 조회 및 정렬
+        const { cafes, totalCount, totalPages } = await this.fetchAndSortPaginatedCafes(allRecommendedIds, page, limit);
+
+        // B. 데이터 가공 (Top 10 키워드 부착)
+        const enrichedCafes = this.enrichCafesWithTopKeywords(cafes);
+
+        return { cafes: enrichedCafes, totalCount, totalPages };
     }
 
     // 3. 공통: 페이지네이션, DB 조회, 순서 복원 로직 분리
@@ -68,7 +81,6 @@ export class CafeService {
         // DB에서 해당 페이지의 카페 상세 정보만 조회
         const cafes = await this.cafeRepository.find({
             where: { id: In(paginatedIds) },
-            relations: ['menus'],
         });
 
         // In-Memory 정렬: DB 조회 결과를 AI 모델이 반환한 ID 순서(paginatedIds)에 맞게 재정렬
@@ -80,7 +92,27 @@ export class CafeService {
         return { cafes: sortedCafes, totalCount, totalPages };
     }
 
-    async getCafeDetail(cafeId: string): Promise<[Cafe, number]> {
+    private enrichCafesWithTopKeywords(cafes: Cafe[]): CafeWithTopKeywords[] {
+        return cafes.map(cafe => {
+            // 1. 인메모리 Map에서 해당 카페의 키워드 카운트 객체 O(1) 조회
+            const metadata = this.cacheService.cafeMetadataMap.get(cafe.id);
+            const keywordCounts = metadata?.keywordCounts || {};
+
+            // 2. 객체를 [키, 값] 배열로 변환 -> count 기준 내림차순 정렬 -> 상위 10개 추출
+            const topKeywords: TopKeyword[] = Object.entries(keywordCounts)
+                .sort(([, countA], [, countB]) => countB - countA)
+                .slice(0, 10)
+                .map(([keyword, count]) => ({ keyword, count }));
+
+            // 3. 기존 엔티티 데이터에 topKeywords 속성을 병합하여 반환
+            return {
+                ...cafe,
+                topKeywords,
+            };
+        });
+    }
+
+    async getCafeDetail(cafeId: string): Promise<[CafeWithTopKeywords, number]> {
         const cafe = await this.cafeRepository.findOne({
             where: { id: cafeId },
             relations: ['menus'], // 연관된 메뉴 데이터를 조인하여 가져옴
@@ -97,7 +129,8 @@ export class CafeService {
         });
 
         cafe.reviews = latestReviews;
-        return [cafe, totalCount];
+        const [enrichedCafe] = this.enrichCafesWithTopKeywords([cafe]);
+        return [enrichedCafe, totalCount];
     }
 
     async getReviews(
