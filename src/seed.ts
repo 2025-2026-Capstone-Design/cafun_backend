@@ -36,6 +36,11 @@ async function seed() {
       continue;
     }
     const info = JSON.parse(fs.readFileSync(infoPath, 'utf-8'));
+    if (!info.name) {
+      console.warn(`[SKIP] name 없음: ${cafeId}`);
+      skip++;
+      continue;
+    }
 
     // keywords - convenience 객체 및 숫자 아닌 값 제거
     const keywordsPath = path.join(__dirname, 'cafe_keywords', `${cafeId}_keywords.json`);

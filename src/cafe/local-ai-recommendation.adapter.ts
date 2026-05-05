@@ -3,7 +3,6 @@ import { AiRecommendationPort } from './ai-recommendation.port';
 import { CafeRecommendationCacheService } from './cafe-recommendation-cache.service';
 
 const DIMENSION = 12;
-const POSITIVE = 1;
 
 @Injectable()
 export class LocalAiRecommendationAdapter implements AiRecommendationPort {
@@ -18,8 +17,8 @@ export class LocalAiRecommendationAdapter implements AiRecommendationPort {
       const { index } = metadata;
 
       for (let d = 0; d < DIMENSION; d++) {
-        if (aspectVector[d] === 1 && vectors[index + d] === POSITIVE) {
-          score += 1;
+        if (aspectVector[d] === 1) {
+          score += vectors[index + d];
         }
       }
 
@@ -53,8 +52,8 @@ export class LocalAiRecommendationAdapter implements AiRecommendationPort {
 
       let aspectScore = 0;
       for (let d = 0; d < DIMENSION; d++) {
-        if (aspectVector[d] === 1 && vectors[index + d] === POSITIVE) {
-          aspectScore += 1;
+        if (aspectVector[d] === 1) {
+          aspectScore += vectors[index + d];
         }
       }
 
