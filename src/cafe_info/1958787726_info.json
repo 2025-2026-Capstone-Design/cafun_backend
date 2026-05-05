@@ -1,0 +1,303 @@
+{
+  "id": "1958787726",
+  "name": "아워아워",
+  "category": "카페,디저트",
+  "micro_review": [
+    "소금빵과 커피의 완벽한 조화"
+  ],
+  "road_address": "서울 성동구 아차산로1가길 11 1층",
+  "address": "서울 성동구 성수동1가 656-974",
+  "lat": "127.0468455",
+  "lon": "37.5485497",
+  "business_hours": [
+    {
+      "day": "토",
+      "start": "10:30",
+      "end": "18:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "17:30"
+        }
+      ]
+    },
+    {
+      "day": "일",
+      "start": null,
+      "end": null,
+      "breakHours": null,
+      "description": "정기휴무 (매주 일요일)",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": "07:30",
+      "end": "17:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "16:30"
+        }
+      ]
+    },
+    {
+      "day": "화",
+      "start": "07:30",
+      "end": "17:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "16:30"
+        }
+      ]
+    },
+    {
+      "day": "수",
+      "start": "07:30",
+      "end": "17:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "16:30"
+        }
+      ]
+    },
+    {
+      "day": "목",
+      "start": "07:30",
+      "end": "17:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "16:30"
+        }
+      ]
+    },
+    {
+      "day": "금",
+      "start": "07:30",
+      "end": "17:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "16:30"
+        }
+      ]
+    }
+  ],
+  "virtual_phone_number": null,
+  "url": "https://www.instagram.com/cafe_ourhour",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": false,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": true,
+    "대기공간": false,
+    "간편결제": true,
+    "반려동물 동반": true,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "낮은 톤의 산미 묵직한 단맛을 갖고 있는 매일 즐길 수 있는 데일리 커피,그리고 티와 디저트를 즐길 수 있는 카페입니다. @cafe_ourhour\n영수증리뷰 또는 인스타그램 스토리에 태그해서 올려주시면 휘낭시에\n한개 드립니다. (품절시 대체서비스로 드립니다.)",
+  "Information_facilitie": [
+    "테이크아웃 할인",
+    "단체 이용 가능",
+    "포장",
+    "반려동물 동반"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "지역화폐 (모바일형)",
+    "지역화폐 (카드형)",
+    "제로페이",
+    "간편결제"
+  ],
+  "menu": [
+    {
+      "name": "잠봉뵈르",
+      "price": "6500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240404_58/17122155286365usOY_JPEG/F2B4EF19-F97E-4E7C-BCFC-DEC477201A12.JPG"
+      ]
+    },
+    {
+      "name": "크랙소금빵",
+      "price": "3500",
+      "description": "겉바속촉 크랙소금빵!!!",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240404_102/1712215424870sqTHj_JPEG/FDC091CD-BEFF-4CDF-987F-ECE785563504.JPG"
+      ]
+    },
+    {
+      "name": "아포가토",
+      "price": "6500",
+      "description": "차가운 바닐라 아이스크림과 따뜻한 에스프레소의 만남\n거기에 약과는 플러스",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231117_23/1700185395050xhBl8_JPEG/3472528137327157316_20231113104905631.jpeg"
+      ]
+    },
+    {
+      "name": "솔티드피넛크림(hot/ice)",
+      "price": "6500",
+      "description": "고소한맛과 견과류씹히는 맛이 일품",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231117_206/1700185318725IOtUM_JPEG/3472528137327384645_20231113104905633.jpeg"
+      ]
+    },
+    {
+      "name": "아워크림(hot/ice)",
+      "price": "6500",
+      "description": "수제크림사용",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231117_124/1700185251697UWMSI_JPEG/3472528137327543620_20231113104905634.jpeg"
+      ]
+    },
+    {
+      "name": "딸기라떼",
+      "price": "6500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240404_153/1712215731448CTlHg_JPEG/TalkMedia_3225593158562506752_0.jpeg"
+      ]
+    },
+    {
+      "name": "블루베리스콘",
+      "price": "4500",
+      "description": "블루베리 크림치즈가 들어있는 스콘",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240404_179/1712215629434qFsXv_JPEG/D7CB1E69-A823-4D70-BBE0-E40055AAB7D1.JPG"
+      ]
+    },
+    {
+      "name": "스토로베리스콘",
+      "price": "4500",
+      "description": "딸기 크림치즈가 들어있는 스콘",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240404_54/1712215563472SgTy2_JPEG/6752665C-F714-4467-B6DB-23F143405DAF.JPG"
+      ]
+    },
+    {
+      "name": "제주청귤에이드",
+      "price": "6500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231213_92/17024288044030AaX2_PNG/3472528767918483524_20231213094605803.png"
+      ]
+    },
+    {
+      "name": "애플시나몬티",
+      "price": "6500",
+      "description": "사과와 유기농사탕수수를 이용하여 직접담근 사과청을 갖고 만든 애플시나몬 티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231213_223/1702428078420zIbEO_JPEG/2734C824-4E9B-4130-AB64-9FEF281D73BA.jpeg"
+      ]
+    },
+    {
+      "name": "블랜디드밀크티(hot/ice)",
+      "price": "7000",
+      "description": "수제밀크티!! 향긋한 피치향을 느끼면서 마실수 있는 밀크티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231117_150/1700185746870XlFNp_JPEG/3472528137326241093_20231113104905629.jpeg"
+      ]
+    },
+    {
+      "name": "브라우니",
+      "price": "3500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231117_153/170018570165654GDE_JPEG/IMG_6624.jpeg"
+      ]
+    },
+    {
+      "name": "테린느(인절미/말차쑥테린느+500)",
+      "price": "4000",
+      "description": "꾸덕한 식감을 주는 테린느",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231117_176/1700185621382w0L3d_JPEG/FB87E02B-ED81-4E9F-8A0A-53C3492BB565.jpeg"
+      ]
+    },
+    {
+      "name": "말차라떼(hot/ice)",
+      "price": "6500",
+      "description": "제주도유기농말차사용",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231117_2/17001855687369KCha_JPEG/3472528137326213956_20231113104905628.jpeg"
+      ]
+    },
+    {
+      "name": "바닐라라떼(hot/ice)",
+      "price": "5500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231117_78/17001852151126Svr8_JPEG/3472528137328331076_20231113104905636.jpeg"
+      ]
+    },
+    {
+      "name": "까페라떼(hot/ice)",
+      "price": "5000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231117_172/17001851719131GnDR_JPEG/3472528137328128324_20231113104905636.jpeg"
+      ]
+    },
+    {
+      "name": "슈가프치노",
+      "price": "6000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231117_212/1700184832185xFYE1_JPEG/IMG_6621.jpeg"
+      ]
+    },
+    {
+      "name": "아이스아메리카노",
+      "price": "4500",
+      "description": "얕은산미를 느끼면서 부드럽게 넘어가는 아이스아메리카노",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231026_177/16983022669454RXCW_JPEG/IMG_6239.jpeg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20250127_23/17379619836793gwxa_JPEG/1000009799.jpg",
+    "https://ldb-phinf.pstatic.net/20250127_18/1737961978004rNKPU_JPEG/1000009816.jpg",
+    "https://ldb-phinf.pstatic.net/20250127_198/1737961980103pMEl5_PNG/1000009660.png",
+    "https://ldb-phinf.pstatic.net/20250127_16/1737961983395AAe8C_JPEG/1000009652.jpg",
+    "https://ldb-phinf.pstatic.net/20250127_185/1737961850541fkR0q_JPEG/1000009852.jpg",
+    "https://ldb-phinf.pstatic.net/20250127_106/1737961712111EzOuo_JPEG/1000012178.jpg",
+    "https://ldb-phinf.pstatic.net/20250127_248/1737961665863wHSm0_JPEG/1000010763.jpg"
+  ]
+}

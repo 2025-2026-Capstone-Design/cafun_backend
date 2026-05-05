@@ -1,0 +1,252 @@
+{
+  "id": "2024693313",
+  "name": "뚜까따 슈퍼 성수점",
+  "category": "카페,디저트",
+  "micro_review": [
+    "성수동에서 만나는 독특한 디저트 카페"
+  ],
+  "road_address": "서울 성동구 성수일로 47 2층 202호",
+  "address": "서울 성동구 성수동1가 16-8",
+  "lat": "127.049526",
+  "lon": "37.5447372",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "12:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "토",
+      "start": "12:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "일",
+      "start": "12:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": null,
+      "end": null,
+      "breakHours": null,
+      "description": "정기휴무 (매주 월요일)",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": "12:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "수",
+      "start": "12:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "목",
+      "start": "12:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1497-8300",
+  "url": "https://www.instagram.com/tukata.super",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": false,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": true,
+    "대기공간": false,
+    "간편결제": true,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": true,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "뚜까따 슈퍼는 라이프스타일 브랜드-뚜까따가 전개하는 아이스크림 브랜드입니다. 뚜까따 슈퍼만의 특별한 아이스크림과 새로운 아이템이 가득한 마플샵 가챠가챠샵을 만나보세요. 귀여움과 달콤함 그 이상의 경험, 뚜까따 슈퍼 & 마플샵 가챠가챠 샵\n\nTUKATA SUPER is an ice cream brand by the lifestyle label TUKATA.\nDiscover TUKATA SUPER’s unique ice cream and explore the MarppleShop Gacha Gacha filled with brand-new items. An experience beyond just sweet and cute-something truly special.",
+  "Information_facilitie": [
+    "포장",
+    "단체 이용 가능",
+    "배달"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "제로페이",
+    "간편결제"
+  ],
+  "menu": [
+    {
+      "name": "더티 말차 소프트 아이스크림",
+      "price": "8200",
+      "description": "뚜까따 슈퍼 더티 말차 소프트 아이스크림",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251102_280/1762057733828PjpA2_PNG/Asset_34.png"
+      ]
+    },
+    {
+      "name": "밤밤밤 소프트 아이스크림",
+      "price": "8200",
+      "description": "뚜까따 슈퍼 밤밤밤 아이스크림",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251102_198/1762057747468gs4be_PNG/Asset_40.png"
+      ]
+    },
+    {
+      "name": "슈퍼 밀크 소프트 아이스크림",
+      "price": "6800",
+      "description": "뚜까따 슈퍼 밀크 소프트 아이스크림\n(키링 품절 시 가격이 변동될 수 있습니다)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251102_36/1762057754595lbj1e_PNG/Asset_46.png"
+      ]
+    },
+    {
+      "name": "뚜까 베이컨 소프트 아이스크림",
+      "price": "8200",
+      "description": "뚜까따 뚜까 베이컨 소프트 아이스크림",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251102_277/1762057761249jApm4_PNG/Asset_43.png"
+      ]
+    },
+    {
+      "name": "피스타 포레스트 소프트 아이스크림",
+      "price": "8200",
+      "description": "뚜까따 피스타 포레스트 소프트 아이스크림",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251102_14/1762057768846sJLn8_PNG/Asset_45.png"
+      ]
+    },
+    {
+      "name": "자두 샤워 소프트 아이스크림",
+      "price": "8200",
+      "description": "뚜까따 자두 샤워 소프트 아이스크림",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251102_162/1762057773996wugO6_PNG/Asset_39.png"
+      ]
+    },
+    {
+      "name": "더티 코코아 소프트 아이스크림",
+      "price": "8200",
+      "description": "뚜까따 더티 코코아 소프트 아이스크림",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251102_259/1762057779297IfM61_PNG/Asset_35.png"
+      ]
+    },
+    {
+      "name": "우마미 선데 소프트 아이스크림",
+      "price": "8200",
+      "description": "뚜까따 우마미 선데 소프트 아이스크림",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251102_229/1762057784231gapqb_PNG/Asset_36.png"
+      ]
+    },
+    {
+      "name": "파르르 소프트 아이스크림",
+      "price": "8200",
+      "description": "뚜까따 파르르 소프트 아이스크림",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251102_292/1762057795678EKK7K_PNG/Asset_44.png"
+      ]
+    },
+    {
+      "name": "포테이토 어택 소프트 아이스크림",
+      "price": "8200",
+      "description": "뚜까따 포테이토 어택 소프트 아이스크림",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251102_273/1762057802154o5OvH_PNG/Asset_47.png"
+      ]
+    },
+    {
+      "name": "뚜까따 플레인 크로플",
+      "price": "2500",
+      "description": "단품 : 2500원\n세트 : 2000원 (아이스크림 or 음료메뉴와 합구매시)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251102_239/1762057807233fmkH9_PNG/Asset_33.png"
+      ]
+    },
+    {
+      "name": "뚜까따 슈퍼 커피 (Hot/Ice)",
+      "price": "2500",
+      "description": "뚜까따 슈퍼 커피 (Hot/Ice)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251102_147/1762057816478FwKIE_PNG/Asset_38.png"
+      ]
+    },
+    {
+      "name": "뚜까따 슈퍼 라떼 (Hot/Ice)",
+      "price": "4500",
+      "description": "뚜까따 슈퍼 라떼 (Hot/Ice)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251102_218/1762057823627cfdK2_PNG/Asset_41.png"
+      ]
+    },
+    {
+      "name": "뚜까따 밤 라떼 (Hot/Ice)",
+      "price": "5200",
+      "description": "뚜까따 슈퍼 밤 라떼 (Hot/Ice)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251102_71/1762057829590inQOD_PNG/Asset_42.png"
+      ]
+    },
+    {
+      "name": "뚜까따 말차 라떼 (Hot/Ice)",
+      "price": "5200",
+      "description": "뚜까따 슈퍼 말차 라떼 (Hot/Ice)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251102_21/1762057836536e0tzA_PNG/Asset_37.png"
+      ]
+    },
+    {
+      "name": "뚜까따 커피 플로트",
+      "price": "6000",
+      "description": "뚜까따 아이스 커피와 달콤한 소프트 아이스크림의 만남!",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251102_219/1762057842457Om52j_PNG/Asset_48.png"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20250801_128/1754016738422xLGjp_PNG/09-%281%29.png",
+    "https://ldb-phinf.pstatic.net/20251102_207/1762058058917QM5LF_PNG/Asset_31.png",
+    "https://ldb-phinf.pstatic.net/20250818_78/1755475757776rzfpY_JPEG/39347718-8299-42D8-A4C8-E5D65EFEC965.jpeg",
+    "https://ldb-phinf.pstatic.net/20250818_84/1755475758214pvhaO_JPEG/6A724041-3F53-4A60-9DB5-3195E05C3086.jpeg",
+    "https://ldb-phinf.pstatic.net/20250728_267/1753706364315HNW8A_PNG/Artboard_591.5x.png",
+    "https://ldb-phinf.pstatic.net/20250728_278/1753706350165iM9T4_PNG/Artboard_621.5x.png",
+    "https://ldb-phinf.pstatic.net/20250728_187/1753706357780pJ61K_PNG/Artboard_571.5x.png",
+    "https://ldb-phinf.pstatic.net/20250728_246/1753706369339y90cb_PNG/Artboard_601.5x.png",
+    "https://ldb-phinf.pstatic.net/20250722_73/1753152374653LRcxx_PNG/Asset_23.png",
+    "https://ldb-phinf.pstatic.net/20250715_80/1752548388292wyUwc_PNG/Asset_12x_copy.png",
+    "https://ldb-phinf.pstatic.net/20250715_85/1752548388640kQbYg_PNG/Asset_210x.png"
+  ]
+}

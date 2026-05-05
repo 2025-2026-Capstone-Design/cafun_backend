@@ -1,0 +1,258 @@
+{
+  "id": "2052841658",
+  "name": "작당모의 성수",
+  "category": "카페,디저트",
+  "micro_review": [
+    "제철 과일이 선사하는 상큼한 행복"
+  ],
+  "road_address": "서울 성동구 서울숲4길 16-16 1층 B1층",
+  "address": "서울 성동구 성수동1가 668-91",
+  "lat": "127.0423965",
+  "lon": "37.5471583",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "12:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "토",
+      "start": "12:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "일",
+      "start": "12:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": "12:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": "12:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "수",
+      "start": "12:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "목",
+      "start": "12:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": null,
+  "url": "https://app.catchtable.co.kr/ct/shop/zakdangmoiseongsu?from=share&type=WAITING",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": true,
+    "반려동물 동반": true,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "계절과일로 만드는 음료와 디저트를 판매합니다.",
+  "Information_facilitie": [
+    "테이크아웃 할인",
+    "포장",
+    "무선 인터넷",
+    "반려동물 동반"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "제로페이",
+    "간편결제"
+  ],
+  "menu": [
+    {
+      "name": "ㅈㄷㅁㅇ Parfait",
+      "price": "16000",
+      "description": "성수점 only 딸기 말차 파르페",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251205_224/1764940258758G1INJ_JPEG/IMG_8657.jpeg"
+      ]
+    },
+    {
+      "name": "ㅈㄷㅁㅇ Roll Dacquoise",
+      "price": "10500",
+      "description": "아이스크림처럼 먹는 롤 다쿠아즈",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251205_33/17649403317967Rcue_JPEG/IMG_8570.jpeg"
+      ]
+    },
+    {
+      "name": "ㅈㄷㅁㅇ Ade",
+      "price": "7800",
+      "description": "수제청으로 만든 딸기 에이드",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251205_76/1764940365432ts678_JPEG/IMG_8567.jpeg"
+      ]
+    },
+    {
+      "name": "Classic Tiramisu",
+      "price": "12000",
+      "description": "오픈초부터 사랑받고 있는 정통 클래식 티라미수",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250809_27/1754673426649P8wwE_JPEG/43D8FED5-E550-4D39-9695-4910CE1A55AA-65464-00001FA54D388731.jpeg"
+      ]
+    },
+    {
+      "name": "ㅈㄷㅁㅇ Coffee",
+      "price": "7500",
+      "description": "오트밀크 베이스의 시그니처 아인슈페너",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250625_83/1750834038782bSkyo_JPEG/22C45760-3146-48ED-9B76-501DF3EB1176-72376-00001BBC5F61C6C4.jpeg"
+      ]
+    },
+    {
+      "name": "ㅈㄷㅁㅇ Tiramisu",
+      "price": "12000",
+      "description": "수제과일청으로 숙성한 딸기 티라미수",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251205_83/17649404022594WCeQ_JPEG/IMG_8566.jpeg"
+      ]
+    },
+    {
+      "name": "ㅈㄷㅁㅇ Tarte",
+      "price": "9500",
+      "description": "딸기 초코무스 타르트",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251205_170/1764940481567bO2cV_JPEG/IMG_1278.jpeg"
+      ]
+    },
+    {
+      "name": "ㅈㄷㅁㅇ Bowl Cake",
+      "price": "9500",
+      "description": "버터 쿠키크럼블과 함께 떠먹는 크림치즈 케이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251205_266/1764940501964O0fiJ_JPEG/IMG_1275.jpeg"
+      ]
+    },
+    {
+      "name": "ㅈㄷㅁㅇ Latte",
+      "price": "7800",
+      "description": "수제청으로 만든 크리미한 딸기 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251205_93/1764940593598cQwqn_JPEG/IMG_8568.jpeg"
+      ]
+    },
+    {
+      "name": "ㅈㄷㅁㅇ Fruit Tea",
+      "price": "7800",
+      "description": "수제청으로 만든 청량감있는 딸기 과일차",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251205_89/1764940625802TwNs0_JPEG/IMG_8569.jpeg"
+      ]
+    },
+    {
+      "name": "Vanillalish",
+      "price": "7500",
+      "description": "시그니처 커피 - 바닐라리쉬",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250620_16/1750355814306fIgK8_JPEG/IMG_6830.jpeg"
+      ]
+    },
+    {
+      "name": "Caramellow",
+      "price": "7500",
+      "description": "시그니처 커피 - 카라멜로우",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250620_213/175035588296576eiL_JPEG/IMG_6834.jpeg"
+      ]
+    },
+    {
+      "name": "Matcha Spanner",
+      "price": "7500",
+      "description": "시그니처 커피 - 말차슈페너",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250620_214/1750355853359Xi6Fu_JPEG/IMG_6831.jpeg"
+      ]
+    },
+    {
+      "name": "Matcha Tree",
+      "price": "6800",
+      "description": "시그니처 크림이 들어간 말차트리",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250620_29/1750355978807zkSCy_JPEG/IMG_6832.jpeg"
+      ]
+    },
+    {
+      "name": "Chocozelnuts",
+      "price": "6800",
+      "description": "시그니처 크림이 들어간 초코즐넛",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250620_163/1750355933722QuYYh_JPEG/IMG_6833.jpeg"
+      ]
+    },
+    {
+      "name": "Affogato",
+      "price": "7300",
+      "description": "초코와 그래놀라가 들어있는 클래식 아포가토",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250625_107/1750833714299TfL00_JPEG/DFB9F488-7815-4026-B535-B17406C65835-72376-00001BBCD3F116C7.jpeg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20250805_128/1754328369697KnpFp_JPEG/5255EA5C-28E8-41E4-A2B5-82D50DD0D1F0.jpeg",
+    "https://ldb-phinf.pstatic.net/20251115_130/1763178661725It8qH_JPEG/08CB28C1-4263-4216-B975-585A1ADC7817.jpeg",
+    "https://ldb-phinf.pstatic.net/20251115_232/1763178661086aby4g_JPEG/7EED327E-B532-4921-9A24-ABA9E4396017.jpeg",
+    "https://ldb-phinf.pstatic.net/20250617_154/1750154486742vjng8_JPEG/EB8BF843-E33F-4DD2-B130-E0E06E8F72E5.jpeg",
+    "https://ldb-phinf.pstatic.net/20250617_282/1750154486591swf4V_JPEG/076FD505-3B13-41B2-89EA-D35118D03A10.jpeg",
+    "https://ldb-phinf.pstatic.net/20251115_242/1763178661615PSSpg_JPEG/4C3DFD21-7A8F-48CD-931F-D26048BCB6D9.jpeg",
+    "https://ldb-phinf.pstatic.net/20251115_251/1763178661576BIkrf_JPEG/4FB0F7E6-49C1-48F0-A6AD-181E0FB1FCB3.jpeg",
+    "https://ldb-phinf.pstatic.net/20251115_107/1763178661792b6D2l_JPEG/4D616361-25E7-42EE-8439-5F45220F27F2.jpeg",
+    "https://ldb-phinf.pstatic.net/20250617_284/1750154486500KpbbU_JPEG/BD37CBB4-380E-4262-ADAF-9E4FA463D34A.jpeg",
+    "https://ldb-phinf.pstatic.net/20250620_237/1750356414965xVl70_JPEG/IMG_6638.jpeg",
+    "https://ldb-phinf.pstatic.net/20250617_101/1750154486485OoIA7_JPEG/BDDC2BA6-BD47-4F81-AFDC-3A0778A42D55.jpeg",
+    "https://ldb-phinf.pstatic.net/20250805_56/1754328552931knAeH_JPEG/IMG_6873.jpeg",
+    "https://ldb-phinf.pstatic.net/20250805_77/1754328550575P3hSg_JPEG/IMG_7005.jpeg",
+    "https://ldb-phinf.pstatic.net/20250617_285/1750154486412CWtPX_JPEG/9F694E17-65C5-4028-B429-C7109EE8CBEC.jpeg",
+    "https://ldb-phinf.pstatic.net/20250617_252/17501544864429E93j_JPEG/1D1ACBC6-2649-4204-8CCF-109927279E30.jpeg",
+    "https://ldb-phinf.pstatic.net/20250620_131/1750356415161nRig5_JPEG/IMG_6654.jpeg"
+  ]
+}

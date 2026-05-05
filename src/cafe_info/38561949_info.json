@@ -1,0 +1,286 @@
+{
+  "id": "38561949",
+  "name": "어니언 성수",
+  "category": "카페,디저트",
+  "micro_review": [
+    "초코소금빵의 단짠단짠 완벽한 조화"
+  ],
+  "road_address": "서울 성동구 아차산로9길 8 어니언",
+  "address": "서울 성동구 성수동2가 277-135",
+  "lat": "127.0581051",
+  "lon": "37.5446909",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "08:00",
+      "end": "22:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "day": "토",
+      "start": "09:00",
+      "end": "22:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "day": "일",
+      "start": "09:00",
+      "end": "22:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "day": "월",
+      "start": "08:00",
+      "end": "22:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "day": "화",
+      "start": "08:00",
+      "end": "22:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "day": "수",
+      "start": "08:00",
+      "end": "22:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "day": "목(12/25)",
+      "start": "09:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": "성탄절",
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1386-3238",
+  "url": "http://onionkr.com",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": false,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": false,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "이 공간은 1970년대에 처음 지어졌다. 그리고 50여년이 다 되어가는 시간 동안 슈퍼, 식당, 가정집, 정비소, 그리고 공장으로 변형되었다. 때마다 필요에 따라 쓸모없는 부분은 부서졌고, 더해져야 할 부분은 주먹구구식으로 증축되었다. 심미성보다는 활용성을 중심으로 변화한 공간이기에 시간과 함께 공간의 본 모습은 점점 사라져갔다. \n\n우리는 공간을 탐색하던 중, 과거의 구조 속에서 새것이 줄 수 없는 가치를 발견했다. 바닥에 묻은 페인트 자국, 덧대어진 벽돌 하나하나가 세월을 기억하는 훌륭한 소재였다. 우리는 이 모든 흔적을 살리며 과거의 공간을 다시 재생시키는 것에 집중했다. 과거의 공간이자 동시대적인 공간으로서의 재해석이 필요했다. \n\nONION은 분리된 것 같으면서도 유기적으로 연결된 구조를 존중하고, 사용자의 기능을 고려해 신중하게 추가된 소재들로 만들어졌다. 가구 또한 공간의 일부가 될 수 있도록 건축적인 요소를 더해 제작되었다. 함께 공존하는 식물들도 이곳에 늘 있었던 것처럼 익숙한 모습으로 자리해 있다. \n\n이 공간은 마음을 정화시키는 휴식과 서비스가 존재하는 곳이 될 것이며, 공간을 찾는 이들의 머릿속 소음을 잠재워 줄 안식처가 될 것이다. 우리는 이 장소가 누군가에게는 새로운 삶의 영감을, 누군가에게는 온전한 휴식을 선사하는 곳으로 기억되길 바란다.",
+  "Information_facilitie": [],
+  "parking_info": null,
+  "payment_info": null,
+  "menu": [
+    {
+      "name": "아메리카노(Americano)",
+      "price": "5500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240124_90/1706082401528Vyp3j_JPEG/%BE%C6%B8%DE.jpg"
+      ]
+    },
+    {
+      "name": "이 초콜릿 라떼는 최고라고 자부한다.",
+      "price": "7000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240124_19/1706082437147oKDvv_JPEG/%C3%CA%C4%DD%B8%B4.jpg"
+      ]
+    },
+    {
+      "name": "팡도르",
+      "price": "6000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240124_284/1706084521562jFw7D_JPEG/%BA%A3%C0%CC%C4%BF%B8%AE_%C6%CE%B5%B5%B8%A3_6000.jpg"
+      ]
+    },
+    {
+      "name": "앙버터",
+      "price": "5500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240124_236/17060845380270OIHd_JPEG/%BA%A3%C0%CC%C4%BF%B8%AE_%BE%D3%B9%F6%C5%CD_5500.jpg"
+      ]
+    },
+    {
+      "name": "에스프레소(Espresso)",
+      "price": "5000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240124_97/1706082395022xKb2K_JPEG/%C8%AD%C0%CC%C6%AE.jpg"
+      ]
+    },
+    {
+      "name": "카페라떼(Cafe latte)",
+      "price": "6000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240124_244/1706082408609jGeHp_JPEG/%B6%F3%B6%BC.jpg"
+      ]
+    },
+    {
+      "name": "카푸치노(Cappuccino)",
+      "price": "6000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240124_147/170608241561030v5n_JPEG/%C8%AD%C0%CC%C6%AE.jpg"
+      ]
+    },
+    {
+      "name": "플랫화이트(Flatwhite)",
+      "price": "6000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240124_165/1706082420124F5Wb7_JPEG/%C8%AD%C0%CC%C6%AE.jpg"
+      ]
+    },
+    {
+      "name": "바닐라라떼(Vanilla latte)",
+      "price": "7000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240124_89/17060824262800Uhv0_JPEG/%B6%F3%B6%BC.jpg"
+      ]
+    },
+    {
+      "name": "그린라이트 (상추 스무디)",
+      "price": "8500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240124_2/1706082431365tlLbo_JPEG/%C8%AD%C0%CC%C6%AE.jpg"
+      ]
+    },
+    {
+      "name": "히비스커스 앤 로지스 티",
+      "price": "7000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240124_243/1706082443209V0qhg_JPEG/%C8%AD%C0%CC%C6%AE.jpg"
+      ]
+    },
+    {
+      "name": "네 종류의 베리가 들어간 소다",
+      "price": "8000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240124_118/1706082450891jrGwE_JPEG/%BA%A3%B8%AE.jpg"
+      ]
+    },
+    {
+      "name": "시그니처 밀크 티",
+      "price": "8000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240124_49/1706082457105ni7aO_JPEG/%B9%D0%C5%A9%C6%BC.jpg"
+      ]
+    },
+    {
+      "name": "유자 허니 블랙 티",
+      "price": "7000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240124_28/1706082465870NTDWE_JPEG/%C0%AF%C7%E3%BA%ED.jpg"
+      ]
+    },
+    {
+      "name": "딸기바라기",
+      "price": "5500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240124_99/1706084555469yyF5r_JPEG/%BA%A3%C0%CC%C4%BF%B8%AE_%B5%FE%B1%E2%B9%D9%B6%F3%B1%E2_5500.jpg"
+      ]
+    },
+    {
+      "name": "소금빵",
+      "price": "3000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240124_146/17060845680765e25E_JPEG/%BA%A3%C0%CC%C4%BF%B8%AE_%BC%D2%B1%DD%BB%A7_3000.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20230612_255/1686562488552F0Omh_PNG/LOGO.png",
+    "https://ldb-phinf.pstatic.net/20190204_269/1549212634045uJAvX_PNG/Zfpnq_GUADvxtxA8DK6xvfOK.png",
+    "https://ldb-phinf.pstatic.net/20190204_50/1549212633872vIrQe_PNG/8iy8Cqn601ZkIAa8Ef1SViSA.png",
+    "https://ldb-phinf.pstatic.net/20190204_90/1549212634259y8Dtj_PNG/lKv0pJ3xgXue6hfAC75Qrm1H.png",
+    "https://ldb-phinf.pstatic.net/20190204_239/1549212634336ttoLc_PNG/Yyi-7ObDsJNvSd4MsiRlIJPb.png",
+    "https://ldb-phinf.pstatic.net/20190130_120/1548821831784g8Y7T_JPEG/wJlWCsWmdut805DTzoZoRWil.jpeg.jpg",
+    "https://ldb-phinf.pstatic.net/20190322_234/1553242856488hUuUJ_JPEG/QsQ6UpjGHYpWj4tH4-H-KfvF.jpg",
+    "https://ldb-phinf.pstatic.net/20190322_212/1553242856475zSluN_JPEG/EVuGLtHivsEZvPA6RgqW36up.jpg",
+    "https://ldb-phinf.pstatic.net/20190322_297/15532428565519qV9x_JPEG/zIZVTa8_B05s_CsrPmjoq_Vg.jpg",
+    "https://ldb-phinf.pstatic.net/20190322_112/1553242856572XFcVE_JPEG/_XWxCdNXoaqeo9JA2q6HiMMt.jpg",
+    "https://ldb-phinf.pstatic.net/20190322_157/1553242856798ol61K_JPEG/go7hGmeLkFbNoEPSw73QfSJo.jpg",
+    "https://ldb-phinf.pstatic.net/20190322_73/15532428573985dUKx_PNG/H7cjo90hmRZdANmyjT4DfBKa.png",
+    "https://ldb-phinf.pstatic.net/20190322_181/1553242857631gdzAv_PNG/lX7H-qtvaK973t-vxnMwuPcP.png",
+    "https://ldb-phinf.pstatic.net/20190322_197/1553242857748d1GXo_PNG/YQD-ZkgsGpdbVp4cM1fYJUAj.png",
+    "https://ldb-phinf.pstatic.net/20230803_132/16910501692114u5jz_JPEG/20230731_190153.jpg",
+    "https://ldb-phinf.pstatic.net/20240311_19/1710127641363gfgPt_JPEG/1000003511.jpg"
+  ]
+}

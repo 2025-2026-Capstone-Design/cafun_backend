@@ -1,0 +1,339 @@
+{
+  "id": "1829908685",
+  "name": "러프러프",
+  "category": "카페,디저트",
+  "micro_review": [
+    "말차의 향긋함과 피스타치오의 고소함"
+  ],
+  "road_address": "서울 성동구 연무장길 81 401호",
+  "address": "서울 성동구 성수동2가 271-24",
+  "lat": "127.0582575",
+  "lon": "37.5417012",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "11:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "day": "토",
+      "start": "11:00",
+      "end": "23:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "22:30"
+        }
+      ]
+    },
+    {
+      "day": "일",
+      "start": "11:00",
+      "end": "23:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "22:30"
+        }
+      ]
+    },
+    {
+      "day": "월",
+      "start": "11:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "day": "화",
+      "start": "11:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "day": "수",
+      "start": "11:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "day": "목",
+      "start": "11:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:30"
+        }
+      ]
+    }
+  ],
+  "virtual_phone_number": "0507-1460-8203",
+  "url": "https://www.instagram.com/rufruf_museum/",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": true,
+    "단체 이용 가능": true,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": true,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "늘 감사합니다! / RUFRUF 서비스,웨이팅 관련 공지!\n\n안녕하세요 러프러프입니다 : )\n먼저 저희에게 늘 과분한 관심과 사랑으로 매장을 꽉 채워주셔서 진심으로 고맙습니다.\n\n단 한 분의 발걸음도 헛되지 않도록 저희가 직접! 웨이팅 관리하고 있으니 편하게 다가와주시면 대기자 성함 작성 도와드립니다!\n\n맛도, 공간도, 서비스도 호감형인 또 생각나는 그런 공간으로 유지하며 더 나아가도록,\n감사한 마음으로 항상 최선을 다하도록 노력하겠습니다!\n다시 한 번 감사드립니다 ( _ _ )\n\n!성수 방문시 러프러프가 눈에띄어 궁금하시다면\n전화 or 네이버톡톡 or SNS디엠으로\n현재 자리있나요? 웨이팅 얼마나 있나요?\n홀케이크 주문하고싶어요! ..등등\n자유롭게 문의주세요 : )\n(* 매장이 너무 바쁘거나 디저트 작업시 연락이 늦을 수 있는 점 참고와 양해 부탁드립니다..!)",
+  "Information_facilitie": [
+    "핸드드립",
+    "전문 소믈리에",
+    "테이크아웃 할인",
+    "무선 인터넷",
+    "반려동물 동반",
+    "남/녀 화장실 구분",
+    "포장",
+    "단체 이용 가능"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "네이버페이"
+  ],
+  "menu": [
+    {
+      "name": "크리스마스케이크예약",
+      "price": "58000",
+      "description": "예약•문의는 DM, 네이버톡, 매장전화 또는 문자로 !",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251201_232/1764527286521bc9mF_JPEG/KakaoTalk_20251201_032146073_02.jpg"
+      ]
+    },
+    {
+      "name": "러프유니버시티(8조각 선택가능)",
+      "price": "58000",
+      "description": "다양하게 선택 가능한 러프유니버시티, 사전 예약으로 2천원 할인된 가격에 만나보세요 ◡̈",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231031_147/1698688094386fdTS8_JPEG/KakaoTalk_20231031_023938309_02.jpg"
+      ]
+    },
+    {
+      "name": "홀케이크(2호)",
+      "price": "54000",
+      "description": "사전 예약으로 2천원 할인된 가격에 만나보세요 ◡̈\n(당일예약은 전화문의 주세요!)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240220_180/1708363399606wpK0S_JPEG/KakaoTalk_20240219_121307746_16.jpg"
+      ]
+    },
+    {
+      "name": "딸기크럼블 치즈케이크",
+      "price": "8500",
+      "description": "러프러프 대표케이크\n쫀득하고 바삭한 식감과 부드러운치즈케익 +딸기 크럼블 조화",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240506_232/17149283244092jDm2_JPEG/KakaoTalk_20240506_011552545.jpg",
+        "https://ldb-phinf.pstatic.net/20231208_56/1702000240917YNSeF_JPEG/KakaoTalk_20231208_104133201_15.jpg",
+        "https://ldb-phinf.pstatic.net/20230716_8/1689517006210kJkUv_JPEG/KakaoTalk_20230319_025026424_23.jpg",
+        "https://ldb-phinf.pstatic.net/20230716_298/1689516977647wpPOK_JPEG/DSCF3236.JPG"
+      ]
+    },
+    {
+      "name": "말차피스타치오 치즈케이크",
+      "price": "8500",
+      "description": "쌉싸름한 말차향과 통으로 들어간 마카디미아와 고소단백을 더한 피스타치오로 완벽한 말차케이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240527_297/1716744963050FpGv3_JPEG/2.jpg",
+        "https://ldb-phinf.pstatic.net/20240527_40/1716744957333rjJIb_JPEG/KakaoTalk_20240526_214515970_12.jpg"
+      ]
+    },
+    {
+      "name": "꿀고구마 치즈케이크",
+      "price": "8500",
+      "description": "달달고소한 고구마치즈케잌 베이스 위 부드러운 카스테라&고구마맛탕",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240811_48/1723310115944c6XQr_JPEG/KakaoTalk_20240811_020926265_01.jpg"
+      ]
+    },
+    {
+      "name": "솔티카라멜 치즈케이크",
+      "price": "8500",
+      "description": "달콤한 솔티카라멜 베이스에 브라운치즈와 크럼블을 듬뿍올려 적절한 단짠 조합이 매력있어요◡̈",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250611_76/17496261891123WBi0_JPEG/IMG_3077.jpeg"
+      ]
+    },
+    {
+      "name": "흑임자 치즈케이크",
+      "price": "8500",
+      "description": "꾸덕하고 고소한 흑임자 치즈케이크와 버터바 그리고 제주도 오메기 흑임자떡",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231031_277/1698688004233n68V5_JPEG/KakaoTalk_20231031_023926382.jpg",
+        "https://ldb-phinf.pstatic.net/20230716_198/16895173475893Tw6e_JPEG/DSCF3163.JPG",
+        "https://ldb-phinf.pstatic.net/20230319_163/16791646692805I4Nf_JPEG/KakaoTalk_20230319_025026424_19.jpg",
+        "https://ldb-phinf.pstatic.net/20230211_114/1676107612820EJ1sA_JPEG/F675A0AF-0638-4900-B3FB-9E70900AC16A.jpeg"
+      ]
+    },
+    {
+      "name": "발로나초코칩 치즈케이크",
+      "price": "8500",
+      "description": "꾸덕하고 맛있는 발로나베이스 치즈케이크 위 짭조름한 감자칩 단짠단짠 조합!",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231031_130/1698688021590augh7_JPEG/KakaoTalk_20231031_023926382_01.jpg",
+        "https://ldb-phinf.pstatic.net/20230716_63/1689517068852hLDwm_JPEG/DSCF3152.JPG",
+        "https://ldb-phinf.pstatic.net/20230716_219/1689517055435N9PcO_JPEG/DSCF3266.JPG",
+        "https://ldb-phinf.pstatic.net/20230319_53/1679164712587qHjSc_JPEG/KakaoTalk_20230319_025026424_15.jpg",
+        "https://ldb-phinf.pstatic.net/20230319_186/1679164706358KNopF_JPEG/KakaoTalk_20230319_025026424_17.jpg"
+      ]
+    },
+    {
+      "name": "옥수수크럼블 치즈케이크",
+      "price": "8500",
+      "description": "강릉초당옥수수로 만든 달달고소 톡터지는 매력인 마약옥수수치즈케이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231031_144/1698687922264Sd0br_JPEG/KakaoTalk_20231031_023926382_03.jpg"
+      ]
+    },
+    {
+      "name": "애플시나몬크럼블 치즈케이크",
+      "price": "8500",
+      "description": "아삭한 사과 + 애플잼 + 시나몬 크럼블의 다채로운 식감과 플레인 치즈케이크의 완벽한 조화",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231031_21/1698687971676MwIOI_JPEG/KakaoTalk_20231031_023926382_02.jpg",
+        "https://ldb-phinf.pstatic.net/20230716_10/1689517406956RPcED_JPEG/DSCF3193.JPG",
+        "https://ldb-phinf.pstatic.net/20230618_257/1687073107650CCqpr_JPEG/9990DBBF-BE94-4114-A15E-54C555D42F81.jpeg",
+        "https://ldb-phinf.pstatic.net/20230618_222/16870731041296qKJT_JPEG/BE200708-97FA-4C1C-ABA7-07328D811B6A.jpeg",
+        "https://ldb-phinf.pstatic.net/20230618_171/1687073087285SMygj_JPEG/2084DAC6-1626-4AD6-93BC-301CDA934611.jpeg"
+      ]
+    },
+    {
+      "name": "RUF Latte 러프라떼",
+      "price": "6000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220207_16/1644161147794oCcRB_JPEG/dd.jpg",
+        "https://ldb-phinf.pstatic.net/20211115_258/16369624918534Q5m9_JPEG/KakaoTalk_20211115_164734172.jpg"
+      ]
+    },
+    {
+      "name": "러프포레스트",
+      "price": "6500",
+      "description": "말차 + 발로나초코 환상적인 조합의 초코나무숲느낌의 음료 위 크림과 크럼블 조합",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230716_166/1689516760572rSaYz_JPEG/DSCF3333.JPG",
+        "https://ldb-phinf.pstatic.net/20230104_221/1672758576930FbzzD_PNG/2.PNG"
+      ]
+    },
+    {
+      "name": "러프데이 에이드",
+      "price": "6500",
+      "description": "직접 담근 청으로 만든 수제매실청 에이드 상큼하고 톡쏘는 매력적인 에이드입니다",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230716_10/1689516748077YCUF8_JPEG/DSCF3316.JPG",
+        "https://ldb-phinf.pstatic.net/20220514_9/1652461211980QTz6g_JPEG/KakaoTalk_20220514_015921829_02.jpg"
+      ]
+    },
+    {
+      "name": "아이스크림 3종",
+      "price": "6500",
+      "description": "쑥 , 말차 , 발로나",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220528_146/1653667070525FqSvY_JPEG/123.jpg"
+      ]
+    },
+    {
+      "name": "말차라떼",
+      "price": "5500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220207_8/16441611308420NaUW_JPEG/ac.jpg"
+      ]
+    },
+    {
+      "name": "쑥 라떼",
+      "price": "5500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20211129_235/1638112805303lwRlH_JPEG/KakaoTalk_20211122_225913822_02.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20240220_94/1708359415322f6v2d_JPEG/KakaoTalk_20240219_121307746_24.jpg",
+    "https://ldb-phinf.pstatic.net/20240506_298/1714928120113Re1Rn_JPEG/KakaoTalk_20240506_011552545.jpg",
+    "https://ldb-phinf.pstatic.net/20240527_90/17167455547760XksT_JPEG/2.jpg",
+    "https://ldb-phinf.pstatic.net/20231031_151/1698688236988OwKQf_JPEG/KakaoTalk_20231031_023938309_02.jpg",
+    "https://ldb-phinf.pstatic.net/20230910_148/1694347580766DGCrk_JPEG/KakaoTalk_Photo_2023-09-10-20-09-30_001.jpeg",
+    "https://ldb-phinf.pstatic.net/20231031_146/1698688220139D3JlW_JPEG/KakaoTalk_20231031_023926382_10.jpg",
+    "https://ldb-phinf.pstatic.net/20211115_56/16369578053049OVmi_JPEG/KakaoTalk_20211115_151031492_03.jpg",
+    "https://ldb-phinf.pstatic.net/20211227_126/1640541074651s9LRS_JPEG/KakaoTalk_20211215_013638899_02.jpg",
+    "https://ldb-phinf.pstatic.net/20230611_103/1686417267426UdsNl_JPEG/KakaoTalk_20230414_054802395_05.jpg",
+    "https://ldb-phinf.pstatic.net/20230319_129/1679164903480KIn37_JPEG/KakaoTalk_20230319_025026424_02.jpg",
+    "https://ldb-phinf.pstatic.net/20231031_97/1698688208142bFyA5_JPEG/KakaoTalk_20231031_023926382_08.jpg",
+    "https://ldb-phinf.pstatic.net/20230319_147/1679164903469nKfOq_JPEG/KakaoTalk_20230319_025026424_04.jpg",
+    "https://ldb-phinf.pstatic.net/20230319_288/1679164903416mtX67_JPEG/KakaoTalk_20230319_025026424_05.jpg",
+    "https://ldb-phinf.pstatic.net/20230319_154/1679164903456rdmyC_JPEG/KakaoTalk_20230319_025026424_15.jpg",
+    "https://ldb-phinf.pstatic.net/20230319_16/1679164903793QlFlO_JPEG/KakaoTalk_20230319_025026424_19.jpg",
+    "https://ldb-phinf.pstatic.net/20231202_164/1701457023401bK9Sp_JPEG/KakaoTalk_20231202_021436150_16.jpg",
+    "https://ldb-phinf.pstatic.net/20240116_180/17054162332875h7X3_JPEG/KakaoTalk_20240116_234209702_03.jpg",
+    "https://ldb-phinf.pstatic.net/20231208_178/17020003479433sd0K_JPEG/KakaoTalk_20231208_104133201_17.jpg",
+    "https://ldb-phinf.pstatic.net/20231031_29/1698688196856dqWmz_JPEG/KakaoTalk_20231031_023926382_06.jpg",
+    "https://ldb-phinf.pstatic.net/20230716_187/1689516662482A6y4D_JPEG/KakaoTalk_20230716_230247571_01.jpg",
+    "https://ldb-phinf.pstatic.net/20230319_8/16791649034843DXD3_JPEG/KakaoTalk_20230319_025026424.jpg",
+    "https://ldb-phinf.pstatic.net/20231202_10/1701457070965fHIhQ_JPEG/KakaoTalk_20231202_021532359_11.jpg",
+    "https://ldb-phinf.pstatic.net/20211115_93/1636957816838znY2m_JPEG/KakaoTalk_20211115_151031492_05.jpg",
+    "https://ldb-phinf.pstatic.net/20220324_221/16481325167751TrgD_JPEG/KakaoTalk_20220324_232931417.jpg",
+    "https://ldb-phinf.pstatic.net/20220324_126/1648132516748vkbRN_JPEG/KakaoTalk_20220324_232931417_01.jpg",
+    "https://ldb-phinf.pstatic.net/20211227_98/1640541109061jIanH_JPEG/KakaoTalk_20211227_024503716.jpg"
+  ]
+}

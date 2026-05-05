@@ -1,0 +1,472 @@
+{
+  "id": "1279533374",
+  "name": "더카페 서울숲SKV1점",
+  "category": "카페",
+  "micro_review": null,
+  "road_address": "서울 성동구 성수일로8길 5 A동 1층 111호",
+  "address": "서울 성동구 성수동2가 284-55",
+  "lat": "127.0512989",
+  "lon": "37.5471451",
+  "business_hours": [
+    {
+      "day": "토",
+      "start": "09:00",
+      "end": "15:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "일",
+      "start": null,
+      "end": null,
+      "breakHours": null,
+      "description": "정기휴무 (매주 일요일)",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": "07:40",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": "07:40",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "수",
+      "start": "07:40",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "목",
+      "start": "07:40",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "금",
+      "start": "07:40",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": null,
+  "url": "https://thecaffeopen.com/",
+  "convenience": {
+    "주차": true,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": true,
+    "단체 이용 가능": true,
+    "대기공간": false,
+    "간편결제": true,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": true,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "이랜드이츠에서 운영하는 '더카페'는 20년 업력의 브랜드로 최고의 커피 전문가들이 최상의 커피를 만듭니다.\n\n(1) 최고의 커피를 만드는 전문가들\n로스팅 팩토리 직영 운영하며, 더카페 소속 국제공인 Q-grader들이 엄선한 최상의 원두로 로스팅합니다.\n\n(2) 산지 직수입 최상의 원두\n커피 생두를 브라질, 에티오피아 등의 산지에서 직수입하고, 100% 아라비카 원두만을 고집하는 커피에 대한 원칙이 있습니다.\n\n(3) 꼭 먹어야 하는 시크릿라떼\n누적 1백만잔 이상 판매된 더카페의 시그니처 음료 '시크릿라떼'는 우유와 크림의 황금 블렌딩을 연구해 깊은 맛을 완성했습니다.",
+  "Information_facilitie": [
+    "생일 혜택",
+    "포장",
+    "무선 인터넷",
+    "배달",
+    "단체 이용 가능",
+    "남/녀 화장실 구분",
+    "화장실 휠체어 이용가능",
+    "출입구 휠체어 이용가능",
+    "좌석 휠체어 이용가능",
+    "장애인 주차구역"
+  ],
+  "parking_info": {
+    "__typename": "InformationBasicParking",
+    "isFree": false,
+    "normalFeeDescription": "최초 30분 1,500원",
+    "extraFeeDescription": "추가 요금 30분당 1,500원, 최대 70,000원"
+  },
+  "payment_info": [
+    "제로페이",
+    "간편결제"
+  ],
+  "menu": [
+    {
+      "name": "아메리카노",
+      "price": "2500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220208_169/1644281381174ov2VK_PNG/IMG_0743.png"
+      ]
+    },
+    {
+      "name": "시크릿라떼",
+      "price": "3500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220208_212/16442814970188ht1o_JPEG/%C0%BD%B7%E1_%BD%C3%C5%A9%B8%B4_%B6%F3%B6%BC.jpg"
+      ]
+    },
+    {
+      "name": "시크릿딸기라떼",
+      "price": "3900",
+      "description": "아이스만 가능 (Only Ice)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220208_111/1644282885986OOaVd_PNG/IMG_0727.png"
+      ]
+    },
+    {
+      "name": "말차 콜드브루 라떼",
+      "price": "3900",
+      "description": "말차의 풍미와 콜드브루가 조화를 이루어 부드러운 단맛을 즐길 수 있는 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251023_290/17611813622645OJod_PNG/KakaoTalk_20251016_181915629_01.png"
+      ]
+    },
+    {
+      "name": "핑크솔트 블랙 라떼",
+      "price": "3900",
+      "description": "아메리카노 위에 달콤한 바닐라 크림과 핑크솔트를 올려 '단짠'의 매력을 느낄 수 있는 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251023_85/17611811291040Xotf_PNG/KakaoTalk_20251016_181915629.png"
+      ]
+    },
+    {
+      "name": "옥수수 라떼",
+      "price": "3900",
+      "description": "고소한 옥수수 풍미와 우유가 어우러져 편안하고 달콤하게 즐길 수 있는 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251023_19/1761181419703wQSV6_PNG/KakaoTalk_20251016_181915629_03.png",
+        "https://ldb-phinf.pstatic.net/20251023_189/1761181416774kI7QS_PNG/KakaoTalk_20251016_181915629_02.png"
+      ]
+    },
+    {
+      "name": "오트우유 변경",
+      "price": "500",
+      "description": "우유를 오트우유로 변경해서 음료를 만들어 드립니다.",
+      "images": []
+    },
+    {
+      "name": "콜드브루 디카페인 변경",
+      "price": "500",
+      "description": "콜드브루 음료를 디카페인으로 변경해드립니다.",
+      "images": []
+    },
+    {
+      "name": "원두 디카페인 변경",
+      "price": "1000",
+      "description": "에스프레소 음료를 디카페인으로 변경해드립니다.",
+      "images": []
+    },
+    {
+      "name": "버블시크릿딸기라떼",
+      "price": "4500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241210_125/1733813101556EpbT3_PNG/1000023082.png"
+      ]
+    },
+    {
+      "name": "오곡미숫라떼",
+      "price": "3900",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241211_220/1733870541296EHefP_JPEG/%BF%C0%B0%EE%B9%CC%BC%FD.jpg"
+      ]
+    },
+    {
+      "name": "콜드브루 시크릿라떼",
+      "price": "4500",
+      "description": "아이스만 가능",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241210_43/1733796381668GNREl_PNG/1000023076.png"
+      ]
+    },
+    {
+      "name": "콜드브루 연유라떼",
+      "price": "4500",
+      "description": "아이스만 가능",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241210_268/1733796399109397q1_PNG/1000023078.png"
+      ]
+    },
+    {
+      "name": "콜드브루 라떼",
+      "price": "3900",
+      "description": "아이스만 가능",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241210_284/1733796417336IEkrR_PNG/1000023074.png"
+      ]
+    },
+    {
+      "name": "콜드브루 블랙",
+      "price": "3500",
+      "description": "아이스만 가능",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241210_280/17338131383469PHpn_PNG/1000023032.png"
+      ]
+    },
+    {
+      "name": "제로바닐라카페라떼",
+      "price": "3900",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241210_196/1733796556794fSQkd_PNG/1000023063.png"
+      ]
+    },
+    {
+      "name": "제로복숭아티스무디",
+      "price": "3900",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "제로복숭아아이스티",
+      "price": "2900",
+      "description": "아이스만 가능",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241212_289/17339692468860OmqF_PNG/1000023061.png"
+      ]
+    },
+    {
+      "name": "헤이즐넛아메리카노",
+      "price": "2900",
+      "description": "아메리카노에 헤이즐넛 시럽 추가",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241210_274/1733796570292l0LOY_PNG/1000023027.png"
+      ]
+    },
+    {
+      "name": "바닐라아메리카노",
+      "price": "2900",
+      "description": "아메리카노에 바닐라시럽 추가",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241210_277/1733796592475VETTK_PNG/1000023027.png"
+      ]
+    },
+    {
+      "name": "블렌딩티",
+      "price": "3500",
+      "description": "레몬차/자몽차/유자차",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241211_287/17338705745807aqST_PNG/KakaoTalk_20241210_080105799.png"
+      ]
+    },
+    {
+      "name": "블랙티/그린티",
+      "price": "3500",
+      "description": "잉글리시브랙퍼스트/얼그레이/자스민/작설",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241211_293/1733870668079fMMFb_JPEG/%BE%F3%B1%D7%B7%B9%C0%CC.jpg"
+      ]
+    },
+    {
+      "name": "프레스치노",
+      "price": "4500",
+      "description": "바닐라에스프레소/자바칩/그린티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241211_41/1733870596783eCfbI_PNG/KakaoTalk_20241210_080059861_07.png"
+      ]
+    },
+    {
+      "name": "밀크쉐이크",
+      "price": "3900",
+      "description": "밀크/초코/딸기/오레오",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241210_134/1733796614986aXQMy_PNG/1000023024.png"
+      ]
+    },
+    {
+      "name": "퐁쉐이크",
+      "price": "4500",
+      "description": "오곡/초코/딸기/오레오",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241211_172/1733870621746OERIg_PNG/KakaoTalk_20241210_080105799_16.png"
+      ]
+    },
+    {
+      "name": "카페라떼",
+      "price": "3500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220208_199/16442816872541Tx5K_JPEG/%C0%BD%B7%E1_%C4%AB%C6%E4%B6%F3%B6%BC.jpg"
+      ]
+    },
+    {
+      "name": "시크릿바닐라라떼",
+      "price": "3900",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220208_177/1644281613521c1ysm_JPEG/%C0%BD%B7%E1_%BD%C3%C5%A9%B8%B4_%B9%D9%B4%D2%B6%F3_%B6%F3%B6%BC.jpg"
+      ]
+    },
+    {
+      "name": "헤이즐넛라떼",
+      "price": "3900",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220208_77/1644283236486sGaL7_JPEG/%C0%BD%B7%E1_%C7%EC%C0%CC%C1%F1%B3%D3_%B6%F3%B6%BC.jpg"
+      ]
+    },
+    {
+      "name": "카라멜마끼아또",
+      "price": "3900",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220208_107/1644283544599CTrEg_PNG/IMG_0778.png"
+      ]
+    },
+    {
+      "name": "콜드브루 아인슈페너",
+      "price": "4500",
+      "description": "아이스만 가능",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220208_276/16442842039179LIhC_JPEG/%C0%BD%B7%E1_%BD%C3%C5%A9%B8%B4_%BE%C6%C0%CE%BD%B4%C6%E4%B3%CA.jpg"
+      ]
+    },
+    {
+      "name": "그린티라떼",
+      "price": "3900",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220208_251/1644283443346tTiuI_PNG/IMG_0722.png"
+      ]
+    },
+    {
+      "name": "초코라떼",
+      "price": "3900",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220208_112/16442835063563CEPH_PNG/IMG_0775.png"
+      ]
+    },
+    {
+      "name": "과일주스",
+      "price": "4500",
+      "description": "딸기/망고/딸기바나나/망고바나나",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220208_47/1644284496674nRADF_PNG/IMG_0661.png"
+      ]
+    },
+    {
+      "name": "과일스무디",
+      "price": "4500",
+      "description": "딸기/청포도/유자",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220208_272/1644284422991cdc2W_JPEG/%C0%BD%B7%E1_%B0%FA%C0%CF_%BD%BA%B9%AB%B5%F0.jpg"
+      ]
+    },
+    {
+      "name": "플레인요거트스무디",
+      "price": "3900",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220208_190/1644284091100e0bRI_PNG/IMG_0697.png"
+      ]
+    },
+    {
+      "name": "과일요거트스무디",
+      "price": "4500",
+      "description": "딸기/블루베리/더블망고",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220208_128/1644282929035aNOrw_PNG/IMG_0693.png"
+      ]
+    },
+    {
+      "name": "버블라떼",
+      "price": "4500",
+      "description": "타로/초코/그린티/밀크티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220208_154/1644283873680U7nRu_PNG/IMG_0709.png"
+      ]
+    },
+    {
+      "name": "제주청귤한라봉티",
+      "price": "4500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220208_28/1644283384965Yzz0l_JPEG/%C0%BD%B7%E1_%C1%A6%C1%D6_%C3%BB%B1%D6_%C7%D1%B6%F3%BA%C0%C6%BC.jpg"
+      ]
+    },
+    {
+      "name": "자몽머스켓티",
+      "price": "4500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220208_287/16442829826364Ds9n_JPEG/%C0%BD%B7%E1_%BB%FD%C0%DA%B8%F9_%B8%D3%BD%BA%C4%B9%C6%BC.jpg"
+      ]
+    },
+    {
+      "name": "자몽허니블랙티",
+      "price": "3900",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "스파클링 에이드",
+      "price": "3900",
+      "description": "자몽/레몬/유자",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220208_109/1644284622078RLJjc_PNG/IMG_0677.png"
+      ]
+    },
+    {
+      "name": "오미자유자티",
+      "price": "4500",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "허브티",
+      "price": "3500",
+      "description": "캐모마일/페퍼민트/루이보스/히비스커스",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220208_268/1644283652184hUxdK_PNG/IMG_0612.png"
+      ]
+    },
+    {
+      "name": "복숭아아이스티",
+      "price": "2900",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220208_199/1644283013971xkqvX_JPEG/%C0%BD%B7%E1_%BA%B9%BC%FE%BE%C6_%BE%C6%C0%CC%BD%BA%C6%BC.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20251016_90/1760575021242BDLSR_JPEG/25_09_%B4%F5%C4%AB%C6%E4_%B0%A1%C0%BB%BD%C3%C1%F0_%C0%CE%BD%BA%C5%B8%B1%D7%B7%A5_%B4%F5%C4%AB%C6%E4_%B0%A1%C0%BB%BD%C3%C1%F0_%C0%CE%BD%BA%C5%B8%B1%D7%B7%A5%28%C0%FC%C3%BC%29.jpg",
+    "https://ldb-phinf.pstatic.net/20250610_230/17495189523153o0CE_JPEG/25_05_%B4%F5%C4%AB%C6%E4_%BE%D6%BD%B6%B8%AE_%B4%F5%C4%AB%C6%E4_%BF%A9%B8%A7%BD%C3%C1%F0_%BE%D6%BD%B6%B8%AE_%B8%DE%C0%CE.jpg",
+    "https://ldb-phinf.pstatic.net/20250610_5/1749519059198kiW9Q_JPEG/25_04_%B4%F5%C4%AB%C6%E4_%B6%F3%B6%BC_%B8%CA%C7%CE_%B1%A4%B0%ED%B9%B0_%BF%C2%B6%F3%C0%CE_1080_1070.jpg",
+    "https://ldb-phinf.pstatic.net/20250313_16/17418259856944pxGl_PNG/25_03_%B4%F5%C4%AB%C6%E4_%C1%A6%B7%CE%BD%C3%C1%F0_%BE%D6%BD%B6%B8%AE%28%BC%F6%C1%A4%29_%B4%F5%C4%AB%C6%E4_%C1%A6%B7%CE%BD%C3%C1%F0_%BE%D6%BD%B6%B8%AE_%B8%DE%C0%CE%28%BC%F6%C1%A4%29.png",
+    "https://ldb-phinf.pstatic.net/20240708_262/1720399978508Jcokf_JPEG/24_07_%B4%F5%C4%AB%C6%E4_%BF%A9%B8%A7%BD%C3%C1%F0_%C0%CE%BD%BA%C5%B8_1080_1080-01.jpg",
+    "https://ldb-phinf.pstatic.net/20250610_100/17495191560069Wk4w_PNG/24_1004_%BF%F8%B5%CE_%B1%A4%B0%ED%B9%B0_1920_1080-3_-_%BA%B9%BB%E7%BA%BB.png",
+    "https://ldb-phinf.pstatic.net/20240423_123/1713833240373EMPY8_JPEG/%B4%F5%C4%AB%C6%E4_2.jpg",
+    "https://ldb-phinf.pstatic.net/20240422_68/1713778669941Q9FqM_JPEG/%B4%F5%BA%ED%B8%C1%B0%ED_%B9%E8%B4%DE.jpg"
+  ]
+}

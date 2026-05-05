@@ -1,0 +1,448 @@
+{
+  "id": "1692380349",
+  "name": "모피크",
+  "category": "카페",
+  "micro_review": [
+    "얼그레이 초코가 선사하는 깊은 달콤함"
+  ],
+  "road_address": "서울 성동구 왕십리로8길 18-1 1층",
+  "address": "서울 성동구 성수동1가 656-1085",
+  "lat": "127.0466902",
+  "lon": "37.5459976",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "11:00",
+      "end": "23:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "토",
+      "start": "11:00",
+      "end": "23:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "일",
+      "start": "11:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": "11:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": "11:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "수",
+      "start": "11:00",
+      "end": "23:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "목",
+      "start": "11:00",
+      "end": "23:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1405-1010",
+  "url": "https://www.instagram.com/mophiq.coffee?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": true,
+    "단체 이용 가능": true,
+    "대기공간": false,
+    "간편결제": true,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": true,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": null,
+  "Information_facilitie": [
+    "유기농 메뉴",
+    "테이크아웃 할인",
+    "단체 이용 가능",
+    "포장",
+    "무선 인터넷",
+    "남/녀 화장실 구분",
+    "배달",
+    "화장실 휠체어 이용가능",
+    "출입구 휠체어 이용가능",
+    "좌석 휠체어 이용가능",
+    "장애인 주차구역"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "지역화폐 (카드형)",
+    "지역화폐 (모바일형)",
+    "제로페이",
+    "네이버페이",
+    "간편결제"
+  ],
+  "menu": [
+    {
+      "name": "피크 크림라떼",
+      "price": "6500",
+      "description": "고소한 토피넛 베이스와 달콤한 크림이 올라가는 모피크의 크림라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250327_130/1743057441239BPU7m_JPEG/%C7%C7%C5%A9%B6%F3%B6%BC_%B9%E8%B0%E6%BF%EB_.jpeg"
+      ]
+    },
+    {
+      "name": "밤말차 라떼",
+      "price": "7900",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250327_204/1743059668352kFcQI_JPEG/%C0%CC%B9%CC%C1%F6.jpeg"
+      ]
+    },
+    {
+      "name": "딸기 생크림케익",
+      "price": "10300",
+      "description": "동물성 생크림100% 생딸기 생크림 케이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251126_217/17641458395358IdHo_JPEG/%B5%FE%B1%E2%BB%FD%C5%A9%B8%B2--%B9%E8%B9%CE.jpg"
+      ]
+    },
+    {
+      "name": "두바이 브라우니",
+      "price": "10600",
+      "description": "수제 피스타치오 페이스트와 겉바속촉 브라우니 - 수량 부족으로 한정 판매중입니다.",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250327_180/1743057648973XqFzJ_JPEG/IMG_2202.jpeg"
+      ]
+    },
+    {
+      "name": "아메리카노",
+      "price": "5000",
+      "description": "고소/ 산미/ 디카페인(+1.0)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240619_74/1718788942298yajBQ_JPEG/KakaoTalk_20240611_100221268_03.jpg"
+      ]
+    },
+    {
+      "name": "머치스윗티",
+      "price": "7200",
+      "description": "카모마일 베이스의 리치향이 은은하게 나는 향긋한 티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240619_209/1718799144868KvXzF_JPEG/KakaoTalk_20240611_100221268.jpg"
+      ]
+    },
+    {
+      "name": "버터스콘",
+      "price": "4200",
+      "description": "이즈니 버터 스콘",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250908_98/1757317638182Q0qr2_JPEG/KakaoTalk_20250908_164606009_02.jpg"
+      ]
+    },
+    {
+      "name": "말차 마블 파운드",
+      "price": "5800",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250908_69/17573162589735itTM_JPEG/KakaoTalk_20250819_192410157_12.jpg"
+      ]
+    },
+    {
+      "name": "시나몬 카푸치노(Hot Only)",
+      "price": "6500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240619_163/1718799076356p5S8i_JPEG/KakaoTalk_20240611_100221268_12.jpg"
+      ]
+    },
+    {
+      "name": "두바이2개,휘낭시에 3개 세트",
+      "price": "32000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251119_134/1763545376880un8Bc_JPEG/KakaoTalk_20251110_123348633.jpg"
+      ]
+    },
+    {
+      "name": "휘낭시에 6개 선물 세트",
+      "price": "24000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251119_211/1763545405888uMbEi_JPEG/KakaoTalk_20251110_123348633_02.jpg",
+        "https://ldb-phinf.pstatic.net/20251119_144/1763545400060cCzht_JPEG/KakaoTalk_20251110_123348633_01.jpg"
+      ]
+    },
+    {
+      "name": "오몽에이드",
+      "price": "7800",
+      "description": "오미자와 자몽이 들어간 상큼한 에이드",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250327_49/1743061288106lSgLn_JPEG/IMG_4845.JPG"
+      ]
+    },
+    {
+      "name": "이즈니 버터 휘낭시에",
+      "price": "4000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251119_182/1763545307207oPvpa_JPEG/KakaoTalk_20251110_123348633_01.jpg"
+      ]
+    },
+    {
+      "name": "쑥 크럼블 휘낭시에",
+      "price": "4200",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251119_259/1763545336503WoXX7_JPEG/KakaoTalk_20251110_123348633_01.jpg"
+      ]
+    },
+    {
+      "name": "아몬드초코 휘낭시에",
+      "price": "4200",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251119_13/1763545226347scT99_JPEG/KakaoTalk_20251110_123348633_01.jpg"
+      ]
+    },
+    {
+      "name": "고르곤졸라애플 휘낭시에",
+      "price": "4500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251119_68/1763545200651GmObW_JPEG/KakaoTalk_20251110_123348633_01.jpg"
+      ]
+    },
+    {
+      "name": "레몬파운드",
+      "price": "4500",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "피크 초콜릿 쿠키",
+      "price": "4500",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "블루베리 크림치즈 크럼블",
+      "price": "5800",
+      "description": "*아이스크림 추가 +1.5",
+      "images": []
+    },
+    {
+      "name": "파마산 바스크 치즈케이크",
+      "price": "7500",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "카페라떼",
+      "price": "6000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240619_137/1718789758450gM8vT_JPEG/KakaoTalk_20240611_100221268_02.jpg"
+      ]
+    },
+    {
+      "name": "플랫화이트",
+      "price": "5500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240619_73/1718798972996C5FqT_JPEG/KakaoTalk_20240611_100221268_13.jpg"
+      ]
+    },
+    {
+      "name": "바닐라빈라떼",
+      "price": "6500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240619_19/1718799027889vgz19_JPEG/KakaoTalk_20240611_100221268_11.jpg"
+      ]
+    },
+    {
+      "name": "애플진저에이드",
+      "price": "6800",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240619_113/1718799154746rgppd_JPEG/KakaoTalk_20240611_100221268_04.jpg"
+      ]
+    },
+    {
+      "name": "오몽티",
+      "price": "7000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240619_19/1718799175376t7XL1_JPEG/KakaoTalk_20240611_100221268_08.jpg"
+      ]
+    },
+    {
+      "name": "밀크티",
+      "price": "7000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240619_244/1718799189626UdNEw_JPEG/KakaoTalk_20240611_100221268_01.jpg"
+      ]
+    },
+    {
+      "name": "크림초콜릿밀크",
+      "price": "7500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240619_226/1718799232217SQabj_JPEG/KakaoTalk_20240611_100221268_09.jpg"
+      ]
+    },
+    {
+      "name": "얼그레이초코",
+      "price": "7800",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240722_246/17216247253695VOhb_JPEG/KakaoTalk_20240611_100221268_05.jpg"
+      ]
+    },
+    {
+      "name": "화이트템플",
+      "price": "6800",
+      "description": "A.C.퍼치스",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240619_189/1718799246988YL0Uz_JPEG/KakaoTalk_20240611_100226762_05.jpg"
+      ]
+    },
+    {
+      "name": "그린자스민트",
+      "price": "6500",
+      "description": "A.C.퍼치스",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240619_26/1718799256572rP4oF_JPEG/KakaoTalk_20240611_100226762_01.jpg"
+      ]
+    },
+    {
+      "name": "그린루바브",
+      "price": "6500",
+      "description": "A.C.퍼치스",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240619_14/1718799263984Gp5bc_JPEG/KakaoTalk_20240611_100226762.jpg"
+      ]
+    },
+    {
+      "name": "루이보스카라멜",
+      "price": "6800",
+      "description": "A.C.퍼치스",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240619_146/1718799272660TExA0_JPEG/KakaoTalk_20240611_100226762_02.jpg"
+      ]
+    },
+    {
+      "name": "쿨허벌",
+      "price": "6800",
+      "description": "A.C.퍼치스",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240619_59/17187992832495BLio_JPEG/KakaoTalk_20240611_100226762_04.jpg"
+      ]
+    },
+    {
+      "name": "얼그레이",
+      "price": "6500",
+      "description": "A.C.퍼치스",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240619_44/1718799293822fNOAd_JPEG/KakaoTalk_20240611_100226762_03.jpg"
+      ]
+    },
+    {
+      "name": "호박팥차",
+      "price": "6500",
+      "description": "붓기에 좋은 말린 호박팥차",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240619_286/1718799871833MyU34_JPEG/KakaoTalk_20240611_100221268_16.jpg"
+      ]
+    },
+    {
+      "name": "카모마일",
+      "price": "6500",
+      "description": "클리퍼 유기농",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240619_163/1718799879320FsBMv_JPEG/KakaoTalk_20240611_100221268_10.jpg"
+      ]
+    },
+    {
+      "name": "애플 모스코뮬",
+      "price": "13000",
+      "description": "시그니처 칵테일",
+      "images": []
+    },
+    {
+      "name": "라임 모히또",
+      "price": "12000",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "오늘의 위스키 하이볼",
+      "price": "10000",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "포트와인 하이볼",
+      "price": "11000",
+      "description": "",
+      "images": []
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20240708_171/17204303309145V5BL_JPEG/KakaoTalk_20240708_174252464.jpg",
+    "https://ldb-phinf.pstatic.net/20250327_264/1743056534805W3Wbe_JPEG/IMG_7962.jpeg",
+    "https://ldb-phinf.pstatic.net/20250911_216/1757592995801QDlBA_JPEG/%A4%BA.jpeg",
+    "https://ldb-phinf.pstatic.net/20240708_281/1720430331344iQK9l_JPEG/KakaoTalk_20240528_202116814.jpg",
+    "https://ldb-phinf.pstatic.net/20240708_229/1720430330926qjJRa_JPEG/KakaoTalk_20240708_173956602_05.jpg",
+    "https://ldb-phinf.pstatic.net/20240708_27/1720430330998xQzfs_JPEG/KakaoTalk_20240708_173956602_06.jpg",
+    "https://ldb-phinf.pstatic.net/20240418_28/1713450406963UwTgJ_JPEG/%C4%AB%B3%EE%B8%AE-5%C1%BE.jpg",
+    "https://ldb-phinf.pstatic.net/20240426_139/1714120490807vausI_JPEG/IMG_8277.jpeg",
+    "https://ldb-phinf.pstatic.net/20240418_230/1713450377842KoLBa_JPEG/KakaoTalk_20240418_232600933.jpg",
+    "https://ldb-phinf.pstatic.net/20240418_200/1713450408160JBFnz_JPEG/KakaoTalk_20240417_191846128.jpg",
+    "https://ldb-phinf.pstatic.net/20240426_21/1714120490980F2yc9_JPEG/IMG_8589.jpeg",
+    "https://ldb-phinf.pstatic.net/20240418_249/17134503390437AJr5_JPEG/KakaoTalk_20240418_232455035_01.jpg",
+    "https://ldb-phinf.pstatic.net/20240418_109/1713450340034JzxLJ_JPEG/KakaoTalk_20240418_232455035_02.jpg",
+    "https://ldb-phinf.pstatic.net/20240418_29/1713450529218VMpcN_JPEG/KakaoTalk_20240418_232814281.jpg",
+    "https://ldb-phinf.pstatic.net/20240418_84/1713450528232YASfP_JPEG/KakaoTalk_20240418_232814281_03.jpg",
+    "https://ldb-phinf.pstatic.net/20240418_64/1713450528315AHAj3_JPEG/KakaoTalk_20240418_232814281_02.jpg",
+    "https://ldb-phinf.pstatic.net/20240418_14/1713450528275F2cKy_JPEG/KakaoTalk_20240418_232814281_04.jpg",
+    "https://ldb-phinf.pstatic.net/20240418_18/1713450528286kfPwJ_JPEG/KakaoTalk_20240418_232814281_05.jpg",
+    "https://ldb-phinf.pstatic.net/20240418_187/1713450529091LmGFB_JPEG/KakaoTalk_20240418_232814281_06.jpg"
+  ]
+}

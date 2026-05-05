@@ -1,0 +1,194 @@
+{
+  "id": "1514287926",
+  "name": "메가MGC커피 뚝섬역점",
+  "category": "카페",
+  "micro_review": null,
+  "road_address": "서울 성동구 상원길 38 1층",
+  "address": "서울 성동구 성수동1가 14-29",
+  "lat": "127.0487188",
+  "lon": "37.547404",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "08:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:50"
+        }
+      ]
+    },
+    {
+      "day": "토",
+      "start": "09:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:50"
+        }
+      ]
+    },
+    {
+      "day": "일",
+      "start": "09:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:50"
+        }
+      ]
+    },
+    {
+      "day": "월",
+      "start": "08:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:50"
+        }
+      ]
+    },
+    {
+      "day": "화",
+      "start": "08:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:50"
+        }
+      ]
+    },
+    {
+      "day": "수",
+      "start": "08:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:50"
+        }
+      ]
+    },
+    {
+      "day": "목(12/25)",
+      "start": "09:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": "성탄절",
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1323-6888",
+  "url": null,
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": false,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": false,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "안녕하세요. 메가엠지씨커피 뚝섬역점입니다.",
+  "Information_facilitie": [],
+  "parking_info": null,
+  "payment_info": [
+    "네이버페이"
+  ],
+  "menu": [
+    {
+      "name": "아이스아메리카노",
+      "price": "2000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20200922_64/1600751868994nj3dR_JPEG/iQxpvTO8UFoxVHG_Iw7bjLuM.jpg"
+      ]
+    },
+    {
+      "name": "플레인 퐁크러쉬",
+      "price": "3900",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20200922_105/1600751963195vF8PD_JPEG/QcfOLggFjousZZaNGfG5Mp1U.jpg"
+      ]
+    },
+    {
+      "name": "아메리카노 핫",
+      "price": "1500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20200922_118/16007520394182A4JP_PNG/nLsRy7_pZAl0PlGlU7dtiXWK.png"
+      ]
+    },
+    {
+      "name": "쿠키프라페",
+      "price": "3900",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20200922_154/16007520852574vFSu_JPEG/MCpsgp6dfyoyq1q3PLk1XcK0.jpg"
+      ]
+    },
+    {
+      "name": "딸기퐁크러쉬",
+      "price": "3900",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20200922_86/1600752171676lWMCj_JPEG/L-03_fPOMiyINihEFoSl7Ggs.jpg"
+      ]
+    },
+    {
+      "name": "바나나퐁크러쉬",
+      "price": "3900",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20200922_112/1600752198583wN93J_JPEG/rTFZNkQ03uNFA0CUcn5UFbNt.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20221202_243/16699089344751A3BM_JPEG/1669083060892.jpg",
+    "https://ldb-phinf.pstatic.net/20210102_135/1609587311444r4kjw_JPEG/AgMWk6JpLUGHZrhacam0q72s.jpg",
+    "https://ldb-phinf.pstatic.net/20210102_82/1609587333756gydUa_JPEG/v_6aHYBS0gL1vaiY_JvPTLFL.jpg",
+    "https://ldb-phinf.pstatic.net/20210102_161/1609587411384J3yH5_JPEG/dL67LGTUQwonvtDAg6o3s13m.jpg"
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "id": "1215237779",
+  "name": "Pauline CoffeeBar",
+  "category": "카페,디저트",
+  "micro_review": [
+    "풍성한 크레마가 전하는 진한 향"
+  ],
+  "road_address": "서울 성동구 연무장3길 13 폴린커피바",
+  "address": "서울 성동구 성수동2가 301-8",
+  "lat": "127.0516694",
+  "lon": "37.5449176",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "11:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "토",
+      "start": "12:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "일",
+      "start": "12:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": "11:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": "11:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "수",
+      "start": "11:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "목(12/25)",
+      "start": "12:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": "성탄절",
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1442-4451",
+  "url": "https://www.instagram.com/pauline_coffeebar/",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": true,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": true,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "성수역에 위치한 캐주얼 에스프레소바입니다.\n부담없이 커피를 즐길 수 있는 편안한 공간을 기대해주세요 :)\n\n바에 앉아 에스프레소를 마시거나, 공원을 바라보며 맛있는 베이커리와 커피를 즐겨보세요!!",
+  "Information_facilitie": [
+    "테이크아웃 할인",
+    "비건 메뉴",
+    "포장",
+    "예약",
+    "무선 인터넷"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "제로페이",
+    "네이버페이",
+    "간편결제"
+  ],
+  "menu": [
+    {
+      "name": "바나나클라우드오트라떼",
+      "price": "6300",
+      "description": "진한 에스프레소와 고소한 오트라떼 위에 바나나 콜드폼을 올린 달콤하고 부드러운 시즌 메뉴",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250829_275/1756434879199nB960_JPEG/IMG_6511.jpeg"
+      ]
+    },
+    {
+      "name": "크루키",
+      "price": "5800",
+      "description": "크루키! 크루아상🥐과 쿠키🍪가 만났다.",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240408_92/1712561919664gB5wx_JPEG/IMG_1079.jpeg"
+      ]
+    },
+    {
+      "name": "폴린 크림라떼",
+      "price": "6300",
+      "description": "신선한 우유와 진한 에스프레소 그리고 풍성한 크림과 코코아파우더로 마무리한 커피",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240124_285/1706067003323N2c5C_JPEG/IMG_0499.jpeg"
+      ]
+    },
+    {
+      "name": "르뱅쿠키",
+      "price": "3500",
+      "description": "마카다미아와 초코칩이 들어간 두툼한 쿠키",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240130_202/1706594980081ESnPU_JPEG/IMG_0438.jpeg"
+      ]
+    },
+    {
+      "name": "말차크림라떼",
+      "price": "6300",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250529_31/1748498056394N1IHG_JPEG/IMG_5531.jpeg"
+      ]
+    },
+    {
+      "name": "티라미수",
+      "price": "6800",
+      "description": "부드러운 마스카포네 크림과 촉촉한 커피 향이 어우러진 클래식한 티라미수",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250322_288/1742621191643JhABW_JPEG/IMG_4834.jpeg"
+      ]
+    },
+    {
+      "name": "에스프레소",
+      "price": "3200",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240122_117/1705893378481OBBe0_JPEG/IMG_0487.jpeg"
+      ]
+    },
+    {
+      "name": "스트라파짜토",
+      "price": "3500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240122_59/1705893388132232up_JPEG/IMG_0486.jpeg"
+      ]
+    },
+    {
+      "name": "콘파냐",
+      "price": "3900",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240122_94/1705893419593DmTSH_JPEG/IMG_0489.jpeg"
+      ]
+    },
+    {
+      "name": "솔티카라멜 콘파냐",
+      "price": "4300",
+      "description": "단짠단짠 카라멜 시럽과 달콤한 크림이 어우러진 콘파냐",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240122_174/1705893429759PxNkd_JPEG/IMG_0488.jpeg"
+      ]
+    },
+    {
+      "name": "에스프레소 쇼콜라",
+      "price": "4600",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240122_187/1705893443336RngX8_JPEG/IMG_0485.jpeg"
+      ]
+    },
+    {
+      "name": "시나몬 에스프레소",
+      "price": "4600",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240122_60/1705893453686e7sQ8_JPEG/IMG_0484.jpeg"
+      ]
+    },
+    {
+      "name": "플레인스콘",
+      "price": "3700",
+      "description": "버터향 가득한 플레인 스콘!\n딸기잼과 생크림이랑 함께 드려요",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240130_155/1706595005650zo5EW_JPEG/IMG_0418.jpeg"
+      ]
+    },
+    {
+      "name": "카푸치노",
+      "price": "4800",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240124_139/1706067017990YXqFr_JPEG/IMG_0496.jpeg"
+      ]
+    },
+    {
+      "name": "아포가토",
+      "price": "5300",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230512_259/1683853490610nOHeN_JPEG/IMG_7576.jpeg"
+      ]
+    },
+    {
+      "name": "아메리카노",
+      "price": "4700",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240124_137/1706067027953mVikm_JPEG/IMG_0497.jpeg"
+      ]
+    },
+    {
+      "name": "카페라떼",
+      "price": "5500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240124_35/1706067035825pVpUz_JPEG/IMG_0498.jpeg"
+      ]
+    },
+    {
+      "name": "돌체라떼",
+      "price": "6000",
+      "description": "우유와 부드러운 연유가 들어간 달콤하고 진한 커피 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240124_82/17060670458330IaTU_JPEG/IMG_0498.jpeg"
+      ]
+    },
+    {
+      "name": "자몽에이드",
+      "price": "5600",
+      "description": "자몽 베이스에 건조된 자몽 슬라이스를 넣고 짜릿한 탄산으로 청량감 있는 음료",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220614_168/1655199871646fFiPl_JPEG/IMG_3321.JPG"
+      ]
+    },
+    {
+      "name": "레몬에이드",
+      "price": "5600",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240611_11/1718072044379ztA1q_JPEG/IMG_1574.jpeg"
+      ]
+    },
+    {
+      "name": "얼그레이 아이스티",
+      "price": "5600",
+      "description": "천연 베르기못 오일을 블렌딩하여\n은은한듯 진한 여운의 ‘얼그레이 아이스티’🌿",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240311_14/1710144146912w78bC_JPEG/IMG_1917.jpeg"
+      ]
+    },
+    {
+      "name": "캐모마일 칠아웃",
+      "price": "5300",
+      "description": "리치, 레몬그라스, 캐모마일의 상큼달콤한 조합 ‘캐모마일 칠아웃’",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240311_271/1710144069787vpgiN_JPEG/IMG_1916.jpeg"
+      ]
+    },
+    {
+      "name": "원두 200g",
+      "price": "15000",
+      "description": "",
+      "images": []
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20240129_290/1706495635439xhBXk_JPEG/IMG_0219.jpeg",
+    "https://ldb-phinf.pstatic.net/20250225_37/1740445062714TFElC_JPEG/IMG_4503.jpeg",
+    "https://ldb-phinf.pstatic.net/20240404_73/17122092474567gudG_JPEG/IMG_3293.jpeg",
+    "https://ldb-phinf.pstatic.net/20240404_158/1712209247453XqSsw_JPEG/IMG_3297.jpeg",
+    "https://ldb-phinf.pstatic.net/20231213_126/1702436412368pLFxt_JPEG/IMG_7854.jpeg",
+    "https://ldb-phinf.pstatic.net/20240404_266/1712209247492L2Grf_JPEG/IMG_3292.jpeg",
+    "https://ldb-phinf.pstatic.net/20240404_284/1712209248794n7h2Q_PNG/IMG_3298.png",
+    "https://ldb-phinf.pstatic.net/20240404_258/1712209247530pxl96_JPEG/IMG_3290.jpeg",
+    "https://ldb-phinf.pstatic.net/20240129_246/17064956352496hXXy_JPEG/IMG_0205.jpeg",
+    "https://ldb-phinf.pstatic.net/20231213_1/1702435614333V5gtH_JPEG/IMG_7847.jpeg",
+    "https://ldb-phinf.pstatic.net/20231213_133/1702436412315Tg4fe_JPEG/IMG_7855.jpeg",
+    "https://ldb-phinf.pstatic.net/20231213_147/1702436412389LS4nx_JPEG/IMG_7853.jpeg",
+    "https://ldb-phinf.pstatic.net/20231213_43/1702436412294kS5t3_JPEG/IMG_7861.jpeg",
+    "https://ldb-phinf.pstatic.net/20231213_20/17024364125209jfN6_JPEG/IMG_7858.jpeg",
+    "https://ldb-phinf.pstatic.net/20231213_19/1702436412317h8qNo_JPEG/IMG_7856.jpeg",
+    "https://ldb-phinf.pstatic.net/20231213_193/1702436412319emByy_JPEG/IMG_7852.jpeg",
+    "https://ldb-phinf.pstatic.net/20231213_198/1702436412342QgDNq_JPEG/IMG_7859.jpeg",
+    "https://ldb-phinf.pstatic.net/20230323_45/1679544014941AxpNJ_JPEG/13157578-08E3-42C7-950B-A101A52C51D8.jpeg"
+  ]
+}

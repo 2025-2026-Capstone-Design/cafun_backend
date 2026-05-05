@@ -1,0 +1,308 @@
+{
+  "id": "1119830792",
+  "name": "따우전드 성수점",
+  "category": "카페,디저트",
+  "micro_review": [
+    "포토존에서 인생샷 남기는 특별한 카페"
+  ],
+  "road_address": "서울 성동구 연무장1길 7 1층",
+  "address": "서울 성동구 성수동2가 301-27",
+  "lat": "127.0503166",
+  "lon": "37.5446403",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "12:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "day": "토",
+      "start": "12:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "day": "일",
+      "start": "12:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "day": "월",
+      "start": "12:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "day": "화",
+      "start": "12:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "day": "수",
+      "start": "12:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "day": "목",
+      "start": "12:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:30"
+        }
+      ]
+    }
+  ],
+  "virtual_phone_number": "0507-1407-8332",
+  "url": "https://www.instagram.com/thousand_official_/",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": true,
+    "반려동물 동반": true,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "어느 한 걸음으로 시작된 여정이\n끝도 없는 즐거움으로 이어지는\n'따우전드 성수점'에 오신 것을 환영합니다.\n\n'천리길도 한 걸음부터'\n우리의 길이 멀고 험난할지라도,\n작은 노력과 결단이 큰 성취를 이룰 수 있다는\n믿음을 간직하고 있습니다.\n그래서 우리는 더 멋지고 더 맛있는 파이를 만들기 위해\n끊임 없이 실패하고 도전합니다.\n\n따우전드는 언제나 여러분을 기다리고 있으며,\n최상의 맛과 감동이 함께하는 특별한 순간을\n여러분과 나누고자 합니다.\n\n함께해 주실 여러분을 진심으로 환영합니다.\n\nTHOUSAND",
+  "Information_facilitie": [
+    "테이크아웃 할인",
+    "포장",
+    "무선 인터넷",
+    "반려동물 동반"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "네이버페이",
+    "간편결제"
+  ],
+  "menu": [
+    {
+      "name": "바나나 크림 파이",
+      "price": "7500",
+      "description": "달콤함은 테네시주의 노래처럼 간직된 추억과 사랑을, 바삭함은 해안가를 따라 펼쳐진 찬란함을",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240705_80/1720108925198SHr2X_JPEG/KakaoTalk_20240705_005245541.jpg",
+        "https://ldb-phinf.pstatic.net/20240705_276/1720108913527QIluP_JPEG/DSC01019.jpg"
+      ]
+    },
+    {
+      "name": "펌킨 파이",
+      "price": "7500",
+      "description": "우리 할머니 레시피는 아직 밝혀지지 않았는데 분명 사랑이라는 비밀 재료가 들어있었을 거예요",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240705_251/1720109052082RheKr_JPEG/KakaoTalk_20240705_005245541_02.jpg",
+        "https://ldb-phinf.pstatic.net/20240705_156/1720109044313M94w9_JPEG/DSC01012.jpg"
+      ]
+    },
+    {
+      "name": "보스턴 크림 파이",
+      "price": "7500",
+      "description": "보스턴 사람들은 인생의 특별한 순간을 이 파이와 함께했지. 결혼식, 졸업식, 흔한 일상마저",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240705_193/172010911403355g0j_JPEG/KakaoTalk_20240705_005245541_01.jpg",
+        "https://ldb-phinf.pstatic.net/20240705_231/1720109107096Umb8y_JPEG/DSC01043.jpg"
+      ]
+    },
+    {
+      "name": "체리치 파이",
+      "price": "8500",
+      "description": "체리향 가득한 꿈을 그리면서 한 걸음씩 나아가는 것 뿐이죠\n달콤한 순간들로 가득할테니까요",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240705_29/1720109278185vxGog_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2024-07-05_010710.png",
+        "https://ldb-phinf.pstatic.net/20240705_54/1720109163235hLDJ5_JPEG/KakaoTalk_20240705_004110219.jpg"
+      ]
+    },
+    {
+      "name": "유자파인 파이",
+      "price": "7400",
+      "description": "어차피 인생은 한입 베어 문 유자처럼 달콤 씁쓸한 순간들로 가득할테니까\n그냥 즐기자구요!",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240705_140/17201094365172UJe6_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2024-07-05_011015.png",
+        "https://ldb-phinf.pstatic.net/20240705_24/17201093938159ICdw_JPEG/DSC01027.jpg"
+      ]
+    },
+    {
+      "name": "애플 파이 with 바닐라 아이스크림",
+      "price": "8500",
+      "description": "작은 창문에는 노란빛이 반짝이고, 뜨거운 오븐에서 퍼지는 달콤한 향기는 거리를 가득 메웠다",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240705_71/1720109589193NASQr_JPEG/DSC01070.jpg"
+      ]
+    },
+    {
+      "name": "치즈 블루베리 파이",
+      "price": "7800",
+      "description": "사형수인 그는 마지막 식사로 아들과의 소중한 추억을 담은 블루베리 파이를 골랐다고 해요",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240705_30/1720109632805CYEuC_JPEG/DSC01037.jpg"
+      ]
+    },
+    {
+      "name": "레몬&라임 파이",
+      "price": "7200",
+      "description": "태양빛 물든 플로리다 해변에 앉아, 부드러운 바람을 맞으며 라임의 향을 맡는 느낌일까요",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240705_254/1720109670508lIMcH_JPEG/DSC01122.jpg"
+      ]
+    },
+    {
+      "name": "birthday 오레오 파이",
+      "price": "7200",
+      "description": "엄마가 불러주셨죠 ♬아가야 울지마라 파이를 만든단다 ♬너를 내 맘 속에 영원히 담을 거란다",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240705_185/1720109730526MA61K_JPEG/DSC01050.jpg"
+      ]
+    },
+    {
+      "name": "피넛버터 파이",
+      "price": "7800",
+      "description": "눈을 감으세요. 1968년, 9살, 우리 거실, 사랑하는 부모님, 아빠의 레코드, 땅콩버터",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240705_122/1720109819758qzhcz_JPEG/DSC01029.jpg"
+      ]
+    },
+    {
+      "name": "머드 파이",
+      "price": "8000",
+      "description": "그냥 막 더러워져도 괜찮아요! 진흙 속에서 모든 걸 잊고 어린 아이처럼 즐기면 되는걸요!",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240705_177/1720109802446KGkGA_JPEG/DSC01046-2.jpg"
+      ]
+    },
+    {
+      "name": "콘 크림 파이",
+      "price": "7000",
+      "description": "상상했던 푸른 하늘과 푸른 풀밭, 그리고 햇살 아래 자라나는 광활한 옥수수 밭이 펼쳐졌어요",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240705_158/1720109766500mwLMD_JPEG/DSC01049.jpg"
+      ]
+    },
+    {
+      "name": "피칸 파이",
+      "price": "7800",
+      "description": "작은 등불이 부엌을 포근하게 비추면, 이 공간은 이미 따뜻한 피칸파이의 향기로 가득하답니다",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240705_193/17201098786165erT9_JPEG/DSC01034.jpg"
+      ]
+    },
+    {
+      "name": "스윗포테이토 파이",
+      "price": "7300",
+      "description": "미네소타주에 사는 로즈맥기는 미국 전역의 인권 시위 현장을 찾아다니며 고구마파이를 나눠준다",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240705_172/1720109917753Q6ElS_JPEG/IMG_8347.jpg"
+      ]
+    },
+    {
+      "name": "스트로베리 파이",
+      "price": "8500",
+      "description": "미국에서는 상상도 못했던 입 속 전체로 퍼지는 딸기의 신선함 달콤함",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240705_103/1720110039139mwQGb_JPEG/IMG_0506.JPG"
+      ]
+    },
+    {
+      "name": "썸머 피치 파이",
+      "price": "7300",
+      "description": "입가는 물론 코까지 복숭아 즙이 묻어 끈적거렸다. 복숭아는 체면을 차리면서 먹을 수 없네",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240705_73/1720110002105hAmNM_JPEG/IMG_5430.JPG"
+      ]
+    },
+    {
+      "name": "피그레이 파이",
+      "price": "8500",
+      "description": "무화과의 그윽한 단맛과 얼그레이 크림의 풍미가 조화롭다. 아몬드 시트는 고소함마저 채워준다",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240705_267/1720109956976F9D7n_JPEG/IMG_6055.JPG"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20251112_68/1762941673538qjkLk_JPEG/IMG_0227_2.jpg",
+    "https://ldb-phinf.pstatic.net/20240805_201/17228263136514nKzl_JPEG/IMG_3360.jpeg",
+    "https://ldb-phinf.pstatic.net/20240715_208/17209720628050pctf_JPEG/DSC01070.jpg",
+    "https://ldb-phinf.pstatic.net/20240715_100/17209719999604bCob_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2024-07-15_003643.png",
+    "https://ldb-phinf.pstatic.net/20240715_59/17209721606580N7Um_JPEG/KakaoTalk_20240715_004851079.jpg",
+    "https://ldb-phinf.pstatic.net/20240715_264/1720970900300kLmLD_JPEG/KakaoTalk_20240705_005245541.jpg",
+    "https://ldb-phinf.pstatic.net/20240715_300/17209709182245cYm5_JPEG/KakaoTalk_20240705_005245541_02.jpg",
+    "https://ldb-phinf.pstatic.net/20240715_199/1720970909018DCJpy_JPEG/KakaoTalk_20240705_005245541_01.jpg",
+    "https://ldb-phinf.pstatic.net/20240715_124/1720970934780sCBNJ_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2024-07-05_010710.png",
+    "https://ldb-phinf.pstatic.net/20240715_159/1720970946382Ouw9L_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2024-07-05_011015.png",
+    "https://ldb-phinf.pstatic.net/20240705_30/1720105563595UBhud_JPEG/IMG_0221.jpg"
+  ]
+}

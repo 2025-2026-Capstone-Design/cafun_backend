@@ -5,9 +5,9 @@ import { TypeOrmModule } from '@nestjs/typeorm';
 import { Cafe } from './entities/cafe.entity';
 import { Menu } from './entities/menu.entity';
 import { AI_RECOMMENDATION_PORT } from './ai-recommendation.port';
-import { MockAiRecommendationAdapter } from './mock-ai-recommendation.adapter';
+import { LocalAiRecommendationAdapter } from './local-ai-recommendation.adapter';
 import { Review } from './entities/review.entity';
-import { CafeRecommendationCacheService } from './cafe-recommendation-cache.service.ts';
+import { CafeRecommendationCacheService } from './cafe-recommendation-cache.service';
 import { CafeAspectVector } from './entities/cafe-aspect-vector.entity';
 import { CafeMetadata } from './entities/cafe-metadata.entity';
 
@@ -16,7 +16,7 @@ import { CafeMetadata } from './entities/cafe-metadata.entity';
   controllers: [CafeController],
   providers: [CafeService, {
     provide: AI_RECOMMENDATION_PORT,
-    useClass: MockAiRecommendationAdapter,
+    useClass: LocalAiRecommendationAdapter,
   },
   CafeRecommendationCacheService,
 ]

@@ -1,0 +1,313 @@
+{
+  "id": "1553249208",
+  "name": "에어드랍 커피 성수",
+  "category": "카페,디저트",
+  "micro_review": [
+    "친절한 서비스와 맛있는 디저트의 만남"
+  ],
+  "road_address": "서울 성동구 연무장7길 13 지하1층",
+  "address": "서울 성동구 성수동2가 314-11",
+  "lat": "127.0544868",
+  "lon": "37.544177",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "08:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "18:30"
+        }
+      ]
+    },
+    {
+      "day": "토",
+      "start": "11:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "18:30"
+        }
+      ]
+    },
+    {
+      "day": "일",
+      "start": "11:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "18:30"
+        }
+      ]
+    },
+    {
+      "day": "월",
+      "start": "08:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "18:30"
+        }
+      ]
+    },
+    {
+      "day": "화",
+      "start": "08:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "18:30"
+        }
+      ]
+    },
+    {
+      "day": "수",
+      "start": "08:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "18:30"
+        }
+      ]
+    },
+    {
+      "day": "목(12/25)",
+      "start": "11:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": "성탄절",
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1367-4298",
+  "url": "https://www.instagram.com/airdrop_seongsu/",
+  "convenience": {
+    "주차": true,
+    "발렛파킹": false,
+    "무선 인터넷": false,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": false,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "400평 규모 공용 라운지 안에 있어 넓고 편안한 분위기에서 커피를 즐기실 수 있습니다. 모카라떼와 싱글오리진 드립 커피가 인기가 많고, 시즈널한 에스프레소 베레이션 음료도 준비되어 있습니다.",
+  "Information_facilitie": [
+    "핸드드립"
+  ],
+  "parking_info": {
+    "__typename": "InformationBasicParking",
+    "isFree": true,
+    "normalFeeDescription": null,
+    "extraFeeDescription": null
+  },
+  "payment_info": [
+    "제로페이"
+  ],
+  "menu": [
+    {
+      "name": "Mocha Latte",
+      "price": "6500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250203_291/1738565946865wzzna_JPEG/%BE%C6%C0%CC%BD%BA%B8%F0%C4%AB%B6%F3%B6%BC.jpg"
+      ]
+    },
+    {
+      "name": "Chocolate Latte",
+      "price": "6500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250203_134/1738565963889xapcD_JPEG/%BE%C6%C0%CC%BD%BA%C3%CA%C4%DA%B6%F3%B6%BC.jpg"
+      ]
+    },
+    {
+      "name": "Matcha Matcha",
+      "price": "6500",
+      "description": "녹차라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250221_187/1740098445529vJRJX_JPEG/%B8%B6%C3%AD%B8%B6%C3%AD.jpg"
+      ]
+    },
+    {
+      "name": "Cream Cheese Berry",
+      "price": "8000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250508_247/1746672484886m0lQc_JPEG/%C5%A9%B8%B2%C4%A1%C1%EE%BA%A3%B8%AE2.jpg"
+      ]
+    },
+    {
+      "name": "Creamy chestnut",
+      "price": "7500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250929_59/1759131089878yCE8U_JPEG/%C5%A9%B8%AE%B9%CC%B9%E3%B9%E3.jpg"
+      ]
+    },
+    {
+      "name": "Today's Coffee",
+      "price": "6000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250929_28/1759130957784GqF2k_JPEG/%BF%C0%B4%C3%C0%C7%C4%BF%C7%C7.jpg"
+      ]
+    },
+    {
+      "name": "Americano",
+      "price": "5000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250203_38/1738565925243VqHAH_JPEG/%BE%C6%C0%CC%BD%BA%BE%C6%B8%DE%B8%AE%C4%AB%B3%EB.jpg"
+      ]
+    },
+    {
+      "name": "Cafe Latte",
+      "price": "5500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250203_268/1738565934121nrdn7_JPEG/%BE%C6%C0%CC%BD%BA%C4%AB%C6%E4%B6%F3%B6%BC.jpg"
+      ]
+    },
+    {
+      "name": "Cappuccino",
+      "price": "5500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250203_65/1738565941544dbw1q_JPEG/%C7%D6%C4%AB%C7%AA%C4%A1%B3%EB.jpg"
+      ]
+    },
+    {
+      "name": "Vanilla Bean Latte",
+      "price": "6000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250203_225/1738565955585zrcz2_JPEG/%BE%C6%C0%CC%BD%BA%B9%D9%B4%D2%B6%F3%BA%F3%B6%F3%B6%BC.jpg"
+      ]
+    },
+    {
+      "name": "Handmade Lemonade",
+      "price": "7000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250203_169/1738565971507BGTRq_JPEG/%BB%FD%B7%B9%B8%F3.jpg"
+      ]
+    },
+    {
+      "name": "Orange Juice",
+      "price": "7800",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250203_182/17385659780203HuO8_JPEG/%BB%FD%BF%C0%B7%BB%C1%F6.jpg"
+      ]
+    },
+    {
+      "name": "Maldives (Green Tea)",
+      "price": "5000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250203_41/17385659924249zyzf_JPEG/%BE%C6%C0%CC%BD%BA%C4%B3%B8%F0%B8%B6%C0%CF.jpg"
+      ]
+    },
+    {
+      "name": "Montreal Tea",
+      "price": "5000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250203_145/17385659993625dtpb_JPEG/%BE%C6%C0%CC%BD%BA%B8%F3%C6%AE%B8%AE%BE%F3.jpg"
+      ]
+    },
+    {
+      "name": "Verveine Menthe",
+      "price": "5000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250203_105/17385660056827ylRV_JPEG/%BE%C6%C0%CC%BD%BA%BB%FD%B7%CE%B6%FB.jpg"
+      ]
+    },
+    {
+      "name": "Lamington",
+      "price": "7000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250929_137/1759131240620tct8I_JPEG/5.jpg"
+      ]
+    },
+    {
+      "name": "Tokyo Roll",
+      "price": "8000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250508_133/1746672631119Wtgha_JPEG/%B5%B5%C4%EC%B7%D1.jpg"
+      ]
+    },
+    {
+      "name": "Tiramisu Roll",
+      "price": "8000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250508_42/1746672710317cna2I_JPEG/dfsd.jpg"
+      ]
+    },
+    {
+      "name": "Marlenka (Lemon)",
+      "price": "7500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250929_149/1759131305728bFyPy_JPEG/6.jpg"
+      ]
+    },
+    {
+      "name": "Marlenka (walnut)",
+      "price": "7500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250929_150/1759131369354l5Dd6_JPEG/7.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://naverbooking-phinf.pstatic.net/20240723_274/1721707044125URqHT_JPEG/image_%289%29.jpg",
+    "https://ldb-phinf.pstatic.net/20240613_153/17182399355476B9gl_JPEG/057A0828_%282%29.jpg"
+  ]
+}

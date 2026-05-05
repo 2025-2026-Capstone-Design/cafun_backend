@@ -1,0 +1,187 @@
+{
+  "id": "1513343333",
+  "name": "라바트리 서울숲",
+  "category": "카페",
+  "micro_review": [
+    "친절한 미소로 맞이하는 특별한 카페"
+  ],
+  "road_address": "서울 성동구 아차산로 6 5층",
+  "address": "서울 성동구 성수동1가 656-1731",
+  "lat": "127.044906",
+  "lon": "37.5478195",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "09:00",
+      "end": "17:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "토",
+      "start": "12:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "일",
+      "start": "12:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": "09:00",
+      "end": "17:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": "09:00",
+      "end": "17:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "수",
+      "start": "09:00",
+      "end": "17:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "목",
+      "start": "09:00",
+      "end": "17:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1326-9767",
+  "url": "https://www.instagram.com/seongsu_crumpet",
+  "convenience": {
+    "주차": true,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": true,
+    "단체 이용 가능": true,
+    "대기공간": false,
+    "간편결제": true,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": true,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "성수 크럼펫 누디트 서울숲 5층에 오픈!\n\n영국의 주식 중 하나인 크럼펫을 이제 서울! 성수에서 즐겨보세요!\n내 마음대로 골라먹는 잼과 버터와 향긋한 커피와 함께하는 크럼펫 세트!\n가성비 있는 크럼펫 샌드위치들과 후무스, 수프들과 함께 아침과 점심을 맛있게 만들어 드리겠습니다!\n\n뷰가 좋은 인테리어에서 즐겨보세요!\n배달도 가능! 쿠팡이츠에서 '성수 크럼펫'을 검색해 주세요!",
+  "Information_facilitie": [
+    "테이크아웃 할인",
+    "핸드드립",
+    "로스터리",
+    "비건 메뉴",
+    "포장",
+    "남/녀 화장실 구분",
+    "배달",
+    "무선 인터넷",
+    "단체 이용 가능",
+    "화장실 휠체어 이용가능",
+    "출입구 휠체어 이용가능",
+    "좌석 휠체어 이용가능",
+    "장애인 주차구역"
+  ],
+  "parking_info": {
+    "__typename": "InformationBasicParking",
+    "isFree": false,
+    "normalFeeDescription": null,
+    "extraFeeDescription": "추가 요금 60분당 6,000원, 최대 50,000원"
+  },
+  "payment_info": [
+    "제로페이",
+    "네이버페이",
+    "간편결제"
+  ],
+  "menu": [
+    {
+      "name": "크럼펫 세트",
+      "price": "8900",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251126_255/1764136532786Mnj1C_JPEG/%B6%F3%B9%D9%C6%AE%B8%AE_%C1%BE%B7%E1_%B9%D7_%BC%BA%BC%F6_%C5%A9%B7%B3%C6%EA_%BF%C0%C7%C2_%BC%F6%C1%A4-02.jpg"
+      ]
+    },
+    {
+      "name": "햄 크럼펫 샌드위치",
+      "price": "6900",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251126_174/17641365521648W8Bi_JPEG/%B6%F3%B9%D9%C6%AE%B8%AE_%C1%BE%B7%E1_%B9%D7_%BC%BA%BC%F6_%C5%A9%B7%B3%C6%EA_%BF%C0%C7%C2_%BC%F6%C1%A4-02.jpg"
+      ]
+    },
+    {
+      "name": "치킨 크럼펫 샌드위치",
+      "price": "8200",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251126_117/1764136581248ozTo4_JPEG/%B6%F3%B9%D9%C6%AE%B8%AE_%C1%BE%B7%E1_%B9%D7_%BC%BA%BC%F6_%C5%A9%B7%B3%C6%EA_%BF%C0%C7%C2_%BC%F6%C1%A4-02.jpg"
+      ]
+    },
+    {
+      "name": "연어 크럼펫 샌드위치",
+      "price": "8900",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251126_201/1764136610519OrwSu_JPEG/%B6%F3%B9%D9%C6%AE%B8%AE_%C1%BE%B7%E1_%B9%D7_%BC%BA%BC%F6_%C5%A9%B7%B3%C6%EA_%BF%C0%C7%C2_%BC%F6%C1%A4-02.jpg"
+      ]
+    },
+    {
+      "name": "오리지널 후무스",
+      "price": "8000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251126_184/17641366424178q25t_JPEG/%B6%F3%B9%D9%C6%AE%B8%AE_%C1%BE%B7%E1_%B9%D7_%BC%BA%BC%F6_%C5%A9%B7%B3%C6%EA_%BF%C0%C7%C2_%BC%F6%C1%A4-03.jpg"
+      ]
+    },
+    {
+      "name": "스파이시 후무스",
+      "price": "9000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251126_169/1764136673599Lxpqy_JPEG/%B6%F3%B9%D9%C6%AE%B8%AE_%C1%BE%B7%E1_%B9%D7_%BC%BA%BC%F6_%C5%A9%B7%B3%C6%EA_%BF%C0%C7%C2_%BC%F6%C1%A4-03.jpg"
+      ]
+    },
+    {
+      "name": "오늘의 수프",
+      "price": "6000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251126_208/1764136693013cteK2_JPEG/%B6%F3%B9%D9%C6%AE%B8%AE_%C1%BE%B7%E1_%B9%D7_%BC%BA%BC%F6_%C5%A9%B7%B3%C6%EA_%BF%C0%C7%C2_%BC%F6%C1%A4-03.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20251126_28/17641363211475GUmC_JPEG/%B6%F3%B9%D9%C6%AE%B8%AE_%C1%BE%B7%E1_%B9%D7_%BC%BA%BC%F6_%C5%A9%B7%B3%C6%EA_%BF%C0%C7%C2_%BC%F6%C1%A4-02.jpg",
+    "https://ldb-phinf.pstatic.net/20251126_211/1764136321257MvsdT_JPEG/%B6%F3%B9%D9%C6%AE%B8%AE_%C1%BE%B7%E1_%B9%D7_%BC%BA%BC%F6_%C5%A9%B7%B3%C6%EA_%BF%C0%C7%C2_%BC%F6%C1%A4-03.jpg"
+  ]
+}

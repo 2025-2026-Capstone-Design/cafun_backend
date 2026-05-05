@@ -1,0 +1,310 @@
+{
+  "id": "2083705035",
+  "name": "치트키룸",
+  "category": "브런치카페",
+  "micro_review": [
+    "라자냐 한입에 느껴지는 이태원 감성"
+  ],
+  "road_address": "서울 성동구 상원6길 11-1 1층",
+  "address": "서울 성동구 성수동1가 13-125",
+  "lat": "127.0491751",
+  "lon": "37.5490601",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "11:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "day": "토",
+      "start": "11:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "day": "일",
+      "start": "11:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "day": "월",
+      "start": null,
+      "end": null,
+      "breakHours": null,
+      "description": "정기휴무 (매주 월요일)",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": "11:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "day": "수",
+      "start": "11:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "day": "목",
+      "start": "11:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:00"
+        }
+      ]
+    }
+  ],
+  "virtual_phone_number": "0507-1492-7374",
+  "url": "https://www.instagram.com/cheatkey_room?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": true,
+    "대기공간": true,
+    "간편결제": true,
+    "반려동물 동반": true,
+    "유아시설": false,
+    "유아의자": true,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": false,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "브런치와 커피 그리고 여유롭고 맛있게 즐길 수 있는 공간이며\n저희 공간은 YES KIDS & YES PET ZONE 이에요\n저희 부부와 리트리버 하루가 사랑 가득 담아 만든 '치트키룸'\n일상 속 작은 치트키 같은 공간에서 편안한 시간 보내시길 바래요!",
+  "Information_facilitie": [
+    "콜키지 가능 (유료)",
+    "무선 인터넷",
+    "반려동물 동반",
+    "유아의자",
+    "단체 이용 가능",
+    "대기공간"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "제로페이",
+    "간편결제"
+  ],
+  "menu": [
+    {
+      "name": "김치볶음밥",
+      "price": "15000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251013_168/1760357513771JkeUH_JPEG/KakaoTalk_20251013_205003292_08.jpg"
+      ]
+    },
+    {
+      "name": "엔초비갈릭파스타",
+      "price": "16000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251015_95/1760512530561V895x_JPEG/IMG_8626.jpeg"
+      ]
+    },
+    {
+      "name": "크림버섯새우뇨끼",
+      "price": "18000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251013_57/17603573396811Fbk5_JPEG/KakaoTalk_20251013_205003292_01.jpg"
+      ]
+    },
+    {
+      "name": "새우샐러드",
+      "price": "15000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251031_22/1761917319111LYy8E_JPEG/KakaoTalk_20251031_222322111_01.jpg"
+      ]
+    },
+    {
+      "name": "치킨스테이크",
+      "price": "24000",
+      "description": "신선한 국내정육 닭다리살",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251014_104/1760428495723f5slX_JPEG/IMG_8576.jpeg"
+      ]
+    },
+    {
+      "name": "요거트그래놀라계절과일",
+      "price": "7000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251013_173/1760357488961nOOf1_JPEG/KakaoTalk_20251013_205003292_06.jpg"
+      ]
+    },
+    {
+      "name": "치트키매쉬포테이토",
+      "price": "10000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251013_263/1760357450486zxCpe_JPEG/KakaoTalk_20251013_205003292_05.jpg"
+      ]
+    },
+    {
+      "name": "트러플크림리조또",
+      "price": "19000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251013_275/1760357436363GrroV_JPEG/KakaoTalk_20251013_205003292_04.jpg"
+      ]
+    },
+    {
+      "name": "부라타치즈샐러드",
+      "price": "17000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251013_70/1760357396471DiwTE_JPEG/KakaoTalk_20251013_205003292_02.jpg"
+      ]
+    },
+    {
+      "name": "레몬샤베트",
+      "price": "4000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251012_26/1760195137881FgPko_JPEG/KakaoTalk_20251012_000030003_06.jpg"
+      ]
+    },
+    {
+      "name": "라자냐",
+      "price": "21000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251013_47/17603573874305L4Tx_JPEG/KakaoTalk_20251013_205003292_07.jpg"
+      ]
+    },
+    {
+      "name": "자두청에이드",
+      "price": "6000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251012_39/176019508112775aji_JPEG/KakaoTalk_20251012_000030003_15.jpg"
+      ]
+    },
+    {
+      "name": "유자하이볼",
+      "price": "12000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251012_251/1760195053348UtJdA_JPEG/KakaoTalk_20251012_000030003_14.jpg"
+      ]
+    },
+    {
+      "name": "말차아이스크림라떼",
+      "price": "6500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251012_272/1760195031207nJ2Jz_JPEG/KakaoTalk_20251012_000333760.jpg"
+      ]
+    },
+    {
+      "name": "히비스커스딸기라떼",
+      "price": "6500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251012_184/17601949916289fBiT_JPEG/KakaoTalk_20251012_000030003_16.jpg"
+      ]
+    },
+    {
+      "name": "휘낭시에",
+      "price": "3000",
+      "description": "플레인",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251012_214/1760194963634klUGT_JPEG/KakaoTalk_20251012_000030003_07.jpg"
+      ]
+    },
+    {
+      "name": "초코라떼",
+      "price": "6000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251012_61/1760194927473g0XKH_JPEG/KakaoTalk_20251012_000030003_17.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20251031_17/1761917378975bUIQg_JPEG/KakaoTalk_20251031_222322111_06.jpg",
+    "https://ldb-phinf.pstatic.net/20251031_49/1761917386011DdPRs_JPEG/KakaoTalk_20251031_222322111_04.jpg",
+    "https://ldb-phinf.pstatic.net/20251031_191/1761917383132JXzHR_JPEG/KakaoTalk_20251031_222322111_05.jpg",
+    "https://ldb-phinf.pstatic.net/20251031_83/1761917373999Ezi8y_JPEG/KakaoTalk_20251031_222322111_02.jpg",
+    "https://ldb-phinf.pstatic.net/20251012_16/1760194811405aFtXv_JPEG/KakaoTalk_20251011_235904438_13.jpg",
+    "https://ldb-phinf.pstatic.net/20251012_81/1760194811425wt1BG_JPEG/KakaoTalk_20251011_235904438.jpg",
+    "https://ldb-phinf.pstatic.net/20251012_246/1760194811580uzvyM_JPEG/KakaoTalk_20251011_235904438_01.jpg",
+    "https://ldb-phinf.pstatic.net/20251012_120/1760194811675KA6ei_JPEG/KakaoTalk_20251011_235904438_02.jpg",
+    "https://ldb-phinf.pstatic.net/20251012_8/1760194811448IKl0r_JPEG/KakaoTalk_20251011_235904438_03.jpg",
+    "https://ldb-phinf.pstatic.net/20251012_246/1760194811492j7Ukj_JPEG/KakaoTalk_20251011_235904438_04.jpg",
+    "https://ldb-phinf.pstatic.net/20251012_206/1760194811381COlMP_JPEG/KakaoTalk_20251011_235904438_05.jpg",
+    "https://ldb-phinf.pstatic.net/20251012_54/1760194811254q6k5x_JPEG/KakaoTalk_20251011_235904438_06.jpg",
+    "https://ldb-phinf.pstatic.net/20251012_148/1760194811179WOCFF_JPEG/KakaoTalk_20251011_235904438_07.jpg",
+    "https://ldb-phinf.pstatic.net/20251012_19/1760194811615McteV_JPEG/KakaoTalk_20251011_235904438_08.jpg",
+    "https://ldb-phinf.pstatic.net/20251012_198/1760194811655vXA83_JPEG/KakaoTalk_20251011_235904438_09.jpg",
+    "https://ldb-phinf.pstatic.net/20251012_11/17601948114225oWk4_JPEG/KakaoTalk_20251011_235904438_10.jpg",
+    "https://ldb-phinf.pstatic.net/20251012_20/1760194811523SGuIj_JPEG/KakaoTalk_20251011_235904438_11.jpg",
+    "https://ldb-phinf.pstatic.net/20251012_211/1760194811309WYWJM_JPEG/KakaoTalk_20251011_235904438_12.jpg",
+    "https://ldb-phinf.pstatic.net/20251003_35/1759423581825mhjKu_JPEG/KakaoTalk_20251002_192441839.jpg",
+    "https://ldb-phinf.pstatic.net/20251003_70/1759423587266PyyzO_JPEG/KakaoTalk_20251002_192441839_01.jpg",
+    "https://ldb-phinf.pstatic.net/20251003_54/17594236405091mq2y_JPEG/KakaoTalk_20251002_220556017_09.jpg",
+    "https://ldb-phinf.pstatic.net/20251003_124/17594236404392O8w4_JPEG/KakaoTalk_20251002_220556017_02.jpg"
+  ]
+}

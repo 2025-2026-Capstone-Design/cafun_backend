@@ -1,0 +1,414 @@
+{
+  "id": "1339900302",
+  "name": "츄로101 성수점",
+  "category": "카페",
+  "micro_review": null,
+  "road_address": "서울 성동구 성덕정길 70 1층",
+  "address": "서울 성동구 성수동1가 310",
+  "lat": "127.0512448",
+  "lon": "37.5378874",
+  "business_hours": [
+    {
+      "day": "매일",
+      "start": "10:00",
+      "end": "20:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": null,
+  "url": "https://www.instagram.com/churro101korea",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": true,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": true,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": true,
+    "포장": true,
+    "배달": true,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "블루리본 14년 연속등재!\n\n유러피안 브런치와\n주문과 동시에 즉석에서 만들어지는 츄러스를 즐길 수 있는 프리미엄 츄러스 카페 입니다 :)\n\n- 콜키지 가능합니다. (병당 2만원)",
+  "Information_facilitie": [
+    "남/녀 화장실 구분",
+    "무선 인터넷",
+    "반려동물 동반",
+    "포장",
+    "배달",
+    "예약"
+  ],
+  "parking_info": null,
+  "payment_info": null,
+  "menu": [
+    {
+      "name": "커피&츄러스 세트",
+      "price": "7900",
+      "description": "아메리카노 & 시나몬 츄러스",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230907_94/1694054456567hNl25_JPEG/1000070647.jpg"
+      ]
+    },
+    {
+      "name": "아츄",
+      "price": "7500",
+      "description": "바닐라 아이스크림 & 시나몬츄러스",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230902_200/1693623826937v7OLv_JPEG/KakaoTalk_20230902_114910386.jpg"
+      ]
+    },
+    {
+      "name": "화이트라구 파스타 (트러플)",
+      "price": "22800",
+      "description": "크림하고 녹진한 화이트라구가 매력적인 리가토니 파스타",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250705_114/1751685216545i5GiT_JPEG/20250702_151242.jpg"
+      ]
+    },
+    {
+      "name": "아보카도 토스트 & 수제소세지",
+      "price": "19800",
+      "description": "신선한 아보카도 매쉬를 듬뿍 올린 토스트 위에 녹진한 수란을 톡 터뜨려먹는 브런치 메뉴",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250415_118/1744706173269Q5cdl_JPEG/1744706169396.jpg"
+      ]
+    },
+    {
+      "name": "스페니시 치즈 오믈렛 & 카피콜라",
+      "price": "17800",
+      "description": "스페인식 감자오믈렛에 세가지 치즈를 녹여 곁들여먹는 츄로101 대표 브런치 메뉴",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240820_78/1724120314869AAjtP_JPEG/%BF%C0%B9%C9%B7%BF.jpg"
+      ]
+    },
+    {
+      "name": "홈메이드 베이컨&감자스프",
+      "price": "12800",
+      "description": "성수동에서 제일맛있는 홈메이드 감자스프! 청키한베이컨과 치즈를넣어 풍미가 더욱 좋습니다👍",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240322_239/1711095684185xwbmX_JPEG/IMG_20240307_114938_650.jpg"
+      ]
+    },
+    {
+      "name": "브라타치즈 with 바질토마토",
+      "price": "18800",
+      "description": "Fresh 브라타치즈와 바질, 토마토, 올리브유에 구운 마늘을 깜빠뉴에 올려먹는 신선한메뉴",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240418_143/1713434753452HYEdK_JPEG/1713400158476.jpg"
+      ]
+    },
+    {
+      "name": "레몬 버터 치킨 with 샐러드",
+      "price": "25800",
+      "description": "홈메이드 레몬딜버터와 크리스피한 치킨스테이크를 곁들여먹는 밸런스 좋은 건강식!",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250826_134/175619861589579KYB_JPEG/20250826_151932.jpg"
+      ]
+    },
+    {
+      "name": "루꼴라&잠봉파스타",
+      "price": "21800",
+      "description": "버터와 잠봉, 루꼴라로 맛을 낸 페투치니 파스타",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250818_195/1755499955588bkYPD_JPEG/20250712_114952.jpg"
+      ]
+    },
+    {
+      "name": "볼로네제 라구 파스타",
+      "price": "22800",
+      "description": "소고기, 돼지고기, 닭육수를 넣어 감칠맛도는 토마토라구소스에 페퍼론치노의 매콤함이 킥!",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250826_87/1756198692565g442v_JPEG/20250730_132246.jpg"
+      ]
+    },
+    {
+      "name": "써니사이드업 잠봉토스트 with 나초",
+      "price": "18800",
+      "description": "버터에 잘 구운 식빵 위\n세가지 치즈를 녹여서 올리고\n프리미엄 잠봉과 써니사이드업의 조화",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241220_43/1734687460085OsJLh_JPEG/20241217_113238.jpg"
+      ]
+    },
+    {
+      "name": "트러플 머쉬룸 토스트",
+      "price": "17800",
+      "description": "버터에 구운 깜빠뉴 위 버섯을 듬뿍! 트러플 오일까지 곁들이면 완벽한 한 끼 식사",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250107_158/1736228415849i9Iav_JPEG/KakaoTalk_20250107_114140224.jpg"
+      ]
+    },
+    {
+      "name": "프렌치 어니언 스프",
+      "price": "14800",
+      "description": "매장에서 직접 장시간 볶아서 만든 진한 양파스프에 치즈가 듬뿍!",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241220_17/1734687549980AWTwi_JPEG/20241219_152725.jpg"
+      ]
+    },
+    {
+      "name": "토마토 브루쉐타 & 수제 소세지",
+      "price": "15800",
+      "description": "스페인의 맛이 느껴지는 매콤상큼한 토마토 샐러드에 수란을 톡 터뜨려 먹는 오픈 샌드위치",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240202_53/1706862304845aTxbs_JPEG/20240130_164425.jpg"
+      ]
+    },
+    {
+      "name": "부드러운 버터팬케익",
+      "price": "16800",
+      "description": "입안에서 사르르!\n폭신폭신하고 부드러운 팬케익 위에\n품질좋은 버터와 수제 생크림까지 듬뿍",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240209_223/1707461972791lrAjz_JPEG/Screenshot_20240208_201655_Instagram.jpg"
+      ]
+    },
+    {
+      "name": "트러플 양송이 스프",
+      "price": "13800",
+      "description": "트러플오일, 양송이버섯, 새송이버섯을 넣어 더욱 풍미있는 스프",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240828_85/1724841806690greia_JPEG/%BE%E7%BC%DB%C0%CC%BD%BA%C7%C1.jpg"
+      ]
+    },
+    {
+      "name": "에그 베네딕트",
+      "price": "19800",
+      "description": "클래식 브런치의 정석, 에그베네딕트!\n홈메이드 홀란데이즈 소스로 풍미를 높였습니다.",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240202_152/1706862015343UleSF_JPEG/1706845917884.jpg"
+      ]
+    },
+    {
+      "name": "아몬드 프렌치토스트",
+      "price": "14800",
+      "description": "클래식 & 베스트 셀러!",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241220_196/1734687660458B35Yy_JPEG/20241217_151829.jpg"
+      ]
+    },
+    {
+      "name": "블루베리&허니 프렌치토스트",
+      "price": "16800",
+      "description": "직접만든 홈메이드 블루베리콤포트로\n인공감미료없이 건강하게 즐기세요💜",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240202_6/1706847603347B3Do1_JPEG/1706616531182.jpg"
+      ]
+    },
+    {
+      "name": "잠봉(햄)&그릴드 프렌치토스트",
+      "price": "18800",
+      "description": "육결이 살아있는 잠봉(햄)과 그릴드한 자연치즈, 시나몬 애플콤포트까지! 단짠의 완벽한조화!",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240202_272/1706847827944dUizq_JPEG/1706449582889.jpg"
+      ]
+    },
+    {
+      "name": "시나몬츄러스",
+      "price": "3900",
+      "description": "츄로101 시그니쳐! 오리지널 츄러스",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230907_170/1694053545862wL0AH_JPEG/1000070634.jpg"
+      ]
+    },
+    {
+      "name": "슈거츄러스",
+      "price": "3900",
+      "description": "달콤한 슈거를 더스팅한 츄러스",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230907_179/1694053596379sfV3g_JPEG/1000070635.jpg"
+      ]
+    },
+    {
+      "name": "플레인츄러스",
+      "price": "3900",
+      "description": "담백함이 일품! 초코딥과 찍어먹으면 더 맛있는 츄러스",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230907_167/1694053769328jMQLm_JPEG/1000070639.jpg"
+      ]
+    },
+    {
+      "name": "연유츄러스",
+      "price": "4500",
+      "description": "부드러운 연유커스터드가 매력적인 츄러스",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230907_53/1694054035300p4lSy_JPEG/1000070643.jpg"
+      ]
+    },
+    {
+      "name": "누텔라츄러스",
+      "price": "4500",
+      "description": "누텔라로 만든 초콜릿 커스터드가 듬뿍 들어있는 츄러스",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230907_117/1694053881931Omd0n_JPEG/1000070641.jpg"
+      ]
+    },
+    {
+      "name": "오레오츄러스",
+      "price": "4500",
+      "description": "실패없는선택, 오레오츄러스",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230907_281/1694053643091foKvR_JPEG/1000070636.jpg"
+      ]
+    },
+    {
+      "name": "크림치즈츄러스",
+      "price": "4500",
+      "description": "신선한 크림치즈에 레몬한방울!\n상큼함이 느껴지는를 넣은 츄러스",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230907_90/1694053806396NLIKv_JPEG/1000070640.jpg"
+      ]
+    },
+    {
+      "name": "다크초코 츄러스",
+      "price": "4500",
+      "description": "다크초콜릿으로 풍미를 높인 고급스러운 츄러스",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230907_119/1694053731907HNHKV_JPEG/1000070638.jpg"
+      ]
+    },
+    {
+      "name": "아몬드츄러스",
+      "price": "4900",
+      "description": "다크초콜릿에 고소한아몬드 토핑",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230907_48/1694053669426vQnvD_JPEG/1000070637.jpg"
+      ]
+    },
+    {
+      "name": "코코넛츄러스",
+      "price": "4900",
+      "description": "다크초콜릿에 고소한 코코넛 토핑",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230907_225/1694054304298TQkaf_JPEG/1000070645.jpg"
+      ]
+    },
+    {
+      "name": "딸기크런치 츄러스",
+      "price": "4900",
+      "description": "다크초콜릿에 딸기 크런치 토핑",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230907_238/1694054365050NgNW7_JPEG/1000070646.jpg"
+      ]
+    },
+    {
+      "name": "오레오 아츄",
+      "price": "7500",
+      "description": "아이스크림 & 오레오츄러스",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230907_127/1694054531761OBxnq_JPEG/1000070648.jpg"
+      ]
+    },
+    {
+      "name": "코코넛 아츄",
+      "price": "7900",
+      "description": "아이스크림 & 코코넛 토핑 츄러스",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230907_90/1694054723076vdjpY_JPEG/1000070651.jpg"
+      ]
+    },
+    {
+      "name": "인절미 아츄",
+      "price": "7500",
+      "description": "아이스크림 & 인절미츄러스",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230907_185/1694054620317abnEr_JPEG/1000070649.jpg"
+      ]
+    },
+    {
+      "name": "아메리카노",
+      "price": "4500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230907_245/1694058406813gtVwh_JPEG/1000070657.jpg"
+      ]
+    },
+    {
+      "name": "카페라떼",
+      "price": "4900",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230907_166/1694058433547HBNcw_JPEG/1000070658.jpg"
+      ]
+    },
+    {
+      "name": "캬라멜마끼아또",
+      "price": "5400",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230907_50/1694058697896rmjqY_JPEG/1000070658.jpg"
+      ]
+    },
+    {
+      "name": "바닐라 라떼",
+      "price": "5400",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230907_245/1694058674322eQpI6_JPEG/1000070658.jpg"
+      ]
+    },
+    {
+      "name": "카푸치노",
+      "price": "4900",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230907_85/1694058617385zUwgC_JPEG/1000070658.jpg"
+      ]
+    },
+    {
+      "name": "다크코코아",
+      "price": "5900",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230907_107/1694058488061uxBvw_JPEG/1000070659.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20230915_284/1694767628230evBjj_JPEG/1000071184.jpg",
+    "https://ldb-phinf.pstatic.net/20231006_247/1696595796425DnAza_JPEG/1000072113.jpg",
+    "https://ldb-phinf.pstatic.net/20230902_96/1693622967460cJjb4_JPEG/KakaoTalk_20230902_114910386_01.jpg",
+    "https://ldb-phinf.pstatic.net/20250826_182/17561983957453sdWp_JPEG/20250826_151924.jpg",
+    "https://ldb-phinf.pstatic.net/20250704_97/1751591341528AmqNa_JPEG/20250702_151242.jpg",
+    "https://ldb-phinf.pstatic.net/20240209_152/1707462680069D84mh_JPEG/1706845917474.jpg",
+    "https://ldb-phinf.pstatic.net/20250826_272/17561984359409SJEW_JPEG/20250730_132246.jpg",
+    "https://ldb-phinf.pstatic.net/20240820_105/1724120163948ojx0h_JPEG/%BF%C0%B9%C9%B7%BF.jpg",
+    "https://ldb-phinf.pstatic.net/20250826_30/1756198435741OLkGA_JPEG/20250712_114946.jpg",
+    "https://ldb-phinf.pstatic.net/20240209_164/1707462876191Qss33_JPEG/Screenshot_20240208_201832_Instagram.jpg",
+    "https://ldb-phinf.pstatic.net/20240209_17/1707462903400MTYUU_JPEG/Screenshot_20240208_201727_Instagram.jpg",
+    "https://ldb-phinf.pstatic.net/20240209_7/1707462739762aKnvL_JPEG/20240128_085355.jpg",
+    "https://ldb-phinf.pstatic.net/20240209_248/1707462700962GRTsS_JPEG/1706616531182.jpg",
+    "https://ldb-phinf.pstatic.net/20240209_9/1707462605866wKUuh_JPEG/IMG_20240208_104419_002.jpg",
+    "https://ldb-phinf.pstatic.net/20240209_246/1707462620005kqIq2_JPEG/IMG_20240207_103736_020.jpg",
+    "https://ldb-phinf.pstatic.net/20240209_223/1707462689082UpKz9_JPEG/IMG_20240201_141847_226.jpg",
+    "https://ldb-phinf.pstatic.net/20240209_56/1707462631253ikMyQ_JPEG/1707181692109.jpg",
+    "https://ldb-phinf.pstatic.net/20240209_152/1707462666417zGl0X_JPEG/20240202_162430.jpg",
+    "https://ldb-phinf.pstatic.net/20230913_86/1694568816742MITgG_JPEG/1694567898986.jpg",
+    "https://ldb-phinf.pstatic.net/20230902_157/1693622967502NUDcj_JPEG/KakaoTalk_20230902_114910386.jpg",
+    "https://ldb-phinf.pstatic.net/20230907_197/1694059186176VnMG8_JPEG/1000070652.jpg",
+    "https://ldb-phinf.pstatic.net/20230924_72/16955140436651rbt1_JPEG/1000071715.jpg",
+    "https://ldb-phinf.pstatic.net/20230907_102/1694059186498Y99D1_JPEG/1000070469.jpg",
+    "https://ldb-phinf.pstatic.net/20230913_49/1694568817785WdAmA_JPEG/1694567874260.jpg",
+    "https://ldb-phinf.pstatic.net/20230913_83/1694568817406DSwav_JPEG/1694567893514.jpg",
+    "https://ldb-phinf.pstatic.net/20230913_212/16945688171891hvF5_JPEG/1694567861770.jpg",
+    "https://ldb-phinf.pstatic.net/20230913_294/1694568817441cP7TR_JPEG/1694567867922.jpg",
+    "https://ldb-phinf.pstatic.net/20230915_142/16947676280137KLvL_JPEG/1000071187.jpg",
+    "https://ldb-phinf.pstatic.net/20230913_110/1694568817678gyyuF_JPEG/1694567876393.jpg",
+    "https://ldb-phinf.pstatic.net/20230907_249/16940591495706IJUK_JPEG/1000070655.jpg",
+    "https://ldb-phinf.pstatic.net/20231006_276/1696595796373LEHtv_JPEG/1000072112.jpg"
+  ]
+}

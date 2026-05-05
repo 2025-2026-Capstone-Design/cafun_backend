@@ -1,0 +1,188 @@
+{
+  "id": "1213003569",
+  "name": "메가MGC커피 성수뚝도점",
+  "category": "카페",
+  "micro_review": null,
+  "road_address": "서울 성동구 뚝섬로 399 1층",
+  "address": "서울 성동구 성수동2가 339-22",
+  "lat": "127.0550932",
+  "lon": "37.5389218",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "08:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "토",
+      "start": "08:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "일",
+      "start": "08:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": "08:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": "08:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "수",
+      "start": "08:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "목(12/25)",
+      "start": "08:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": "성탄절",
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1492-0149",
+  "url": null,
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "다양한 취향과 즐거움이 가득한 메가MGC커피 성수뚝도점입니다. :)",
+  "Information_facilitie": [
+    "포장",
+    "무선 인터넷"
+  ],
+  "parking_info": null,
+  "payment_info": null,
+  "menu": [
+    {
+      "name": "허니자몽블랙티",
+      "price": "3700",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240520_26/1716168059989YhUaG_JPEG/%28ICE%29%C7%E3%B4%CF%C0%DA%B8%F9%BA%ED%B7%A2%C6%BC.jpg"
+      ]
+    },
+    {
+      "name": "딸기요거트스무디",
+      "price": "3900",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240520_198/1716168116126Rd9Vy_JPEG/%B5%FE%B1%E2%BF%E4%B0%C5%C6%AE%BD%BA%B9%AB%B5%F0.jpg"
+      ]
+    },
+    {
+      "name": "메가에이드",
+      "price": "3900",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240520_232/17161681058967p7y6_JPEG/%B8%DE%B0%A1%BF%A1%C0%CC%B5%E5.jpg"
+      ]
+    },
+    {
+      "name": "ICE 아메리카노",
+      "price": "2000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240520_258/1716168091002xaNGr_JPEG/%28ICE%29%BE%C6%B8%DE%B8%AE%C4%AB%B3%EB.jpg"
+      ]
+    },
+    {
+      "name": "HOT 아메리카노",
+      "price": "1500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240520_243/17161680774759nbDo_JPEG/%28HOT%29%BE%C6%B8%DE%B8%AE%C4%AB%B3%EB.jpg"
+      ]
+    },
+    {
+      "name": "플레인퐁크러쉬",
+      "price": "3900",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240520_288/1716168046920Pivpp_JPEG/%C7%C3%B7%B9%C0%CE%C6%FE%C5%A9%B7%AF%BD%AC.jpg"
+      ]
+    },
+    {
+      "name": "흑당버블라떼",
+      "price": "3700",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240520_149/1716168016917scFbv_JPEG/%28ICE%29%C8%E6%B4%E7%B9%F6%BA%ED%B6%F3%B6%BC.jpg"
+      ]
+    },
+    {
+      "name": "쿠키프라페",
+      "price": "3900",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240520_124/1716168005812t8Lra_JPEG/%C4%ED%C5%B0%C7%C1%B6%F3%C6%E4.jpg"
+      ]
+    },
+    {
+      "name": "메가리카노(ONLY ICE)",
+      "price": "3000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240520_238/17161679950995Ttfw_JPEG/%28ICE%29%B8%DE%B0%A1%B8%AE%C4%AB%B3%EB.jpg"
+      ]
+    },
+    {
+      "name": "큐브라떼(ONLY ICE)",
+      "price": "4200",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240520_154/1716167984863nJ1EW_JPEG/%28ICE%29%C5%A5%BA%EA%B6%F3%B6%BC.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20240520_20/1716167875240Y2RUV_JPEG/%B7%CE%B0%ED.jpg"
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "id": "742676592",
+  "name": "마를리",
+  "category": "케이크전문",
+  "micro_review": [
+    "넓은 공간에서 즐기는 여유로운 시간"
+  ],
+  "road_address": "서울 성동구 연무장길 47 1층",
+  "address": "서울 성동구 성수동2가 315-55",
+  "lat": "127.0547473",
+  "lon": "37.5428033",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "09:00",
+      "end": "23:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "토",
+      "start": "09:00",
+      "end": "23:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "일",
+      "start": "09:00",
+      "end": "23:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": "09:00",
+      "end": "23:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": "09:00",
+      "end": "23:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "수",
+      "start": "09:00",
+      "end": "23:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "목(12/25)",
+      "start": "09:00",
+      "end": "23:00",
+      "breakHours": [],
+      "description": "성탄절",
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": null,
+  "url": "http://www.instagram.com/marly.official_",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": true,
+    "단체 이용 가능": true,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "저희 마를리는 140평 규모의 대형 케이크 전문 카페 입니다.\n화려함보다 정성, 다양함보다 전문성을 담아 매일 신선한 과일과 최고급 재료로 케이크를 만듭니다.\n변화 가득한 성수동에서 10년 동안 변함없이 묵묵히, 고객님의 사랑과 만족을 지켜온 마를리에서 특별한 달콤함을 경험하세요.",
+  "Information_facilitie": [
+    "단체 이용 가능",
+    "포장",
+    "무선 인터넷",
+    "남/녀 화장실 구분"
+  ],
+  "parking_info": null,
+  "payment_info": null,
+  "menu": [
+    {
+      "name": "아메리카노",
+      "price": "5500",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "카페라떼",
+      "price": "6500",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "더치커피",
+      "price": "6000",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "아인슈페너",
+      "price": "6500",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "자몽에이드(산펠그리노)",
+      "price": "8000",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "아보카도 사과주스",
+      "price": "8000",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "플레인스콘",
+      "price": "3500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20210126_9/16116227222315BQ1H_JPEG/8a52GTLNDVSyGgm-UKmsny1U.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20250919_112/17582493768166KOHx_JPEG/1000030542.jpg",
+    "https://naverbooking-phinf.pstatic.net/20250917_179/1758067157909Ovyx4_JPEG/image.jpg"
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "id": "1085084433",
+  "name": "오버도즈도넛앤커피 성수",
+  "category": "카페,디저트",
+  "micro_review": [
+    "부드러움 속에 숨겨진 진한 풍미"
+  ],
+  "road_address": "서울 성동구 왕십리로10길 19 1층",
+  "address": "서울 성동구 성수동1가 656-688",
+  "lat": "127.0466348",
+  "lon": "37.5466253",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "11:30",
+      "end": "20:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "토",
+      "start": "11:30",
+      "end": "20:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "일",
+      "start": "11:30",
+      "end": "20:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": null,
+      "end": null,
+      "breakHours": null,
+      "description": "정기휴무 (매주 월요일)",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": "11:30",
+      "end": "20:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "수",
+      "start": "11:30",
+      "end": "20:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "목",
+      "start": "11:30",
+      "end": "20:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1319-7369",
+  "url": "http://instagram.com/ovdzdonut",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": true,
+    "대기공간": false,
+    "간편결제": true,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": true,
+    "포장": true,
+    "배달": true,
+    "출장": true,
+    "방문접수": true,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "OVDZDONUT & COFFEE\n오버도즈도넛 앤 커피\n\n10가지의 컬러풀하고 스타일리시한\n수제 필드 도넛 전문점으로\n\n매일 당일 새벽 신선한 재료들로\n반죽과 크림 생산 등 모든 공정을 수제로 진행하며\n당일 생산 당일 폐기를 원칙으로 합니다.\n\n고급스럽고 풍미 넘치는 깊은 맛의 크림이 가득한\n피스타치오&라즈베리 도넛과 말차&솔트 캐러멜 도넛은\n캐미가 좋은 두 가지 맛을 한번에 맛 볼 수 있는\n오버도즈도넛의 시그니처 도넛입니다.\n\n네이버 플레이스 '예약' 카테고리에서\n4구, 6구, 9구 선물 박스를 우선 예약 할 수 있으니\n참고하셔서 품절을 피해 스케줄에 맞춰 받아보세요.\n\n캐나다 R&B 듀오 DVSN의 영감을 받아\n과다 복용의 뜻을 가진 영단어 'OVERDOSE'를 줄여\n'OVDZ'라는 이름으로 2020년 2월 가오픈을 시작으로\n꾸준한 상승세로 현재 성수동과 서울숲 사이에 자리하고 있습니다.",
+  "Information_facilitie": [
+    "단체 이용 가능",
+    "무선 인터넷",
+    "포장",
+    "배달",
+    "예약",
+    "방문접수/출장"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "지역화폐 (카드형)",
+    "지역화폐 (모바일형)",
+    "제로페이",
+    "간편결제"
+  ],
+  "menu": [
+    {
+      "name": "피스타치오&라즈베리 도넛",
+      "price": "5500",
+      "description": "최고급 피스타치오 크림의 고소함과 새콤한 라즈베리 잼의 조합으로 오버도즈의 시그니쳐 도넛",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231112_178/1699779693499DCCPV_PNG/%C7%C7%BD%BA%C5%B8.png",
+        "https://ldb-phinf.pstatic.net/20231109_32/1699538118306USeWf_PNG/%C7%C7%BD%BA2.png"
+      ]
+    },
+    {
+      "name": "크렘브륄레 도넛",
+      "price": "5500",
+      "description": "마다가스카르산 고급 바닐라빈으로 매일 새벽 끓여 만드는 커스터드 크림이 가득한 베스트 도넛",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231112_27/1699779685857ofEu8_PNG/%C5%A9%B7%BD.png",
+        "https://ldb-phinf.pstatic.net/20231109_201/1699539429869aCdAg_PNG/%C5%A9%B7%BD2.png"
+      ]
+    },
+    {
+      "name": "제주 말차&솔트캐러멜 도넛",
+      "price": "5500",
+      "description": "유기농 제주 말차 크림과 수제 솔트 캐러멜의 조합으로 단짠단짠 캐미가 좋은 시그니처 도넛",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231112_133/16997796993459Xseb_PNG/%B8%BB%C2%F7.png",
+        "https://ldb-phinf.pstatic.net/20231109_62/169953829962543hrA_PNG/%B8%BB%C2%F72.png"
+      ]
+    },
+    {
+      "name": "옥수수 소보로 도넛",
+      "price": "5500",
+      "description": "소보로 크럼블 위 토치 된 옥수수와 고소한 옥수수 크림이 조화로운 시그니처 도넛",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231112_239/1699779675477NdDz1_PNG/%BF%C1%BC%F6.png",
+        "https://ldb-phinf.pstatic.net/20231112_132/1699779672039s0n35_PNG/%BF%C1%BC%F62.png"
+      ]
+    },
+    {
+      "name": "코코넛&블루베리 도넛",
+      "price": "5500",
+      "description": "풍미 깊은 코코넛 크림과 끝 맛을 잡아주는 블루베리 잼의 캐미가 뛰어난 스타일리시한 도넛",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231112_168/1699779705464ywdnk_PNG/%C4%DA%C4%DA.png",
+        "https://ldb-phinf.pstatic.net/20231109_29/1699539149841ESJXX_PNG/%C4%DA%C4%DA%B3%D32.png"
+      ]
+    },
+    {
+      "name": "우유 생크림 도넛",
+      "price": "5000",
+      "description": "담백한 우유 맛이 극대화 된 크림으로 남녀노소 모두 거부감 없이 먹을 수 있는 데일리 도넛",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231112_299/1699779713228lG2QY_PNG/%BF%EC%C0%AF.png",
+        "https://ldb-phinf.pstatic.net/20231109_162/1699538105289T8DKV_PNG/%BF%EC%C0%AF2.png"
+      ]
+    },
+    {
+      "name": "고구마 카스텔라",
+      "price": "5500",
+      "description": "달콤한 고구마 크림과 바닐라 카스텔라의 부드러움이 고구마 무스 케이크를 먹는듯한 도넛",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231112_15/1699779750571KAJsv_PNG/%B0%ED%B1%B8.png",
+        "https://ldb-phinf.pstatic.net/20231109_157/1699539695597wEFcN_PNG/%B0%ED%B1%B82.png"
+      ]
+    },
+    {
+      "name": "수제 얼그레이 도넛",
+      "price": "5500",
+      "description": "얼그레이 잎을 오랜시간 동안 직접 끓여 만든 향기로운 밀크티 향이 가득한 스페셜한 도넛",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231112_278/1699779734905hhiYk_PNG/%BE%F3%B1%D7.png",
+        "https://ldb-phinf.pstatic.net/20231109_202/16995392760968eVmS_PNG/%BE%F3%B1%D72.png"
+      ]
+    },
+    {
+      "name": "아몬드 초콜릿 도넛",
+      "price": "5500",
+      "description": "발로나 코코아로 만든 고급스러운 초콜릿 크림과 구운 아몬드의 식감이 조화로운 데일리 도넛",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231112_115/1699779742415GivIg_PNG/%C3%CA%C4%DA.png",
+        "https://ldb-phinf.pstatic.net/20231109_121/1699539569381HfSbW_PNG/%C3%CA%C4%DA2.png"
+      ]
+    },
+    {
+      "name": "레몬 페스티벌 도넛 (시즌메뉴)",
+      "price": "5500",
+      "description": "신선한 생 레몬의 껍질과 즙으로 수제로 만든\n레몬커드 크림이 가득한 상큼함이 터지는 도넛",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231112_181/16997797246791LJGW_PNG/%B7%B9%B8%F3.png",
+        "https://ldb-phinf.pstatic.net/20231112_18/16997797211403RjQv_PNG/%B7%B9%B8%F32.png"
+      ]
+    },
+    {
+      "name": "아메리카노",
+      "price": "4500",
+      "description": "초콜릿,호두 같은 플레이버와 무거운 바디감과 크리미한 텍스쳐의 H.P.R의 대표 원두",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231109_179/1699540753882W7t86_PNG/%BE%C6%B8%DE.png"
+      ]
+    },
+    {
+      "name": "라떼",
+      "price": "5000",
+      "description": "초콜릿,호두 같은 플레이버와 무거운 바디감과 크리미한 텍스쳐의 H.P.R의 대표 원두",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231109_10/1699540778638VfGJF_PNG/%B6%F3%B6%BC.png"
+      ]
+    },
+    {
+      "name": "앨더베리 퍼플 에이드",
+      "price": "6500",
+      "description": "엘더베리 잎을 24시간 냉침하여 수제로 만드는 오버도즈도넛 시그니처 에이드",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231109_7/16995402771490W1jG_PNG/%BF%A4%B4%F5.png"
+      ]
+    },
+    {
+      "name": "프루츠 마테 옐로우 에이드",
+      "price": "6500",
+      "description": "마테 잎을 24시간 냉침하여 수제로 만드는 오버도즈도넛 시그니처 에이드",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231109_282/1699540485792kLbBb_PNG/%B8%DE%B8%AE.png"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20250107_236/1736223891982zX9Tl_JPEG/IMG_5908.jpeg",
+    "https://ldb-phinf.pstatic.net/20240910_243/1725975293958jvdaC_JPEG/KakaoTalk_20240906_174435285_04.jpg",
+    "https://ldb-phinf.pstatic.net/20240910_60/17259752955615udb9_JPEG/KakaoTalk_20240906_174435285_06.jpg",
+    "https://ldb-phinf.pstatic.net/20250107_267/1736223489920H5RbC_JPEG/IMG_4895.jpeg",
+    "https://ldb-phinf.pstatic.net/20240910_89/1725975298434Is4lQ_JPEG/KakaoTalk_20240906_174435285_01.jpg",
+    "https://ldb-phinf.pstatic.net/20240910_66/17259753591558YfoH_JPEG/KakaoTalk_20240910_101919365_06.jpg",
+    "https://ldb-phinf.pstatic.net/20250107_260/1736223892031tm37P_JPEG/IMG_4860.jpeg",
+    "https://ldb-phinf.pstatic.net/20240910_129/1725975360749gaYlQ_JPEG/KakaoTalk_20240910_101919365.jpg",
+    "https://ldb-phinf.pstatic.net/20240910_12/17259752944124pR62_JPEG/KakaoTalk_20240906_174435285_05.jpg",
+    "https://ldb-phinf.pstatic.net/20240910_219/1725975297482uNwyy_JPEG/KakaoTalk_20240906_174435285_02.jpg",
+    "https://ldb-phinf.pstatic.net/20250107_223/1736223489945wIOpM_JPEG/IMG_4865_%281%29.jpeg",
+    "https://ldb-phinf.pstatic.net/20230427_115/1682522252523f9hja_JPEG/%C0%FC%C3%BC_%2810%29.jpg",
+    "https://ldb-phinf.pstatic.net/20210130_296/1611934620627Lps0k_JPEG/35ZsBYJ5NspQRI-Huf4buyLL.jpg",
+    "https://ldb-phinf.pstatic.net/20210130_214/1611934700779O24Pj_JPEG/nuqHAyrUP6tU8XfAoELFtS-6.jpg",
+    "https://ldb-phinf.pstatic.net/20210130_119/1611934701491rJhr5_JPEG/QILLXzmPabgD_PpOixmweUXQ.jpg",
+    "https://ldb-phinf.pstatic.net/20210130_189/1611934700920TcVIM_JPEG/PPJB3WW_sKR0V2UrNC6kuc9z.jpg",
+    "https://ldb-phinf.pstatic.net/20210130_250/1611934749128Uka58_JPEG/IPMud9byyghTp49FKIq9KPAY.jpg",
+    "https://ldb-phinf.pstatic.net/20210130_214/1611934749652cOc7P_JPEG/ZcPbVX0pMVDbEbW1R37Ov0cR.jpg",
+    "https://ldb-phinf.pstatic.net/20210130_153/16119347009530RUwy_JPEG/qbrA6WexoPc1aD9UZFcf6edV.jpg",
+    "https://ldb-phinf.pstatic.net/20210130_229/1611934700292xGefn_JPEG/ZHA6tDaS2YZqzoZY6shbq1rL.jpg",
+    "https://ldb-phinf.pstatic.net/20210130_24/1611934700280XvJYO_JPEG/fcwq7cSgZg_XJn5xqkIMZzCY.jpg",
+    "https://ldb-phinf.pstatic.net/20210130_129/1611934700328M4px4_JPEG/JdSWn0-__Lvt1O44ah4JcVGK.jpg",
+    "https://ldb-phinf.pstatic.net/20210130_32/1611934700915EnIn2_JPEG/rJ0w0sqB6jv1S7Yik83C-0Tq.jpg",
+    "https://ldb-phinf.pstatic.net/20210130_249/1611934749633Mu4ad_JPEG/W89dIFZoprP5hBdCpCfo_suF.jpg",
+    "https://ldb-phinf.pstatic.net/20210130_168/1611934749709HDk6A_JPEG/EUrI7_NWBhwz9y4eeQFg0pWp.jpg",
+    "https://ldb-phinf.pstatic.net/20210130_279/1611934749184bzhRE_JPEG/DXSHKa8HtgsaE-IfGXgv4s5A.jpg",
+    "https://ldb-phinf.pstatic.net/20210130_220/1611934749664hUWVL_JPEG/TFoA5uTVUFKqB4lOxKJpXwwK.jpg"
+  ]
+}

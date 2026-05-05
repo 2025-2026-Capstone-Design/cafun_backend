@@ -1,0 +1,300 @@
+{
+  "id": "1698816534",
+  "name": "마일스톤 커피 성수점",
+  "category": "카페,디저트",
+  "micro_review": [
+    "애플크럼블과 아이스크림의 달콤한 유혹"
+  ],
+  "road_address": "서울 성동구 서울숲4길 15 1층",
+  "address": "서울 성동구 성수동1가 668-101",
+  "lat": "127.0427691",
+  "lon": "37.5474087",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "10:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:30"
+        }
+      ]
+    },
+    {
+      "day": "토",
+      "start": "10:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:30"
+        }
+      ]
+    },
+    {
+      "day": "일",
+      "start": "10:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:30"
+        }
+      ]
+    },
+    {
+      "day": "월",
+      "start": "10:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:30"
+        }
+      ]
+    },
+    {
+      "day": "화",
+      "start": "10:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:30"
+        }
+      ]
+    },
+    {
+      "day": "수",
+      "start": "10:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:30"
+        }
+      ]
+    },
+    {
+      "day": "목",
+      "start": "10:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:30"
+        }
+      ]
+    }
+  ],
+  "virtual_phone_number": "0507-1487-1103",
+  "url": "https://smartstore.naver.com/milestonecoffee",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": true,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": true,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "맛있는 커피를 향한 이정표\n2014년 신사동과 압구정 사이 작은 골목길에서 시작한 호주식 로스터리 마일스톤의 세번째 공간입니다.\n매장에는 두가지 시그니처 블랜드 외 스페셜한 시즌 블랜드, 디카페인, 다양한 싱글오리진 라인업들이 준비되어 있습니다.\n선호하시는 취향에 따라 원두를 선택해보세요.\n\n누구나, 언제나, 편하게 들어와 맛있는 커피를 즐길 수 있는 곳입니다.\n진심을 담은 커피 한 잔으로 정을 나누는 곳입니다.\n늘 맛있고 친절한 곳으로 최선을 다하겠습니다.",
+  "Information_facilitie": [
+    "포장",
+    "배달",
+    "무선 인터넷",
+    "반려동물 동반"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "제로페이"
+  ],
+  "menu": [
+    {
+      "name": "비엔나커피",
+      "price": "6500",
+      "description": "달콤한 수제 크림이 올라가는 마일스톤만의 비엔나커피",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230614_106/1686729703571u6LbC_JPEG/IMG_1119.jpg"
+      ]
+    },
+    {
+      "name": "카페라떼",
+      "price": "5500",
+      "description": "라떼 맛집 마일스톤의 부드러운 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230614_227/16867295209653zfDE_JPEG/IMG_1147.jpg"
+      ]
+    },
+    {
+      "name": "버터파이쿠키",
+      "price": "4800",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "뺑 스위스(Weekend)",
+      "price": "5500",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "바나나 브레드 & 에스프레소 버터",
+      "price": "5500",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "브라우니 크럼블 & 아이스크림",
+      "price": "8000",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "애플크럼블&아이스크림",
+      "price": "7500",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "콜드브루 바닐라 라떼",
+      "price": "6500",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "콜드브루",
+      "price": "6000",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "에스프레소",
+      "price": "4500",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "피그원무화과차",
+      "price": "5800",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "아르테미스백차",
+      "price": "5800",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "케이티디드백차",
+      "price": "5800",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "수제마스카포네티라미수",
+      "price": "8500",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "초콜릿밀크",
+      "price": "6500",
+      "description": "직접 만드는 수제초콜릿 소스가 들어가 카카오의 쌉싸름함과 달콤함이 조화로운 초콜릿밀크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230614_174/1686729838472nYG9d_JPEG/IMG_1137.jpg"
+      ]
+    },
+    {
+      "name": "레몬 머틀 소다",
+      "price": "6500",
+      "description": "레몬머틀 허브잎이 들어가 상큼하고 청량한 레몬에이드",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230614_295/1686729782474ybktx_JPEG/IMG_1140.jpg"
+      ]
+    },
+    {
+      "name": "아몬드라떼",
+      "price": "6000",
+      "description": "아몬드시럽이 들어가 견과류처럼 고소하면서도 달콤한 풍미가 매력적인 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230614_70/1686729658190ofNIJ_JPEG/IMG_1099.jpg"
+      ]
+    },
+    {
+      "name": "바닐라빈라떼",
+      "price": "6000",
+      "description": "바닐라빈으로 직접 만든 수제 시럽이 들어가 인위적인 향미없이 깔끔하고 달콤한 풍미의 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230614_147/1686729591427yNqN9_JPEG/IMG_1099.jpg"
+      ]
+    },
+    {
+      "name": "아메리카노",
+      "price": "5000",
+      "description": "2가지 시그니처 블랜드로 즐길 수 있는 마일스톤만의 아메리카노",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230614_39/1686729414720dY7g3_JPEG/IMG_1100.jpg"
+      ]
+    },
+    {
+      "name": "호주식 카푸치노",
+      "price": "5800",
+      "description": "달지 않은 카카오 파우더 위에 라떼아트가 올라가는 호주식 카푸치노",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230614_80/1686729276204Iv1Mw_JPEG/IMG_1116.jpg"
+      ]
+    },
+    {
+      "name": "플랫화이트",
+      "price": "5500",
+      "description": "일반 라떼보다 플랫하게 우유 폼이 올라가 에스프레소의 풍미를 더 느낄 수 있는 호주식 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230614_188/1686729292010P1Mpm_JPEG/IMG_1130.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20230608_261/1686213702315mlHe1_JPEG/IMG_0665.jpg"
+  ]
+}

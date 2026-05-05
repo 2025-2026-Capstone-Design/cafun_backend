@@ -1,0 +1,372 @@
+{
+  "id": "1085945481",
+  "name": "브루크 성수",
+  "category": "카페,디저트",
+  "micro_review": [
+    "부드럽고 달콤한 티라미수 디저트 천국"
+  ],
+  "road_address": "서울 성동구 뚝섬로15길 29-1 1층 브루크",
+  "address": "서울 성동구 성수동2가 256-4",
+  "lat": "127.061911",
+  "lon": "37.5391941",
+  "business_hours": [
+    {
+      "day": "매일",
+      "start": "11:00",
+      "end": "24:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "23:30"
+        }
+      ]
+    }
+  ],
+  "virtual_phone_number": "0507-1386-9871",
+  "url": "https://www.instagram.com/brewccoffee_kor",
+  "convenience": {
+    "주차": true,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": true,
+    "단체 이용 가능": true,
+    "대기공간": true,
+    "간편결제": true,
+    "반려동물 동반": true,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "브루크(BREWC)는\n이탈리아로 신혼여행을 다녀온 부부가 유럽의 공간과 문화를 재현하고자 만든 카페입니다\n\n브루크는 한 잔 한 잔 정성껏 추출한 커피와 수제 디저트와 대표 메뉴인 아몬드 크림 아인슈페너와 티라미수를 비롯해, 부드럽고 깊은 맛의 커피를 즐길 수 있습니다.\n저녁 6시 이후부터는 와인도 같이 즐길 수 있습니다.\n\n실제 유럽에서 사용된 오래된 가구들을 보면\n그 시절 쓰임새의 흔적이 묻어나\n어떤 생활을 하였는지 짐작하고 상상하게 됩니다\n\n브루크의 가장 큰 액자는 천장에 위치한\n이탈리아 화가, 피에트로 다 코르토나의\n[신의 섭리와 바르베리니의 힘의 우화]\n- 바르베리니의 승리 의 그림인데요\n\n바로크 양식 특유의 화려하고 웅장한 내부를 자랑하는 바르베리니 궁전 안에 그림이 위치하고 있습니다\n아래에서 바라보면 작품 속의 인물들은 하늘로 솟구치거나 방 안으로 내려오는 듯 보입니다\n불멸을 의인화 한 여인은 왼쪽 아래에서부터 날아와 별로 만들어진 왕관을 전달하고 있고요. 왕관을 수여함은 가문의 영광이 영원할 것임을 암시합니다.\n\n여행에서 깊이 느낀 영원한 마음이 브루크에 담겨지기를 바랬습니다.\n\n화장실 인테리어에도 애써 집중한 이유는\n브루크의 모든 공간이 손님들께\n특별하게 기억에 되기를 바래서 입니다.\n유럽 어느 저택, 곳곳에서 느꼈던 향수 같은 기억을 사장 부부는 종종 회상하곤 합니다\n그들의 생활과 습관마저 화장실 속에 담겨있더라고요\n공간은 사람의 버릇까지도 바꿔놓고요\n문을 나서기 전 가지런히 정돈된 모습, 기분 좋은 향, 흉내가 아닌 마음이 담긴 곳의 공간을 즐기시기 바랍니다.\n\n브루크에 방문해주시는 모든 손님들께서\n고즈넉한 이태리 주택의 응접실을 카페를 통해 만끽하시기 바랍니다.",
+  "Information_facilitie": [
+    "와인 페어링",
+    "테이크아웃 할인",
+    "포장",
+    "반려동물 동반",
+    "무선 인터넷",
+    "남/녀 화장실 구분",
+    "단체 이용 가능",
+    "대기공간",
+    "출입구 휠체어 이용가능",
+    "좌석 휠체어 이용가능"
+  ],
+  "parking_info": {
+    "__typename": "InformationBasicParking",
+    "isFree": false,
+    "normalFeeDescription": "최초 60분 4,000원",
+    "extraFeeDescription": "추가 요금 15분당 1,000원, 최대 22,000원"
+  },
+  "payment_info": [
+    "지역화폐 (지류형)",
+    "지역화폐 (카드형)",
+    "지역화폐 (모바일형)",
+    "제로페이",
+    "간편결제"
+  ],
+  "menu": [
+    {
+      "name": "브루크 (Einspanner)",
+      "price": "7000",
+      "description": "수제 아몬드 크림이 올라간 브루크 시그니처 커피 (서울 3대 아인슈페너)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240917_267/1726567533225RREUt_JPEG/SIZN7681-%C7%E2%BB%F3%B5%CA-%B3%EB%C0%CC%C1%EE_%B0%A8%BC%D2.jpg"
+      ]
+    },
+    {
+      "name": "티라미수 (Tiramisu)",
+      "price": "14500",
+      "description": "찐 마스카포네 치즈와 콜드브루가 가미된 브루크의 수제 티라미수 (한정 수량)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240917_171/1726568195533BWxUk_JPEG/SIZN7894-%C7%E2%BB%F3%B5%CA-%B3%EB%C0%CC%C1%EE_%B0%A8%BC%D2.jpg"
+      ]
+    },
+    {
+      "name": "에스프레소 (Espresso)",
+      "price": "6000",
+      "description": "*원두 선택\n브루썸-파인애플, 망고, 체다치즈\n긱-카카오, 초콜릿\n디카페인-카라멜, 감귤",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251020_257/1760931846203l2S7n_JPEG/September%2B15-%2B2025%2B23.14%2B2.JPG"
+      ]
+    },
+    {
+      "name": "아메리카노 (Americano)",
+      "price": "6000",
+      "description": "*원두 선택\n브루썸-파인애플, 망고, 체다치즈\n긱-카카오, 초콜릿\n디카페인-카라멜, 감귤",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240917_242/1726568046725g3c2r_JPEG/SIZN7690-%C7%E2%BB%F3%B5%CA-%B3%EB%C0%CC%C1%EE_%B0%A8%BC%D2.jpg"
+      ]
+    },
+    {
+      "name": "라떼 (Latte)",
+      "price": "6500",
+      "description": "단맛과 미디엄 바디감의 밸런스를 느낄 수 있는 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240917_129/1726568950530WsGPx_JPEG/SIZN7705-%C7%E2%BB%F3%B5%CA-%B3%EB%C0%CC%C1%EE_%B0%A8%BC%D2.jpg"
+      ]
+    },
+    {
+      "name": "카푸치노 (Cappuccino)",
+      "price": "7000",
+      "description": "시나몬의 향긋하고 부드럽게 즐기는 라떼 (only hot)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251104_179/1762255142923ShxdJ_JPEG/%C4%AB%C7%AA%C4%A1%B3%EB.jpg"
+      ]
+    },
+    {
+      "name": "바닐라오트밀크",
+      "price": "8000",
+      "description": "오트밀크의 고소함과 바닐라의 달달함을 같이 즐길 수 있는 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250330_175/1743309930915zGIHH_JPEG/%B9%D9%B4%D2%B6%F3%BF%C0%C6%AE%B6%F3%B6%BC_%281%29.jpeg"
+      ]
+    },
+    {
+      "name": "아몬드오트밀크",
+      "price": "8000",
+      "description": "오트밀크의 고소함과 아몬드의 고소함을 같이 즐길 수 있는 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251207_59/17650679992034ShH3_JPEG/1752408503798.jpg"
+      ]
+    },
+    {
+      "name": "자몽에이드 / 티",
+      "price": "6500",
+      "description": "달콤상쾌함이 느껴지는 자몽이 들어간 에이드 / 티 (ade / tea)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250924_108/1758687288738y56SP_JPEG/KakaoTalk_20250924_124936294.jpg"
+      ]
+    },
+    {
+      "name": "교토우지말차 (Matchalatte)",
+      "price": "7000",
+      "description": "교토우지말차라떼 (Kyoto Uji Matcha Latte)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251104_150/1762249196917w1PoE_JPEG/%B1%B3%C5%E4%BF%EC%C1%F6%B8%BB%C2%F7.jpg"
+      ]
+    },
+    {
+      "name": "말차쇼콜라라떼",
+      "price": "7000",
+      "description": "교토우지말차와 쇼콜라의 만남",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251207_132/176506819041493Gi8_JPEG/1000033821.jpg"
+      ]
+    },
+    {
+      "name": "쇼콜라라떼",
+      "price": "7000",
+      "description": "쫀득한 다크 초콜릿의 맛을 담은 음료",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240917_13/1726568140947ex9q4_JPEG/SIZN7750-%C7%E2%BB%F3%B5%CA-%B3%EB%C0%CC%C1%EE_%B0%A8%BC%D2.jpg"
+      ]
+    },
+    {
+      "name": "브루크 밀크티",
+      "price": "7500",
+      "description": "비정제 설탕으로 단맛을 잡고 얼그레이 크렘티로 만든 시그니처 밀크티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240917_51/172656815634210i5o_JPEG/SIZN7757-%C7%E2%BB%F3%B5%CA-%B3%EB%C0%CC%C1%EE_%B0%A8%BC%D2.jpg"
+      ]
+    },
+    {
+      "name": "바스크 치케",
+      "price": "8000",
+      "description": "고온에서 짧게 구워 겉면은 스모키하고 속은 크리미한 특징의 바스크 치즈 케이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250916_28/1757995384634YcSf5_JPEG/1757992579809.jpg"
+      ]
+    },
+    {
+      "name": "레드 벨케 (Red velke)",
+      "price": "8500",
+      "description": "달콤함과 은은하게 퍼지는 초콜릿향이 느껴지는 레드벨벳 케이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250930_275/1759205167168xyvYn_JPEG/20250930_121348.jpg"
+      ]
+    },
+    {
+      "name": "티라미수 아이스크림",
+      "price": "9200",
+      "description": "찐 마스카포네 치즈와 콜드브루가 가미된 브루크의 수제 티라미수 아이스크림 (한정 수량)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250714_145/1752472939569UGq1c_JPEG/KakaoTalk_20250714_150128071.jpg"
+      ]
+    },
+    {
+      "name": "밀크 쇼콜라 (Milk)",
+      "price": "1200",
+      "description": "수제 밀크 파베 초콜릿\n(개당 가격)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240917_53/1726568356047MpzI3_JPEG/SIZN7987-%C7%E2%BB%F3%B5%CA-%B3%EB%C0%CC%C1%EE_%B0%A8%BC%D2-min.jpg"
+      ]
+    },
+    {
+      "name": "말차 쇼콜라 (Matcha)",
+      "price": "1200",
+      "description": "수제 말차 파베 초콜릿\n(개당 가격)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240917_233/1726568378797Vn8jo_JPEG/SIZN7987-%C7%E2%BB%F3%B5%CA-%B3%EB%C0%CC%C1%EE_%B0%A8%BC%D2-min.jpg"
+      ]
+    },
+    {
+      "name": "인절미 쇼콜라 (Injeolmi)",
+      "price": "1200",
+      "description": "수제 인절미 파베 초콜릿\n(개당 가격)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240917_72/1726568369877lValI_JPEG/SIZN7987-%C7%E2%BB%F3%B5%CA-%B3%EB%C0%CC%C1%EE_%B0%A8%BC%D2-min.jpg"
+      ]
+    },
+    {
+      "name": "브루썸 원두 200g",
+      "price": "28000",
+      "description": "브루썸 원두 200g\n(Brew Sum beans 200g)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251105_275/1762329364261hVjt1_PNG/%BA%EA%B7%E7%BD%E6.png"
+      ]
+    },
+    {
+      "name": "긱 원두 200g",
+      "price": "16000",
+      "description": "긱 원두 200g\n(Geek beans 200g)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251105_155/17623294337942tCTp_PNG/%B1%E3.png"
+      ]
+    },
+    {
+      "name": "디카페인 원두 200g",
+      "price": "20000",
+      "description": "디카페인 원두 200g\n(Decaf beans 200g)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251105_158/1762329483102tPilc_PNG/%B5%F0%C4%AB%C6%E4%C0%CE.png"
+      ]
+    },
+    {
+      "name": "하우스 와인 (House wine)",
+      "price": "15000",
+      "description": "소믈리에가 추천하는 이 달의 Weekly wine",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251023_146/1761205238988lBaIq_JPEG/KakaoTalk_20251023_163835461_03_%281%29.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20251107_162/1762511073350Stfg7_JPEG/%B4%EB%C1%F6_1-100.jpg",
+    "https://ldb-phinf.pstatic.net/20251219_271/1766119683371INHiF_JPEG/1000033778.jpg",
+    "https://ldb-phinf.pstatic.net/20251108_153/1762591272183kagOI_JPEG/1000032826.jpg",
+    "https://ldb-phinf.pstatic.net/20240920_206/1726826966388RJtlo_JPEG/%C6%BC%B6%F3%B9%CC%BC%F6.jpg",
+    "https://ldb-phinf.pstatic.net/20240917_117/17265684683111tldx_JPEG/SIZN7802-%C7%E2%BB%F3%B5%CA-%B3%EB%C0%CC%C1%EE_%B0%A8%BC%D2.jpg",
+    "https://ldb-phinf.pstatic.net/20250927_169/1758949946377TCSXO_JPEG/Screenshot_20250714_123959_Gallery.jpg",
+    "https://ldb-phinf.pstatic.net/20251204_179/1764825184817a27gf_JPEG/1000033643.jpg",
+    "https://ldb-phinf.pstatic.net/20250314_265/174192774332114RKn_JPEG/%BA%EA%B7%E7%C5%A9_%BF%DC%B0%FC2.jpg",
+    "https://naverbooking-phinf.pstatic.net/20251023_52/1761206206177QzPjR_JPEG/KakaoTalk_20251023_163835461_04.jpg",
+    "https://ldb-phinf.pstatic.net/20251104_135/1762250112771tiEey_JPEG/%B1%B3%C5%E4%BF%EC%C1%F6%B8%BB%C2%F7.jpg",
+    "https://ldb-phinf.pstatic.net/20251103_71/1762164107047yV9U1_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2025-11-03_190138.png",
+    "https://naverbooking-phinf.pstatic.net/20251023_178/1761206206063NpQcb_JPEG/KakaoTalk_20251023_163835461_02.jpg",
+    "https://naverbooking-phinf.pstatic.net/20251023_232/17612062062802YKdu_JPEG/KakaoTalk_20251023_163835461_05.jpg",
+    "https://ldb-phinf.pstatic.net/20240920_260/1726826965083BFWJi_JPEG/%BA%EA%B7%E7%C5%A9.jpg",
+    "https://ldb-phinf.pstatic.net/20250706_113/1751786964299Veohs_JPEG/KakaoTalk_20250706_162849493_03.jpg",
+    "https://ldb-phinf.pstatic.net/20250706_91/1751786964211oKR1E_JPEG/KakaoTalk_20250706_162849493_06.jpg",
+    "https://ldb-phinf.pstatic.net/20250706_230/17517869642766pvph_JPEG/KakaoTalk_20250706_162849493_04.jpg",
+    "https://ldb-phinf.pstatic.net/20250706_193/17517869642277ytg2_JPEG/KakaoTalk_20250706_162849493_05.jpg",
+    "https://ldb-phinf.pstatic.net/20250706_237/17517869642838oWgw_JPEG/KakaoTalk_20250706_162849493_02.jpg",
+    "https://ldb-phinf.pstatic.net/20250706_153/1751786963766vtV1A_JPEG/KakaoTalk_20250706_162849493.jpg",
+    "https://ldb-phinf.pstatic.net/20250706_170/1751786964218D06oE_JPEG/KakaoTalk_20250706_162849493_01.jpg",
+    "https://ldb-phinf.pstatic.net/20240917_93/1726568500490zIiPX_JPEG/SIZN8015-%C7%E2%BB%F3%B5%CA-%B3%EB%C0%CC%C1%EE_%B0%A8%BC%D2.jpg",
+    "https://ldb-phinf.pstatic.net/20250330_62/1743310416373degko_JPEG/20250330_125713.jpg",
+    "https://ldb-phinf.pstatic.net/20250314_28/17419278186460AVTv_JPEG/DSC_1932.jpg",
+    "https://ldb-phinf.pstatic.net/20250314_268/1741927715438dIGyS_JPEG/%BA%EA%B7%E7%C5%A9_%B3%BB%BA%CE1.jpg",
+    "https://ldb-phinf.pstatic.net/20250314_267/1741927720303v47T1_JPEG/%BA%EA%B7%E7%C5%A9_%BF%DC%B0%FC1.jpg",
+    "https://ldb-phinf.pstatic.net/20250330_20/1743310356649uQujI_JPEG/%BB%FE%C4%C9%B6%F3%B6%C7.jpeg",
+    "https://ldb-phinf.pstatic.net/20240920_149/1726826965442iLCnq_JPEG/%BA%EA%B7%E7.jpg",
+    "https://ldb-phinf.pstatic.net/20240920_273/17268271418459I4vU_JPEG/SIZN7987-%C7%E2%BB%F3%B5%CA-%B3%EB%C0%CC%C1%EE_%B0%A8%BC%D2-min.jpg",
+    "https://ldb-phinf.pstatic.net/20240920_278/1726826965424dWHpp_JPEG/%BA%EA%B7%E7%B9%D0.jpg",
+    "https://ldb-phinf.pstatic.net/20240920_213/1726826966277kp9q1_JPEG/%C4%C5_%C6%BC%B6%F3%B9%CC%BC%F6.jpg",
+    "https://ldb-phinf.pstatic.net/20240920_152/1726826965341a2Lkd_JPEG/%BA%EA%B7%E7%B5%B9%C3%BC.jpg",
+    "https://ldb-phinf.pstatic.net/20240920_251/1726826965229Tl26j_JPEG/%C3%BB%B1%D6%BF%A1%C0%CC%B5%E5.jpg",
+    "https://ldb-phinf.pstatic.net/20240920_148/1726826965339rNfP5_JPEG/%B9%D0%C5%A9%C6%BC.jpg",
+    "https://ldb-phinf.pstatic.net/20240920_282/17268269652611kiIP_JPEG/%C3%CA%C4%DD%B8%B4%B6%F3%B6%BC.jpg",
+    "https://ldb-phinf.pstatic.net/20250314_176/1741927816627HOwOQ_JPEG/DSC_1927.jpg",
+    "https://ldb-phinf.pstatic.net/20250314_23/1741927824885UM8PV_JPEG/DSC_1986.jpg",
+    "https://ldb-phinf.pstatic.net/20250314_80/174192781939025uCA_JPEG/DSC_1915.jpg",
+    "https://ldb-phinf.pstatic.net/20250314_32/1741927819839XVdHB_JPEG/DSC_1931.jpg",
+    "https://ldb-phinf.pstatic.net/20250314_214/17419278181562CdOa_JPEG/DSC_1907.jpg",
+    "https://ldb-phinf.pstatic.net/20250314_63/1741927821125OfGKa_JPEG/DSC_1934.jpg",
+    "https://ldb-phinf.pstatic.net/20250314_270/1741927810520FC6WF_JPEG/DSC_1936.jpg",
+    "https://ldb-phinf.pstatic.net/20250314_26/1741927823264fLImC_JPEG/DSC_1919.jpg",
+    "https://ldb-phinf.pstatic.net/20250314_165/1741927823223EEUE1_JPEG/DSC_1935.jpg",
+    "https://ldb-phinf.pstatic.net/20250314_126/1741927819071fvQOS_JPEG/DSC_1933.jpg",
+    "https://ldb-phinf.pstatic.net/20250314_141/1741927823887LHSvn_JPEG/DSC_1987.jpg",
+    "https://ldb-phinf.pstatic.net/20250314_117/1741927823131vQKKF_JPEG/DSC_1938.jpg",
+    "https://ldb-phinf.pstatic.net/20250314_187/1741927823115KXw5N_JPEG/DSC_1911.jpg",
+    "https://ldb-phinf.pstatic.net/20250314_230/1741927822192rV8mK_JPEG/DSC_1922.jpg",
+    "https://ldb-phinf.pstatic.net/20250314_168/1741927818572B3L6q_JPEG/DSC_1910.jpg",
+    "https://ldb-phinf.pstatic.net/20250314_3/1741927748127MIaLB_JPEG/%BA%EA%B7%E7%C5%A9_%C8%AD%C0%E5%BD%C71.jpg",
+    "https://ldb-phinf.pstatic.net/20250314_295/1741927746822XjLXF_JPEG/%BA%EA%B7%E7%C5%A9_%C8%AD%C0%E5%BD%C72.jpg",
+    "https://ldb-phinf.pstatic.net/20250314_143/1741927716524FdgIE_JPEG/%BA%EA%B7%E7%C5%A9_%B3%BB%BA%CE2.jpg",
+    "https://ldb-phinf.pstatic.net/20240920_278/1726826977445MhpCc_JPEG/A7400316.jpg",
+    "https://ldb-phinf.pstatic.net/20240920_39/1726826977628i2Dva_JPEG/A7400326.jpg",
+    "https://ldb-phinf.pstatic.net/20240920_242/1726826977720K8ChN_JPEG/A7400328.jpg",
+    "https://ldb-phinf.pstatic.net/20240920_38/1726826977824H80uJ_JPEG/A7400346.jpg",
+    "https://ldb-phinf.pstatic.net/20240909_7/172585556372092r6a_JPEG/A7400331.jpg",
+    "https://ldb-phinf.pstatic.net/20240701_203/17197949696834BvVO_JPEG/1000005295.jpg",
+    "https://ldb-phinf.pstatic.net/20240701_221/1719794971170bx8RA_JPEG/1000005270.jpg",
+    "https://ldb-phinf.pstatic.net/20240906_164/1725605818839di0xn_JPEG/Screenshot_20240906_155135_Gallery.jpg",
+    "https://ldb-phinf.pstatic.net/20240906_84/1725605834548WshEL_JPEG/IMG_7301.JPG",
+    "https://ldb-phinf.pstatic.net/20240806_269/1722932971283dfxOW_JPEG/20240802_130718.jpg",
+    "https://ldb-phinf.pstatic.net/20240830_191/1725014001322d3yXj_JPEG/IMG_20240711_173017_220.jpg",
+    "https://ldb-phinf.pstatic.net/20240729_242/1722221030072jMSKy_JPEG/20240729_105935.jpg",
+    "https://ldb-phinf.pstatic.net/20240806_226/1722932971370NQRfc_JPEG/20240802_130449.jpg",
+    "https://ldb-phinf.pstatic.net/20240806_45/1722932971370XVzuw_JPEG/20240802_130850.jpg",
+    "https://ldb-phinf.pstatic.net/20240830_60/1725014001125eOYkc_JPEG/IMG_20240725_140324_564.jpg",
+    "https://ldb-phinf.pstatic.net/20240831_65/1725073737812Rqkbc_JPEG/Picsart_24-08-30_23-03-30-371.jpg",
+    "https://ldb-phinf.pstatic.net/20240830_240/1725014003008HDaEC_JPEG/20240710_202733.jpg",
+    "https://ldb-phinf.pstatic.net/20240906_219/1725605831695YyBm5_JPEG/IMG_7317.JPG",
+    "https://ldb-phinf.pstatic.net/20240906_38/1725605819087MJACt_JPEG/1723449607065.jpg",
+    "https://ldb-phinf.pstatic.net/20240830_15/1725014001278qYR3s_JPEG/IMG_20240728_173341_287.jpg",
+    "https://ldb-phinf.pstatic.net/20240701_246/1719794968831vOLE3_JPEG/1000005322.jpg",
+    "https://ldb-phinf.pstatic.net/20240906_269/17256058236843xqQL_JPEG/IMG_7298.JPG",
+    "https://ldb-phinf.pstatic.net/20240906_135/1725605833622Ujsn1_JPEG/IMG_7302.JPG",
+    "https://ldb-phinf.pstatic.net/20240906_299/1725605835563UEv2B_JPEG/IMG_7303.JPG",
+    "https://ldb-phinf.pstatic.net/20240906_125/1725605835258RgRYT_JPEG/IMG_7316.JPG",
+    "https://ldb-phinf.pstatic.net/20240906_35/1725605834599iD0o7_JPEG/IMG_7318.JPG",
+    "https://ldb-phinf.pstatic.net/20240906_141/1725605834543iTgEC_JPEG/IMG_7319.JPG",
+    "https://ldb-phinf.pstatic.net/20250314_112/1741927822813DNp50_JPEG/DSC_1923.jpg",
+    "https://ldb-phinf.pstatic.net/20240906_33/1725605833798sQWmR_JPEG/IMG_7321.JPG",
+    "https://ldb-phinf.pstatic.net/20240906_238/1725605831764eDPCO_JPEG/IMG_7325.JPG",
+    "https://ldb-phinf.pstatic.net/20240709_257/1720522296162oupBn_JPEG/1000005754.jpg",
+    "https://ldb-phinf.pstatic.net/20240830_86/1725014003076COs5N_JPEG/20240710_202927.jpg",
+    "https://ldb-phinf.pstatic.net/20240709_247/1720522294501DUIyV_JPEG/1000005631.jpg",
+    "https://ldb-phinf.pstatic.net/20240709_172/1720522296363uOMLi_JPEG/1000005608.jpg",
+    "https://ldb-phinf.pstatic.net/20240709_184/1720522302017FIm7z_JPEG/1000005616.jpg",
+    "https://ldb-phinf.pstatic.net/20240709_230/17205223022798fKVG_JPEG/1000005627.jpg",
+    "https://ldb-phinf.pstatic.net/20240701_50/1719794969179TYUdT_JPEG/1000005320.jpg",
+    "https://ldb-phinf.pstatic.net/20240701_177/1719794968138ma8zl_JPEG/1000005303.jpg",
+    "https://ldb-phinf.pstatic.net/20240701_197/17197949691479i4X7_JPEG/1000005302.jpg",
+    "https://ldb-phinf.pstatic.net/20240701_140/1719794970914PWooy_JPEG/1000005268.jpg",
+    "https://ldb-phinf.pstatic.net/20240701_32/1719794968263rmPUO_JPEG/1000005301.jpg",
+    "https://ldb-phinf.pstatic.net/20240701_275/1719794968421EjChJ_JPEG/1000005300.jpg",
+    "https://ldb-phinf.pstatic.net/20240701_168/1719794968198k58E3_JPEG/1000005297.jpg",
+    "https://ldb-phinf.pstatic.net/20240625_89/1719285848626WqD0Y_JPEG/1000005151.jpg",
+    "https://ldb-phinf.pstatic.net/20240701_273/17197949707501pLdC_JPEG/1000005296.jpg",
+    "https://ldb-phinf.pstatic.net/20240701_1/1719794968780wVGCR_JPEG/1000005294.jpg",
+    "https://ldb-phinf.pstatic.net/20240701_109/17197949707923E1D9_JPEG/1000005271.jpg",
+    "https://ldb-phinf.pstatic.net/20240701_18/1719794970720vSYyX_JPEG/1000005273.jpg",
+    "https://ldb-phinf.pstatic.net/20240701_174/1719794971614sOI5R_JPEG/1000005174.jpg"
+  ]
+}

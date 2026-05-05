@@ -1,0 +1,257 @@
+{
+  "id": "2005201385",
+  "name": "매머드익스프레스 서울숲한라시그마밸리1차점",
+  "category": "카페",
+  "micro_review": null,
+  "road_address": "서울 성동구 성수이로 51 1층 104A호",
+  "address": "서울 성동구 성수동2가 325-2",
+  "lat": "127.0552481",
+  "lon": "37.5402768",
+  "business_hours": [
+    {
+      "day": "토",
+      "start": "09:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "19:50"
+        }
+      ]
+    },
+    {
+      "day": "일",
+      "start": "09:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "19:50"
+        }
+      ]
+    },
+    {
+      "day": "월",
+      "start": "07:30",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "19:50"
+        }
+      ]
+    },
+    {
+      "day": "화",
+      "start": "07:30",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "19:50"
+        }
+      ]
+    },
+    {
+      "day": "수",
+      "start": "07:30",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "19:50"
+        }
+      ]
+    },
+    {
+      "day": "목(12/25)",
+      "start": "09:00",
+      "end": "20:00",
+      "breakHours": null,
+      "description": "성탄절",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "금",
+      "start": "07:30",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "19:50"
+        }
+      ]
+    }
+  ],
+  "virtual_phone_number": "0507-1448-3902",
+  "url": null,
+  "convenience": {
+    "주차": true,
+    "발렛파킹": false,
+    "무선 인터넷": false,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": true,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "안녕하세요! 매머드익스프레스 서울숲 한라시그마밸리 1차점입니다.",
+  "Information_facilitie": [
+    "포장"
+  ],
+  "parking_info": {
+    "__typename": "InformationBasicParking",
+    "isFree": true,
+    "normalFeeDescription": null,
+    "extraFeeDescription": null
+  },
+  "payment_info": [
+    "간편결제"
+  ],
+  "menu": [
+    {
+      "name": "자바칩프라페",
+      "price": "4500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250616_290/1750037580226y49vW_PNG/%C0%DA%B9%D9%C4%A8%C7%C1%B6%F3%C6%E4.png"
+      ]
+    },
+    {
+      "name": "민트초코프라페",
+      "price": "4500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250616_148/1750037565330mdzO5_PNG/%B9%CE%C6%AE%C3%CA%C4%DA%C7%C1%B6%F3%C6%E4.png"
+      ]
+    },
+    {
+      "name": "피스타치오아몬드프라페",
+      "price": "4500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250616_194/1750037552518cOTJb_PNG/%C7%C7%BD%BA%C5%B8%C4%A1%BF%C0%BE%C6%B8%F3%B5%E5%C7%C1%B6%F3%C6%E4.png"
+      ]
+    },
+    {
+      "name": "콜드브루커피프라페",
+      "price": "4500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250616_205/1750037532893j1pIA_PNG/%C4%DD%B5%E5%BA%EA%B7%E7%C4%BF%C7%C7%C7%C1%B6%F3%C6%E4.png"
+      ]
+    },
+    {
+      "name": "레몬밤민트티",
+      "price": "3500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250616_6/1750037478344zQs3J_PNG/%B7%B9%B8%F3%B9%E3%B9%CE%C6%AE%C6%BC.png"
+      ]
+    },
+    {
+      "name": "로얄밀크티",
+      "price": "3500",
+      "description": "M-3,500\nL-5,000",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250616_181/1750037443091e7qbU_PNG/%B7%CE%BE%E2%B9%D0%C5%A9%C6%BC.png"
+      ]
+    },
+    {
+      "name": "돌체콜드브루라떼",
+      "price": "3500",
+      "description": "S-2,800\nM-3,500\nL-5,500",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250616_95/1750037400576SHNTl_PNG/%B5%B9%C3%BC%C4%DD%B5%E5%BA%EA%B7%E7%B6%F3%B6%BC.png"
+      ]
+    },
+    {
+      "name": "카페모카",
+      "price": "3300",
+      "description": "S-2,700\nM-3,300\nL-5,400",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250616_164/1750037338374MDQ1U_PNG/%C4%AB%C6%E4%B8%F0%C4%AB%28%C8%D6%C7%CEX%29.png"
+      ]
+    },
+    {
+      "name": "아이스티",
+      "price": "3000",
+      "description": "M-3,000\nL-4,000",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250616_59/1750037302054zcHIJ_PNG/%BE%C6%C0%CC%BD%BA%C6%BC.png"
+      ]
+    },
+    {
+      "name": "아샷추아이스티",
+      "price": "3400",
+      "description": "M-3,400\nL-4,400",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250616_9/1750037274450kq1zP_PNG/%BE%C6%BC%A6%C3%DF.png"
+      ]
+    },
+    {
+      "name": "베트남연유커피",
+      "price": "3300",
+      "description": "S-2,600\nM-3,300",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250616_118/1750037228852W3W26_PNG/%BA%A3%C6%AE%B3%B2%BF%AC%C0%AF%C4%BF%C7%C7%28msize%29.png"
+      ]
+    },
+    {
+      "name": "꿀커피",
+      "price": "2300",
+      "description": "S-1,800\nM-2,300\nL-3,500",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250616_221/1750037172104Jokti_PNG/%B2%DC%C4%BF%C7%C7.png"
+      ]
+    },
+    {
+      "name": "아메리카노",
+      "price": "1600",
+      "description": "S-1,200원\nM-1,600원\nL - 3,000원",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250609_292/17494321097741SgIb_PNG/%BE%C6%B8%DE%B8%AE%C4%AB%B3%EB.png"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20250616_262/1750036948870MSgmJ_JPEG/KakaoTalk_Photo_2025-06-09-10-06-13_001.jpeg",
+    "https://ldb-phinf.pstatic.net/20250609_220/1749431971878aJpB3_JPEG/KakaoTalk_Photo_2025-06-09-10-06-14_003.jpeg",
+    "https://ldb-phinf.pstatic.net/20250616_132/17500369748056LShD_JPEG/KakaoTalk_Photo_2025-06-09-10-06-14_010.jpeg",
+    "https://ldb-phinf.pstatic.net/20250616_109/1750036963256XdWrL_JPEG/KakaoTalk_Photo_2025-06-09-10-06-14_004.jpeg"
+  ]
+}

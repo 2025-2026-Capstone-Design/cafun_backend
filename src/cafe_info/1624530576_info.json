@@ -1,0 +1,100 @@
+{
+  "id": "1624530576",
+  "name": "villa.1990",
+  "category": "카페,디저트",
+  "micro_review": [
+    "유럽 빈티지 인테리어로 물든 아늑함"
+  ],
+  "road_address": "서울 성동구 둘레9길 17 2층",
+  "address": "서울 성동구 성수동1가 314",
+  "lat": "127.0509459",
+  "lon": "37.5377347",
+  "business_hours": [
+    {
+      "day": "매일",
+      "start": "11:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1375-4855",
+  "url": "https://smartstore.naver.com/villa1990",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": false,
+    "대기공간": true,
+    "간편결제": false,
+    "반려동물 동반": true,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "성수동에서 자라온 어린 시절, 이곳은 한적하고 조용한 동네였죠. 그런데 언제부턴가 성수동이 많은 사람들에게 사랑받는 장소가 되었고동네가 붐비는 걸 보면서 신기하기도 하고 반가운 마음이 들었어요. 하지만 점점 사람들이 늘어나면서 예전의 여유로움은 사라지고,성수동은 점점 더 바빠지고 혼잡해졌어요. 그때 저는 문득 이런 생각이 들었죠. (여유를 느낄 수 있는 나만의 공간을 만들고 싶다.)\n\n그래서 골목 안쪽, 2층에 저만의 카페 빌라1990 을 열게 되었어요. 마치 제 집에 손님들을 초대하는 마음으로 구석구석 정성스럽게 꾸몄죠. 카페 앞뒤로는 작은 화단을 가꾸었고, 제가 좋아하는 사진 촬영을 염두에 두고 모든 공간에 제 손길이 닿았어요. 계절마다 바뀌는 테라스의 풍경, 여기에선 언제나 따뜻한 환대를 느끼실 수 있을 거예요.\n\n음료와 디저트도 하나하나 정성스레 준비해요. 직접 굽는 디저트와 시즌마다 다른 음료는 손님들에게 특별한 순간을 선사하고 싶어서죠. 제가 손님을 초대한다는 마음으로 계단에는 레드카펫도 깔았답니다. 카페에 들어오는 순간부터 편안함을 느낄 수 있도록 잔잔한 음악과 함께 여유로운 분위기를 만들어 가고 있어요\n\n빌라1990은 성수동의 북적거림과는 조금 떨어진, 골목 깊숙한 곳에 위치해 있어요. 그래서 항상 조용하고, 마음을 내려놓을 수 있는 공간이죠. 크리스마스 시즌엔 특별한 장식으로 꾸며지기도 하고, 계절마다 바뀌는 테라스의 분위기를 느낄 수 있어요. 많은 사람들로 붐비지는 않지만 그 덕분에 여유로운 시간을 즐기실 수 있는 특별한 장소가 됩니다.\n\n이곳에서는 바쁜 일상에서 벗어나 잠시 머물다 가시길 바라요. 언제나 편안하게 쉬었다 가실 수 있도록 정성껏 준비하고 있답니다.",
+  "Information_facilitie": [
+    "무선 인터넷",
+    "반려동물 동반",
+    "포장",
+    "노키즈존",
+    "대기공간"
+  ],
+  "parking_info": null,
+  "payment_info": null,
+  "menu": [
+    {
+      "name": "딸기",
+      "price": "8000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241224_266/1735025863206QCdpM_JPEG/IMG_9851.jpeg"
+      ]
+    },
+    {
+      "name": "바질토마토에이드",
+      "price": "7500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250523_11/1747989853109Y7mzA_JPEG/IMG_0913.jpeg"
+      ]
+    },
+    {
+      "name": "장미에이드",
+      "price": "7500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240525_47/1716615707853KGGzH_JPEG/7F47C7CD-C7B2-4172-BB88-7C616609D178.jpeg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20240920_99/1726805382059pNqaQ_JPEG/KakaoTalk_20240919_164502904_27.jpg",
+    "https://ldb-phinf.pstatic.net/20240920_281/1726805377489iEmh1_JPEG/KakaoTalk_20240919_164502904_20.jpg",
+    "https://ldb-phinf.pstatic.net/20240920_108/1726805370601n7GY6_JPEG/KakaoTalk_20240919_164502904_24.jpg",
+    "https://ldb-phinf.pstatic.net/20240920_28/17268053636954Ewo5_JPEG/KakaoTalk_20240919_164502904_14.jpg",
+    "https://ldb-phinf.pstatic.net/20240920_7/1726805357253AL7uE_JPEG/KakaoTalk_20240919_164502904_16.jpg",
+    "https://ldb-phinf.pstatic.net/20240920_149/17268053538399OPV4_JPEG/KakaoTalk_20240919_164502904_08.jpg",
+    "https://ldb-phinf.pstatic.net/20240920_8/17268053513251R03A_JPEG/KakaoTalk_20240919_164502904_06.jpg",
+    "https://ldb-phinf.pstatic.net/20240920_81/1726805348716zWm6x_JPEG/KakaoTalk_20240919_164502904_05.jpg",
+    "https://ldb-phinf.pstatic.net/20240920_7/1726805346117yB3R8_JPEG/KakaoTalk_20240919_164502904.jpg",
+    "https://ldb-phinf.pstatic.net/20240920_66/1726805344166oKiEe_JPEG/KakaoTalk_20240919_164502904_02.jpg",
+    "https://ldb-phinf.pstatic.net/20240920_152/1726805341855UR6E5_JPEG/KakaoTalk_20240919_164502904_01.jpg",
+    "https://ldb-phinf.pstatic.net/20240920_255/1726805337695I67rY_JPEG/KakaoTalk_20240919_164502904_07.jpg"
+  ]
+}

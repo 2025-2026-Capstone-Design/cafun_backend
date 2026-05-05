@@ -1,0 +1,226 @@
+{
+  "id": "1043490498",
+  "name": "컴오프로스터스",
+  "category": "카페,디저트",
+  "micro_review": [
+    "부드러움이 다른 스카치라떼의 정석"
+  ],
+  "road_address": "서울 성동구 왕십리로6길 7 1층",
+  "address": "서울 성동구 성수동1가 656-450",
+  "lat": "127.0456832",
+  "lon": "37.546048",
+  "business_hours": [
+    {
+      "day": "토",
+      "start": "12:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "day": "일",
+      "start": "12:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "day": "월",
+      "start": "10:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "day": "화",
+      "start": "10:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "day": "수",
+      "start": "10:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "day": "목(12/25)",
+      "start": "12:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": "성탄절",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "금",
+      "start": "10:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:30"
+        }
+      ]
+    }
+  ],
+  "virtual_phone_number": null,
+  "url": "https://www.instagram.com/comoff_coffee",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": true,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": true,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": false,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "컴오프라는 곳은 다양한 사람들이 모여 작은 일상에 쉼이 더해지길 바라는 마음으로 만들게 된 브랜드입니다.\n저희가 만들어내는 커피는 편안하고 자극적이지 않은 산미를 추구합니다.",
+  "Information_facilitie": [
+    "무선 인터넷",
+    "남/녀 화장실 구분",
+    "반려동물 동반"
+  ],
+  "parking_info": null,
+  "payment_info": null,
+  "menu": [
+    {
+      "name": "스카치라떼",
+      "price": "6500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240508_184/1715161361843iDeDu_JPEG/IMG_8494.jpeg"
+      ]
+    },
+    {
+      "name": "흑임자라떼",
+      "price": "6500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240508_165/1715161286379xOWyN_JPEG/IMG_8492.jpeg"
+      ]
+    },
+    {
+      "name": "핸드드립",
+      "price": "",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240508_55/1715162179816K34lP_JPEG/IMG_8059.jpeg"
+      ]
+    },
+    {
+      "name": "아메리카노",
+      "price": "4500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250401_261/1743492649221w1pWC_JPEG/IMG_7710.jpeg"
+      ]
+    },
+    {
+      "name": "카페라떼",
+      "price": "5500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250401_30/1743492666260zfTiE_JPEG/IMG_7736.jpeg"
+      ]
+    },
+    {
+      "name": "바닐라빈라떼",
+      "price": "5800",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250401_205/1743492675237YUdXJ_JPEG/IMG_7917.jpeg"
+      ]
+    },
+    {
+      "name": "청귤에이드",
+      "price": "7000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250401_197/1743492681093ioFI7_JPEG/IMG_7719.jpeg"
+      ]
+    },
+    {
+      "name": "말차라떼",
+      "price": "6500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250401_86/1743492695144nL5jh_JPEG/IMG_7717.jpeg"
+      ]
+    },
+    {
+      "name": "블루베리루이보스",
+      "price": "5500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250401_159/1743492706396cXcxy_JPEG/IMG_7749.jpeg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20230921_142/1695295777954E2VhC_JPEG/1694828361194.jpg",
+    "https://ldb-phinf.pstatic.net/20230921_266/16952957770060g8JB_JPEG/1694828359148.jpg",
+    "https://ldb-phinf.pstatic.net/20230921_189/16952959370687gbL6_JPEG/1695295901416.jpg",
+    "https://ldb-phinf.pstatic.net/20230921_89/1695295931533lzW74_JPEG/1695295822167.jpg",
+    "https://ldb-phinf.pstatic.net/20230921_176/1695295777010gVAmw_JPEG/1695283639276.jpg",
+    "https://ldb-phinf.pstatic.net/20230921_193/1695295778150QNYbA_JPEG/1694828372818.jpg",
+    "https://ldb-phinf.pstatic.net/20230921_138/1695295777950qbunm_JPEG/1695283675728.jpg",
+    "https://ldb-phinf.pstatic.net/20240901_250/1725172232696gTgD7_JPEG/1725172200595.jpg"
+  ]
+}

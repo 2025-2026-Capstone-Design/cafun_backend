@@ -5,7 +5,7 @@ import { In, Repository } from 'typeorm';
 import { AI_RECOMMENDATION_PORT, AiRecommendationPort } from './ai-recommendation.port';
 import { Review } from './entities/review.entity';
 import { CreateReviewRequestDto, ReviewResponseDto } from './dtos/review.dto';
-import { CafeRecommendationCacheService } from './cafe-recommendation-cache.service.ts';
+import { CafeRecommendationCacheService } from './cafe-recommendation-cache.service';
 import { CafeWithTopKeywords, TopKeyword } from './dtos/cafe-with-keywords.interface';
 
 @Injectable()

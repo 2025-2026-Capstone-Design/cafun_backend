@@ -1,0 +1,147 @@
+{
+  "id": "1137619935",
+  "name": "디에그 성수점",
+  "category": "카페,디저트",
+  "micro_review": [
+    "입안에서 사르르 녹는 에그타르트"
+  ],
+  "road_address": "서울 성동구 왕십리로6길 37 1층",
+  "address": "서울 성동구 성수동1가 656-1095",
+  "lat": "127.0486538",
+  "lon": "37.545082",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "12:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "토",
+      "start": "12:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "일",
+      "start": "12:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": null,
+      "end": null,
+      "breakHours": null,
+      "description": "정기휴무 (매주 월요일)",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": "12:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "수",
+      "start": "12:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "목(12/25)",
+      "start": "12:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": "성탄절",
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1365-9315",
+  "url": "https://www.instagram.com/de_egg_seongsu",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": false,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "감성 가득한 성수동의 한 골목\n\n매일 아침 매장에서 직접 굽는\n바삭하고 고소한 에그타르트 속에,\n부드럽고 진한 에그 필링이 가득.\n\n테이크아웃 전문으로 바쁜 일상 속\n잠깐의 달콤한 휴식을 선사합니다.\n\n한입 가득 베어 물었을 때 바삭함과\n달콤함이 가득한 꽉 찬 풍미를 느껴보세요",
+  "Information_facilitie": [
+    "포장"
+  ],
+  "parking_info": null,
+  "payment_info": null,
+  "menu": [
+    {
+      "name": "오리지널 에그타르트",
+      "price": "4000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250403_246/1743686116576ixriE_JPEG/%A1%DAA7400291.jpg"
+      ]
+    },
+    {
+      "name": "애플시나몬 에그타르트",
+      "price": "4200",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250403_199/1743686170201QRG7u_JPEG/a8A7400232.jpg"
+      ]
+    },
+    {
+      "name": "옥수수 에그타르트",
+      "price": "4200",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250403_140/1743686477252pxBGC_JPEG/KakaoTalk_20250403_221744536_02.jpg"
+      ]
+    },
+    {
+      "name": "초코 에그타르트",
+      "price": "4400",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250403_158/17436864244828vnXQ_JPEG/KakaoTalk_20250403_221744536_04.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20250405_185/1743812361252gwJMa_JPEG/%A1%DAA7400291.jpg",
+    "https://ldb-phinf.pstatic.net/20250405_62/1743812361089fSvoq_JPEG/%A1%DAA7409469.jpg",
+    "https://ldb-phinf.pstatic.net/20250405_195/1743812361085ydpaf_JPEG/%A1%DAA7409483.jpg",
+    "https://ldb-phinf.pstatic.net/20250405_140/174381236120752NdJ_JPEG/%A1%DAA7409494.jpg",
+    "https://ldb-phinf.pstatic.net/20250405_268/1743812361089KnaEb_JPEG/%A1%DAA7409795.jpg",
+    "https://ldb-phinf.pstatic.net/20250405_40/17438123609443TkJN_JPEG/%A1%DAA7409854.jpg",
+    "https://ldb-phinf.pstatic.net/20250403_170/1743688307084ywb11_JPEG/%A1%DAA7400232.jpg"
+  ]
+}

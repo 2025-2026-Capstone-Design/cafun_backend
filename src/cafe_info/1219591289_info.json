@@ -1,0 +1,111 @@
+{
+  "id": "1219591289",
+  "name": "빽다방 뚝섬상원길점",
+  "category": "테이크아웃커피",
+  "micro_review": null,
+  "road_address": "서울 성동구 상원길 50 1층",
+  "address": "서울 성동구 성수동1가 13-133",
+  "lat": "127.0484128",
+  "lon": "37.5483814",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "07:30",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "토",
+      "start": "08:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "일",
+      "start": "08:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": "07:30",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": "07:30",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "수",
+      "start": "07:30",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "목",
+      "start": "07:30",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": null,
+  "url": null,
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": true,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": true,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "안녕하세요! 빽다방 뚝섬상원길점입니다 :)",
+  "Information_facilitie": [
+    "단체 이용 가능",
+    "포장",
+    "배달",
+    "무선 인터넷"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "네이버페이"
+  ],
+  "menu": [],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20221208_261/16705062411764xQBI_JPEG/20221208_222950.jpg"
+  ]
+}

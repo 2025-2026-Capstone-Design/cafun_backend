@@ -1,0 +1,77 @@
+{
+  "id": "1022429915",
+  "name": "자연도소금빵in 성수",
+  "category": "베이커리",
+  "micro_review": [
+    "4개 묶음으로 즐기는 소금빵의 정석"
+  ],
+  "road_address": "서울 성동구 연무장길 56-1 1층",
+  "address": "서울 성동구 성수동2가 321-74",
+  "lat": "127.0555087",
+  "lon": "37.542326",
+  "business_hours": [
+    {
+      "day": "매일",
+      "start": "09:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": null,
+  "url": "https://www.instagram.com/saltbread.in.seaside",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": false,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": true,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": true,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "하루 7천개씩 판매하는 세상에서 가장 맛있는 소금빵집.\n100가지의 재료테스트와 1천번의 구움테스트를 마쳤습니다.\n3가지의 특별한 재료와 기다림만을 담은 소금빵과 만나세요:)",
+  "Information_facilitie": [
+    "포장",
+    "반려동물 동반",
+    "예약"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "네이버페이"
+  ],
+  "menu": [
+    {
+      "name": "자연도소금빵",
+      "price": "12000",
+      "description": "100여종의 재료테스트와 1천번의 구움테스트를 마친 프리미엄 소금빵입니다.",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230814_195/1691999239582SBeqD_JPEG/KakaoTalk_20230814_164205841.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20230821_10/1692624841117gCCt1_JPEG/KakaoTalk_20230821_223246131.jpg",
+    "https://ldb-phinf.pstatic.net/20230821_289/1692624839026wemK5_JPEG/KakaoTalk_20230821_223251353.jpg",
+    "https://ldb-phinf.pstatic.net/20230821_136/1692624840941Ig0qf_JPEG/KakaoTalk_20230821_223247625.jpg",
+    "https://ldb-phinf.pstatic.net/20230821_280/1692624840702pnJRR_JPEG/KakaoTalk_20230821_223248971.jpg",
+    "https://ldb-phinf.pstatic.net/20230821_154/16926248405088Pt0E_JPEG/KakaoTalk_20230821_223248317.jpg"
+  ]
+}

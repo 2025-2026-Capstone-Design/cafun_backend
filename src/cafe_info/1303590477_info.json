@@ -1,0 +1,1255 @@
+{
+  "id": "1303590477",
+  "name": "바나프레소 뚝섬역점",
+  "category": "카페",
+  "micro_review": null,
+  "road_address": "서울 성동구 성수일로 77",
+  "address": "서울 성동구 성수동1가 13-164",
+  "lat": "127.0503953",
+  "lon": "37.5471014",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "07:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "19:30"
+        }
+      ]
+    },
+    {
+      "day": "토",
+      "start": "09:00",
+      "end": "17:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "16:30"
+        }
+      ]
+    },
+    {
+      "day": "일",
+      "start": null,
+      "end": null,
+      "breakHours": null,
+      "description": "정기휴무 (매주 일요일)",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": "07:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "19:30"
+        }
+      ]
+    },
+    {
+      "day": "화",
+      "start": "07:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "19:30"
+        }
+      ]
+    },
+    {
+      "day": "수",
+      "start": "07:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "19:30"
+        }
+      ]
+    },
+    {
+      "day": "목(12/25)",
+      "start": null,
+      "end": null,
+      "breakHours": null,
+      "description": "성탄절 휴무",
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": null,
+  "url": "http://banapresso.com/",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": false,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "Quickly Quality Banapresso\n빠른, 바른 바나프레소\n\n우리는 고객의 시간과 기대를 가장 중요하게 생각합니다.\n'빠르게'와 '품질'이라는 두 가지 핵심가치 아래, 항상 고객의 만족을 최우선으로 생각하며,\n더 나은 서비스와 경험을 제공하기 위해 노력합니다.\n바나프레소는 단순한 카페가 아닌, 사람들의 삶과 소통, 그리고 행복을 위한 공간을 만들어가는 기업입니다.\n우리는 이러한 핵심가치와 미션을 바탕으로, 고객들과 함께하는 미래를 꿈꾸며 계속 성장해 나갈 것입니다\n\nIT for EAT\n\n바나프레소는 잇(IT) 과 잇(EAT)의 혁신적인 만남을 통해 탄생했습니다.\n우리의 꿈은 단순한 기술과 카페의 접점을 넘어서,\n인간의 궁극적 갈등을 해결하는 것이였습니다.\n사람들은 존재의 근본적인 의미와 가치, 그리고 그에 따른 갈등을 항상 안고 살아가고 있습니다.\n바나프레소는 이러한 인간의 깊은 고민과 갈등을 이해하고,\n그 해소의 공간을 제공하기 위해 탄생하였습니다\n\n바나프레소, 소통의 장\n\n바나프레소는 단순한 매장을 넘어,\n고객들이 서로를 만나 소통하고 나눌 수 있는 플랫폼을 제공합니다.\n편안하고 아늑한 분위기 속에서 우리는 서로의 깊은 갈등과 고민을 공유하며,\n함께 그 해답을 찾아가고자 합니다\n\n바나프레소는 '하이퀄리티.빅사이즈.맛있는 제품'을 합리적인 가격에 빠르게 제공하는 커피 & 디저트 브랜드입니다. 2017년 런칭 후 현재, 강남권역 50개 매장을 포함, 서울.경기 주요상권에 100여개의 매장을 직영으로 운영하고 있으며, 2022년 09월부터 가맹사업을 시작, 더 다양한 지역의 고객을 찾아뵙기 위해 노력하고 있습니다.\n\n바나프레소는 넓은매장에서 업계최초로 매장별 차별화된 인테리어 컨셉을 선보이며 고객들에게 색다른 경험과 재미를 선사하는 유니크한 브랜드로, 자체개발한 키오스크 및 전용 어플리케이션을 통해 고객님들께 빠르고 편리한 주문/결제 서비스를 제공하고 있습니다.\n\n바나프레소는 아메리카노를 1-2천원대로 저렴하게 제공함에도 불구하고, 최대 80평의 매장, 강남역 초역세권 번화가에 4곳의 중대형 매장, 신촌 번화가에 6층에 달하는 통빌딩 매장을 운영하며, 강남구내에 스타벅스에 이어 두번째로 많은 매장 수를 가지고 있는 카페 브랜드입니다.\n\n바나프레소는 커피를 저렴하게 제공하는 숍에서 보기 드문, 무려 3가지 종류의 에스프레소를 취급하고 있습니다. 고소하고 균형잡힌 바디감을 자랑하는 바나블렌딩 버전, 은은한 과일향의 부담없는 산미와 카라멜의 단맛, 견과의 풍미가 어우러져 감칠맛이 가득한 시그니처블렌딩 버전, 향긋한 산미와 부드러운 바디감이 돋보이는 디카페인 버전(스위스워터프로레스 기법으로 카페인을 99.9% 제거)이 그것 입니다. (매장마다 판매되는 에스프레소 종류가 상이할 수 있습니다.)\n\n바나프레소에서 사용하는 에스프레소 커피머신은 저렴한 커피 가격과 상반되게 그룹당 무려 1.5천만원에 달하는 스위스 하이엔드급 전자동머신을 사용하고, 일부 매장은 독립 보일러 히팅 방식의 반자동머신을 사용하며, 고객님에게 빠른 서비스를 제공하기 위해서 고매출 매장은 최대 4그룹의 커피머신을 배치하여 운영하고 있습니다.\n\n바나프레소는 직영매장 100여개의 경우, 약300명의 직원들이 로테이션으로 근무하며, 90% 이상의 직원이 정직원입니다. 2024년에도 보다 공격적으로 직원을 채용하여, 고객 서비스를 강화할 방침입니다.\n\n* 스탬프 적립안내\n커피/음료 구매시(할인음료 포함) 잔당 1개의 스탬프가 적립되고, 10개의 스탬프를 모으시면 아메리카노 한 잔을 구매 할 수 있는 쿠폰이 제공됩니다.\n\n보다 자세한 정보는 인스타그램, 바나프레소 홈페이지에서 확인 가능합니다.\n감사합니다.",
+  "Information_facilitie": [
+    "포장"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "네이버페이"
+  ],
+  "menu": [
+    {
+      "name": "수플레치즈케이크",
+      "price": "3900",
+      "description": "최고급 원유만을 사용하는 폴리치즈를 사용하여 풍부하고 부드러운 클래식 치즈케이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251117_171/176333647892942j5n_PNG/%C4%A1%C4%C9600.png"
+      ]
+    },
+    {
+      "name": "티라미수케이크",
+      "price": "3900",
+      "description": "진한 에스프레소 커피향에 코코아와 치즈크림이 부드러운 티라미수케이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251117_283/1763336464678Jdn2t_PNG/%C6%BC%B6%F3%B9%CC%BC%F6600.png"
+      ]
+    },
+    {
+      "name": "제주말차유자티",
+      "price": "4000",
+      "description": "쌉싸름한 제주산 말차에 상큼한 유자청을 더한 조화로운 티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251110_18/1762730595264N3ohR_JPEG/%C1%A6%C1%D6%B8%BB%C2%F7%C0%AF%C0%DA%C6%BC_%C7%D6.jpg",
+        "https://ldb-phinf.pstatic.net/20251110_216/17627305935446vNRx_JPEG/%C1%A6%C1%D6%B8%BB%C2%F7%C0%AF%C0%DA%C6%BC_%BE%C6%C0%CC%BD%BA.jpg"
+      ]
+    },
+    {
+      "name": "제주말차딸기라떼",
+      "price": "4800",
+      "description": "딸기와 제주 말차가 만났다! 새콤달콤한 딸기와 말차 고유의 쌉싸름한 풍미가 어우러진 메뉴",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251110_83/17627305483581gdCj_JPEG/%C1%A6%C1%D6%B8%BB%C2%F7%B5%FE%B1%E2%B6%F3%B6%BC.jpg"
+      ]
+    },
+    {
+      "name": "진짜감자빵",
+      "price": "3000",
+      "description": "쫀득한 찰빵 안에 국내산 감자를 듬뿍 넣은 담백하고 든든한 진짜 감자빵",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251110_27/1762730514477GHy9X_PNG/%B0%A8%C0%DA%BB%A7_%BC%AD%B9%F6.png"
+      ]
+    },
+    {
+      "name": "탐라는감귤생과일쥬스",
+      "price": "4800",
+      "description": "제주 生감귤을 토핑하고, 통째로 갈아 신선한 감귤맛을 그대로 느낄 수 있는 생과일 쥬스",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251028_58/1761606128594LUx9F_PNG/%C5%BD%B6%F3%B4%C2%BB%FD%B0%FA%C0%CF%B0%A8%B1%D6%C1%EA%BD%BA_%283%29.png"
+      ]
+    },
+    {
+      "name": "탐라는감귤요거트드링크",
+      "price": "4800",
+      "description": "제주 감귤을 듬뿍! 비법 요거트와 환상의 조화를 이루는 생감귤이 토핑된 감귤 요거트 드링크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251028_282/1761606062142TSBXY_PNG/%C5%BD%B6%F3%B4%C2%B0%A8%B1%D6%BF%E4%B0%C5%C6%AE%B5%E5%B8%B5%C5%A9_%284%29.png"
+      ]
+    },
+    {
+      "name": "핑크카페라떼",
+      "price": "3500",
+      "description": "핑크 색상이 눈길을 사로잡고, 견과의 고소하고 풍부한 맛이 인상적인 깊은 맛의 카페라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251020_102/1760914852462zhpt9_JPEG/%C7%CE%C5%A9%B6%F3%B6%BC_%C7%D6.jpg",
+        "https://ldb-phinf.pstatic.net/20251020_56/1760914850620PMgFU_JPEG/%C7%CE%C5%A9%B6%F3%B6%BC_%BE%C6%C0%CC%BD%BA.jpg"
+      ]
+    },
+    {
+      "name": "핑크아메리카노",
+      "price": "3000",
+      "description": "과일, 꽃향기를 담은 바나프레소 핑크베이스에 에스프레소를 더해 화사한 맛을 살린 아메리카노",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251020_108/1760914860691AiLo0_JPEG/%C7%CE%C5%A9%BE%C6%B8%DE_%C7%D6.jpg",
+        "https://ldb-phinf.pstatic.net/20251020_197/1760914858705UP736_JPEG/%C7%CE%C5%A9%BE%C6%B8%DE_%BE%C6%C0%CC%BD%BA.jpg"
+      ]
+    },
+    {
+      "name": "대추쌍화차",
+      "price": "4000",
+      "description": "진한 쌍화 농축액과 대추에 홍시를 더해 은은한 단맛이 매력적인 건강차",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251020_197/17609147672654fRG7_PNG/%BD%D6%C8%AD%C7%D6600_%282%29.png",
+        "https://ldb-phinf.pstatic.net/20251020_33/17609147651390nBCh_PNG/%BD%D6%C8%AD%BE%C6%C0%CC%BD%BA600_%282%29.png"
+      ]
+    },
+    {
+      "name": "레드뱅쇼",
+      "price": "4000",
+      "description": "진한 레드 와인 맛과 풍미, 시나몬 스틱과 오렌지 토핑으로 더욱더 풍부해진 무알콜 레드뱅쇼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251020_220/1760914736898G9EvF_PNG/%B7%B9%B5%E5%B9%F0%BC%EE_%C7%D6_%282%29.png",
+        "https://ldb-phinf.pstatic.net/20251020_259/1760914734138qUFYt_PNG/%B7%B9%B5%E5%B9%F0%BC%EE_%BE%C6%C0%CC%BD%BA_%282%29.png"
+      ]
+    },
+    {
+      "name": "루이보스오렌지",
+      "price": "2800",
+      "description": "싱그러운 과일 오렌지와 루이보스를 블렌딩하여 상큼, 향긋한 과일 허브티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251020_278/1760914746077L32XX_PNG/%BF%C0%B7%BB%C1%F6%B7%E7%C0%CC%BA%B8%BD%BA%C7%D6600_%283%29.png",
+        "https://ldb-phinf.pstatic.net/20251020_192/1760914744321GXi8j_PNG/%BF%C0%B7%BB%C1%F6%B7%E7%C0%CC%BA%B8%BD%BA%BE%C6%C0%CC%BD%BA600_%283%29.png"
+      ]
+    },
+    {
+      "name": "카푸치노",
+      "price": "3300",
+      "description": "에스프레소에 크리미한 우유 거품과 시나몬 파우더로향긋함이 어우러진 커피",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251020_137/1760914812561N0WE9_PNG/%C4%AB%C7%AA%C4%A1%B3%EB%C7%D6600_%282%29.png"
+      ]
+    },
+    {
+      "name": "허니카페라떼",
+      "price": "3900",
+      "description": "부드러운 꿀의 단맛과 에스프레소의 풍미가 어우러진\n허니카페라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251020_179/1760914803672DIxmx_PNG/%C7%E3%B4%CF%C4%AB%C6%E4%B6%F3%B6%BC_%C7%D6600.png",
+        "https://ldb-phinf.pstatic.net/20251020_86/1760914800922VIXzA_PNG/%C7%E3%B4%CF%C4%AB%C6%E4%B6%F3%B6%BC_%BE%C6%C0%CC%BD%BA600.png"
+      ]
+    },
+    {
+      "name": "저당 바닐라라떼",
+      "price": "4400",
+      "description": "무설탕 바닐라 파우더를 사용하여 맛과 향은 살리고 당과 칼로리를 낮춘 저당 바닐라라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250908_274/1757285768008TfyYs_PNG/%B9%D9%B4%D2%B6%F3%B6%F3%B6%BC_%BE%C6%C0%CC%BD%BA.png",
+        "https://ldb-phinf.pstatic.net/20250908_229/17572857664626zSFT_PNG/%B9%D9%B4%D2%B6%F3%B6%F3%B6%BC_%C7%D6.png"
+      ]
+    },
+    {
+      "name": "저당 빅바나 바닐라라떼",
+      "price": "5700",
+      "description": "[32oz / 4Shots] 맛과 향은 그대로! 더욱 가벼워진 저당 빅사이즈 바닐라라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250908_198/1757285863034rxprz_PNG/%BA%F2%B9%D9%B3%AA%B9%D9%B6%F3_%282%29.png"
+      ]
+    },
+    {
+      "name": "저당 바닐라 콜드브루",
+      "price": "4500",
+      "description": "깔끔한 콜드브루에 무설탕 바닐라 파우더를 사용하여 더 가볍게 즐기는 부드러운 콜드브루 커피",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250908_179/1757285592849N75tI_PNG/%B9%D9%B4%D2%B6%F3%C4%DD%B5%E5%BA%EA%B7%E7.png"
+      ]
+    },
+    {
+      "name": "저당 얼그레이버블티",
+      "price": "4800",
+      "description": "당은 낮추고 쫀득한 타피오카 펄을 더해 식감을 UP시킨 저당 얼그레이 버블티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250908_183/1757285471268URebx_PNG/%BE%F3%B1%D7%B7%B9%C0%CC%B9%F6%BA%ED%C6%BC.png"
+      ]
+    },
+    {
+      "name": "허니브레드",
+      "price": "4700",
+      "description": "버터와 꿀을 바른 통식빵에 휘핑크림을 듬뿍 올린 후 시나몬과 카라멜 소스를 뿌린 허니브레드",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250804_176/1754261695708sNqlJ_PNG/%BC%AD%B9%F6_%C7%E3%B4%CF%BA%EA%B7%B9%B5%E5_%282%29.png"
+      ]
+    },
+    {
+      "name": "더블크로플",
+      "price": "4200",
+      "description": "두 개의 크로플을 겹쳐 더욱 풍성해졌다!\n크리스탈슈가를 뿌려 달콤함을 더한 크로플",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250804_101/1754261592053C7rrz_PNG/%BC%AD%B9%F6_%B4%F5%BA%ED%C5%A9%B7%CE%C7%C3_%282%29.png"
+      ]
+    },
+    {
+      "name": "딸기요거트스무디",
+      "price": "4000",
+      "description": "바나프레소만의 새콤한 요거트 맛과 향긋 달콤한 딸기가 어우러져 익숙한 맛의 요거트스무디",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250804_82/1754261573407jbNfT_PNG/%BC%AD%B9%F6_%B5%FE%B1%E2%BF%E4%B0%C5%C6%AE%BD%BA%B9%AB%B5%F0_%282%29.png"
+      ]
+    },
+    {
+      "name": "탐라는감귤스무디",
+      "price": "4000",
+      "description": "달콤한 제주감귤의 맛을 온전하게 즐길 수 있는 슬러시 질감의 스무디",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250804_226/17542615334193y1Ew_PNG/%BC%AD%B9%F6_%C5%BD%B6%F3%B4%C2%B0%A8%B1%D6%BD%BA%B9%AB%B5%F0_%282%29.png"
+      ]
+    },
+    {
+      "name": "머스캣블랙티",
+      "price": "3800",
+      "description": "달콤 향긋한 청포도 베이스에 얼그레이와 딸기를 더해 포근한 느낌을 더한 티블랜딩 음료",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250804_275/1754261491904CWXHu_PNG/%BC%AD%B9%F6_%B8%D3%BD%BA%C4%B9%BA%ED%B7%A2%C6%BC_%282%29.png",
+        "https://ldb-phinf.pstatic.net/20250804_186/1754261491896sN7Fb_PNG/%BC%AD%B9%F6_%B8%D3%BD%BA%C4%B9%BA%ED%B7%A2%C6%BC_%C7%D6140_%282%29.png"
+      ]
+    },
+    {
+      "name": "꿀배스무디",
+      "price": "4000",
+      "description": "국산배의 과육과 달콤한 과즙이 느껴지는 수분감 가득한 배와 달콤한 꿀이 어우러진 스무디",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250616_261/1750051470775H7osE_PNG/%BC%AD%B9%F6_%B2%DC%B9%E8.png"
+      ]
+    },
+    {
+      "name": "꿀자몽스무디",
+      "price": "4000",
+      "description": "쌉쌀한 자몽에 달콤향긋한 꿀을 더해 시원하면서 깔끔하게 더위를 날릴 수 있는 스무디",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250616_81/1750051443820SR2R7_PNG/%BC%AD%B9%F6_%B2%DC%C0%DA%B8%F9.png"
+      ]
+    },
+    {
+      "name": "밀크소다바나치노",
+      "price": "4500",
+      "description": "진한 우유맛에 상쾌달콤한 소다맛이 더해진 추억의 아이스크림맛 바나치노",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250616_57/175005138340341At5_PNG/%BC%AD%B9%F6_%BC%D2%B4%D9.png"
+      ]
+    },
+    {
+      "name": "콜드브루바나치노",
+      "price": "4500",
+      "description": "바나프레소 콜드브루의 고소하고 깔끔한 맛에 우유와 카라멜을 더한 바나치노",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250616_241/1750051345997nTXde_PNG/%BC%AD%B9%F6_%C4%DD%B5%E5%BA%EA%B7%E7.png"
+      ]
+    },
+    {
+      "name": "크리미라떼",
+      "price": "3900",
+      "description": "바나프레소 시그니처 메뉴! 비법 크림 밀크로 깊고 진한 맛, 부드러운 달콤함을 느껴보세요",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220107_207/1641517634271P61DY_JPEG/%C5%A9%B8%AE%B9%CC%B6%F3%B6%BC.jpg"
+      ]
+    },
+    {
+      "name": "유자민트티",
+      "price": "3800",
+      "description": "국내산 유자와 상쾌한 민트티가 조화로운 유자민트티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250407_290/1743979106019e741q_PNG/%C0%AF%C0%DA%B9%CE%C6%AE%C6%BC_%BE%C6%C0%CC%BD%BA_%284%29.png",
+        "https://ldb-phinf.pstatic.net/20250407_282/17439791044557rMmg_PNG/%C0%AF%C0%DA%B9%CE%C6%AE%C6%BC_%C7%D6_%283%29.png"
+      ]
+    },
+    {
+      "name": "유자셔벗아메리카노",
+      "price": "4400",
+      "description": "상큼한 유자 셔벗이 시원한 아메리카노와 만나 갈증을 싸악 해소해주는 스페셜 아메리카노",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250407_138/1743978977072Ny1Wm_PNG/%BC%AD%B9%F6_%C0%AF%C0%DA%BC%C5%B9%FE%BE%C6%B8%DE%B8%AE%C4%AB%B3%EB_%284%29.png"
+      ]
+    },
+    {
+      "name": "제로슈가스위트아메리카노",
+      "price": "3100",
+      "description": "스테비아가 첨가된 아메리카노로 칼로리 걱정 없이, 당 걱정 없는 달콤한 아메리카노",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250407_161/1743979087458X47Ml_PNG/%BD%BA%C5%D7%BA%F1%BE%C6%BE%C6%B8%DE%B8%AE%C4%AB%B3%EB_%BE%C6%C0%CC%BD%BA_%282%29.png",
+        "https://ldb-phinf.pstatic.net/20250407_297/1743979077402SoN2j_PNG/%BD%BA%C5%D7%BA%F1%BE%C6%BE%C6%B8%DE%B8%AE%C4%AB%B3%EB_%C7%D6_%282%29.png"
+      ]
+    },
+    {
+      "name": "허니아메리카노",
+      "price": "3100",
+      "description": "진한 아메리카노에 진짜 꿀을 더했다. 숙취해소에 GOOD! 바나프레소 스테디셀러~",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250407_296/17439788717986pX3W_PNG/%C7%E3%B4%CF%BE%C6%B8%DE%B8%AE%C4%AB%B3%EB_%BE%C6%C0%CC%BD%BA_%283%29.png",
+        "https://ldb-phinf.pstatic.net/20250407_238/1743978865049LMspB_PNG/%C7%E3%B4%CF%BE%C6%B8%DE%B8%AE%C4%AB%B3%EB_%C7%D6_%283%29.png"
+      ]
+    },
+    {
+      "name": "딸기 크리미라떼",
+      "price": "4500",
+      "description": "크리미한 우유에 딸기를 듬뿍 담아 새콤달콤한 맛과 부드러운 풍미가 가득한 딸기 크리미라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240112_279/17050347364451xC9X_PNG/%B9%E8%B9%CE%BF%F8_%C5%A9%B8%AE%B9%CC%B6%F3%B6%BC.png"
+      ]
+    },
+    {
+      "name": "제주말차크리미라떼",
+      "price": "4300",
+      "description": "부드러운 크림과 고소한 우유가 어우러진 베이스에, 쌉싸름한 풍미의 제주말차를 더한 음",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240311_47/1710113092360aGXdW_JPEG/%B9%E8%B9%CE%BF%F8_%C1%A6%C1%D6%B8%BB%C2%F7%C5%A9%B8%AE%B9%CC%B6%F3%B6%BC.jpg"
+      ]
+    },
+    {
+      "name": "아메리카노",
+      "price": "2500",
+      "description": "고소한 견과류풍미와 초콜릿처럼 달콤쌉싸름한 맛이 밸런스있게 어우러진 균형잡힌 바디감의 커피",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220107_158/1641516425395k9MmH_JPEG/%BE%C6%B8%DE%B8%AE%C4%AB%B3%EB.jpg"
+      ]
+    },
+    {
+      "name": "바나리카노",
+      "price": "4000",
+      "description": "32oz / 4Shots / 슈퍼킹 사이즈 ICED 아메리카노 (포장/배달 전용상품)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220323_219/1648010915339TKUJh_JPEG/%B9%D9%B3%AA%B8%AE%C4%AB%B3%EB_%B9%E8%B9%CE%BF%F8_%BA%EA%B7%A3%B5%E5%B0%FC%C0%CC%B9%CC%C1%F6.jpg"
+      ]
+    },
+    {
+      "name": "매콤떡볶이",
+      "price": "4800",
+      "description": "탱글한 부산어묵과 쫀득쫀득 떡에 매콤한 소스가 잘 베어들어 있는 1인분 떡볶이",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251110_155/1762730496563mmV0M_PNG/%B6%B1%BA%BA%C0%CC-600.png"
+      ]
+    },
+    {
+      "name": "바삭찰핫도그",
+      "price": "2200",
+      "description": "겉바속촉! 육즙 가득 소시지가 들어있는 바삭찰핫도그(1ea)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251110_200/1762730480301b4j00_PNG/%C7%D6%B5%B5%B1%D7-600.png"
+      ]
+    },
+    {
+      "name": "저당 얼그레이밀크티",
+      "price": "4300",
+      "description": "얼그레이티를 우려낸 후 설탕 무첨가 밀크티를 더해 더욱 가벼워진 저당 얼그레이 밀크티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250908_231/1757285523047BzJYJ_PNG/%BE%F3%B1%D7%B7%B9%C0%CC%B9%D0%C5%A9%C6%BC.png",
+        "https://ldb-phinf.pstatic.net/20250908_127/1757285521334c4Dit_PNG/%BE%F3%B1%D7_%C7%D6.png"
+      ]
+    },
+    {
+      "name": "토마토생과일쥬스",
+      "price": "4500",
+      "description": "토마토 약 3개를 갈아 더욱 든든 & 신선한 한 잔",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250210_117/17391410344717urRv_PNG/%BC%AD%B9%F6_%C5%E4%B8%B6%C5%E4%BB%FD%B0%FA%C0%CF%C1%EA%BD%BA_%284%29.png"
+      ]
+    },
+    {
+      "name": "토마토요구르트스무디",
+      "price": "4500",
+      "description": "바나의 비밀 레시피로 토마토의 상큼함을 업업!",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250210_199/1739141066161RQx05_PNG/%BC%AD%B9%F6_%C5%E4%B8%B6%C5%E4%BF%E4%B1%B8%B8%A3%C6%AE%BD%BA%B9%AB%B5%F0_%284%29.png"
+      ]
+    },
+    {
+      "name": "아침란",
+      "price": "2000",
+      "description": "계란 본연의 수분만으로 쪄서 부드럽고 촉촉하며 쫄깃한 식감이 특징인 구운 계란",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250804_168/1754261873788X09sc_PNG/%BE%C6%C4%A7%B6%F5_%BC%AD%B9%F6.png"
+      ]
+    },
+    {
+      "name": "제주말차바나치노",
+      "price": "4500",
+      "description": "쌉싸름한 제주말차에 우유와 얼음을 블렌딩 한 뒤 휘핑을 듬뿍 올린 제주말차바나치노",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250709_288/1752023841888L886q_PNG/from_open_storage_%2822%29.png"
+      ]
+    },
+    {
+      "name": "제주말차라떼",
+      "price": "3800",
+      "description": "쌉싸름한 풍미의 제주말차에 부드러운 우유를 섞고 달콤함을 추가해 밸런스가 좋은 제주말차라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250709_234/1752023806318n5tow_PNG/from_open_storage.png"
+      ]
+    },
+    {
+      "name": "멜론라떼",
+      "price": "4500",
+      "description": "수분감 팡팡 멜론의 달콤하고 향긋한 맛! 아삭하게 씹히는 과육과 우유가 어우러진 멜론 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250519_69/1747605473150qM5Mp_PNG/%BC%AD%B9%F6_%B8%E1%B7%D0%B6%F3%B6%BC_%286%29.png"
+      ]
+    },
+    {
+      "name": "라임민트스파클러",
+      "price": "3500",
+      "description": "상큼한 라임과 시원한 민트의 조합으로 청량함을 제대로 즐기는 라임민트스파클러",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250519_257/1747605403378eboAi_PNG/%C4%F0%B6%F3%C0%D3%B9%CE%C6%AE.png"
+      ]
+    },
+    {
+      "name": "체리콕",
+      "price": "3500",
+      "description": "새콤상큼한 체리와 콜라가 만나 청량감을 느낄 수 있는 체리콕",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250519_247/174760536389694Azz_PNG/%C3%BC%B8%AE%C4%DB.png"
+      ]
+    },
+    {
+      "name": "초콜릿칩쉐이크",
+      "price": "4500",
+      "description": "부드러운 바닐라쉐이크에 초콜릿칩이 콕콕! 재미있는 식감과 달콤한 풍미가 돋보이는 쉐이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250421_151/1745191694331oo9xk_PNG/%C3%CA%C4%DA%C4%A8%BD%A6%C0%CC%C5%A9_%285%29.png"
+      ]
+    },
+    {
+      "name": "커피칩쉐이크",
+      "price": "4500",
+      "description": "쌉쌀한 커피쉐이크에 커피칩이 콕콕! 바삭함과 향긋한 커피 향을 느낄 수 있는 쉐이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250421_174/1745191637549UBP9b_PNG/%C4%BF%C7%C7%BA%F3%BD%A6%C0%CC%C5%A9_%285%29.png"
+      ]
+    },
+    {
+      "name": "애플캐모마일스위티",
+      "price": "3800",
+      "description": "달콤한 사과향에 초록빛 캐모마일, 레몬그라스가 블렌딩된 다채로운 맛과 비쥬얼의 블렌딩 티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250324_75/1742777361626I0A6Y_PNG/%BE%D6%C7%C3%C4%B3%B8%F0%B8%B6%C0%CF%C6%BC_%BE%C6%C0%CC%BD%BA_%283%29.png"
+      ]
+    },
+    {
+      "name": "제주말차한라봉스무디",
+      "price": "4300",
+      "description": "제주산 한라봉의 달콤 상큼함과 말차의 쌉싸름함이 오감을 자극하는 스무디",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250324_32/1742777305995YfDGM_PNG/%C1%A6%C1%D6%B8%BB%C2%F7%C7%D1%B6%F3%BA%C0%BD%BA%B9%AB%B5%F0_%284%29.png"
+      ]
+    },
+    {
+      "name": "소불고기치즈파니니",
+      "price": "4900",
+      "description": "고소한 치아바타에 국내산 육우를 사용한 불고기를 더해 부드러운 맛이 특징인 소불고기 파니니",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250324_52/1742777280256CQfX9_PNG/%BA%D2%B0%ED%B1%E2%C6%C4%B4%CF%B4%CF_%BC%AD%B9%F6_%282%29.png"
+      ]
+    },
+    {
+      "name": "매콤닭가슴살파니니",
+      "price": "4900",
+      "description": "고소한 치아바타에 매콤 닭가슴살이 가득 들어간 매콤닭가슴살파니니",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250324_46/1742777215906IO94i_PNG/%C7%D6%C4%A1%C5%B2%C6%C4%B4%CF%B4%CF_%BC%AD%B9%F6_%282%29.png"
+      ]
+    },
+    {
+      "name": "크로크무슈",
+      "price": "3500",
+      "description": "베사멜 소스와 햄, 치즈의 조화가 매력적인 프랑스식 샌드위치 크로크무슈",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250324_87/1742777016029P77kl_PNG/%C5%A9%B7%CE%C5%A9%B9%AB%BD%B4_%BC%AD%B9%F6_%285%29.png"
+      ]
+    },
+    {
+      "name": "헛개차",
+      "price": "2000",
+      "description": "깔끔하고 구수한 헛개차",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250224_276/1740351242174iIgEX_PNG/%BC%AD%B9%F6_%C7%EA%B0%B3%C2%F7_%BE%C6%C0%CC%BD%BA.png",
+        "https://ldb-phinf.pstatic.net/20250224_154/1740351239960GXwBz_PNG/%BC%AD%B9%F6_%C7%EA%B0%B3%C2%F7_%C7%D6.png"
+      ]
+    },
+    {
+      "name": "헛개리카노",
+      "price": "3100",
+      "description": "견과류 풍미와 초콜릿처럼 달콤 쌉싸름한 맛의 바나아메리카노에 구수한 헛개를 더한 메뉴",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250224_15/1740351261351mbsbs_PNG/%BC%AD%B9%F6_%C7%EA%B0%B3%B8%AE%C4%AB%B3%EB_%BE%C6%C0%CC%BD%BA.png",
+        "https://ldb-phinf.pstatic.net/20250224_147/1740351259634VoLnl_PNG/%BC%AD%B9%F6_%C7%EA%B0%B3%B8%AE%C4%AB%B3%EB_%C7%D6.png"
+      ]
+    },
+    {
+      "name": "헛개버블티",
+      "price": "4500",
+      "description": "구수한 헛개밀크티에 쫀득한 타피오카 펄의 식감을 더해 구수 쫀득한 매력의 색다른 밀크티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250224_46/17403512829861RJCy_PNG/%BC%AD%B9%F6_%C7%EA%B0%B3%B9%F6%BA%ED%C6%BC.png"
+      ]
+    },
+    {
+      "name": "헛개크리미라떼",
+      "price": "4100",
+      "description": "부드럽도 달콤한 크리미밀크에 구수한 헛개까지 더해 매력이 넘치는 바나만의 커피메뉴",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250224_221/17403510600724mNym_PNG/%BC%AD%B9%F6_%C7%EA%B0%B3%C5%A9%B8%AE%B9%CC%B6%F3%B6%BC.png"
+      ]
+    },
+    {
+      "name": "탐라는감귤티",
+      "price": "3800",
+      "description": "제주 감귤의 상큼항 향과 시나몬의 은은한 향이 포근한 상큼한 티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241212_172/1733970546496KbuEB_PNG/%C5%BD%B6%F3%B4%C2%B0%A8%B1%D6%C6%BC.png",
+        "https://ldb-phinf.pstatic.net/20241212_7/1733970546491ha8QC_PNG/%C5%BD%B6%F3%B4%C2%B0%A8%B1%D6%C6%BC_%C7%D6.png"
+      ]
+    },
+    {
+      "name": "영암고구마라떼",
+      "price": "3800",
+      "description": "전남 영암의 황토에서 자란 고구마와 우유가 만나 달콤하고 풍미가 진한 고구마 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240911_46/1726013692017Ji5qD_PNG/from_open_storage.png"
+      ]
+    },
+    {
+      "name": "허니유자티",
+      "price": "3500",
+      "description": "국내산 유자(고흥, 거제)와 꿀로 만든 유자차로 풍부한 맛과 향을 느낄 수 있는 티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241021_257/1729470855383mRbuo_PNG/%C0%AF%C0%DA%C2%F7_%BE%C6%C0%CC%BD%BA.png"
+      ]
+    },
+    {
+      "name": "스위티소금라떼",
+      "price": "4400",
+      "description": "천연소금과 사탕수수를 사용해 맛있게 달콤짭짤한, 단짠의 백미 소금카페라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240228_278/1709079901090cYXQV_JPEG/%B9%E8%B9%CE%BF%F8_%BD%BA%C0%A7%C6%BC%BC%D2%B1%DD%B6%F3%B6%BC_%BE%C6%C0%CC%BD%BA.jpg"
+      ]
+    },
+    {
+      "name": "클래식밀크커피",
+      "price": "2700",
+      "description": "추억의 믹스커피에, 바나프레소만의 고급스러운 커피 맛과 달달함을 끌어올려 탄생한 커피",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231115_110/17000093054249j2Dv_JPEG/%B9%E8%B9%CE_%C5%AC%B7%A1%BD%C4%B9%D0%C5%A9%C4%BF%C7%C7_%BE%C6%C0%CC%BD%BA.jpg"
+      ]
+    },
+    {
+      "name": "빅바나 클래식밀크커피",
+      "price": "3700",
+      "description": "클래식 밀크커피를 대용량으로 즐길 수 있는 테이크아웃 전용 음료",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231115_38/1700009347207gE0iS_PNG/%28%B9%E8%B9%CE%29%C5%AC%B7%A1%BD%C4-%B9%D0%C5%A9%C4%BF%C7%C7-32oz.png"
+      ]
+    },
+    {
+      "name": "화이트아메리카노",
+      "price": "3100",
+      "description": "아메리카노에 우유를 더한, 카페라때보다 가볍고 아메리카노보다는 부드러운, 묘한 매력의 커피",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231115_76/1700009395273jVU6t_JPEG/%B9%E8%B9%CE_%C8%AD%C0%CC%C6%AE%BE%C6%B8%DE%B8%AE%C4%AB%B3%EB%BE%C6%C0%CC%BD%BA.jpg"
+      ]
+    },
+    {
+      "name": "카페라떼",
+      "price": "3300",
+      "description": "고소한 우유에 진한 에스프레소를 넣어 부드럽게 즐기는 커피 (두유로 변경가능)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221116_80/1668559973274otEnI_JPEG/B_%C4%AB%C6%E4%B6%F3%B6%BC.jpg"
+      ]
+    },
+    {
+      "name": "바닐라라떼",
+      "price": "3900",
+      "description": "마다가스카르산 바닐라빈이 들어가 바닐라 맛과 향이 더욱 깊고 풍부해진 바닐라라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221116_203/1668559770530pINyj_JPEG/B_%B9%D9%B4%D2%B6%F3%B6%F3%B6%BC.jpg"
+      ]
+    },
+    {
+      "name": "연유라떼",
+      "price": "4400",
+      "description": "달콤한 연유 & 고소한 카페라떼의 조합. 부드러운 단맛이 매력적인 커피",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220107_226/1641517690516WL88X_JPEG/%BF%AC%C0%AF%B6%F3%B6%BC.jpg"
+      ]
+    },
+    {
+      "name": "카페모카",
+      "price": "4400",
+      "description": "진한 초콜릿 맛과 고소쌉싸름한 에스프레소의 풍미가 어우러진 달콤쌉싸름한 커피음료",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230303_276/1677799311787PPLVI_JPEG/2302_C_%C4%AB%C6%E4%B8%F0%C4%AB.jpg"
+      ]
+    },
+    {
+      "name": "밀크카라멜마키아또",
+      "price": "4400",
+      "description": "은은하게 버터 풍미가 도는 밀크카라멜+진한 에스프레소+고소한 우유의 앙상블이 매력적인 커피",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220107_19/1641520581396ltJgk_JPEG/%B9%D0%C5%A9%C4%AB%B6%F3%B8%E1%B8%B6%B3%A2%BE%DF%B6%C7.jpg"
+      ]
+    },
+    {
+      "name": "시나몬라떼",
+      "price": "4400",
+      "description": "고소한 우유에 진한 에스프레소를 넣어 만든 카페라떼에, 은은한 시나몬향을 더했다.",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220107_256/1641520604920R8gMg_JPEG/%BD%C3%B3%AA%B8%F3%B6%F3%B6%BC.jpg"
+      ]
+    },
+    {
+      "name": "피스타치오카페라떼",
+      "price": "4400",
+      "description": "고소한 피스타치오 풍미와 에스프레소가 조화롭게 어우러진 예쁜 비주얼의 음료",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220107_183/1641518460059lMgsH_JPEG/%C7%C7%BD%BA%C5%B8%C4%A1%BF%C0%C4%AB%C6%E4%B6%F3%B6%BC.jpg"
+      ]
+    },
+    {
+      "name": "에스프레소",
+      "price": "2500",
+      "description": "4가지 원두(브라질, 콜롬비아, 탄자니아, 라오스)를 블렌딩해 진하게 추출한 에스프레소",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220107_60/1641518699284Kwj8h_JPEG/%BF%A1%BD%BA%C7%C1%B7%B9%BC%D2.jpg"
+      ]
+    },
+    {
+      "name": "콜드브루",
+      "price": "3300",
+      "description": "저온에서 천천히 우려내 더욱 깔끔한 맛을 자랑하는, 바나프레소 콜드브루",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220107_69/1641518742022j28jx_JPEG/%C4%DD%B5%E5%BA%EA%B7%E7.jpg"
+      ]
+    },
+    {
+      "name": "콜드브루라떼",
+      "price": "3800",
+      "description": "바나프레소 콜드브루의 풍부한 풍미와 고소한 우유가 어우러진 콜드브루 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231106_73/169923127868543FMJ_PNG/%C4%DD%B5%E5%BA%EA%B7%E7%28%B9%E8%B9%CE%BF%F8%29_1280-960.png"
+      ]
+    },
+    {
+      "name": "바닐라콜드브루",
+      "price": "4000",
+      "description": "깔끔한 바나프레소 콜드브루에 달콤한 풍미의 바닐라를 더해 만든 부드러운 콜드브루 커피",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220107_165/1641519166858OLWVf_JPEG/%B9%D9%B4%D2%B6%F3%C4%DD%B5%E5%BA%EA%B7%E7.jpg"
+      ]
+    },
+    {
+      "name": "돌체 콜드브루",
+      "price": "4500",
+      "description": "에티오피아 싱글오리진 콜드브루에 달콤한 연유를 더해 부드러운 단맛을 이끌어낸 커피",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220107_116/16415191518229N0SQ_JPEG/%B5%B9%C3%BC%C4%DD%B5%E5%BA%EA%B7%E7.jpg"
+      ]
+    },
+    {
+      "name": "미숫가루라떼",
+      "price": "3800",
+      "description": "오곡미숫가루+천연대체당+프로틴을 함유한 한끼 식사대용 가능 미숫가루라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230502_145/1682988598439MAl8q_JPEG/2304_B_%B9%CC%BC%FD%B0%A1%B7%E7%B6%F3%B6%BC.jpg"
+      ]
+    },
+    {
+      "name": "얼그레이밀크티",
+      "price": "3800",
+      "description": "향긋한 얼그레이 홍차와 부드러운 우유의 하모니가 돋보이는 클래식한 맛의 밀크티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230502_109/1682988808991KBft1_JPEG/%BE%F3%B1%D7%B7%B9%C0%CC%B9%D0%C5%A9%C6%BC.jpg"
+      ]
+    },
+    {
+      "name": "얼그레이버블티",
+      "price": "4300",
+      "description": "향긋한 얼그레이 밀크티에 쫀득한 타피오카 펄을 더해 식감을 UP시킨 버블 밀크티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221116_17/1668559875761UC0sn_JPEG/B_%BE%F3%B1%D7%B7%B9%C0%CC%B9%F6%BA%ED%C6%BC.jpg"
+      ]
+    },
+    {
+      "name": "흑당밀크티",
+      "price": "3800",
+      "description": "달콤한 흑당시럽에 고소한 우유를 더해 만든 달콤한 흑당밀크티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221116_240/1668560028849tnwEB_JPEG/B_%C8%E6%B4%E7%B9%D0%C5%A9%C6%BC.jpg"
+      ]
+    },
+    {
+      "name": "흑당버블티",
+      "price": "4300",
+      "description": "흑당시럽+쫀득한 타피오카 펄+우유로 만든 비주얼, 식감, 극강의 달콤함을 가진 흑당버블티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221116_203/1668560039479BWGKe_JPEG/B_%C8%E6%B4%E7%B9%F6%BA%ED%C6%BC.jpg"
+      ]
+    },
+    {
+      "name": "토피넛라떼",
+      "price": "3800",
+      "description": "고소한 견과류를 넣은 라떼 위 서양식 달고나 '아몬드 브리틀' 올린 달콤고소한 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220107_116/1641521223653p8rk3_JPEG/%C5%E4%C7%C7%B3%D3%B6%F3%B6%BC.jpg"
+      ]
+    },
+    {
+      "name": "딸기라떼",
+      "price": "4000",
+      "description": "상큼한 딸기와 부드러운 우유에 달콤함을 한 스푼 첨가한 상콤달콤 딸기라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221116_64/166855882508803uUv_JPEG/B_%B5%FE%B1%E2%B6%F3%B6%BC.jpg"
+      ]
+    },
+    {
+      "name": "홍시라떼",
+      "price": "4000",
+      "description": "달콤한 홍시와 우유가 만났다. 은은한 단맛이 매력적인 홍시라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220107_109/1641521269675wBIrj_JPEG/%C8%AB%BD%C3%B6%F3%B6%BC.jpg"
+      ]
+    },
+    {
+      "name": "리얼초코",
+      "price": "3800",
+      "description": "진한 초콜릿의 풍부한 맛과 향이 그대로 살아있는 제대로된 초코라떼. 바나프레소 스테디셀러",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221116_136/1668559701317Cti7a_JPEG/B_%B8%AE%BE%F3%C3%CA%C4%DA.jpg"
+      ]
+    },
+    {
+      "name": "피스타치오라떼",
+      "price": "3800",
+      "description": "예쁜 비주얼과 고소한 맛이 모두 일품! 피스타치오 풍미가 가득한 피스타치오 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220107_226/1641521360703dYPOp_JPEG/%C7%C7%BD%BA%C5%B8%C4%A1%BF%C0%B6%F3%B6%BC.jpg"
+      ]
+    },
+    {
+      "name": "플레인요거트스무디",
+      "price": "4000",
+      "description": "새콤 달콤한 요거트 맛에 부드러운 우유가 어우러진 쫀득한 플레인요거트스무디",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240620_148/1718838363140bTith_JPEG/%B9%E8%B9%CE%BF%F8_%C7%C3%B7%B9%C0%CE%BF%E4%B0%C5%C6%AE%BD%BA%B9%AB%B5%F0.jpg"
+      ]
+    },
+    {
+      "name": "망고요거트스무디",
+      "price": "4000",
+      "description": "망고의 부드럽고 달콤한 맛과 상큼한 요거트가 어우러진 망고요거트스무디",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240620_163/1718838341276iv3VT_JPEG/%B9%E8%B9%CE%BF%F8_%B8%C1%B0%ED%BF%E4%B0%C5%C6%AE%BD%BA%B9%AB%B5%F0.jpg"
+      ]
+    },
+    {
+      "name": "자바칩바나치노",
+      "price": "4500",
+      "description": "초콜릿과 자바칩, 우유를 넣어 갈아낸 뒤, 휘핑크림&자바칩&초코드리즐로 마무리한 음료",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221116_171/1668559925659RCGSB_JPEG/B_%C0%DA%B9%D9%C4%A8%B9%D9%B3%AA%C4%A1%B3%EB.jpg"
+      ]
+    },
+    {
+      "name": "쿠앤크바나치노",
+      "price": "4500",
+      "description": "고소한 우유와 쿠앤크 쿠키를 얼음과 갈아낸 뒤, 휘핑크림+쿠앤크 조각으로 마무리한 음료",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221116_117/1668559990774FpVnh_JPEG/B_%C4%ED%BE%D8%C5%A9%B9%D9%B3%AA%C4%A1%B3%EB.jpg"
+      ]
+    },
+    {
+      "name": "제주청귤레몬스무디",
+      "price": "4000",
+      "description": "제주청귤 & 레몬 & 얼음을 블렌디드해 만든 상큼&달콤한 맛을 한층 더 끌어올린 스무디",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230829_72/1693270680273DMqWm_JPEG/B_%C3%BB%B1%D6%B7%B9%B8%F3%BD%BA%B9%AB%B5%F0.jpg"
+      ]
+    },
+    {
+      "name": "망고스무디",
+      "price": "4000",
+      "description": "달콤한 망고 맛이 가득한 열대맛 청량 스무디",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221116_64/1668559724425vaae6_JPEG/B_%B8%C1%B0%ED%BD%BA%B9%AB%B5%F0.jpg"
+      ]
+    },
+    {
+      "name": "딸기스무디",
+      "price": "4000",
+      "description": "새콤달콤 딸기가 고소한 우유를 만났다! 부드러운 딸기 스무디",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221116_103/1668558840249ioTFs_JPEG/B_%B5%FE%B1%E2%BD%BA%B9%AB%B5%F0.jpg"
+      ]
+    },
+    {
+      "name": "바닐라쉐이크",
+      "price": "4500",
+      "description": "마다가스카르산 바닐라빈을 넣어 만든 부드럽고 달콤한 바닐라쉐이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221116_174/16685597987572ASuV_JPEG/B_%B9%D9%B4%D2%B6%F3%BD%A6%C0%CC%C5%A9.jpg"
+      ]
+    },
+    {
+      "name": "초코쉐이크",
+      "price": "4500",
+      "description": "진한 초콜릿맛이 풍부하게 느껴지는 초코 쉐이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221116_213/166855996009556DGE_JPEG/B_%C3%CA%C4%DA%BD%A6%C0%CC%C5%A9.jpg"
+      ]
+    },
+    {
+      "name": "딸기쥬스",
+      "price": "4000",
+      "description": "언제먹어도 맛있는, 새콤달콤 딸기쥬스",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221116_116/1668558870679PTVEp_JPEG/B_%B5%FE%B1%E2%C1%EA%BD%BA.jpg"
+      ]
+    },
+    {
+      "name": "망고쥬스",
+      "price": "4000",
+      "description": "달달한 망고의 맛과 향이 입안가득 퍼지는 망고쥬스",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221116_65/1668559740686Dg4iB_JPEG/B_%B8%C1%B0%ED%C1%EA%BD%BA.jpg"
+      ]
+    },
+    {
+      "name": "홍시쥬스",
+      "price": "4000",
+      "description": "홍시를 그대로 갈아만든 홍시쥬스",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220107_68/1641522759307tIPKA_JPEG/%C8%AB%BD%C3%C1%D6%BD%BA.jpg"
+      ]
+    },
+    {
+      "name": "딸기요거트드링크",
+      "price": "4000",
+      "description": "딸기를 듬뿍 올린 딸기 요거트 드링크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221116_179/1668558854093XWDv5_JPEG/B_%B5%FE%B1%E2%BF%E4%B0%C5%C6%AE%B5%E5%B8%B5%C5%A9.jpg"
+      ]
+    },
+    {
+      "name": "플레인요거트드링크",
+      "price": "3800",
+      "description": "건강한 맛, 건강한 기분의 플레인 요거트 드링크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221116_17/1668560008219lx10v_JPEG/B_%C7%C3%B7%B9%C0%CE%BF%E4%B0%C5%C6%AE%B5%E5%B8%B5%C5%A9.jpg"
+      ]
+    },
+    {
+      "name": "복숭아요거트드링크",
+      "price": "4300",
+      "description": "진짜 복숭아를 과육을 넣어, 진짜 복숭아가 씹히는, 진짜 복숭아가 들어있는 요거트 드링크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221116_248/1668559848854Pd12k_JPEG/B_%BA%B9%BC%FE%BE%C6%BF%E4%B0%C5%C6%AE%B5%E5%B8%B5%C5%A9.jpg"
+      ]
+    },
+    {
+      "name": "얼음동동식혜",
+      "price": "3000",
+      "description": "우리 쌀, 우리 원재료로 만든 정성 가득 얼음동동 식혜",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230411_279/1681171612939gNDFA_JPEG/2303_B_%BD%C4%C7%FD.jpg"
+      ]
+    },
+    {
+      "name": "망고홍차아이스티",
+      "price": "2800",
+      "description": "열대과일 망고에 스리랑카산 홍차가 어우러진 시원한 망고홍차아이스티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240724_108/1721802657273Ihuzp_JPEG/%BF%E4%B1%E2%BF%E4_%B8%C1%B0%ED%C8%AB%C2%F7%BE%C6%C0%CC%BD%BA%C6%BC.jpg"
+      ]
+    },
+    {
+      "name": "플러스 망고홍차아이스티",
+      "price": "3800",
+      "description": "열대과일 망고에 스리랑카산 홍차가 어우러진 시원한 음료에 망고가 토팡된 아이스티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240724_285/1721802615478HC9W2_JPEG/%B9%E8%B9%CE%BF%F8_%C7%C3%B7%AF%BD%BA%B8%C1%B0%ED%BE%C6%C0%CC%BD%BA%C6%BC.jpg"
+      ]
+    },
+    {
+      "name": "제로슈가 복숭아아이스티 (ICED)",
+      "price": "3000",
+      "description": "NO SUGAR로 가볍게 즐기는 향긋한 복숭아와 홍차가 어우러진 제로슈가 복숭아아이스티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240724_76/1721802568315ccudB_JPEG/%B9%E8%B9%CE%BF%F8_%BA%B9%BC%FE%BE%C6%BE%C6%C0%CC%BD%BA%C6%BC.jpg"
+      ]
+    },
+    {
+      "name": "자몽허니블랙티",
+      "price": "3800",
+      "description": "상큼한 자몽 & 달콤한 꿀 & 깊은 풍미의 블랙티의 근사한 앙상블.",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230829_68/1693270751585MvpxH_JPEG/B_%C0%DA%B8%F9%C7%E3%B4%CF%BA%ED%B7%A2%C6%BC%BE%C6%C0%CC%BD%BA.jpg"
+      ]
+    },
+    {
+      "name": "문경오미자티",
+      "price": "3800",
+      "description": "100% 문경오미자로 만든 여름철 갈증해소에 좋은 문경오미자티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230522_21/1684715592896gorYd_JPEG/2305_B_%B9%AE%B0%E6%BF%C0%B9%CC%C0%DA%C6%BC.jpg"
+      ]
+    },
+    {
+      "name": "NEW복숭아아이스티",
+      "price": "3500",
+      "description": "직접 우려낸 얼그레이 홍차에 진짜 국내산 백도 복숭아를 과육을 넣어 만든 복숭아 아이스티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221116_143/1668559814773RRIFQ_JPEG/B_%BA%B9%BC%FE%BE%C6%BE%C6%C0%CC%BD%BA%C6%BC.jpg"
+      ]
+    },
+    {
+      "name": "복숭아에이드",
+      "price": "4300",
+      "description": "톡톡 터지는 탄산수에 진짜 복숭아 넣어만들어 진짜 복숭아가 씹히는 진짜 복숭아 에이드",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221116_189/16685598309895Ne33_JPEG/B_%BA%B9%BC%FE%BE%C6%BF%A1%C0%CC%B5%E5.jpg"
+      ]
+    },
+    {
+      "name": "레몬에이드",
+      "price": "3800",
+      "description": "상큼한 레몬 + 톡톡 터지는 탄산수의 조합은 가히 신의 한 수",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221116_200/16685596613522a1YE_JPEG/B_%B7%B9%B8%F3%BF%A1%C0%CC%B5%E5.jpg"
+      ]
+    },
+    {
+      "name": "자몽에이드",
+      "price": "3800",
+      "description": "달콤 쌉싸름한 자몽 + 톡톡 터지는 탄산수. 어른의 청량함이란 이런 것이다.",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221116_295/1668559908385rq0iQ_JPEG/B_%C0%DA%B8%F9%BF%A1%C0%CC%B5%E5.jpg"
+      ]
+    },
+    {
+      "name": "청포도에이드",
+      "price": "3800",
+      "description": "싱그러운 청포도가 톡톡 터지는 탄산수와 만났다. 청포도에이드 한모금에 내 마음도 그린~",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221116_140/16685599374039ISyB_JPEG/B_%C3%BB%C6%F7%B5%B5%BF%A1%C0%CC%B5%E5.jpg"
+      ]
+    },
+    {
+      "name": "제주청귤에이드",
+      "price": "3800",
+      "description": "제주청귤 + 톡톡 터지는 탄산수의 조합으로 상큼&청량&시원한 에이드",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230829_5/1693270712878ym9OK_JPEG/B_%C1%A6%C1%D6%C3%BB%B1%D6%BF%A1%C0%CC%B5%E5.jpg"
+      ]
+    },
+    {
+      "name": "제주청귤티",
+      "price": "3500",
+      "description": "제주청귤로 만든 새콤달콤 제주청귤티로 비타민C 챙기세요!",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220107_61/1641523129044VYG77_JPEG/%C1%A6%C1%D6%C3%BB%B1%D6%C6%BC.jpg"
+      ]
+    },
+    {
+      "name": "레몬티",
+      "price": "3800",
+      "description": "상큼한 레몬 과육에 꿀을 더해 달콤함을 더한 건강한 과일 티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220107_199/1641523149262NJiDu_JPEG/%C7%E3%B4%CF%B7%B9%B8%F3%C6%BC.jpg"
+      ]
+    },
+    {
+      "name": "자몽티",
+      "price": "3800",
+      "description": "달콤쌉싸름한 자몽과육에 달콤한 꿀을 더한 허니자몽티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220107_191/1641523185242Yxx1N_JPEG/%C7%E3%B4%CF%C0%DA%B8%F9%C6%BC.jpg"
+      ]
+    },
+    {
+      "name": "캐모마일",
+      "price": "2800",
+      "description": "풋풋한 사과향과 은은하고 편안한 꽃향기가 가득한 캐모마일티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220921_235/1663718350977VgwhN_JPEG/%B9%E8%B9%CE1%29%C4%B3%B8%F0%B8%B6%C0%CF%C6%BC.jpg"
+      ]
+    },
+    {
+      "name": "페퍼민트",
+      "price": "2800",
+      "description": "맨톨의 시원하고 청량한 향기가 입안을 개운하고 깔끔하게 만들어주는 페퍼민트티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220921_198/1663718369379QP5i2_JPEG/%B9%E8%B9%CE1%29%C6%E4%C6%DB%B9%CE%C6%AE%C6%BC.jpg"
+      ]
+    },
+    {
+      "name": "히비스커스",
+      "price": "2800",
+      "description": "기분 전환이 필요할때, 예쁜 레드컬러와 상큼한 향 & 새콤한 맛이 매력적인 히비스커스티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220921_212/1663718380997TADPr_JPEG/%B9%E8%B9%CE1%29%C8%F7%BA%F1%BD%BA%C4%BF%BD%BA%C6%BC.jpg"
+      ]
+    },
+    {
+      "name": "얼그레이",
+      "price": "2800",
+      "description": "고급스러운 베르가못 향을 가진 클래식한 홍차",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220921_10/1663718397565VObrG_JPEG/%B9%E8%B9%CE1%29%BE%F3%B1%D7%B7%B9%C0%CC%C6%BC.jpg"
+      ]
+    },
+    {
+      "name": "유자마카롱",
+      "price": "2100",
+      "description": "유자 크림과 유자청을 듬뿍 넣어 향긋한 향과 상큼한 맛을 느낄 수 있는 유자마카롱",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250304_272/17410439473140jrVB_PNG/%B8%B6%C4%AB%B7%D5%BC%AD%B9%F6_%C0%AF%C0%DA_%282%29.png"
+      ]
+    },
+    {
+      "name": "말차초코마카롱",
+      "price": "2100",
+      "description": "진한 말차에 초콜릿 가나슈를 넣어 달콤 쌉사름한 맛이 매력적인 말차초코마카롱",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250304_21/1741043804497sQE39_PNG/%B8%B6%C4%AB%B7%D5%BC%AD%B9%F6_%B8%BB%C2%F7%C3%CA%C4%DA_%283%29.png"
+      ]
+    },
+    {
+      "name": "순우유마카롱",
+      "price": "2100",
+      "description": "쫀득한 꼬끄에 유크림 함량 100%의 청정 뉴질랜드 우유버터로 만든 진한 우유맛 마카롱",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240126_271/17062299172653m4wW_PNG/%B9%E8%B9%CE%BF%F8_%BC%F8%BF%EC%C0%AF%B8%B6%C4%AB%B7%D5.png"
+      ]
+    },
+    {
+      "name": "초코가나슈마카롱",
+      "price": "2100",
+      "description": "진한 초콜릿을 듬뿍 넣어, 한입 물면 자국이 그대로 남는 쫀득 꾸덕 달달한 초코마카롱",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240126_85/1706229972913H7ggo_PNG/%B9%E8%B9%CE%BF%F8_%C3%CA%C4%DD%B8%B4%B0%A1%B3%AA%BD%B4%B8%B6%C4%AB%B7%D5.png"
+      ]
+    },
+    {
+      "name": "블루베리요거트마카롱",
+      "price": "2100",
+      "description": "달콤한 블루베리와 신선한 맛의 요거트가 듬뿍 들어가 새콤달콤한 블루베리맛 요거트마카롱",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240126_171/1706229995081fRlw2_PNG/%B9%E8%B9%CE%BF%F8_%BA%ED%B7%E7%BA%A3%B8%AE%BF%E4%B0%C5%C6%AE%B8%B6%C4%AB%B7%D5.png"
+      ]
+    },
+    {
+      "name": "아메리칸 쿠키",
+      "price": "2300",
+      "description": "크게 자른 달콤쌉쌀 초콜릿과 고소한 캐슈넛을 듬뿍 넣은, 겉바속촉 고전 미국 쿠키",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240401_272/1711929736347jYTbV_JPEG/%B9%E8%B9%CE%BF%F8_%BE%C6%B8%DE%B8%AE%C4%AD%C4%ED%C5%B0.jpg"
+      ]
+    },
+    {
+      "name": "더블초코칩 쿠키",
+      "price": "2300",
+      "description": "크게 자른 초콜릿과 진한 버터, 코코아파우더가 만나 겉은 바삭, 속은 브라우니 같은 쿠키",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240401_192/1711929801678pYfSR_JPEG/%B9%E8%B9%CE%BF%F8_%B4%F5%BA%ED%C3%CA%C4%DA%C4%A8%C4%ED%C5%B0.jpg"
+      ]
+    },
+    {
+      "name": "오트밀크랜베리쿠키",
+      "price": "2300",
+      "description": "오트밀을 부드럽고 쫄깃한 쿠키로 만든 뒤 새콤달콤한 크랜베리를 더해 건강과 맛을 더한 쿠키",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240401_211/1711929865965FWKxm_JPEG/%B9%E8%B9%CE_%BF%C0%C6%AE%B9%D0%C5%A9%B7%A3%BA%A3%B8%AE%C4%ED%C5%B0.jpg"
+      ]
+    },
+    {
+      "name": "게살듬뿍모닝샌드위치",
+      "price": "2300",
+      "description": "푹신한 모닝롤에 통 게살과 야채를 듬뿍넣어 다양한 식감의 신선한 모닝 샌드위치",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240620_47/1718838303595ltDEg_JPEG/%B9%E8%B9%CE%BF%F8_%B0%D4%BB%EC%B5%EB%BB%D2%B8%F0%B4%D7%BB%F7%B5%E5%C0%A7%C4%A1.jpg"
+      ]
+    },
+    {
+      "name": "에그듬뿍모닝샌드위치",
+      "price": "2300",
+      "description": "폭신한 모닝롤에 부드러운 에그마요를 듬뿍넣어 고소하고 담백한 모닝 샌드위치",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240620_90/1718838285429Y1udJ_JPEG/%B9%E8%B9%CE%BF%F8_%BF%A1%B1%D7%B5%EB%BB%D2%B8%F0%B4%D7%BB%F7%B5%E5%C0%A7%C4%A1.jpg"
+      ]
+    },
+    {
+      "name": "버터리소금빵",
+      "price": "2800",
+      "description": "소금이 빵위에 콕콕! 진한 버터의 풍미가 가득한 보들보들 촉촉한 소금빵",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240228_183/1709079926749UGxna_JPEG/%B9%E8%B9%CE%BF%F8_%B9%F6%C5%CD%B8%AE%BC%D2%B1%DD%BB%A7.jpg"
+      ]
+    },
+    {
+      "name": "핫치킨부리또",
+      "price": "4900",
+      "description": "핫치킨을 듬뿍 넣은 갈릭라이스에 모짜렐라 치즈를 얹어 또띠아로 감싼 매콤달콤 든든한 부리또",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240311_231/17101130162129znf9_JPEG/%B9%E8%B9%CE%BF%F8_%C7%D6%C4%A1%C5%B2%BA%CE%B8%AE%B6%C7.jpg"
+      ]
+    },
+    {
+      "name": "햄치즈잉글리시머핀",
+      "price": "3200",
+      "description": "햄과 치즈, 폭신&뜨끈한 에그패티가 들어가 든든한 햄치즈 잉글리시머핀",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240126_275/17062298491137VRph_PNG/%BA%AF%B0%E6%C7%DC%C4%A1%C1%EE%C0%D7%B1%DB%B8%AE%BD%C3%B8%D3%C7%C9_%B9%E8%B9%CE%BF%F8.png"
+      ]
+    },
+    {
+      "name": "플레인 베이글",
+      "price": "1900",
+      "description": "쫄깃쫄깃한 베이글 외피와 부드러운 식감의 정통 베이글",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230605_61/1685922779963ttv2g_JPEG/%C7%C3%B7%B9%C0%CE%BA%A3%C0%CC%B1%DB.jpg"
+      ]
+    },
+    {
+      "name": "어니언 베이글",
+      "price": "1900",
+      "description": "쫄깃쫄깃한 베이글 외피와 부드러운 식감에 양파가 추가된 정통 베이글",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230605_228/1685922797334QedRS_JPEG/%BE%EE%B4%CF%BE%F0%BA%A3%C0%CC%B1%DB.jpg"
+      ]
+    },
+    {
+      "name": "폴리크림치즈",
+      "price": "900",
+      "description": "베이글과 잘 어울리는, 합성보존료가 첨가되지 않은 자연치즈 (1포션=28g)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230605_146/1685922842268TjUpr_JPEG/2303_B_%C6%FA%B8%AE%C5%A9%B8%B2%C4%A1%C1%EE.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20230730_120/16907271439248l1U2_JPEG/1.jpg",
+    "https://ldb-phinf.pstatic.net/20230730_178/1690727143912Jn3Ph_JPEG/2.jpg",
+    "https://ldb-phinf.pstatic.net/20230730_293/1690727143908Lieuk_JPEG/3.jpg",
+    "https://ldb-phinf.pstatic.net/20230730_276/1690727143917qNgrp_JPEG/4.jpg",
+    "https://ldb-phinf.pstatic.net/20230730_51/1690727144017gGFpp_JPEG/5.jpg"
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "id": "1407198399",
+  "name": "밀키샵 성수점",
+  "category": "도넛",
+  "micro_review": null,
+  "road_address": "서울 성동구 연무장길 9-1 1층 밀키샵",
+  "address": "서울 성동구 성수동2가 301-52",
+  "lat": "127.0506914",
+  "lon": "37.5439165",
+  "business_hours": [
+    {
+      "day": "매일",
+      "start": "12:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1321-3178",
+  "url": "https://www.instagram.com/milkyshop_seongsu",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": true,
+    "포장": true,
+    "배달": true,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "밀키샵과 달콤한 순간을 만끽해요!\n\n안녕하세요. 성수카페를 운영 중인\n밀키샵 성수점입니다. 반갑습니다 :)\n이곳에서는 매일 아침 맛있는 도넛,\n파이가 구워지고 있습니다~~!\n\n당일 생산 & 당일 판매 매장에서\n직접 도우 발효, 크림생산, 반죽까지\n전부 다 이루어지고 있습니다.\n\n맛있고 달달한 도넛, 파이, 크로넛,\n페이스츄리 꽈배기, 버터샌드 등이\n당이 필요한 여러분을 위해서\n정성스럽게 준비되어 있습니다.\n\n빵이 입으로 들어가는 순간 달콤함이\n순식간에 퍼지는 마법 같은 경험을\n하게 되실 겁니다~~\n\n아메리카노, 라떼, 바닐라우유,\n소프트 아이스크림도 준비됐으니,\n성수카페 핫플인 곳을 찾으신다면\n밀키샵으로 편하게 방문해주세요!\n\n(*매일 오후12~19시까지 운영하며\n성수역 4번 출구에서 5분 걸립니다)",
+  "Information_facilitie": [
+    "포장",
+    "배달",
+    "예약",
+    "무선 인터넷"
+  ],
+  "parking_info": null,
+  "payment_info": null,
+  "menu": [
+    {
+      "name": "CREMEBRULEbuttersend",
+      "price": "23000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250520_58/1747705703758LqQ1t_JPEG/1000020280.jpg",
+        "https://ldb-phinf.pstatic.net/20250520_184/1747705703709w7a5H_JPEG/1000020277.jpg",
+        "https://ldb-phinf.pstatic.net/20250520_297/1747705703591ARXdR_JPEG/1000020249.jpg",
+        "https://ldb-phinf.pstatic.net/20250520_64/1747705677760rWdTP_JPEG/1000020256.jpg"
+      ]
+    },
+    {
+      "name": "우유도넛",
+      "price": "3700",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230508_48/1683505257658nmbhB_JPEG/20230424_114124.jpg"
+      ]
+    },
+    {
+      "name": "peanut butter",
+      "price": "23000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250520_254/1747705847339yylge_JPEG/1000020251.jpg",
+        "https://ldb-phinf.pstatic.net/20250520_273/1747705847367EIy00_JPEG/1000020262.jpg"
+      ]
+    },
+    {
+      "name": "MILK crarmel",
+      "price": "23000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250520_8/1747705806100bP7lN_JPEG/1000020252.jpg",
+        "https://ldb-phinf.pstatic.net/20250520_136/1747705806091hdnzW_JPEG/1000020255.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20240220_241/1708397433995sbxlA_JPEG/IMG_20231203_111050_247.jpg",
+    "https://ldb-phinf.pstatic.net/20240220_207/1708397434006tju3s_JPEG/IMG_20231203_111100_110.jpg",
+    "https://ldb-phinf.pstatic.net/20240220_127/1708397434016gXPhg_JPEG/IMG_20231203_111107_872.jpg",
+    "https://ldb-phinf.pstatic.net/20240220_249/1708397433929AaWIz_JPEG/IMG_20231203_111129_543.jpg",
+    "https://ldb-phinf.pstatic.net/20240220_209/1708397434004sKXPW_JPEG/IMG_20231203_111034_105.jpg",
+    "https://ldb-phinf.pstatic.net/20240220_128/1708397433906oH0VR_JPEG/IMG_20231203_111031_743.jpg",
+    "https://ldb-phinf.pstatic.net/20240220_61/1708397433908aP6kd_JPEG/IMG_20231203_111025_710.jpg",
+    "https://ldb-phinf.pstatic.net/20240220_70/1708397433789iTG5J_JPEG/IMG_20231203_111011_924.jpg",
+    "https://ldb-phinf.pstatic.net/20240220_157/1708397433847vk6A4_JPEG/IMG_20231203_111007_685.jpg",
+    "https://ldb-phinf.pstatic.net/20240220_72/1708397433802oB619_JPEG/IMG_20231203_111005_279.jpg",
+    "https://ldb-phinf.pstatic.net/20240220_135/17083974338007iD3n_JPEG/IMG_20231203_111012_000.jpg",
+    "https://ldb-phinf.pstatic.net/20230508_264/1683504846748Rsjiy_JPEG/1683194209481.jpg",
+    "https://ldb-phinf.pstatic.net/20230508_137/1683504901642qhqqP_JPEG/20230430_141555.jpg",
+    "https://ldb-phinf.pstatic.net/20230508_151/16835049017115rpNl_JPEG/20230501_163640.jpg",
+    "https://ldb-phinf.pstatic.net/20230508_271/1683504901827ByCrk_JPEG/20230502_190637.jpg",
+    "https://ldb-phinf.pstatic.net/20230508_159/1683504901798MEDan_JPEG/20230502_190608.jpg",
+    "https://ldb-phinf.pstatic.net/20230508_263/1683504846743NbKo5_JPEG/1683194193271.jpg",
+    "https://ldb-phinf.pstatic.net/20230508_98/1683504846679N4Ed2_JPEG/1683194202640.jpg",
+    "https://ldb-phinf.pstatic.net/20230508_158/1683504846754529mg_JPEG/1683194217984.jpg",
+    "https://ldb-phinf.pstatic.net/20230508_69/1683504846712LgztC_JPEG/1683194188959.jpg",
+    "https://ldb-phinf.pstatic.net/20230508_53/1683504847614uNiV5_JPEG/1683469626627.jpg"
+  ]
+}

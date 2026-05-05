@@ -1,0 +1,401 @@
+{
+  "id": "1643583812",
+  "name": "슈퍼말차 성수",
+  "category": "카페",
+  "micro_review": null,
+  "road_address": "서울 성동구 서울숲6길 19",
+  "address": "서울 성동구 성수동1가 668-9",
+  "lat": "127.0437066",
+  "lon": "37.5475124",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "11:00",
+      "end": "21:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:50"
+        }
+      ]
+    },
+    {
+      "day": "토",
+      "start": "11:00",
+      "end": "21:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:50"
+        }
+      ]
+    },
+    {
+      "day": "일",
+      "start": "11:00",
+      "end": "21:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:50"
+        }
+      ]
+    },
+    {
+      "day": "월",
+      "start": "11:00",
+      "end": "21:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:50"
+        }
+      ]
+    },
+    {
+      "day": "화(12/23)",
+      "start": null,
+      "end": null,
+      "breakHours": null,
+      "description": "휴무",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "수",
+      "start": "11:00",
+      "end": "21:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:50"
+        }
+      ]
+    },
+    {
+      "day": "목",
+      "start": "11:00",
+      "end": "21:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:50"
+        }
+      ]
+    }
+  ],
+  "virtual_phone_number": null,
+  "url": "http://www.hitthetea.com/",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": true,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": true,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "슈퍼말차는 설탕이나 인공 감미료 대신 100% 유기농 최상등급(Ceremonial Grade) 말차와 천연 재료만을 더해 건강하고 다양한 맛으로 즐길 수 있는 '프리미엄 블렌딩 말차'입니다.",
+  "Information_facilitie": [
+    "글루텐프리 메뉴",
+    "비건 메뉴",
+    "무선 인터넷",
+    "포장",
+    "남/녀 화장실 구분",
+    "배달"
+  ],
+  "parking_info": null,
+  "payment_info": null,
+  "menu": [
+    {
+      "name": "슈퍼말차 소프트라떼",
+      "price": "7300",
+      "description": "슈퍼말차 라떼와 소프트 컵 두 가지를 동시에 즐길 수 있는 아이스크림 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250921_236/1758445522280C0UNV_JPEG/%28Bakery%29Super_Mathca_Soft_Latte.jpg"
+      ]
+    },
+    {
+      "name": "슈퍼말차 소프트컵",
+      "price": "6300",
+      "description": "슈퍼말차의 시그니처 소프트 아이스크림(혼합,말차,백미 3종)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250921_292/1758445487545RVXTM_JPEG/%28Bakery%29Super_Mathca_Soft_Cup_Mix.jpg",
+        "https://ldb-phinf.pstatic.net/20250921_11/1758445484482rIYRr_JPEG/%28Bakery%29Super_Mathca_Soft_Cup_Rice.jpg",
+        "https://ldb-phinf.pstatic.net/20250921_223/1758445407467AFwQd_JPEG/%28Bakery%29Super_Mathca_Soft_Cup_Matcha.jpg"
+      ]
+    },
+    {
+      "name": "슈퍼말차 라떼",
+      "price": "5800",
+      "description": "유기농 말차와 자연의 달콤함을 블렌딩한 오리지널 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240715_297/1721021735207pvWwx_JPEG/SUPER_MATCHA_%3A_PURE_LATTE.jpg"
+      ]
+    },
+    {
+      "name": "코코넛 말차 라떼",
+      "price": "5800",
+      "description": "유기농 말차와 고소한 코코넛 밀크를 베이스로 한 달콤한 말차 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240715_39/1721021761765eAOhh_JPEG/COCONUT_LATTE.jpg"
+      ]
+    },
+    {
+      "name": "리얼 레몬 크러쉬",
+      "price": "6300",
+      "description": "자일로스 레몬청의 생과육을 얼음과 함께 갈아낸 시원한 블렌디드 셰이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250901_264/1756687659417Pu20z_JPEG/%28ICE%29_Super_Real_Lemon_Crush.jpg"
+      ]
+    },
+    {
+      "name": "리얼 레몬 에이드",
+      "price": "6300",
+      "description": "자일로스 레몬청의 생과육과 청량한 탄산이 어우러진 상큼한 에이드",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250901_257/1756687645358CYRSC_JPEG/%28ICE%29_Super_Real_Lemon_Ade.jpg"
+      ]
+    },
+    {
+      "name": "슈퍼말차 레몬 에이드",
+      "price": "6800",
+      "description": "자일로스 레몬청의 생과육에 깊은 풍미의 유기농 말차를 더한 에이드",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250901_277/17566876320069OpaK_JPEG/%28ICE%29_Super_Matcha_Real_Lemon_Ade.jpg"
+      ]
+    },
+    {
+      "name": "오트 말차 스노우",
+      "price": "11800",
+      "description": "유기농 말차와 비건 오트밀크를 블렌딩한 베이스에 팥과 떡을 얹은 빙수",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240715_71/1721021800505WuMcL_JPEG/BAKERY_OAT_MATCHA_SNOW.jpg"
+      ]
+    },
+    {
+      "name": "퓨어 말차 브루드 워터",
+      "price": "5300",
+      "description": "100% 유기농 세레모니얼 등급의 말차로 우려낸 깔끔한 언스윗튼드 워터",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240715_101/172102184598029efY_JPEG/PURE_WATER.jpg"
+      ]
+    },
+    {
+      "name": "퓨어 말차 오트 라떼",
+      "price": "6800",
+      "description": "100% 유기농 세레모니얼 등급의 말차로 만든 언스윗튼드 퓨어 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240715_204/1721021866833uOA7Q_JPEG/SUPER_MATCHA_%3A_PURE_LATTE.jpg"
+      ]
+    },
+    {
+      "name": "말차 에스프레소 라떼",
+      "price": "6300",
+      "description": "슈퍼말차 라떼에 에스프레소 샷을 더해 더욱 진하고 고소한 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240715_289/1721021748844ASowL_JPEG/MATCHA_ESPRESSO_LATTE.jpg"
+      ]
+    },
+    {
+      "name": "슈퍼보리 라떼",
+      "price": "5800",
+      "description": "유기농 보리와 제로 스위트너를 블렌딩해 커피 맛을 재현한 논카페인 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240715_265/1721021772466VhVd6_JPEG/SUPER_BORI_LATTE.jpg"
+      ]
+    },
+    {
+      "name": "오트 크림 보리 라떼",
+      "price": "6800",
+      "description": "논카페인 보리라떼에 오트 휘핑을 얹은 고소하고 부드러운 크림 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250217_135/1739755486456o6GhB_JPEG/SmartPlace_OatCreamBoriLatte.jpg"
+      ]
+    },
+    {
+      "name": "오트 크림 말차 라떼",
+      "price": "6800",
+      "description": "오트 밀크 슈퍼말차 라떼에 오트 휘핑을 얹은 고소하고 부드러운 크림 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240715_254/1721021819293WgDJ8_JPEG/OAT_MATCHA_LATTE.jpg"
+      ]
+    },
+    {
+      "name": "오트 크림 말차샷 라떼",
+      "price": "7300",
+      "description": "오트 크림 말차 라떼에 에스프레소 샷을 더한 진한 풍미가 느껴지는 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240715_49/172102183149724lsy_JPEG/OAT_MATCHA_SHOT_LATTE.jpg"
+      ]
+    },
+    {
+      "name": "슈퍼말차 크러쉬",
+      "price": "6300",
+      "description": "슈퍼말차 라떼를 얼음과 함께 갈아서 달콤하게 즐기는 블렌디드 셰이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240715_20/17210217874065rE2Q_JPEG/SUPER_MATCHA_CRUSH.jpg"
+      ]
+    },
+    {
+      "name": "슈퍼보리 크러쉬",
+      "price": "6300",
+      "description": "슈퍼보리 라떼를 얼음과 함께 갈아서 고소하게 즐기는 블렌디드 셰이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250217_124/17397574572170kjfh_JPEG/SmartPlace_Super_Bori_crush.jpg"
+      ]
+    },
+    {
+      "name": "코코넛 말차 크러쉬",
+      "price": "6300",
+      "description": "코코넛 말차 라떼를 얼음과 함께 갈아서 고소하게 즐기는 블렌디드 셰이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250217_300/17397574872332Gy01_JPEG/SmartPlace_Coconut_Matcha_crush.jpg"
+      ]
+    },
+    {
+      "name": "아메리카노",
+      "price": "5300",
+      "description": "시그니처 블렌드 원두로 고소함과 향긋한 베리 노트를 느낄 수 있는 커피",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250217_104/1739757539292klmW9_JPEG/SmartPlace_%28ICE%29_Americano.jpg"
+      ]
+    },
+    {
+      "name": "카페 라떼",
+      "price": "5800",
+      "description": "산미감 있는 에스프레소와 고소한 우유의 조화로움을 즐길 수 있는 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250217_278/1739757558063lGEzJ_JPEG/SmartPlace_Caffe_latte.jpg"
+      ]
+    },
+    {
+      "name": "바닐라 라떼",
+      "price": "6300",
+      "description": "카페라떼에 제로 스위트너 바닐라 시럽이 부드럽게 어우러진 달콤한 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250217_126/1739757590198pnwu2_JPEG/SmartPlace_Vanlia_latte.jpg"
+      ]
+    },
+    {
+      "name": "블랙 롤 케이크(PIECE)",
+      "price": "6000",
+      "description": "글루텐프리 카카오 시트에 말차 크림이 샌딩된 롤케이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250217_240/17397572902668Lxo2_JPEG/SmartPlace_Black_roll_cake.jpg"
+      ]
+    },
+    {
+      "name": "딸기 롤 케이크(PIECE)",
+      "price": "6600",
+      "description": "글루텐프리 말차 그린 시트에 딸기 크림이 샌딩된 롤케이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250307_53/1741325086426X9YdC_JPEG/SmartPlace_Strawberry_roll_cake.jpg"
+      ]
+    },
+    {
+      "name": "블랙 롤 케이크(WHOLE)",
+      "price": "22900",
+      "description": "글루텐프리 카카오 시트에 말차 크림이 샌딩된 롤케이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250307_19/1741325143806CS5n7_JPEG/SmartPlace_Black_roll_cake_whole_%281%29.jpg"
+      ]
+    },
+    {
+      "name": "딸기 롤 케이크(WHOLE)",
+      "price": "24900",
+      "description": "글루텐프리 말차 그린 시트에 딸기 크림이 샌딩된 롤케이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250307_88/1741325119494uHbj1_JPEG/SmartPlace_Strawberry_roll_cake_whole.jpg"
+      ]
+    },
+    {
+      "name": "말차 코코넛 샌드",
+      "price": "2900",
+      "description": "화이트 초콜릿 베이스의 코코넛 가나슈와 토치드 코코넛의 향이 더해진 글루텐프리 라이스 쿠키",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250423_113/1745373817808YindP_JPEG/SmartPlace_GreenPalette_Cookie_MatchaCoconut.jpg"
+      ]
+    },
+    {
+      "name": "말차 에스프레소 샌드",
+      "price": "2900",
+      "description": "에스프레소 크림과 깊은 말차의 풍미가 어우러진 글루텐프리 라이스 쿠키",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250423_188/17453739035275k2Ht_JPEG/SmartPlace_GreenPalette_Cookie_MatchaEspresso.jpg"
+      ]
+    },
+    {
+      "name": "말차 피스타치오 샌드",
+      "price": "2900",
+      "description": "화이트 초콜릿 가나슈와 피스타치오 페이스트의 넛티한 맛을 담은 글루텐프리 라이스 쿠키",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250423_244/1745373938693vrrAf_JPEG/SmartPlace_GreenPalette_Cookie_MatchaPistachio.jpg"
+      ]
+    },
+    {
+      "name": "엑스트라 말차 샌드",
+      "price": "2900",
+      "description": "두배로 더해진 말차로 진하고 쌉싸름한 맛의 글루텐프리 라이스 쿠키",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250423_176/1745373996204OQKBK_JPEG/SmartPlace_GreenPalette_Cookie_ExtraMatcha.jpg"
+      ]
+    },
+    {
+      "name": "슈퍼말차 그린 팔레트 샌드 쿠키",
+      "price": "13900",
+      "description": "슈퍼말차 시그니처 음료를 모티브로 한 다채로운 '그린 팔레트 쿠키' 4개입의 선물세트",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250718_94/1752803701591YGVG3_JPEG/SmartPlace_GreenPalette_Cookie_4set_renewal.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20250621_202/1750498807554iIYlG_JPEG/SUPERMATCHA_Seongsu_IMG_8.jpg",
+    "https://ldb-phinf.pstatic.net/20250621_266/1750498799632T8viF_JPEG/SUPERMATCHA_Seongsu_IMG_6.jpg",
+    "https://ldb-phinf.pstatic.net/20250621_12/1750498790103KR4l9_JPEG/SUPERMATCHA_Seongsu_IMG_4.jpg",
+    "https://ldb-phinf.pstatic.net/20250621_72/1750498777837Egn7H_JPEG/SUPERMATCHA_Seongsu_IMG_3.jpg",
+    "https://ldb-phinf.pstatic.net/20250621_40/1750498767098JdGsM_JPEG/SUPERMATCHA_Seongsu_IMG_1.jpg",
+    "https://ldb-phinf.pstatic.net/20250621_161/1750498758174VdzvL_JPEG/SUPERMATCHA_Seongsu_IMG_2.jpg",
+    "https://ldb-phinf.pstatic.net/20250621_242/1750498745358QqXOA_PNG/%BC%BA%BC%F6%C1%A1_%C0%BD%B7%E1%C4%C6_3.png",
+    "https://ldb-phinf.pstatic.net/20250621_56/1750498727347LQwyF_PNG/%BC%BA%BC%F6%C1%A1_%BF%C0%C6%AE%B8%BB%C2%F7%BD%BA%B3%EB%BF%EC_2.png",
+    "https://ldb-phinf.pstatic.net/20250621_226/17504987176431UmFR_JPEG/%BC%BA%BC%F6%C1%A1_%C7%BB%BE%EE%C0%CC%BA%A5%C6%AE_3.jpg",
+    "https://ldb-phinf.pstatic.net/20250621_208/1750498712794nisym_JPEG/%BC%BA%BC%F6%C1%A1_%C7%BB%BE%EE%C0%CC%BA%A5%C6%AE_2.jpg",
+    "https://ldb-phinf.pstatic.net/20250621_243/1750498705926fJ9Vn_JPEG/%BC%BA%BC%F6%C1%A1_%C0%DA%B5%CE%BD%C3%C1%F0_1.jpg",
+    "https://ldb-phinf.pstatic.net/20250621_75/1750498667231QRHiA_PNG/%BC%BA%BC%F6%C1%A1_%C0%BD%B7%E1%C4%C6_2.png"
+  ]
+}

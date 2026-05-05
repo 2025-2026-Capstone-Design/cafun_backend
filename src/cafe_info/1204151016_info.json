@@ -1,0 +1,375 @@
+{
+  "id": "1204151016",
+  "name": "지크커피",
+  "category": "카페,디저트",
+  "micro_review": [
+    "블랙 아인슈페너로 완성하는 성수 감성"
+  ],
+  "road_address": "서울 성동구 연무장3길 10-1 1층",
+  "address": "서울 성동구 성수동2가 302-22",
+  "lat": "127.051799",
+  "lon": "37.5445751",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "10:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:30"
+        }
+      ]
+    },
+    {
+      "day": "토",
+      "start": "10:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:30"
+        }
+      ]
+    },
+    {
+      "day": "일",
+      "start": "11:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "19:30"
+        }
+      ]
+    },
+    {
+      "day": "월",
+      "start": "11:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "19:30"
+        }
+      ]
+    },
+    {
+      "day": "화",
+      "start": "11:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "19:30"
+        }
+      ]
+    },
+    {
+      "day": "수",
+      "start": "11:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "19:30"
+        }
+      ]
+    },
+    {
+      "day": "목(12/25)",
+      "start": "12:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": "성탄절",
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1396-8895",
+  "url": "https://www.instagram.com/jik_coffee",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": true,
+    "단체 이용 가능": true,
+    "대기공간": false,
+    "간편결제": true,
+    "반려동물 동반": true,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "성수동에서 분위기 좋은 카페를 찾고 계신가요?\n<지크커피>는 성수동에서 넓고 세련된 블랙 인테리어와 고급스러운 분위기를 자랑하는 카페입니다.\n\n한줄기의 선을 '찍ㅡ'긋는다는 의미에서 시작된\nJik Coffee는 인테리어, 서비스, 음악, 조명\n그리고 커피의 맛까지 모든 요소가 어우러져\n한 잔의 커피와 특별한 경험을 완성하는 공간입니다\n\n[취향대로 즐기는 커피]\n고소, 산미, 디카페인 원두 중 선택이 가능해\n드립커피와 스페셜티 커피 모두 맛볼 수 있는 성수카페로 인기입니다.\n\n[SNS에서 인기, 유니크한 디저트]\n수건케이크, 복숭아케이크 등\nSNS에서 화제가 된 유니크한 디저트가 준비되어 있어 성수동디저트를 찾고계신다면 추천드립니다.\n\n[직접 담근 청으로 만든 에이드]\n에이드는 매장에서 직접 담근 청으로 만들어\n비주얼과 맛 모두 만족스러운 성수동카페입니다.\n\n[여성을 위한 세심한 공간]\n파우더룸, 다이슨 드라이기, 고데기 등\n여성 고객을 위한 편의시설도 마련되어 있어\n성수동데이트 장소로도 추천드립니다.\n\n성수동의 가장 핫한 거리에 위치한 지크커피에서\n한 줄기의 선이 완성되는 특별한 순간을 경험해 보세요!",
+  "Information_facilitie": [
+    "핸드드립",
+    "남/녀 화장실 구분",
+    "반려동물 동반",
+    "무선 인터넷",
+    "단체 이용 가능",
+    "포장",
+    "출입구 휠체어 이용가능",
+    "좌석 휠체어 이용가능"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "간편결제"
+  ],
+  "menu": [
+    {
+      "name": "지크라떼",
+      "price": "7000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250306_182/1741240519878u6vbN_JPEG/IMG_4851.jpg"
+      ]
+    },
+    {
+      "name": "블랙 아인슈페너",
+      "price": "7000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250324_107/1742780205755KNvFO_JPEG/1000012820.jpg"
+      ]
+    },
+    {
+      "name": "에스프레소",
+      "price": "4500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250306_150/1741240605524T7juI_JPEG/IMG_4807.jpg"
+      ]
+    },
+    {
+      "name": "아메리카노",
+      "price": "5500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250306_224/1741240650522BVEbt_JPEG/IMG_4950.jpg"
+      ]
+    },
+    {
+      "name": "카페라떼",
+      "price": "6000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250306_143/17412407017627Vnaj_JPEG/IMG_4850.jpg"
+      ]
+    },
+    {
+      "name": "바닐라라떼",
+      "price": "6500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250306_39/1741240722186p4VVs_JPEG/IMG_4906.jpg"
+      ]
+    },
+    {
+      "name": "핸드드립",
+      "price": "10000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250228_144/1740726323390uSRuN_JPEG/1737336594540.jpg"
+      ]
+    },
+    {
+      "name": "콜드브루",
+      "price": "6500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250306_255/17412407513526e6Nd_JPEG/IMG_4952.jpg"
+      ]
+    },
+    {
+      "name": "딸기라떼",
+      "price": "7500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250306_168/1741240780710IJXqR_JPEG/IMG_4938.jpg"
+      ]
+    },
+    {
+      "name": "초코라떼",
+      "price": "7000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250306_129/1741240822538R5XuC_JPEG/IMG_4827.jpg"
+      ]
+    },
+    {
+      "name": "레몬에이드",
+      "price": "7500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250306_293/1741240839751SA1Gg_JPEG/IMG_4977.jpg"
+      ]
+    },
+    {
+      "name": "청포도에이드",
+      "price": "7500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250306_227/1741240868098k9MO3_JPEG/IMG_4857.jpg"
+      ]
+    },
+    {
+      "name": "밀크티",
+      "price": "7000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250306_183/1741240885344jrVUH_JPEG/IMG_4876.jpg"
+      ]
+    },
+    {
+      "name": "루이보스 티",
+      "price": "6500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250306_2/1741240910158d7GEd_JPEG/IMG_4865.jpg"
+      ]
+    },
+    {
+      "name": "자스민 티",
+      "price": "6500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250306_240/1741240931602zfdrK_JPEG/IMG_4902.jpg"
+      ]
+    },
+    {
+      "name": "방구석 초코곰",
+      "price": "13900",
+      "description": "진한 초콜릿무스와 브라우니를 담은\n사랑스러운 초코곰",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251112_129/1762938281125K2MtS_JPEG/1000016746.jpg"
+      ]
+    },
+    {
+      "name": "리얼 망고케이크",
+      "price": "13900",
+      "description": "눈으로 맛보고 입으로 즐기는\n휴양지에 온 듯한 망고케이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251112_16/1762938853781r5S6E_JPEG/1000016749.jpg"
+      ]
+    },
+    {
+      "name": "리얼 피치케이크",
+      "price": "13900",
+      "description": "복숭아과육이 들어간 퓨레와 화이트크림",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251112_124/1762938897984a2efn_JPEG/1000016748.jpg"
+      ]
+    },
+    {
+      "name": "딸기 수건케이크",
+      "price": "10900",
+      "description": "핫 트렌드 SNS 화재의 수건케이크\n상큼한 딸기잼과 부드러운 크림",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251112_225/1762938595543cwmCJ_JPEG/1000016743.jpg"
+      ]
+    },
+    {
+      "name": "초코오레오 수건케이크",
+      "price": "10900",
+      "description": "핫 트렌드 디저트 수건케이크\n초코 생크림과 오레오 쿠키",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251112_184/1762938701247UP3MY_JPEG/1000016744.jpg"
+      ]
+    },
+    {
+      "name": "바스크 치즈케이크",
+      "price": "10900",
+      "description": "크림치즈가 듬뿍 들어간\n스페인식 바스크 치즈케이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251112_29/17629389921603j9qF_JPEG/1000016745.jpg"
+      ]
+    },
+    {
+      "name": "구름 티라미수",
+      "price": "10900",
+      "description": "아마레또가 첨가된 치즈크림과\n커피시럽을 적신 레이디핑거쿠키까지",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251112_296/1762938513694IE4Pm_JPEG/1000016747.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20250618_251/1750230052730cQOEc_JPEG/IMG_0396.JPG",
+    "https://ldb-phinf.pstatic.net/20250618_7/1750230052357P6evs_JPEG/IMG_0397.JPG",
+    "https://ldb-phinf.pstatic.net/20250618_248/1750230052834SL1ek_JPEG/IMG_0400.JPG",
+    "https://ldb-phinf.pstatic.net/20250618_111/17502301181705PFs0_JPEG/IMG_0405.JPG",
+    "https://ldb-phinf.pstatic.net/20250618_157/17502301181902U7jp_JPEG/IMG_0403.JPG",
+    "https://ldb-phinf.pstatic.net/20250618_163/1750230118196uiPgB_JPEG/IMG_0408.JPG",
+    "https://ldb-phinf.pstatic.net/20250618_254/1750230118373Wbj40_JPEG/IMG_0410.JPG",
+    "https://ldb-phinf.pstatic.net/20250618_19/1750230118074GBWoB_JPEG/IMG_0412.JPG",
+    "https://ldb-phinf.pstatic.net/20250618_139/1750230118136yyUvv_JPEG/IMG_0414.JPG",
+    "https://ldb-phinf.pstatic.net/20250618_130/1750230051629pfx7J_JPEG/IMG_0398.JPG",
+    "https://ldb-phinf.pstatic.net/20250618_10/1750230053021NnVV0_JPEG/IMG_0401.JPG",
+    "https://ldb-phinf.pstatic.net/20250618_5/1750230052577IQz5h_JPEG/IMG_0402.JPG",
+    "https://ldb-phinf.pstatic.net/20250306_265/1741242988596YCMaS_JPEG/IMG_4808.jpg",
+    "https://ldb-phinf.pstatic.net/20250306_88/1741242997371xMKs5_JPEG/IMG_4898.JPG",
+    "https://ldb-phinf.pstatic.net/20250306_130/1741243191056lpzCv_JPEG/IMG_4914.jpg",
+    "https://ldb-phinf.pstatic.net/20250306_229/1741243192009POjr1_JPEG/IMG_4900.jpg",
+    "https://ldb-phinf.pstatic.net/20250306_214/1741243191254dyy7u_JPEG/IMG_4957.jpg",
+    "https://ldb-phinf.pstatic.net/20250306_15/1741243193345fBC48_JPEG/IMG_4940.jpg",
+    "https://ldb-phinf.pstatic.net/20250306_224/1741243190446FDFuy_JPEG/IMG_4839.jpg",
+    "https://ldb-phinf.pstatic.net/20250306_170/1741243191961kWGVG_JPEG/IMG_4958.jpg",
+    "https://ldb-phinf.pstatic.net/20250306_11/1741243191720TVruy_JPEG/IMG_4964.jpg",
+    "https://ldb-phinf.pstatic.net/20250306_300/1741243187415cRTii_JPEG/IMG_4970.jpg",
+    "https://ldb-phinf.pstatic.net/20250306_149/1741243192188D2m8Y_JPEG/IMG_4796.jpg",
+    "https://ldb-phinf.pstatic.net/20250306_38/1741243192609zrYCj_JPEG/IMG_4826.jpg",
+    "https://ldb-phinf.pstatic.net/20250306_178/1741243193918sA4Sw_JPEG/IMG_4834.jpg",
+    "https://ldb-phinf.pstatic.net/20250306_234/1741243197368Mr9VW_JPEG/IMG_4831.JPG",
+    "https://ldb-phinf.pstatic.net/20250306_264/1741243192523lsVh2_JPEG/IMG_4846.jpg",
+    "https://ldb-phinf.pstatic.net/20250306_30/1741243192221odRiF_JPEG/IMG_4844.jpg",
+    "https://ldb-phinf.pstatic.net/20250306_215/1741243192135Hecgi_JPEG/IMG_4893.jpg",
+    "https://ldb-phinf.pstatic.net/20250306_234/1741243194824hhg2p_JPEG/IMG_4847.jpg",
+    "https://ldb-phinf.pstatic.net/20250306_167/1741243197644aHz4C_JPEG/IMG_4837.JPG",
+    "https://ldb-phinf.pstatic.net/20250306_136/17412431940202ji6u_JPEG/IMG_4943.jpg",
+    "https://ldb-phinf.pstatic.net/20250306_216/1741243197184Ooq3s_JPEG/IMG_4829.JPG",
+    "https://ldb-phinf.pstatic.net/20250306_108/1741242997459gQs7t_JPEG/IMG_4928.JPG",
+    "https://ldb-phinf.pstatic.net/20250306_106/1741242997090Fq4oK_JPEG/IMG_4860.JPG",
+    "https://ldb-phinf.pstatic.net/20250306_194/1741242996181INNED_JPEG/IMG_4848.JPG",
+    "https://ldb-phinf.pstatic.net/20250306_258/1741242992012tXIQA_JPEG/IMG_4867.jpg",
+    "https://ldb-phinf.pstatic.net/20250306_129/1741242987089yARdA_JPEG/IMG_4959.jpg",
+    "https://ldb-phinf.pstatic.net/20250306_258/1741242992104yikjE_JPEG/IMG_4836.jpg",
+    "https://ldb-phinf.pstatic.net/20250306_115/1741242997191X9NI0_JPEG/IMG_4822.JPG",
+    "https://ldb-phinf.pstatic.net/20250306_19/1741242997465zSjq3_JPEG/IMG_4973.JPG",
+    "https://ldb-phinf.pstatic.net/20250306_222/1741242990611vFhOF_JPEG/IMG_4947.jpg",
+    "https://ldb-phinf.pstatic.net/20250306_172/1741242993186DL2qr_JPEG/IMG_4984.jpg",
+    "https://ldb-phinf.pstatic.net/20250306_231/1741242996364SrODj_JPEG/IMG_4842.JPG",
+    "https://ldb-phinf.pstatic.net/20250306_198/1741242992295Tbprg_JPEG/IMG_4884.jpg",
+    "https://ldb-phinf.pstatic.net/20250306_80/1741242997297nlwDm_JPEG/IMG_4885.JPG"
+  ]
+}

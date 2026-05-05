@@ -1,0 +1,158 @@
+{
+  "id": "1802728761",
+  "name": "씨장",
+  "category": "베이커리",
+  "micro_review": [
+    "바삭함으로 즐기는 바게트의 정석"
+  ],
+  "road_address": "서울 성동구 성덕정길 92 1층",
+  "address": "서울 성동구 성수동2가 532-38",
+  "lat": "127.0536389",
+  "lon": "37.5375183",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": null,
+      "end": null,
+      "breakHours": null,
+      "description": "정기휴무 (매주 금요일)",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "토",
+      "start": null,
+      "end": null,
+      "breakHours": null,
+      "description": "정기휴무 (매주 토요일)",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "일",
+      "start": null,
+      "end": null,
+      "breakHours": null,
+      "description": "정기휴무 (매주 일요일)",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": "10:00",
+      "end": "18:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": null,
+      "end": null,
+      "breakHours": null,
+      "description": "정기휴무 (매주 화요일)",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "수",
+      "start": null,
+      "end": null,
+      "breakHours": null,
+      "description": "정기휴무 (매주 수요일)",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "목",
+      "start": null,
+      "end": null,
+      "breakHours": null,
+      "description": "정기휴무 (매주 목요일)",
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1331-9642",
+  "url": "https://www.instagram.com/ssijang_seongsu",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": true,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "햇살이 거리를 비추는 아침, 바람에 은은히 풍겨오는 고소한 냄새에 발걸음을 맡겨보세요. 시선이 닿는 곳에 펼쳐진 유럽 풍의 정겨운 시장 분위기, 아늑한 공간의 <씨장>에서 다양한 종류의 바게트 빵과 직접 조리한 신선하고 따듯한 음식,\n그리고 그에 걸맞은 음료들이 준비되어 있습니다.",
+  "Information_facilitie": [
+    "무선 인터넷",
+    "남/녀 화장실 구분",
+    "포장"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "제로페이"
+  ],
+  "menu": [
+    {
+      "name": "씨장바게트",
+      "price": "10000",
+      "description": "고소한 깨와 햄, 바질이 들어간 시그니처 메뉴",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250902_94/1756804149665Vfap4_JPEG/0508151533504193406560.jpeg"
+      ]
+    },
+    {
+      "name": "어니언 스프",
+      "price": "12000",
+      "description": "달콤한 양파의 풍미와 세 가지 치즈를 곁들인 바게트의 조화",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230730_60/1690708778606HkdHG_PNG/%BE%EE%B4%CF%BE%F0%BD%BA%C7%C1.png"
+      ]
+    },
+    {
+      "name": "바게트",
+      "price": "",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230118_104/1674024780518EsMOi_JPEG/IMG_5526.JPG"
+      ]
+    },
+    {
+      "name": "잠봉샐러드",
+      "price": "12000",
+      "description": "싱싱한 야채 위에 직접 만들어낸 담백한 잠봉 샐러드",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230730_65/1690708429732XR1C1_PNG/%C0%E1%BA%C0%BB%F8%B7%AF%B5%E5.png"
+      ]
+    },
+    {
+      "name": "연어샐러드",
+      "price": "12000",
+      "description": "싱싱한 야채 위에 훈제 향이 가득한 연어 샐러드",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230730_262/1690708461689NtUlN_PNG/%C8%C6%C1%A6%BF%AC%BE%EE%BB%F8%B7%AF%B5%E5.png"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20230210_220/16760360023764737n_JPEG/%B8%F0%C0%BD2.jpg",
+    "https://ldb-phinf.pstatic.net/20230210_223/1676035980199Psjaq_JPEG/%BE%BE%C0%E5_%C0%CE%BD%BA%C5%B88.jpg",
+    "https://ldb-phinf.pstatic.net/20230210_11/1676035970988CBWJn_JPEG/%BE%BE%C0%E5_%C0%CE%BD%BA%C5%B84.jpg",
+    "https://ldb-phinf.pstatic.net/20230210_238/1676035963877buDgL_JPEG/%BE%BE%C0%E5_%C0%CE%BD%BA%C5%B83.jpg",
+    "https://ldb-phinf.pstatic.net/20230210_279/1676035956110KtLLh_JPEG/%BE%BE%C0%E5_%C0%CE%BD%BA%C5%B82.jpg",
+    "https://ldb-phinf.pstatic.net/20230210_98/1676035948921a2ecs_JPEG/%BE%BE%C0%E5_%C0%CE%BD%BA%C5%B81.jpg"
+  ]
+}

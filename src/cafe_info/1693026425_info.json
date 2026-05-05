@@ -1,0 +1,137 @@
+{
+  "id": "1693026425",
+  "name": "에낭 성수점",
+  "category": "카페,디저트",
+  "micro_review": [
+    "쫀득함으로 승부하는 휘낭시에의 매력"
+  ],
+  "road_address": "서울 성동구 아차산로 97 1층",
+  "address": "서울 성동구 성수동2가 300-5",
+  "lat": "127.0549849",
+  "lon": "37.5452073",
+  "business_hours": [
+    {
+      "day": "토",
+      "start": "09:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "일",
+      "start": "09:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": "08:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": "08:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "수",
+      "start": "08:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "목(12/25)",
+      "start": "09:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": "성탄절",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "금",
+      "start": "08:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1358-2956",
+  "url": "https://www.instagram.com/e_eg_nang_seongsu/",
+  "convenience": {
+    "주차": true,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": true,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": true,
+    "포장": true,
+    "배달": true,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "안녕하세요 [에낭 성수]입니다.\n저희 에낭은 뉴욕의 작은 베이커리를 모티브로 인테리어를 구성하였기에 모던한 디자인과 빈티지함을 느낄 수 있는구움과자 전문점입니다.\n\n성수에서 나들이나 데이트를 즐길 때, 소중한 이에게 디저트를 선물 할 때에도 에낭을 찾아주세요 :)",
+  "Information_facilitie": [
+    "포장",
+    "배달",
+    "무선 인터넷",
+    "단체 이용 가능",
+    "예약"
+  ],
+  "parking_info": {
+    "__typename": "InformationBasicParking",
+    "isFree": true,
+    "normalFeeDescription": null,
+    "extraFeeDescription": null
+  },
+  "payment_info": null,
+  "menu": [
+    {
+      "name": "휘낭시에 오리지널",
+      "price": "2700",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240315_145/1710471394877J3vYn_JPEG/%C8%D6%B3%B6%BD%C3%BF%A1.jpeg"
+      ]
+    },
+    {
+      "name": "에그 타르트",
+      "price": "3800",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240315_170/1710471373336U5Azf_JPEG/%BF%A1%B1%D7%C5%B8%B8%A3%C6%AE.jpeg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20240911_297/1726043729134RUp74_JPEG/KakaoTalk_20240910_134150572_01.jpg",
+    "https://ldb-phinf.pstatic.net/20240911_292/1726043742997EKjA2_JPEG/KakaoTalk_20240910_134150572_05_-_%BA%B9%BB%E7%BA%BB.jpg",
+    "https://ldb-phinf.pstatic.net/20240911_40/1726043742987Ujbgn_JPEG/KakaoTalk_20240910_134150572_04_-_%BA%B9%BB%E7%BA%BB.jpg",
+    "https://ldb-phinf.pstatic.net/20240320_291/17109152135982nt1j_PNG/IMG_4673.PNG"
+  ]
+}

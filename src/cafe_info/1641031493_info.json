@@ -1,0 +1,324 @@
+{
+  "id": "1641031493",
+  "name": "리사르커피 성수점",
+  "category": "카페,디저트",
+  "micro_review": [
+    "친절함으로 채운 완벽한 커피 타임"
+  ],
+  "road_address": "서울 성동구 성수일로12길 26 108호",
+  "address": "서울 성동구 성수동2가 289-18",
+  "lat": "127.0538015",
+  "lon": "37.5478924",
+  "business_hours": [
+    {
+      "day": "토",
+      "start": "09:00",
+      "end": "18:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "17:30"
+        }
+      ]
+    },
+    {
+      "day": "일",
+      "start": "09:00",
+      "end": "18:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "17:30"
+        }
+      ]
+    },
+    {
+      "day": "월",
+      "start": null,
+      "end": null,
+      "breakHours": null,
+      "description": "정기휴무 (매주 월요일)",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": "08:00",
+      "end": "17:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "16:30"
+        }
+      ]
+    },
+    {
+      "day": "수",
+      "start": "08:00",
+      "end": "17:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "16:30"
+        }
+      ]
+    },
+    {
+      "day": "목(12/25)",
+      "start": "09:00",
+      "end": "17:30",
+      "breakHours": [],
+      "description": "성탄절",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "금",
+      "start": "08:00",
+      "end": "17:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "16:30"
+        }
+      ]
+    }
+  ],
+  "virtual_phone_number": "0507-1379-2638",
+  "url": "https://youtube.com/@leesarcoffee",
+  "convenience": {
+    "주차": true,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": true,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "에스프레소가 우리에게 가장 큰 가치이고 목표였다면, 이제는 에스프레소 보다 더 나은, 무한한 가치를 좇는다. 하나님을 사랑하고 나를 사랑하듯 이웃을 사랑하는 보이지 않는 가치에 집중한다.\n우리가 추구하는 가치와 약속의 종합적인 상징은 늑대 입니다. 늑대는 가족과 일원을 보호하고 함께 협력하여 공동체를 부양하는 본능을 가지고 있습니다. 그래서 우리는 사회적으로 가치를 실현하기 위해 전문 사회복지사를 통해 어려운 구성원을 부양하도록 후원하며 장애인, 고아 시설에도 후원을 이어갑니다. 좋은 품질의 원두를 합리적인 가격으로 소비자에게 제공하고 자체적으로 블렌딩하는 페키지에 의미를 부여함으로써 우리들의 가치를 전달합니다.\n\nA perfect cup of espresso was once the greatest goal and value that Leesar Coffee pursued. Now Leesar Coffee aims for something infinite, something better than just espresso. Leesar Coffee wishes to broaden its spectrum to the intangible value of helping its neighbors as how we love Jesus and ourselves.\nA wolf is the symbol of Leesar Coffee, encompassing its value and promise. Wolves have an innate instinct by which they form a community and cooperate with one another to protect and look after their family. Likewise, Leesar Coffee, as a means of fulfilling its social responsibility, supports neighbors in need through specialized social welfare programs and sponsors facilities for orphans and people with disabilities. Leesar Coffee attempts to deliver its value to customers by incorporating it into quality products and their packages and offering them for a reasonable price.",
+  "Information_facilitie": [
+    "포장",
+    "무선 인터넷",
+    "남/녀 화장실 구분"
+  ],
+  "parking_info": {
+    "__typename": "InformationBasicParking",
+    "isFree": false,
+    "normalFeeDescription": null,
+    "extraFeeDescription": "추가 요금 10분당 1,000원, 최대 50,000원"
+  },
+  "payment_info": [
+    "제로페이"
+  ],
+  "menu": [
+    {
+      "name": "카페 에스프레소",
+      "price": "2000",
+      "description": "기본 커피",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251210_111/1765349779217CHgCQ_JPEG/%BF%A1%BD%BA%C7%C1%B7%B9%BC%D2_%BA%B9%BB%E7.jpg"
+      ]
+    },
+    {
+      "name": "카페 스트라파짜또",
+      "price": "2500",
+      "description": "나폴리식 에스프레소",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251210_33/1765350203915WMF93_JPEG/%BD%BA%C6%AE%B6%F3%C6%C4%C2%A5%B6%C7_%BA%B9%BB%E7.jpg"
+      ]
+    },
+    {
+      "name": "카페 마끼아또",
+      "price": "2500",
+      "description": "에스프레소와 우유 거품",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251210_159/1765350225172n1qJO_JPEG/%B8%B6%B3%A2%BE%C6%B6%C7_%BA%B9%BB%E7.jpg"
+      ]
+    },
+    {
+      "name": "카페 카푸치노",
+      "price": "3000",
+      "description": "에스프레소와 우유 거품이 혼합된 부드러운 커피",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251210_188/1765350245644ElKaS_JPEG/%C4%AB%C7%AA%C4%A1%B3%EB_%BA%B9%BB%E7.jpg"
+      ]
+    },
+    {
+      "name": "카페 피에노",
+      "price": "2500",
+      "description": "에스프레소와 크림, 카카오토핑",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251210_129/1765350264701kKM8K_JPEG/%C7%C7%BF%A1%B3%EB_%BA%B9%BB%E7.jpg"
+      ]
+    },
+    {
+      "name": "카페 콘 판나",
+      "price": "2500",
+      "description": "에스프레소와 휘핑된 생크림",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251210_215/1765350286880CYk0Y_JPEG/%C4%DC%C6%C7%B3%AA_%BA%B9%BB%E7.jpg"
+      ]
+    },
+    {
+      "name": "카페 오네로소",
+      "price": "2500",
+      "description": "에스프레소와 크림, 우유",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251210_201/1765350273175cmKT0_JPEG/%BF%C0%B3%D7%B7%CE%BC%D2_%BA%B9%BB%E7.jpg"
+      ]
+    },
+    {
+      "name": "카페 아포가토",
+      "price": "5000",
+      "description": "에스프레소와 아이스크림",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251210_288/1765350311299cz7By_JPEG/%BE%C6%C6%F7%B0%A1%C5%E4_%BA%B9%BB%E7.jpg"
+      ]
+    },
+    {
+      "name": "카페 코레또",
+      "price": "7000",
+      "description": "에스프레소와 술 한 잔",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251210_206/1765350328667r1wfR_JPEG/%C4%DA%B7%B9%B6%C7_%BA%B9%BB%E7.jpg"
+      ]
+    },
+    {
+      "name": "카페 모카",
+      "price": "4000",
+      "description": "에스프레소와 초콜릿 우유",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251210_82/1765350344428YgGmI_JPEG/%C4%AB%C6%E4%B8%F0%C4%AB_%BA%B9%BB%E7.jpg"
+      ]
+    },
+    {
+      "name": "쇼꼴라토",
+      "price": "3500",
+      "description": "초콜릿 우유",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251210_250/1765350363730b6BuH_JPEG/%BC%EE%C4%DD%B6%F3%B6%C7_%BA%B9%BB%E7.jpg"
+      ]
+    },
+    {
+      "name": "하우스블렌드 다크 200g",
+      "price": "14000",
+      "description": "초콜릿과 견과류를 연상시키는 고소한 향과 우아한 산미가 일품인 강배전 원두",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251210_193/17653504387817qj4X_JPEG/%C7%CF%BF%EC%BD%BA%BA%ED%B7%BB%B5%E5_%B4%D9%C5%A9.jpg"
+      ]
+    },
+    {
+      "name": "하우스블렌드 마일드 200g",
+      "price": "14000",
+      "description": "구운 감자 같은 은은한 향과 절제된 산미가 어우러져 데일리로 즐기기 좋은 원두",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251210_115/1765350457806m5WcC_JPEG/%C7%CF%BF%EC%BD%BA%BA%ED%B7%BB%B5%E5_%B8%B6%C0%CF%B5%E5.jpg"
+      ]
+    },
+    {
+      "name": "하우스블렌드 젠틀러 200g",
+      "price": "16000",
+      "description": "에티오피아의 꽃 같은 향기로움과 달콤한 맛, 깔끔한 마무리가 인상적인 원두",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251211_134/17654116608956SfJQ_JPEG/%C7%CF%BF%EC%BD%BA%BA%ED%B7%BB%B5%E5_%C1%A8%C6%B2%B7%AF.jpg"
+      ]
+    },
+    {
+      "name": "하우스블렌드 인텐소 200g",
+      "price": "15000",
+      "description": "강렬하게 볶아낸 짙은 로스팅 향과 풍부한 몰트 향, 은은한 단맛이 매력적인 원두",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251210_42/1765350493932Wqivm_JPEG/%C7%CF%BF%EC%BD%BA%BA%ED%B7%BB%B5%E5_%C0%CE%C5%D9%BC%D2.jpg"
+      ]
+    },
+    {
+      "name": "다크 커피캡슐",
+      "price": "8500",
+      "description": "초콜릿과 견과류를 연상시키는 고소한 향과 우아한 산미가 일품인 강배전 커피 -10개입",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251210_181/176535053711030rJy_JPEG/%B4%D9%C5%A9_%C4%BF%C7%C7%C4%B8%BD%B6.jpg"
+      ]
+    },
+    {
+      "name": "마일드 커피캡슐",
+      "price": "8500",
+      "description": "구운 감자 같은 은은한 향과 절제된 산미가 어우러져 데일리로 즐기기 좋은 커피 -10개입",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251210_67/1765350564097HSGGr_JPEG/%B8%B6%C0%CF%B5%E5_%C4%BF%C7%C7%C4%B8%BD%B6.jpg"
+      ]
+    },
+    {
+      "name": "젠틀러 커피캡슐",
+      "price": "8500",
+      "description": "에티오피아의 꽃 같은 향기로움과 달콤한 맛, 깔끔한 마무리가 인상적인 커피 -10개입",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251210_40/1765350579690hUnzD_JPEG/%C1%A8%C6%B2%B7%AF_%C4%BF%C7%C7%C4%B8%BD%B6.jpg"
+      ]
+    },
+    {
+      "name": "인텐소 커피캡슐",
+      "price": "8500",
+      "description": "강렬하게 볶아낸 짙은 로스팅 향과 풍부한 몰트 향, 은은한 단맛이 매력적인 커피 -10개입",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251210_67/1765350594273GwMrm_JPEG/%C0%CE%C5%D9%BC%D2_%C4%BF%C7%C7%C4%B8%BD%B6.jpg"
+      ]
+    },
+    {
+      "name": "리사르 에스프레소 잔 세트",
+      "price": "40000",
+      "description": "이탈리아 도기 에스프레소 잔",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251210_186/1765350641966uVuiD_JPEG/%BF%A1%BD%BA%C7%C1%B7%B9%BC%D2_%C0%DC_%BC%BC%C6%AE.jpg"
+      ]
+    },
+    {
+      "name": "리사르 카푸치노 잔 세트",
+      "price": "48000",
+      "description": "이탈리아 도기 카푸치노 잔",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251210_256/1765350657598wsEGO_JPEG/%C4%AB%C7%AA%C4%A1%B3%EB_%C0%DC_%BC%BC%C6%AE.jpg"
+      ]
+    },
+    {
+      "name": "리사르 성경",
+      "price": "50000",
+      "description": "실용적이며 디자인이 훌륭한 성경책",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251210_9/1765350672826Pqp9J_JPEG/%B8%AE%BB%E7%B8%A3_%BC%BA%B0%E6.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20240910_1/1725953186553x6tDE_JPEG/Untitled-7.jpg"
+  ]
+}

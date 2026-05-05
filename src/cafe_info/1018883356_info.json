@@ -1,0 +1,343 @@
+{
+  "id": "1018883356",
+  "name": "플디 케이크샵 성수점",
+  "category": "케이크전문",
+  "micro_review": [
+    "아기자기한 분위기에서 즐기는 디저트"
+  ],
+  "road_address": "서울 성동구 왕십리로14길 28-15 1층",
+  "address": "서울 성동구 성수동1가 656-910",
+  "lat": "127.046726",
+  "lon": "37.5481675",
+  "business_hours": [
+    {
+      "day": "토",
+      "start": "11:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "일",
+      "start": "11:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": "11:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": "11:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "수",
+      "start": "11:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "목",
+      "start": "11:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "금",
+      "start": "11:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1470-7116",
+  "url": null,
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": false,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": true,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": true,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "플디 케이크샵 [Plate D. Cake shop]\n\n르꼬르동블루와 국내외 유명 호텔 출신 셰프들이 선사하는 정교한 디저트를 플디 케이크샵에서 만나보세요.\n\n플디(Plate D.)는 플레이트 디저트(Plate Dessert)의 약자로, 접시에 정성스럽게 담긴 수제 디저트를 의미합니다. 호텔식 디저트를 보다 간편하고 특별한 방식으로 선보이며, 누구나 부담 없이 즐길 수 있는 문화를 만들어가고 있습니다.\n\n성수동과 도산공원의 플디 카페를 시작으로, 플디 케이크샵은 언제 어디서든 플디의 정교한 디저트를 즐길 수 있도록 생겨난 테이크아웃 전문 매장입니다. 케이크샵은 압구정, 뚝섬, 서초교대에 위치하며, 곧 용산에서도 만나볼 수 있습니다.\n\n플디 케이크샵이 선사하는 품격 있는 달콤함을 지금 만나보세요.",
+  "Information_facilitie": [
+    "글루텐프리 메뉴",
+    "비건 메뉴",
+    "포장",
+    "예약"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "제로페이",
+    "간편결제"
+  ],
+  "menu": [
+    {
+      "name": "클래식딸기 미니",
+      "price": "",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250328_188/17431532053669bK8F_JPEG/KakaoTalk_20250328_181137425_19.jpg"
+      ]
+    },
+    {
+      "name": "클래식딸기 1호",
+      "price": "",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250328_14/1743153543560On0aq_JPEG/KakaoTalk_20250328_181137425_18.jpg"
+      ]
+    },
+    {
+      "name": "얼자몽 미니",
+      "price": "37000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250817_82/1755408338357gzwsb_PNG/IMG_0656.png"
+      ]
+    },
+    {
+      "name": "딸기피스타치오 다쿠아즈 미니",
+      "price": "38000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250328_232/17431534989707l4pO_JPEG/KakaoTalk_20250328_181137425_29.jpg"
+      ]
+    },
+    {
+      "name": "딸기초코레밍턴 미니",
+      "price": "37500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250328_234/1743153277379y0xvj_JPEG/KakaoTalk_20250328_181137425_04.jpg"
+      ]
+    },
+    {
+      "name": "딸기레드벨벳 미니",
+      "price": "38000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250328_128/17431532382144hIec_JPEG/KakaoTalk_20250328_181137425_01.jpg"
+      ]
+    },
+    {
+      "name": "클래식무화과 미니",
+      "price": "37500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250817_100/1755408215504TpXlw_JPEG/IMG_0648.jpeg"
+      ]
+    },
+    {
+      "name": "얼자몽 1호",
+      "price": "49000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250817_235/17554083512622o7AQ_PNG/IMG_0657.png"
+      ]
+    },
+    {
+      "name": "클래식무화과 1호",
+      "price": "50000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250817_91/17554082370156j1QX_JPEG/IMG_0649.jpeg"
+      ]
+    },
+    {
+      "name": "클래식무화과 쁘띠",
+      "price": "14000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250817_110/1755408272556Fh2cQ_JPEG/IMG_0650.jpeg"
+      ]
+    },
+    {
+      "name": "클래식딸기 쁘띠",
+      "price": "15000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250328_263/1743153601025BoAO7_JPEG/KakaoTalk_20250328_181137425_20.jpg"
+      ]
+    },
+    {
+      "name": "얼자몽 쁘띠",
+      "price": "13000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250817_44/17554083269846njl1_PNG/IMG_0655.png"
+      ]
+    },
+    {
+      "name": "딸기레드벨벳 쁘띠",
+      "price": "15000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250328_220/1743153655991Ej1Ms_JPEG/KakaoTalk_20250328_181137425_02.jpg"
+      ]
+    },
+    {
+      "name": "딸기피스타치오 다쿠아즈 쁘띠",
+      "price": "14500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250328_11/1743153706290wbcnz_JPEG/KakaoTalk_20250328_181140995.jpg"
+      ]
+    },
+    {
+      "name": "딸기초코레밍턴 쁘띠",
+      "price": "13500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250328_21/1743153746398ISyjV_JPEG/KakaoTalk_20250328_181137425_05.jpg"
+      ]
+    },
+    {
+      "name": "오리지널 버터바",
+      "price": "4400",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250328_143/1743153970342pCh5L_JPEG/KakaoTalk_20250328_181137425_15.jpg"
+      ]
+    },
+    {
+      "name": "핑크솔트 버터바",
+      "price": "4500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250328_84/1743154001259scEQs_JPEG/KakaoTalk_20250328_181140995_01.jpg"
+      ]
+    },
+    {
+      "name": "피넛버터 버터바",
+      "price": "4800",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250328_110/1743154056725JKIUz_JPEG/KakaoTalk_20250328_181137425_27.jpg"
+      ]
+    },
+    {
+      "name": "피스타치오 버터바",
+      "price": "4800",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250328_95/1743154101226FVsyc_JPEG/KakaoTalk_20250328_181137425_28.jpg"
+      ]
+    },
+    {
+      "name": "츄러스 버터바",
+      "price": "4600",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250328_280/1743154113893472pO_JPEG/KakaoTalk_20250328_181137425_17.jpg"
+      ]
+    },
+    {
+      "name": "모카 버터바",
+      "price": "4600",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250328_136/1743154125652fuAWz_JPEG/KakaoTalk_20250328_181137425_08.jpg"
+      ]
+    },
+    {
+      "name": "로투스 버터바",
+      "price": "4700",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250328_226/1743154137502xLAio_JPEG/KakaoTalk_20250328_181137425_06.jpg"
+      ]
+    },
+    {
+      "name": "누텔라 버터바",
+      "price": "4700",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250328_289/1743154149026Ep8EO_JPEG/KakaoTalk_20250328_181137425.jpg"
+      ]
+    },
+    {
+      "name": "쑥 버터바",
+      "price": "4600",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250328_140/1743154163281YJJ0t_JPEG/KakaoTalk_20250328_181137425_13.jpg"
+      ]
+    },
+    {
+      "name": "약과 버터바",
+      "price": "4600",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250328_84/1743154175440C5xFW_JPEG/KakaoTalk_20250328_181137425_14.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20240829_88/1724912962127t6OR9_JPEG/IMG_4741.jpeg",
+    "https://ldb-phinf.pstatic.net/20251211_23/1765379981704LlbT3_JPEG/IMG_4411.jpeg",
+    "https://ldb-phinf.pstatic.net/20251211_3/1765379983733ydnRc_JPEG/IMG_4407.jpeg",
+    "https://ldb-phinf.pstatic.net/20251211_11/17653799839023Ghuw_JPEG/IMG_4405.jpeg",
+    "https://ldb-phinf.pstatic.net/20251211_23/1765379986678OzNry_JPEG/IMG_4409.jpeg",
+    "https://ldb-phinf.pstatic.net/20251211_84/1765379985354UmUmn_JPEG/IMG_4408.jpeg",
+    "https://ldb-phinf.pstatic.net/20251211_258/1765379987499F7QJJ_JPEG/IMG_4412.jpeg",
+    "https://naverbooking-phinf.pstatic.net/20251201_157/1764596061700zI0Hy_JPEG/35C1125F-DB5C-4AFC-88E4-03B61E353F8E.JPG",
+    "https://ldb-phinf.pstatic.net/20251211_282/1765379987088cCrAi_JPEG/IMG_4410.jpeg",
+    "https://naverbooking-phinf.pstatic.net/20251201_88/1764595940371HCSg9_JPEG/Facetune_11-12-2024-15-04-23.jpg",
+    "https://naverbooking-phinf.pstatic.net/20251201_190/1764596062882zloww_JPEG/%C5%BB%B1%E2_2%C8%A3_%28%B3%D7%C0%CC%B9%F6_%BF%B9%BE%E0%29.jpg",
+    "https://ldb-phinf.pstatic.net/20241212_75/1733972273422zij6s_JPEG/IMG_9022.jpeg",
+    "https://ldb-phinf.pstatic.net/20250817_10/1755407547657KcB8e_JPEG/IMG_0641.jpeg",
+    "https://naverbooking-phinf.pstatic.net/20250701_286/1751339951061x6o2c_JPEG/IMG_2721.jpg",
+    "https://naverbooking-phinf.pstatic.net/20250514_124/1747233561702GFszJ_JPEG/image.jpg",
+    "https://naverbooking-phinf.pstatic.net/20241125_178/17325191641507bEjT_JPEG/KakaoTalk_Image_2024-11-25-02-53-37_006.jpeg",
+    "https://ldb-phinf.pstatic.net/20241208_171/17336502449692QFQk_JPEG/IMG_8846.jpeg",
+    "https://naverbooking-phinf.pstatic.net/20241125_56/1732519163549e3r3x_JPEG/KakaoTalk_Image_2024-11-25-02-53-35_005.jpeg",
+    "https://naverbooking-phinf.pstatic.net/20241015_257/1728993553082fcVs0_JPEG/image.jpg",
+    "https://naverbooking-phinf.pstatic.net/20250514_263/1747233584172XddXw_JPEG/image.jpg",
+    "https://naverbooking-phinf.pstatic.net/20250514_102/1747233568926WNyQP_JPEG/image.jpg",
+    "https://naverbooking-phinf.pstatic.net/20250514_128/174723358926750I4H_JPEG/image.jpg",
+    "https://ldb-phinf.pstatic.net/20241212_175/1733972273408lcLsw_JPEG/IMG_9021.jpeg",
+    "https://naverbooking-phinf.pstatic.net/20250514_53/1747233575670ap5WW_JPEG/image.jpg",
+    "https://naverbooking-phinf.pstatic.net/20250106_24/1736144361925slOmR_JPEG/IMG_8199.jpg",
+    "https://naverbooking-phinf.pstatic.net/20241125_201/1732519163277JuIle_JPEG/KakaoTalk_Image_2024-11-25-02-53-34_004.jpeg",
+    "https://naverbooking-phinf.pstatic.net/20241125_136/1732519163855eFA35_JPEG/KakaoTalk_Image_2024-11-25-02-53-37_004.jpeg",
+    "https://naverbooking-phinf.pstatic.net/20241015_105/1728993521038jMPLV_JPEG/image.jpg",
+    "https://naverbooking-phinf.pstatic.net/20241015_71/1728993543401JUxR9_JPEG/image.jpg"
+  ]
+}

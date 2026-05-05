@@ -1,0 +1,277 @@
+{
+  "id": "1870682567",
+  "name": "클래식 해례커피",
+  "category": "카페,디저트",
+  "micro_review": [
+    "흑임자 크림의 고소한 라떼 한 잔"
+  ],
+  "road_address": "서울 성동구 연무장길 28-20 1층",
+  "address": "서울 성동구 성수동2가 310-62",
+  "lat": "127.052368",
+  "lon": "37.5428124",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "11:30",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "토",
+      "start": "11:30",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "일",
+      "start": "11:30",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": "11:30",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": "11:30",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "수",
+      "start": "11:30",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "목",
+      "start": "11:30",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1487-3365",
+  "url": "https://www.instagram.com/haeryecoffee",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": true,
+    "단체 이용 가능": true,
+    "대기공간": true,
+    "간편결제": false,
+    "반려동물 동반": true,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "솔로지옥 김정수 카페.\n\n서울 성수동 카페거리 한복판,\n100평이 넘는 넓은 공간에 자리 잡은 클래식 해례커피는\n전통적인 이탈리아 감성과 한국 커피문화를 현대적으로 재해석한 감성 카페입니다.\n\n이곳의 대표 메뉴는 바로,\n최근 서울 많은 팝업공간에서 큰 인기를 끌고 있는 '츄로넛'.\n겉은 바삭하고 속은 촉촉한 츄로넛은 해례커피만의 시그니처 디저트로,\n많은 고객들의 재방문을 이끄는 이유 중 하나입니다.\n\n커피는 국내외 대회 수상 경력을 가진\n2017 Korea Brewers Cup 챔피언 바리스타가 직접 로스팅하고 추출하며,\n클래식 수동머신을 활용한 깊은 풍미의 에스프레소와 브루잉 커피를 만나볼 수 있습니다.\n청와대 초청, 블루리본 4년 연속 수상 등 신뢰도 높은 커피 품질도 자랑입니다.\n\n유럽풍 가구와 따뜻한 조명으로 꾸며진 매장은\n조용히 머물며 여유를 즐기기에 적합하며,\n데이트, 모임, 혼자만의 시간 모두에 잘 어울립니다.\n\n2017 Korea Brewers Cup Champion\n2018 Korea Syphonist Cup 2nd\n2019 korea Coffee Roasting judge\n2022 청와대 집무실 초청 바리스타\n2023 블루 리본 선정\n2024 블루 리본 선정\n2025 블루 리본 선정\n2026 블루 리본 선정\n2024 The Espresso Slayer 3rd",
+  "Information_facilitie": [
+    "로스터리",
+    "핸드드립",
+    "테이크아웃 할인",
+    "생일 혜택",
+    "단체 이용 가능",
+    "포장",
+    "무선 인터넷",
+    "반려동물 동반",
+    "남/녀 화장실 구분",
+    "대기공간"
+  ],
+  "parking_info": null,
+  "payment_info": null,
+  "menu": [
+    {
+      "name": "츄로넛",
+      "price": "",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250508_172/1746630171217VwQea_JPEG/%C7%D8%B7%CA%C4%BF%C7%C7_%B8%DE%C0%CE%BB%E7%C1%F8_2.jpg",
+        "https://ldb-phinf.pstatic.net/20241024_78/17297610119071A5t4_JPEG/KakaoTalk_20241024_180554957_10.jpg",
+        "https://ldb-phinf.pstatic.net/20241024_111/1729760990021N7hfY_JPEG/KakaoTalk_20241024_180554957_08.jpg",
+        "https://ldb-phinf.pstatic.net/20241024_59/1729760979873tBaBj_JPEG/KakaoTalk_20241024_180554957_10.jpg",
+        "https://ldb-phinf.pstatic.net/20240927_14/1727420919616Gaqhw_JPEG/KakaoTalk_20240927_160735846.jpg"
+      ]
+    },
+    {
+      "name": "빵 도넛",
+      "price": "",
+      "description": "당일 직접 만드는 다양한 수제 빵 도넛",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250219_172/1739961978602WpBBW_JPEG/111.jpg"
+      ]
+    },
+    {
+      "name": "미아노 라떼",
+      "price": "8000",
+      "description": "피스타치오 크림과 코코넛 밀크를 조합한 시그니처 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241212_129/1733994674599vhL4v_JPEG/%B9%CC%BE%C6%B3%EB_1.jpg"
+      ]
+    },
+    {
+      "name": "해례 라떼",
+      "price": "7500",
+      "description": "해례커피의 시그니쳐 흑임자 크림이 얹어진 아인슈페너(라떼)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240420_71/171357427047599JHi_JPEG/KakaoTalk_20240420_095058251.jpg"
+      ]
+    },
+    {
+      "name": "딸기 쉬폰 케이크(시즌)",
+      "price": "10000",
+      "description": "제철 과일을 활용한 수제 과일 케이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241215_14/173423581736251ke2_JPEG/DSC01019-2_%BA%B9%BB%E7_%BB%E7%BA%BB.jpg",
+        "https://ldb-phinf.pstatic.net/20241215_131/1734235753440Vl63c_JPEG/DSC01022-2_%BA%B9%BB%E7_%BB%E7%BA%BB.jpg"
+      ]
+    },
+    {
+      "name": "딸기 라떼",
+      "price": "7000",
+      "description": "수제 딸기 베이스를 활용한 신선한 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250204_277/1738650575764KyQk3_JPEG/1.jpg"
+      ]
+    },
+    {
+      "name": "해례 눈꽃 빙수",
+      "price": "",
+      "description": "수제 호두 정과와 튀일을 곁들인 눈꽃 빙수",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250824_62/1756012416870GCjkA_JPEG/111.jpg",
+        "https://ldb-phinf.pstatic.net/20250819_173/1755585865440ee0Fx_JPEG/KakaoTalk_20250819_153112485.jpg"
+      ]
+    },
+    {
+      "name": "유기농 젤라또 아포가또",
+      "price": "8500",
+      "description": "프리미엄 유기농 젤라또와 '해례 모음' 에스프레소가 만난 커피",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240423_266/1713865291236ns38m_JPEG/KakaoTalk_20240423_184103573.jpg"
+      ]
+    },
+    {
+      "name": "에스프레소",
+      "price": "4000",
+      "description": "ESPRESSO",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240424_181/1713953771881tqSwl_JPEG/KakaoTalk_20240424_191501857.jpg"
+      ]
+    },
+    {
+      "name": "아메리카노",
+      "price": "5000",
+      "description": "챔피언 바리스타가 직접 로스팅한 AMERICANO",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240420_111/1713592822436OnPMG_JPEG/IMG_7513.jpg"
+      ]
+    },
+    {
+      "name": "플랫화이트",
+      "price": "5500",
+      "description": "우유의 비율을 낮게 설정하여 고소한 풍미를 살린 LATTE",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240420_96/1713592834359RstYR_JPEG/IMG_7518.jpg"
+      ]
+    },
+    {
+      "name": "수제 바닐라빈 라떼",
+      "price": "6500",
+      "description": "수제 바닐라 빈 시럽이 들어가 풍미를 한층 높인 깔끔한 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240423_11/1713863710307i7yQR_JPEG/KakaoTalk_20240423_181341293.jpg"
+      ]
+    },
+    {
+      "name": "블루베리 루이보스티",
+      "price": "7000",
+      "description": "고품질 원료로 우려낸 블루베리 루이보스 티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240529_154/1716965958609EVUvS_JPEG/KakaoTalk_20240529_155618102_02.jpg"
+      ]
+    },
+    {
+      "name": "블랙 바닐라 티",
+      "price": "7000",
+      "description": "고품질 원료로 우려낸 홍차",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240424_284/17139538537911b5St_JPEG/KakaoTalk_20240424_191710795.jpg"
+      ]
+    },
+    {
+      "name": "썸머 (리치에이드)",
+      "price": "7500",
+      "description": "리치 베이스의 목넘김이 시원한 에이드(MOJITO)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240423_244/1713843320480tWj3s_JPEG/KakaoTalk_20240423_123342376.jpg"
+      ]
+    },
+    {
+      "name": "피치 아일랜드",
+      "price": "7500",
+      "description": "복숭아 베이스의 프룻티함과 스파이시함이어우러진 달콤한 차(TEA)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240424_71/1713953869027xvEgb_JPEG/KakaoTalk_20240424_191501857_01.jpg"
+      ]
+    },
+    {
+      "name": "프리미엄 발로나초코 라떼",
+      "price": "7500",
+      "description": "CHOCOLATE MILK",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240529_178/17169660421807LxPg_JPEG/KakaoTalk_20240529_155618102_01.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20251111_33/1762856573000Q6dwd_JPEG/%BD%E6%B3%D7%C0%CF_2000.jpg",
+    "https://ldb-phinf.pstatic.net/20250507_245/1746629573573Fa3c6_JPEG/%C7%D8%B7%CA%C4%BF%C7%C7_%B8%DE%C0%CE%BB%E7%C1%F8_2.jpg",
+    "https://ldb-phinf.pstatic.net/20250507_121/17466295785785TmMk_JPEG/%C7%D8%B7%CA%C4%BF%C7%C7_%B8%DE%C0%CE%BB%E7%C1%F8.jpg",
+    "https://ldb-phinf.pstatic.net/20250322_152/1742628450958Ipjv3_JPEG/%C7%D8%B7%CA%C4%BF%C7%C7_%BD%E6%B3%D7%C0%CF.jpg",
+    "https://ldb-phinf.pstatic.net/20240422_229/1713772445544CdGAD_JPEG/IMG_7496_2.jpg",
+    "https://ldb-phinf.pstatic.net/20240422_201/17137723654341iPd4_JPEG/IMG_7554.jpg",
+    "https://ldb-phinf.pstatic.net/20250819_121/1755584953861634Dx_JPEG/KakaoTalk_20250819_152437903.jpg",
+    "https://ldb-phinf.pstatic.net/20240422_151/171377260205225JhM_JPEG/IMG_0607.jpg",
+    "https://ldb-phinf.pstatic.net/20240913_125/17262058774383iPID_JPEG/KakaoTalk_20240913_143610321.jpg",
+    "https://ldb-phinf.pstatic.net/20250323_270/1742703224381jmeRX_JPEG/IMG_6487.jpg",
+    "https://ldb-phinf.pstatic.net/20250306_79/174119512925502VX9_JPEG/%C4%AB%C6%E4_%B9%E8%B0%E6.jpg",
+    "https://ldb-phinf.pstatic.net/20241027_207/1730016861737er0Tn_JPEG/%B1%DB%B7%B9%C0%CC%C1%EE.jpg",
+    "https://ldb-phinf.pstatic.net/20240526_220/17167154543366Pg5n_JPEG/KakaoTalk_20240526_181535284_09.jpg",
+    "https://ldb-phinf.pstatic.net/20240526_300/1716715461163Sn1Sc_JPEG/KakaoTalk_20240526_181535284_08.jpg",
+    "https://ldb-phinf.pstatic.net/20240526_185/1716715539678ESNQ5_JPEG/KakaoTalk_20240526_181535284.jpg",
+    "https://ldb-phinf.pstatic.net/20240526_12/1716715436649G8dOK_JPEG/KakaoTalk_20240526_181535284_06.jpg",
+    "https://ldb-phinf.pstatic.net/20240422_236/17137729638329h5WA_JPEG/IMG_0599.jpg",
+    "https://ldb-phinf.pstatic.net/20240422_201/1713770541913eoNra_JPEG/1_%283%29.jpg"
+  ]
+}

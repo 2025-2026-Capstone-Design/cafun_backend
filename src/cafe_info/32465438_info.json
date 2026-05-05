@@ -1,0 +1,126 @@
+{
+  "id": "32465438",
+  "name": "배스킨라빈스 성수역점",
+  "category": "아이스크림",
+  "micro_review": null,
+  "road_address": "서울 성동구 아차산로7길 4",
+  "address": "서울 성동구 성수동2가 300-64",
+  "lat": "127.0543854",
+  "lon": "37.5456446",
+  "business_hours": [
+    {
+      "day": "매일",
+      "start": "10:00",
+      "end": "23:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": null,
+  "url": "https://blog.naver.com/brgirl31/",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": false,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": true,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "배스킨라빈스 성수역점입니다. 네이버에서 간편하게 주문하세요!",
+  "Information_facilitie": [
+    "포장",
+    "배달"
+  ],
+  "parking_info": null,
+  "payment_info": null,
+  "menu": [
+    {
+      "name": "싱글레귤러",
+      "price": "3900",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230804_3/1691137733097750s4_JPEG/%BD%CC%B1%DB%B7%B9%B1%D6%B7%AF_%BE%C6%C0%CC%BD%BA%C5%A9%B8%B2.jpg"
+      ]
+    },
+    {
+      "name": "싱글킹",
+      "price": "4700",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230804_24/1691137748650nVOPY_PNG/0118-%C0%CC%C4%BF%B8%D3%BD%BA-%B8%AE%B4%BA%BE%F3-%BD%E6%B3%D7%C0%CF-%BE%C6%C0%CC%BD%BA%C5%A9%B8%B2-%BD%CC%B1%DB%C5%B7.png"
+      ]
+    },
+    {
+      "name": "더블쥬니어",
+      "price": "5100",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230804_126/1691137759845uydAp_JPEG/%B4%F5%BA%ED%C1%D6%B4%CF%BE%EE_%BE%C6%C0%CC%BD%BA%C5%A9%B8%B2.jpg"
+      ]
+    },
+    {
+      "name": "더블레귤러",
+      "price": "7300",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230804_245/16911378503418oCD8_JPEG/%B4%F5%BA%ED%B7%B9%B1%D6%B7%AF_%BE%C6%C0%CC%BD%BA%C5%A9%B8%B2.jpg"
+      ]
+    },
+    {
+      "name": "파인트",
+      "price": "9800",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230804_32/16911381064038yQEA_PNG/%C6%C4%C0%CE%C6%AE.png"
+      ]
+    },
+    {
+      "name": "쿼터",
+      "price": "18500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230804_233/1691138125417FdJFn_PNG/%C4%F5%C5%CD.png"
+      ]
+    },
+    {
+      "name": "패밀리",
+      "price": "26000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230804_97/1691138135289Ej6kR_PNG/%C6%D0%B9%D0%B8%AE.png"
+      ]
+    },
+    {
+      "name": "하프갤론",
+      "price": "31500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230804_176/169113814382687dmT_PNG/%C7%CF%C7%C1%B0%B6%B7%D0.png"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20250724_5/17533180775798X8cB_JPEG/%B3%D7%C0%CC%B9%F6_%B9%E8%BD%BA%C5%B2%B6%F3%BA%F3%BD%BA_%B7%CE%B0%ED.jpg",
+    "https://ldb-phinf.pstatic.net/20250724_75/1753330377879u4NSk_JPEG/%B9%CE%BB%FD%BC%D2%BA%F1%C4%ED%C6%F9_%BB%E7%BF%EB%C3%B3.jpg",
+    "https://ldb-phinf.pstatic.net/20250723_142/1753262062697vuWtQ_JPEG/%B7%B9%BD%BD%B8%AE_%B1%B9%C0%FC.JPG"
+  ]
+}

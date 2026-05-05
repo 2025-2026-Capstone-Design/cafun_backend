@@ -1,0 +1,223 @@
+{
+  "id": "1863706992",
+  "name": "어페어커피",
+  "category": "카페,디저트",
+  "micro_review": null,
+  "road_address": "서울 성동구 성수이로6길 11 1층 어페어 커피",
+  "address": "서울 성동구 성수동2가 559-4",
+  "lat": "127.0550426",
+  "lon": "37.5366634",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "11:00",
+      "end": "18:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "토",
+      "start": "11:00",
+      "end": "18:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "일",
+      "start": "11:00",
+      "end": "18:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": null,
+      "end": null,
+      "breakHours": null,
+      "description": "정기휴무 (매주 월요일)",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": null,
+      "end": null,
+      "breakHours": null,
+      "description": "정기휴무 (매주 화요일)",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "수",
+      "start": "11:00",
+      "end": "18:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "목",
+      "start": "11:00",
+      "end": "18:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1478-7012",
+  "url": "http://instagram.com/affaircoffee_",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": true,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": true,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": true,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "주차는 성수동2가1동 공영주차장 이용 부탁드립니다.",
+  "Information_facilitie": [
+    "단체 이용 가능",
+    "포장",
+    "무선 인터넷",
+    "반려동물 동반",
+    "배달"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "제로페이",
+    "네이버페이"
+  ],
+  "menu": [
+    {
+      "name": "아메리카노",
+      "price": "4500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20191218_17/1576643275884VdcMV_JPEG/to1Kk2U0rGGqTDwQFWlrh6eh.jpg"
+      ]
+    },
+    {
+      "name": "시나몬 라떼",
+      "price": "6000",
+      "description": "수제 시나몬 시럽이 들어간 시나몬라떼입니다",
+      "images": []
+    },
+    {
+      "name": "우유두부",
+      "price": "4000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230827_299/16931109214507lepX_JPEG/%BF%EC%C0%AF%B5%CE%BA%CE.jpg"
+      ]
+    },
+    {
+      "name": "라떼",
+      "price": "5000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20200909_24/1599638538101xICpa_JPEG/oWs_ZO26dsPyxmKyqa4GzL8W.jpg"
+      ]
+    },
+    {
+      "name": "스몰라떼",
+      "price": "4800",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230813_90/1691912245623eOtSi_JPEG/DSC06410.jpg"
+      ]
+    },
+    {
+      "name": "바닐라 라떼",
+      "price": "5500",
+      "description": "수제 바닐라시럽이 들어간 바닐라 라떼입니다",
+      "images": []
+    },
+    {
+      "name": "썸머라떼",
+      "price": "6000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230813_239/1691913484413ug3Hg_JPEG/DSC06123_closeup.jpg"
+      ]
+    },
+    {
+      "name": "더치",
+      "price": "5000",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "아몬드 라떼",
+      "price": "5500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20200909_189/159963839472366GxT_JPEG/2oFOv58gbYTUuuYcDlS5hTW6.jpg"
+      ]
+    },
+    {
+      "name": "초콜릿",
+      "price": "6000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20200909_214/1599638458902HRxSy_JPEG/K_tlgB7L-1bHqV1UgMQBvBU9.jpg"
+      ]
+    },
+    {
+      "name": "라즈베리 어페어",
+      "price": "5500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20191219_151/1576731536155cGRaH_JPEG/JClniFJeWAFdYcn2CsmP2Uat.jpg"
+      ]
+    },
+    {
+      "name": "오가닉 티",
+      "price": "5000",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "필터커피",
+      "price": "",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230813_295/1691914763769MepbD_JPEG/DSC00388edited_1.jpg"
+      ]
+    },
+    {
+      "name": "원두백",
+      "price": "",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230813_270/1691912861540QWrBb_JPEG/DSC02348.JPG"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20241003_158/1727926368490Bo0YG_JPEG/1000019644.jpg",
+    "https://ldb-phinf.pstatic.net/20241003_292/17279264782253u4bj_JPEG/1000019645.jpg",
+    "https://ldb-phinf.pstatic.net/20241003_160/1727926442278vV58u_JPEG/1000019643.jpg",
+    "https://ldb-phinf.pstatic.net/20231215_106/1702629783207B6iHM_JPEG/IMG_20220225_222309_342.jpg",
+    "https://ldb-phinf.pstatic.net/20231215_136/1702629919721BLL3n_JPEG/IMG_20230421_151017_224.jpg",
+    "https://ldb-phinf.pstatic.net/20231215_37/1702629638774prDkQ_JPEG/DSC04383_resize_1.jpg"
+  ]
+}

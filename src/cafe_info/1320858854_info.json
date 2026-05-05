@@ -1,0 +1,317 @@
+{
+  "id": "1320858854",
+  "name": "비엔나커피하우스 서울숲역점",
+  "category": "카페",
+  "micro_review": null,
+  "road_address": "서울 성동구 왕십리로 66 (성수동1가) 1층",
+  "address": "서울 성동구 성수동1가 656-447 1층",
+  "lat": "127.0449224",
+  "lon": "37.5435222",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "08:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "day": "토",
+      "start": "10:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "day": "일",
+      "start": "10:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "day": "월",
+      "start": "08:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "day": "화",
+      "start": "08:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "day": "수",
+      "start": "08:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "day": "목(12/25)",
+      "start": "10:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": "성탄절",
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1332-5049",
+  "url": "http://www.viennacoffeehouse.co.kr",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": true,
+    "단체 이용 가능": true,
+    "대기공간": false,
+    "간편결제": true,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": true,
+    "포장": true,
+    "배달": true,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "비엔나커피하우스의 역사는 1683년에 시작되었으며, 비엔나커피는 유럽 황제들과 왕족, 예술가들이 영감을 얻기위해 마셨던 커피로 전세계 부유함의 상징중의 하나입니다.\n또한 비엔나커피하우스는 유네스코에 등록된 무형문화자산입니다.\n\n70여개 국가에서 연간 약 20억잔이상 판매되는 유럽 오스트리아 No.1 브랜드 율리어스마이늘(Julius Meinl)의 커피를 사용하고 있으며,  율리어스 마이늘은 1862년부터 시작된 로스팅기술을 가지고 있습니다.\n\n비엔나커피로 잘 알려진 아인슈페너를, 오스트리아 현지의 원두로 만들어, 전통 비엔나커피를 맛보실 수 있는 유일한 곳입니다.\n\n\n\n\n",
+  "Information_facilitie": [
+    "예약",
+    "단체 이용 가능",
+    "남/녀 화장실 구분",
+    "무선 인터넷",
+    "포장",
+    "배달"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "지역화폐 (카드형)",
+    "지역화폐 (모바일형)",
+    "제로페이",
+    "간편결제"
+  ],
+  "menu": [
+    {
+      "name": "아인슈페너",
+      "price": "5500",
+      "description": "오스트리아 N0. 1 브랜드 율리어스마이늘의 원두를 사용하여, 오스트리아 전통 비엔나커피를 맛보실 수 있습니다.",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20191210_112/1575946208535nTEO4_JPEG/7VliLu3Wdq-2w4TYHViUPE3q.png.jpg",
+        "https://ldb-phinf.pstatic.net/20191210_297/1575946226842Eheid_JPEG/2_udzZxdUm0eVVpvHejzrQPs.jpg",
+        "https://ldb-phinf.pstatic.net/20191210_75/1575985256789N2z2N_JPEG/z2jdTZSmm3GDNwXB9pz1oETZ.jpg"
+      ]
+    },
+    {
+      "name": "누텔라 아이스크림 크루아상",
+      "price": "7300",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20200321_94/1584783441564q6j0P_JPEG/vPSXLySQkvtWLtw9Nw29ma3R.jpg"
+      ]
+    },
+    {
+      "name": "아인슈페너크루아상세트",
+      "price": "10000",
+      "description": "EDT퓨어버터와 프랑스산 고급 밀로 만든 프리미엄 크루아상에 아인슈페너크림을 올린 달콤하며 커피향의 풍미를 느낄 수 있는 시그니처 메뉴",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20191210_251/1575946112083CzrNS_JPEG/AUtpiy29kR_AdhAl8CbT48l7.JPG.jpg"
+      ]
+    },
+    {
+      "name": "아메리카노",
+      "price": "4200",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "카페라떼",
+      "price": "4800",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "레체레체 멜랑즈(연유라떼)",
+      "price": "6000",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "프란치스카너",
+      "price": "5500",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "애플블랙커런트 티에이드",
+      "price": "5000",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "딸기 허니 요거트",
+      "price": "6300",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "1683  크루아상",
+      "price": "3800",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "애플 슈트루델",
+      "price": "3800",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "메이플피칸",
+      "price": "3800",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "흑인자&레드빈 스노우 플레이크",
+      "price": "13000",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "쿠키&달고나 스노우 플레이크",
+      "price": "13500",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "에르트베어&망고 스노우 플레이크",
+      "price": "13000",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "아인슈패저",
+      "price": "5500",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "레체레체 멜랑즈",
+      "price": "6000",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "마리아 테레지아 요거트",
+      "price": "6300",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "후르츠 심포니 티 에이드",
+      "price": "5000",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "오리지널크루아상세트",
+      "price": "8000",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "소프트아이스크림",
+      "price": "4500",
+      "description": "",
+      "images": []
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20191004_50/1570179811201FzgcF_JPEG/JruIh2NtgxW7of6YCUCk1lzH.jpeg.jpg",
+    "https://ldb-phinf.pstatic.net/20191013_75/1570947506094V3VCT_JPEG/r436NTItwEsVT1Pb0zZCkzVc.jpeg.jpg",
+    "https://ldb-phinf.pstatic.net/20191210_102/1575982025129g8eje_JPEG/RaSg6IwuBO0s1hXM7xFA-1Y_.jpg",
+    "https://ldb-phinf.pstatic.net/20191210_93/15759820433796zGuU_JPEG/rmd1P79_xVDCXKZVTS6v8lz8.jpg",
+    "https://ldb-phinf.pstatic.net/20191210_203/1575982060827GBQAf_JPEG/ht8YeSutUYOnOI4Q2K_JSOzM.jpg",
+    "https://ldb-phinf.pstatic.net/20191210_175/15759820765373QnJl_JPEG/iJ9lCLKG0KUhQnu_x_1mHXXJ.jpg",
+    "https://ldb-phinf.pstatic.net/20191210_207/1575982090642VSsTm_JPEG/qz7-oaSnpZ671dUnPNhYIYnC.jpg",
+    "https://ldb-phinf.pstatic.net/20191210_168/1575982105011OU7eY_JPEG/rCww4TB1qQJjY0kj99NH3dm-.jpg",
+    "https://ldb-phinf.pstatic.net/20191210_23/1575982124080zQqY9_JPEG/bO0BRmJxRU-IzyAQO7K7pceS.jpg",
+    "https://ldb-phinf.pstatic.net/20191210_15/1575982138981nuC8o_JPEG/7VTT3tGclVH1cVfJO0k0Yxw6.jpg",
+    "https://ldb-phinf.pstatic.net/20191210_247/1575982159425NrMpy_JPEG/uVBmrUcZyNe8cWthOIqK-LrD.jpg",
+    "https://ldb-phinf.pstatic.net/20191210_297/1575982174815oBNON_JPEG/WtYUaL4bjIdoJV7JLa6zE4jW.jpg",
+    "https://ldb-phinf.pstatic.net/20191210_262/1575982188558WBsbr_JPEG/4W8V8OBtWHILNGoiOsAxbyYo.jpg",
+    "https://ldb-phinf.pstatic.net/20191210_279/15759822044651DkJc_JPEG/YhhSHq_TQJS8PY3IUGrQWrWH.jpg",
+    "https://ldb-phinf.pstatic.net/20191210_236/1575982219914q8aRG_JPEG/IRM2UV7i5_ym1CMi789ThopU.jpg",
+    "https://ldb-phinf.pstatic.net/20191210_212/1575982236953LBmRg_JPEG/_ZIAseW8QbtlpIZs9pWVlKA9.jpg",
+    "https://ldb-phinf.pstatic.net/20191210_120/1575982251239Q2rsA_JPEG/TksYeYiZFZYXt6OvLDj_Zxj1.jpg",
+    "https://ldb-phinf.pstatic.net/20191210_22/1575982267255gGSPh_JPEG/tQR2ABi6XVpqZ1Dbk0tWSD26.jpg",
+    "https://ldb-phinf.pstatic.net/20191210_165/1575982286717CTOS7_JPEG/k0pd824XfB6BEIZi3p8yVTkL.jpg",
+    "https://ldb-phinf.pstatic.net/20191210_38/1575982301439vGXJc_JPEG/Wyj-1Khl56q1ify_QH5m5Skd.jpg",
+    "https://ldb-phinf.pstatic.net/20191210_185/1575982318261sTWNe_JPEG/_ttjfnc5ivFbhnlYsayFjAz8.jpg",
+    "https://ldb-phinf.pstatic.net/20191210_232/1575982333491nDzQM_JPEG/bYNVFuLIqMRg5j00nJjfG3cZ.jpg",
+    "https://ldb-phinf.pstatic.net/20191210_278/1575982345888dOpMg_JPEG/KQ93anIS-T4gAzdcQIkLWl-0.jpg",
+    "https://ldb-phinf.pstatic.net/20191210_209/1575982358440DabBH_JPEG/iGAo6SGzFTQrLFlnqzgaGKrU.jpg",
+    "https://ldb-phinf.pstatic.net/20191210_289/1575982383264Famuk_JPEG/QFRgte0vYf8XoUYfrYNL_CH9.jpg",
+    "https://ldb-phinf.pstatic.net/20191210_30/1575982400528GoDCt_JPEG/7Ysifeq2qqCrLDLWh9eXgHhI.jpg",
+    "https://ldb-phinf.pstatic.net/20191210_21/15759824241560thpn_JPEG/TEjvF5eRQtVl_yBy3MqXkKHo.jpg",
+    "https://ldb-phinf.pstatic.net/20191210_182/15759824431011mDsC_JPEG/K4U6J8tUZCOqIkKAsoxPo1Bz.jpg",
+    "https://ldb-phinf.pstatic.net/20191210_9/1575982466383sQlJl_JPEG/6YGwPE3CbaWPErUm6cj2OuyN.jpg",
+    "https://ldb-phinf.pstatic.net/20200103_123/1578051672649P5pwe_JPEG/N3vjY3Xjbc5NmV-HVN0GwI70.jpg",
+    "https://ldb-phinf.pstatic.net/20200103_271/1578051694074kYhzA_PNG/7djfT7uBrRA5YqmLvN0gxxQu.jpg.png"
+  ]
+}

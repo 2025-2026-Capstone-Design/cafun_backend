@@ -1,0 +1,180 @@
+{
+  "id": "1273666847",
+  "name": "성수동 수제모찌",
+  "category": "베이커리",
+  "micro_review": [
+    "정성 가득한 수제 모찌로 특별한 경험"
+  ],
+  "road_address": "서울 성동구 왕십리로 98-1",
+  "address": "서울 성동구 성수동1가 656-965",
+  "lat": "127.0448542",
+  "lon": "37.5464082",
+  "business_hours": [
+    {
+      "day": "매일",
+      "start": "10:00",
+      "end": "22:10",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": null,
+  "url": null,
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": false,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": true,
+    "포장": true,
+    "배달": true,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "쫀득쫀득한 수제모찌의 진수를 만나보세요:)\n\n수제모찌의 명가, 성수동 수제모찌\n\n<성수동 수제모찌가 유명한 이유 4가지>\n\n1. 사르르 입안에서 녹아내리는 '쫀득쫀득한 맛'\n'흉내낼수 없는 쫀득한 맛' 성수동 수제모찌의 또다른 이름입니다.\n쫀득쫀득한 맛은 바로 성수동 수제모찌의 특별한 모찌피와 직접만든 맛있는 팥소의 환상조합 덕분입니다.\n\n쫄깃하면서도 녹아내리는 특유의 식감의 짜릿한 맛을 느껴보세요 :)\n\n2. 매일 만드는 신선하고 건강한 재료\n365일 좋은 재료로 매일매일 모찌를 만들고 있습니다.\n남녀노소 누구나 안심하고 먹을 수 있는 건강한 모찌이니 마음놓고 드세요!\n\n'내 가족이 먹는다' 는 생각으로 좋은 식재료를 아끼지 않습니다.\n\n3. 온 마음과 정성을 담아 만드는 국내최고의 모찌\n온 마음과 정성을 꾹꾹 담아 건강한 먹거리를 만들며 오로지 맛으로만 승부합니다.\n\n단언컨대, 최고의 수제모찌라 자부합니다.\n\n4. '흉내낼 수 없는 쫀득쫀득한 수제모찌의 명가' 성수동 수제모찌\n\n'변하지 않는 최고의 쫀득쫀득한 수제모찌'\n수제모찌 누구나 만들지만, '성수동 수제모찌'의 맛을 따라 할 순 없습니다.\n\n남다른 자부심과 노하우로 최고의 맛을 냅니다.",
+  "Information_facilitie": [
+    "예약",
+    "배달",
+    "포장"
+  ],
+  "parking_info": null,
+  "payment_info": null,
+  "menu": [
+    {
+      "name": "딸기모찌",
+      "price": "3500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221014_150/1665730596575mdsPV_JPEG/9.JPG"
+      ]
+    },
+    {
+      "name": "세트메뉴/4개",
+      "price": "13500",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "세트메뉴/6개",
+      "price": "20000",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "세트메뉴/8개",
+      "price": "26500",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "세트메뉴/10개",
+      "price": "33000",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "세트메뉴/12개",
+      "price": "39500",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "키위모찌",
+      "price": "3500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221014_193/16657306098428X6Y8_JPEG/10.JPG"
+      ]
+    },
+    {
+      "name": "청포도모찌",
+      "price": "3500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221014_77/1665730622524IeOy2_JPEG/10.JPG"
+      ]
+    },
+    {
+      "name": "파인애플모찌",
+      "price": "3500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221014_274/1665730636860yj71O_JPEG/10.JPG"
+      ]
+    },
+    {
+      "name": "감귤모찌",
+      "price": "3500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221014_130/1665730649023FNFIH_JPEG/10.JPG"
+      ]
+    },
+    {
+      "name": "바나나모찌",
+      "price": "3500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221014_141/1665730660181pyGYp_JPEG/10.JPG"
+      ]
+    },
+    {
+      "name": "곶감모찌",
+      "price": "3500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221014_154/1665730670368i2DlB_JPEG/10.JPG"
+      ]
+    },
+    {
+      "name": "견과류모찌",
+      "price": "3500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221014_49/1665730685966CTjWw_JPEG/10.JPG"
+      ]
+    },
+    {
+      "name": "아몬드초코모찌",
+      "price": "3500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221014_229/1665730700865KQKDm_JPEG/10.JPG"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20221013_12/1665622594560Bbg2c_JPEG/3.JPG",
+    "https://ldb-phinf.pstatic.net/20221013_81/1665622604881B1ugQ_JPEG/8.JPG",
+    "https://ldb-phinf.pstatic.net/20221013_230/1665622604819GUyjr_JPEG/2.JPG",
+    "https://ldb-phinf.pstatic.net/20221013_192/1665622605027Kmkil_JPEG/11.JPG",
+    "https://ldb-phinf.pstatic.net/20221013_251/1665622604825lCpbb_JPEG/4.JPG",
+    "https://ldb-phinf.pstatic.net/20221013_156/1665622604834eW3IJ_JPEG/5.JPG",
+    "https://ldb-phinf.pstatic.net/20221013_166/1665622604839HOQfk_JPEG/6.JPG",
+    "https://ldb-phinf.pstatic.net/20221013_251/1665622604835sv6qS_JPEG/7.JPG",
+    "https://ldb-phinf.pstatic.net/20221013_212/16656226049687i0ih_JPEG/9.JPG",
+    "https://ldb-phinf.pstatic.net/20221013_26/1665622605017PflWJ_JPEG/10.JPG",
+    "https://ldb-phinf.pstatic.net/20221018_273/1666054020992ukbB9_JPEG/IMG_0713.JPG",
+    "https://ldb-phinf.pstatic.net/20221107_32/1667780421579SpgCY_JPEG/public_%283%29.jpeg",
+    "https://ldb-phinf.pstatic.net/20221018_275/1666054020956Hv5AE_JPEG/IMG_0714.JPG",
+    "https://ldb-phinf.pstatic.net/20221107_20/1667780421609BPNXy_JPEG/public_%281%29.jpeg",
+    "https://ldb-phinf.pstatic.net/20221107_25/1667780421593l58Ip_JPEG/public_%282%29.jpeg",
+    "https://ldb-phinf.pstatic.net/20221107_61/1667780421547AiBzP_JPEG/public.jpeg"
+  ]
+}

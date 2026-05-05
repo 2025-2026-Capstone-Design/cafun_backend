@@ -1,0 +1,178 @@
+{
+  "id": "1299421546",
+  "name": "와아",
+  "category": "와인",
+  "micro_review": [
+    "데이트에 완벽한 장소"
+  ],
+  "road_address": "서울 성동구 상원2길 1-10 3층",
+  "address": "서울 성동구 성수동1가 14-44",
+  "lat": "127.0493305",
+  "lon": "37.546212",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "15:00",
+      "end": "24:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "토",
+      "start": "15:00",
+      "end": "24:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "일",
+      "start": "15:00",
+      "end": "24:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": "17:00",
+      "end": "24:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": "17:00",
+      "end": "24:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "수(12/24)",
+      "start": "14:00",
+      "end": "24:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "목(12/25)",
+      "start": "14:00",
+      "end": "24:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1366-3924",
+  "url": "https://www.instagram.com/waa.seoul",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": true,
+    "단체 이용 가능": true,
+    "대기공간": false,
+    "간편결제": true,
+    "반려동물 동반": true,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": true,
+    "포장": false,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "수제 아이스크림과 와인을 곁들여\n먹을 수 있는 여기는 성수동에 위치한 '와아'입니다 :)\n\n어떻게 하면 와인을 가볍고 부담 없이 즐길 수\n있을까라는 고민을 시작으로, 와인과 아이스크림의\n조합이 매력적으로 다가온 것 같아요.\n\n와인과 곁들여 먹었을 때 가장 맛있을 수\n있도록, 다양한 맛의 아이스크림을 준비했으니\n그저 즐기고, 마시며 이 공간과 이 순간들이\n행복한 기억으로 남길 바랍니다.\n\n저희 '와아'에 특별함 3가지를 말씀드릴게요.\n\n첫 번째, 부담 없는 가격\n'와아'에서는 저렴한 가격에\n글라스 와인과 아이스크림을 즐길 수 있습니다.\n가볍게 와인을 즐기고 싶다면 '와아'로 오세요!\n\n두 번째, 와인과 아이스크림의 거부감 없는 조화\n'와아'에서는 와인과 가장 어울릴 수 있는\n아이스크림을 시즌별로 직접 생산하며\n와인과의 조화를 최우선으로 생각합니다!\n\n세 번째, 성수동 야외에서 즐기는 와인과 아이스크림\n'와아'는 루프탑에서 와인과 아이스크림을\n즐길 수 있는 특별한 공간을 제공합니다.\n성수 술집 '와아'에서 야경을 배경으로 술과 와인을 즐겨보세요!\n\n'와아'의 모든 아이스크림 메뉴는 시즌별로\n변경될 예정입니다! 와인과 가장 어울리는\n아이스크림이 뭘지 고민 또 고민하며 여러분들에게\n최고의 조합을 경험시켜드리도록 노력하겠습니다 :)",
+  "Information_facilitie": [
+    "와인 페어링",
+    "콜키지 가능 (유료)",
+    "생일 혜택",
+    "예약",
+    "남/녀 화장실 구분",
+    "무선 인터넷",
+    "노키즈존",
+    "단체 이용 가능",
+    "반려동물 동반"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "지역화폐 (카드형)",
+    "지역화폐 (모바일형)",
+    "지역화폐 (지류형)",
+    "제로페이",
+    "네이버페이",
+    "간편결제"
+  ],
+  "menu": [
+    {
+      "name": "X-mas Tree Ice Cream",
+      "price": "10000",
+      "description": "생딸기가 가득 들어간 아이스크림 위에 고소하고 달달한 옥 앙금이 올라간 겨울한정 아이스크림",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251128_158/1764257072153UfuTW_JPEG/KakaoTalk_Photo_2025-11-28-00-24-24.jpeg"
+      ]
+    },
+    {
+      "name": "Handmade Ice cream",
+      "price": "5000",
+      "description": "직접만든 6종류 수제 아이스크림\n(아이스크림 종류는 시즌마다 변경됩니다.)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251209_98/1765256513124LiFqh_JPEG/KakaoTalk_Photo_2025-12-09-14-01-44.jpeg",
+        "https://ldb-phinf.pstatic.net/20250727_5/1753607458347rcuTW_JPEG/IMG_0663_2.JPG"
+      ]
+    },
+    {
+      "name": "Cheese Plate",
+      "price": "18000",
+      "description": "스모크치즈, 콜비잭치즈, 이탈리안 살라미, 과일치즈, 큐브크림치즈+수제 아이스크림(택1)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231127_242/1701083533484G9DsP_JPEG/IMG_9083.jpg"
+      ]
+    },
+    {
+      "name": "Glass wine",
+      "price": "10000",
+      "description": "6종류의 다양한 글라스 와인이 준비되어 있습니다.",
+      "images": []
+    },
+    {
+      "name": "?Bottle wine",
+      "price": "",
+      "description": "20종류 이상의 보틀와인이 준비되어 있습니다.\n(48.0~)",
+      "images": []
+    }
+  ],
+  "image_url": [
+    "https://naverbooking-phinf.pstatic.net/20251021_237/1760976628892oxIjQ_JPEG/IMG_6414.JPG",
+    "https://naverbooking-phinf.pstatic.net/20251020_62/1760892612122E2Qdx_JPEG/IMG_5486_2.jpg",
+    "https://naverbooking-phinf.pstatic.net/20251201_32/1764515393987S97uM_JPEG/KakaoTalk_Photo_2025-11-30-23-58-41_013.jpeg",
+    "https://naverbooking-phinf.pstatic.net/20251128_166/17642583395700uGHW_JPEG/KakaoTalk_Photo_2025-11-23-21-52-27_002.jpeg",
+    "https://naverbooking-phinf.pstatic.net/20251202_165/1764605626056bOkGR_JPEG/KakaoTalk_Photo_2025-11-30-23-58-11_004.jpeg",
+    "https://naverbooking-phinf.pstatic.net/20251020_67/1760892808674JOa8E_JPEG/IMG_1268.jpg",
+    "https://ldb-phinf.pstatic.net/20250109_295/1736434141385xD5KG_JPEG/IMG_5348.jpeg",
+    "https://naverbooking-phinf.pstatic.net/20250809_29/17547324510186zwLp_JPEG/55F99D12-FA6A-4F4C-A6F5-63B98F30E429.JPG",
+    "https://ldb-phinf.pstatic.net/20250105_217/1736011539223x6Cdu_JPEG/IMG_9481.jpeg",
+    "https://naverbooking-phinf.pstatic.net/20251020_266/1760897254108zg3UX_JPEG/IMG_6350.JPG",
+    "https://ldb-phinf.pstatic.net/20250104_44/17359776602882tcyx_JPEG/IMG_0231_2.jpg",
+    "https://ldb-phinf.pstatic.net/20250208_99/1739012244377fVagY_JPEG/IMG_6451.jpeg",
+    "https://naverbooking-phinf.pstatic.net/20251020_78/1760892920259WrBis_JPEG/IMG_4286.jpg",
+    "https://naverbooking-phinf.pstatic.net/20250917_264/1758039388597IW3xX_PNG/image-2.png",
+    "https://ldb-phinf.pstatic.net/20250109_14/1736434141328NEg8D_JPEG/IMG_5375.jpeg",
+    "https://ldb-phinf.pstatic.net/20250104_101/1735977781333FvXg7_JPEG/IMG_5143.jpg",
+    "https://ldb-phinf.pstatic.net/20250104_58/1735979859828YLtXl_JPEG/IMG_9402.jpg",
+    "https://ldb-phinf.pstatic.net/20250104_146/17359763387468P1Qq_JPEG/IMG_0170.JPG"
+  ]
+}

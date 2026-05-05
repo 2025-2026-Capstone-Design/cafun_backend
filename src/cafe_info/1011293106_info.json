@@ -1,0 +1,211 @@
+{
+  "id": "1011293106",
+  "name": "헨리스플랏",
+  "category": "브런치카페",
+  "micro_review": [
+    "풍미 깊은 플랫화이트와 함께하는 여유"
+  ],
+  "road_address": "서울 성동구 뚝섬로 427-8",
+  "address": "서울 성동구 성수동2가 269-125",
+  "lat": "127.0579801",
+  "lon": "37.5383403",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "10:30",
+      "end": "19:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "토",
+      "start": "10:30",
+      "end": "19:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "일",
+      "start": "10:30",
+      "end": "19:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": null,
+      "end": null,
+      "breakHours": null,
+      "description": "정기휴무 (매주 월요일)",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": "10:30",
+      "end": "19:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "수",
+      "start": "10:30",
+      "end": "19:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "목",
+      "start": "10:30",
+      "end": "19:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": null,
+  "url": "https://www.instagram.com/henrys_flat",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": true,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "** 브런치 메뉴 오픈 **\n- 아보카도 오픈토스트\n- 클래식 프렌치 토스트\n- 트러플 포테이토 수프\n- 단호박 수프\n- 추가예정\n\n영국 가정집 스타일 카페 헨리스플랏 은\n영국 본머스에서 유학을 한 경험을 토대로 만든\n로우어가든 의 두번째 브랜드입니다\n\n성수 카페 헨리스플랏 은 영국식 디저트를 메인으로\n애프터눈티 브런치 등\n다양한 영국식 음식문화를 제공합니다\n주택 개조 대형 카페로 넓고 많은 좌석으로\n쾌적한 시간을 보낼 수 있습니다\n\n헨리스플랏 은 젠틀몬스터 사옥 ( 하우스노웨어 ) 근처 ,\n뚝도시장과 성수역 사이에 위치해있습니다\n성수동 연무장길에서 도보 10분거리입니다\n\n성수 영국 스타일 카페 헨리스플랏 은\n멋진 인테리어와 분위기 좋은 음악 ,\n그리고 다양한 빵과 디저트로 여러분에게\n오감의 행복을 선사하겠습니다\n영국 현지맛을 최대한 살린 스콘과 같이 즐길수 있는\n딸기잼과 클로티드크림\n빵과 함께 즐길 수 있는\n고급 영국 홍차 브랜드인 포트넘앤메이슨을 제공합니다\n\n영국에서 직접 공수한 다양한 인테리어 소품이\n가득하니 눈으로만 즐겨주시면 감사하겠습니다 :)\n그리고 성수 주택 특성상 주차는 불가능합니다",
+  "Information_facilitie": [
+    "무선 인터넷",
+    "포장",
+    "단체 이용 가능"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "네이버페이"
+  ],
+  "menu": [
+    {
+      "name": "잠봉뵈르 크로플",
+      "price": "10900",
+      "description": "단짠과 냉온의 조화\n잠봉뵈르와 바닐라 아이스크림이 만나\n하나의 요리가 되었습니다",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251125_209/1764051132854yJ3TP_JPEG/IMG_0803.jpeg"
+      ]
+    },
+    {
+      "name": "아보카도 오픈토스트",
+      "price": "15900",
+      "description": "아보카도와 끼리 크림치즈의 환상적인 조합\n싱싱한 루꼴라(발사믹을 곁들인)가 함께 준비됩니다",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250930_133/1759210269506pm1ts_JPEG/IMG_0662.jpeg",
+        "https://ldb-phinf.pstatic.net/20250930_272/1759210184707aNPQc_JPEG/IMG_0669.jpeg"
+      ]
+    },
+    {
+      "name": "프렌치토스트",
+      "price": "12900",
+      "description": "클래식 프렌치토스트 입니다\n과일토핑은 제철과일토핑으로 대체될수있습니다",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250918_221/175817776528331LRO_JPEG/IMG_0650.jpeg",
+        "https://ldb-phinf.pstatic.net/20250918_215/1758177765314FGd8c_JPEG/IMG_0653.jpeg"
+      ]
+    },
+    {
+      "name": "푸딩스콘",
+      "price": "7500",
+      "description": "브레드푸딩으로 커스터드크림과 토핑이 들어있습니다\n로우어가든때 베스트 인기메뉴",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250913_65/1757738475372WEiAI_JPEG/IMG_8579.jpeg"
+      ]
+    },
+    {
+      "name": "단호박 수프",
+      "price": "9500",
+      "description": "달달한 단호박과 부드러운 생크림이 만나\n따뜻한 수프가 되었습니다",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251002_131/1759375891061fcBQa_JPEG/IMG_0661.jpeg"
+      ]
+    },
+    {
+      "name": "바닐라치즈 테린느",
+      "price": "5500",
+      "description": "화이트초콜렛으로 만들어\n달달하고 촉촉한 디저트로\n바삭하며 고소한 크럼블과 함께 나옵니다",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250913_75/1757738174020N35cv_JPEG/IMG_0667.jpeg"
+      ]
+    },
+    {
+      "name": "우지말차 테린느",
+      "price": "5800",
+      "description": "말차로 유명한 교토지역의 우지말차로 만든 테린느와\n고소한 크럼블의 조화",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250918_60/17581945082264u8pj_JPEG/IMG_0676.jpeg"
+      ]
+    },
+    {
+      "name": "스콘",
+      "price": "3800",
+      "description": "오리지날 영국식 스콘 입니다\n딸기잼과 클로티드크림을\n추가할수있습니다(1500원)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241224_215/1735035038000wpJnl_JPEG/IMG_5527.jpeg"
+      ]
+    },
+    {
+      "name": "말돈소금 에그스콘",
+      "price": "5000",
+      "description": "스콘에 에그타르트 필링을?! 단짠단짠 에그스콘",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250415_131/1744706864550Jm3OV_JPEG/IMG_6783.jpeg"
+      ]
+    },
+    {
+      "name": "플랫화이트",
+      "price": "5500",
+      "description": "영국식 플랫화이트입니다\n라떼보다 우유량이 적어\n더욱 진하고 고소하게 드실수 있습니다",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250222_56/1740216621520YW5v0_JPEG/IMG_0377.jpeg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20250415_253/1744706196054xep3b_PNG/IMG_0441.png",
+    "https://ldb-phinf.pstatic.net/20250930_111/1759210423846CNhaP_JPEG/IMG_0669.jpeg",
+    "https://ldb-phinf.pstatic.net/20250930_21/17592104240222uEk2_JPEG/IMG_0672.jpeg",
+    "https://ldb-phinf.pstatic.net/20241220_53/1734665312433zbizk_JPEG/IMG_0204.jpeg",
+    "https://ldb-phinf.pstatic.net/20250930_225/1759210476987J7LcQ_JPEG/IMG_0258.jpeg",
+    "https://ldb-phinf.pstatic.net/20241220_241/1734665297711HWkhb_JPEG/IMG_0200.jpeg",
+    "https://ldb-phinf.pstatic.net/20241220_104/1734665316438JJ51g_JPEG/IMG_0207.jpeg",
+    "https://ldb-phinf.pstatic.net/20250930_12/1759210423933SU6a7_JPEG/IMG_0671.jpeg",
+    "https://ldb-phinf.pstatic.net/20250930_174/1759210423929Hk3bb_JPEG/IMG_0670.jpeg",
+    "https://ldb-phinf.pstatic.net/20250930_112/1759210423799t787X_JPEG/IMG_0668.jpeg",
+    "https://ldb-phinf.pstatic.net/20241220_201/1734665313648x10Tu_JPEG/IMG_0201.jpeg",
+    "https://ldb-phinf.pstatic.net/20241220_84/1734665312398VKWYr_JPEG/IMG_0203.jpeg",
+    "https://ldb-phinf.pstatic.net/20241220_49/1734665316593CFlMC_JPEG/IMG_0191.jpeg",
+    "https://ldb-phinf.pstatic.net/20241220_63/1734665316503vMoS8_JPEG/IMG_0217.jpeg",
+    "https://ldb-phinf.pstatic.net/20241220_95/1734665316605sefYn_JPEG/IMG_0219.jpeg",
+    "https://ldb-phinf.pstatic.net/20241220_38/1734665314332A3V9F_JPEG/IMG_0214.jpeg",
+    "https://ldb-phinf.pstatic.net/20241220_94/1734665316525yB0qS_JPEG/IMG_0213.jpeg"
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "id": "1386881475",
+  "name": "아이안",
+  "category": "카페,디저트",
+  "micro_review": [
+    "행운 가득한 네잎클로버 라떼"
+  ],
+  "road_address": "서울 성동구 왕십리로4가길 3 3F",
+  "address": "서울 성동구 성수동1가 656-816",
+  "lat": "127.0459941",
+  "lon": "37.5455532",
+  "business_hours": [
+    {
+      "day": "매일",
+      "start": "12:00",
+      "end": "23:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "22:30"
+        }
+      ]
+    }
+  ],
+  "virtual_phone_number": null,
+  "url": "https://www.instagram.com/aayaan_cafe",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": false,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": false,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "문의 > Instagram DM ( @aayaan_cafe )\nhttps://www.instagram.com/aayaan_cafe\n\n[계절마다 달라지는 시즈널 디저트 카페&바]\n\n안녕하세요, 성수동에 위치한 카페 아이안 입니다.\n유럽을 모티브로 하여 완성된 공간이며, 음식 판매뿐만 아니라 공간과 문화를 공유하고자 성수동에 위치하게 되었습니다.\n\n위치 : 뚝섬역에서 도보 5분, 서울숲역에서 도보 5분\n아이보리색 외관건물 3층 (한양떡방앗간 성수 건물의 3층)\n\n오늘도 행운이 따르는 하루를 보내세요.\nA piece of luck !",
+  "Information_facilitie": [],
+  "parking_info": null,
+  "payment_info": [
+    "네이버페이"
+  ],
+  "menu": [
+    {
+      "name": "말차 딸기타르트",
+      "price": "13000",
+      "description": "고소한 아몬드크림과 쌉싸름한 말차크림의 조합을 겨울딸기로 완성, 완벽한 겨울 한입🍓",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251116_85/1763219903193tdzBA_JPEG/Facetune_15-11-2025-13-47-03.jpeg",
+        "https://ldb-phinf.pstatic.net/20251116_198/17632199031225OwLv_JPEG/IMG_0915.jpeg",
+        "https://ldb-phinf.pstatic.net/20251116_237/176321990305054lly_JPEG/Facetune_15-11-2025-13-47-03.jpeg"
+      ]
+    },
+    {
+      "name": "초코 딸기타르트",
+      "price": "13000",
+      "description": "아몬드크림 + 가나슈 + 초코크림의 달달고소한 초코 디저트 !",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251213_195/1765564695600fc9nT_JPEG/IMG_1505.jpeg",
+        "https://ldb-phinf.pstatic.net/20251213_67/1765564695855l8w84_JPEG/IMG_1505.jpeg"
+      ]
+    },
+    {
+      "name": "보늬밤 타르트",
+      "price": "12000",
+      "description": "아몬드크림과 호지차크림의 고소한 조합! 카카오, 레몬, 보늬밤으로 완성한 가을 디저트 🌰",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251018_10/1760782853844gdGTu_JPEG/Facetune_16-10-2025-21-41-41.jpeg",
+        "https://ldb-phinf.pstatic.net/20251018_210/1760782853869fXEVP_JPEG/Facetune_16-10-2025-21-45-22.jpeg",
+        "https://ldb-phinf.pstatic.net/20251018_180/1760782853834iUTRg_JPEG/IMG_9617.jpeg"
+      ]
+    },
+    {
+      "name": "말차크림라떼 (Only ICE)",
+      "price": "8000",
+      "description": "말차라떼 위에 바닐라빈크림과 식용네잎클로버 (Only ICE)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250514_91/17471719692478QP6S_JPEG/Facetune_13-05-2025-15-04-25.jpeg",
+        "https://ldb-phinf.pstatic.net/20250514_214/1747171969351e6htF_JPEG/Facetune_13-05-2025-15-06-21.jpeg"
+      ]
+    },
+    {
+      "name": "밤크림라떼 (Only HOT)",
+      "price": "8000",
+      "description": "은은하게 얼그레이가 느껴지는 달콤고소한 밤 한모금",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250930_176/175923791310108RTi_JPEG/IMG_6917.jpeg",
+        "https://ldb-phinf.pstatic.net/20250930_209/17592379130465ctOQ_JPEG/IMG_6917.jpeg"
+      ]
+    },
+    {
+      "name": "럭키크림라떼 (Only ICE)",
+      "price": "8000",
+      "description": "진한카페라떼 위에 달콤한 바닐라빈크림! 그리고 네잎클로버 가니쉬 🍀 (식용네잎클로버)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241107_258/17309795092303dRCS_JPEG/Facetune_07-11-2024-17-01-37.jpeg",
+        "https://ldb-phinf.pstatic.net/20241107_172/1730979509248Cz2MU_JPEG/Facetune_07-11-2024-17-04-38.jpeg",
+        "https://ldb-phinf.pstatic.net/20241107_193/1730979509165U0wmF_JPEG/Facetune_07-11-2024-17-01-37.jpeg"
+      ]
+    },
+    {
+      "name": "바질토마토에이드",
+      "price": "7500",
+      "description": "직접 만드는 수제토마토청🍅",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250513_194/1747136619970pY4A0_JPEG/Facetune_13-05-2025-19-57-19.jpeg"
+      ]
+    },
+    {
+      "name": "라즈베리에이드",
+      "price": "7500",
+      "description": "직접 블렌딩한 라즈베리청으로 만드는, 상큼하고 청량감이 넘치는 에이드 🍓",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250510_194/1746877694977vEDDx_JPEG/Facetune_10-05-2025-16-28-00.jpeg"
+      ]
+    },
+    {
+      "name": "라즈베리라떼 (Only ICE)",
+      "price": "8000",
+      "description": "고급스러운 딸기라떼 맛\n라즈베리 수제청 + 새콤한 딸기 다이스",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240809_63/1723133215937I7kbU_JPEG/Facetune_08-08-2024-12-49-31.jpeg"
+      ]
+    },
+    {
+      "name": "아메리카노",
+      "price": "6000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240509_210/17151888808383zwp8_JPEG/KakaoTalk_20240509_020539270.jpg"
+      ]
+    },
+    {
+      "name": "바닐라라떼",
+      "price": "7000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240517_255/1715927830459m60M6_JPEG/IMG_2371.jpeg"
+      ]
+    },
+    {
+      "name": "칵테일",
+      "price": "",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240512_87/1715510465396aXTex_JPEG/IMG_2063.jpeg",
+        "https://ldb-phinf.pstatic.net/20240512_295/17155104657548LGnb_JPEG/IMG_2308.jpeg",
+        "https://ldb-phinf.pstatic.net/20240512_194/1715510465478M68LC_JPEG/IMG_2311.jpeg"
+      ]
+    },
+    {
+      "name": "밀크티",
+      "price": "7000",
+      "description": "달콤쌉싸름한 고급스러운 밀크티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240512_254/1715500117737C8OAu_JPEG/IMG_2300.jpeg"
+      ]
+    },
+    {
+      "name": "초코라떼",
+      "price": "7000",
+      "description": "발로나 초코파우더를 사용하여, 진하고 풍부한 맛의 초코라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240512_264/1715487346381ClWU8_JPEG/IMG_2269.jpeg"
+      ]
+    },
+    {
+      "name": "말차라떼",
+      "price": "7000",
+      "description": "일본 교토지역 프리미엄 말차가루를 사용한, 고급스러운 말차라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240511_117/1715425453904YRYX8_JPEG/IMG_2251.jpeg"
+      ]
+    },
+    {
+      "name": "카페라떼",
+      "price": "6500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240514_125/1715680630392UIxoG_JPEG/IMG_2339.jpeg",
+        "https://ldb-phinf.pstatic.net/20240512_289/1715499861858GAhtI_JPEG/IMG_2298.jpeg"
+      ]
+    },
+    {
+      "name": "티 - 초콜릿",
+      "price": "6000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240516_150/1715837024197bOekO_JPEG/IMG_2346.jpeg"
+      ]
+    },
+    {
+      "name": "티 - 프룻",
+      "price": "6000",
+      "description": "논카페인",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240516_251/1715837005222wsyOb_JPEG/IMG_2345.jpeg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20251116_19/1763219753310nLc8u_JPEG/Facetune_15-11-2025-13-47-03.jpeg",
+    "https://ldb-phinf.pstatic.net/20251116_177/1763219829970WgGpQ_JPEG/IMG_0944.jpeg",
+    "https://ldb-phinf.pstatic.net/20241107_119/1730979665026XTluR_JPEG/Facetune_07-11-2024-17-01-37.jpeg",
+    "https://ldb-phinf.pstatic.net/20251016_43/17606195552133Xcnq_JPEG/Facetune_16-10-2025-21-41-41.jpeg",
+    "https://ldb-phinf.pstatic.net/20250514_185/1747171928793zdqVC_JPEG/Facetune_13-05-2025-15-04-25.jpeg",
+    "https://ldb-phinf.pstatic.net/20251213_272/1765564861912EkrEX_JPEG/IMG_1505.jpeg",
+    "https://ldb-phinf.pstatic.net/20250930_49/1759238083261VheKU_JPEG/IMG_6917.jpeg",
+    "https://ldb-phinf.pstatic.net/20250513_220/174713663292736n3N_JPEG/Facetune_13-05-2025-19-57-19.jpeg",
+    "https://ldb-phinf.pstatic.net/20250510_84/1746877737099wUKbo_JPEG/Facetune_10-05-2025-16-28-00.jpeg",
+    "https://ldb-phinf.pstatic.net/20240809_282/1723133384417HztHt_JPEG/Facetune_08-08-2024-12-49-31.jpeg",
+    "https://ldb-phinf.pstatic.net/20241128_92/1732753139102kExtE_JPEG/Facetune_27-11-2024-15-02-18.jpeg",
+    "https://ldb-phinf.pstatic.net/20250330_52/1743318478360NptIT_JPEG/IMG_2995.jpeg",
+    "https://ldb-phinf.pstatic.net/20241107_107/1730979707500nfc9c_JPEG/IMG_7378.jpeg",
+    "https://ldb-phinf.pstatic.net/20251018_248/1760782987566hw09y_JPEG/IMG_9630.jpeg",
+    "https://ldb-phinf.pstatic.net/20240824_66/17245096039858pmgf_JPEG/IMG_4612.jpeg"
+  ]
+}
