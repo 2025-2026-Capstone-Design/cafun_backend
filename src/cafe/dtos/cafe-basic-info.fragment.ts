@@ -1,21 +1,29 @@
-import { Expose } from 'class-transformer';
+import { Expose, Transform } from 'class-transformer';
 
 export class CafeBasicInfo {
   @Expose()
-  id: string;
+  id!: string;
 
   @Expose()
-  name: string;
+  name!: string;
 
   @Expose()
-  category: string;
+  category!: string;
 
   @Expose()
-  roadAddress: string;
+  roadAddress!: string;
 
   @Expose()
-  imageUrls: string[];
+  imageUrls!: string[];
 
   @Expose()
-  description: string;
+  description!: string;
+
+  @Expose()
+  @Transform(({ value }) => value != null ? parseFloat(value) : null)
+  lat: number;
+
+  @Expose()
+  @Transform(({ value }) => value != null ? parseFloat(value) : null)
+  lon: number;
 }

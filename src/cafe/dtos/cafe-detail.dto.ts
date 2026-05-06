@@ -1,4 +1,4 @@
-import { Expose, Transform, Type } from 'class-transformer';
+import { Expose, Type } from 'class-transformer';
 import { CafeBasicInfo } from './cafe-basic-info.fragment';
 import { MenuInfo } from './menu-info.fragment';
 import { ReviewListResponseDto } from './review.dto';
@@ -10,14 +10,6 @@ export class CafeDetailResponseDto extends CafeBasicInfo {
 
   @Expose()
   address: string;
-
-  @Expose()
-  @Transform(({ value }) => parseFloat(value))
-  lat: number;
-
-  @Expose()
-  @Transform(({ value }) => parseFloat(value))
-  lon: number;
 
   @Expose()
   businessHours: Record<string, any>[];
@@ -52,4 +44,7 @@ export class CafeDetailResponseDto extends CafeBasicInfo {
   @Expose()
   @Type(() => TopKeywordDto)
   topKeywords: TopKeywordDto[];
+
+  @Expose()
+  aspectVector: number[];
 }
