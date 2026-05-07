@@ -9,6 +9,7 @@ export class LocalAiRecommendationAdapter implements AiRecommendationPort {
   constructor(private readonly cacheService: CafeRecommendationCacheService) {}
 
   async getRecommendedCafeIds(aspectVector: number[]): Promise<string[]> {
+    console.log('[Search] 받은 aspectVector:', aspectVector);
     const results: { cafeId: string; score: number }[] = [];
     const vectors = this.cacheService.aspectVectors;
 
@@ -27,15 +28,17 @@ export class LocalAiRecommendationAdapter implements AiRecommendationPort {
       }
     }
 
-    return results
-      .sort((a, b) => b.score - a.score)
-      .map((r) => r.cafeId);
+    const sorted = results.sort((a, b) => b.score - a.score);
+    console.log('[Search] 총 매칭 카페:', sorted.length, '개');
+    console.log('[Search] Top 5:', sorted.slice(0, 5).map(r => `${r.cafeId}(${r.score.toFixed(3)})`).join(', '));
+    return sorted.map((r) => r.cafeId);
   }
 
   async getRecommendedCafeIdsWithKeywords(
     aspectVector: number[],
     keywords: string[],
   ): Promise<string[]> {
+    console.log('[Advanced Search] 받은 aspectVector:', aspectVector, '키워드:', keywords);
     const results: { cafeId: string; keywordScore: number; aspectScore: number }[] = [];
     const vectors = this.cacheService.aspectVectors;
 

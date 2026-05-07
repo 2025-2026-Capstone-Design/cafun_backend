@@ -29,6 +29,7 @@ export class CafeController {
     async searchCafesWithKeywords(
         @Query() query: SearchCafesWithKeywordsRequestDto,
     ): Promise<SearchCafesResponseDto> {
+        console.log('[Controller] /search/advanced 호출됨 - keywords:', query.keywords, 'aspectVector:', query.aspectVector);
         const result = await this.cafeService.searchCafesByAspectAndKeyword(
             query.aspectVector,
             query.keywords, // 추가된 키워드 배열 파라미터
