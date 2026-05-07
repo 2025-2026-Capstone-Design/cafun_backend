@@ -6,6 +6,7 @@ import { TopKeywordDto } from './top-keyword.dto';
 export class SearchCafesRequestDto {
   @Transform(({ value }) => {
     if (typeof value === 'string') return value.split(',').map(Number);
+    if (Array.isArray(value)) return value.map(Number);
     return value;
   })
   @IsArray()
@@ -31,10 +32,15 @@ export class SearchCafesRequestDto {
 
 export class SearchCafesWithKeywordsRequestDto extends SearchCafesRequestDto {
   // URL 예시: ?keywords=아메리카노,조용한&aspectVector=1,0...
-  @Transform(({ value }) => value.split(','))
+  @IsOptional()
+  @Transform(({ value }) => {
+    if (!value) return [];
+    if (Array.isArray(value)) return value;
+    return value.split(',');
+  })
   @IsArray()
   @IsString({ each: true })
-  keywords: string[];
+  keywords: string[] = [];
 }
 
 export class CafeSearchItemDto extends CafeBasicInfo {
