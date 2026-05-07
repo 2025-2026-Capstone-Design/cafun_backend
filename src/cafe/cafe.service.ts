@@ -112,6 +112,38 @@ export class CafeService {
         });
     }
 
+    /**
+     * 카페 이름 기반 유사도 검색 (오타 및 부분 일치 지원)
+     */
+    async searchCafesByName(
+        searchWord: string,
+        page: number = 1,
+        limit: number = 20
+    ): Promise<{ cafes: CafeWithTopKeywords[]; totalCount: number; totalPages: number }> {
+        
+        const offset = (page - 1) * limit;
+
+        // QueryBuilder를 이용한 유사도 검색 로직
+        const [cafes, totalCount] = await this.cafeRepository.createQueryBuilder('cafe')
+            .where('cafe.name ILIKE :exactLike', { exactLike: `%${searchWord}%` }) // 1. 부분 일치 매칭 (예: '스타벅' -> '스타벅스')
+            .orWhere('cafe.name % :keyword', { keyword: searchWord }) // 2. pg_trgm 유사도 매칭 (예: '스타벙스' -> '스타벅스')
+            .orderBy('cafe.name <-> :keyword', 'ASC') // 3. 검색어와의 거리(Distance)가 가까운 순(ASC)으로 정렬
+            .skip(offset)
+            .take(limit)
+            .getManyAndCount();
+
+        const totalPages = Math.ceil(totalCount / limit);
+
+        if (cafes.length === 0) {
+            return { cafes: [], totalCount, totalPages };
+        }
+
+        // 4. 기존 로직 재활용: 검색된 카페 엔티티에 Top 10 키워드 부착
+        const enrichedCafes = this.enrichCafesWithTopKeywords(cafes);
+
+        return { cafes: enrichedCafes, totalCount, totalPages };
+    }
+
     async getCafeDetail(cafeId: string): Promise<[CafeWithTopKeywords, number]> {
         const cafe = await this.cafeRepository.findOne({
             where: { id: cafeId },

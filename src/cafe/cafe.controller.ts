@@ -1,6 +1,6 @@
 import { Body, Controller, Get, Param, Post, Query, Req } from '@nestjs/common';
 import { CafeService } from './cafe.service';
-import { SearchCafesRequestDto, SearchCafesResponseDto, SearchCafesWithKeywordsRequestDto } from './dtos/search-cafe.dto';
+import { SearchCafesByNameRequestDto, SearchCafesRequestDto, SearchCafesResponseDto, SearchCafesWithKeywordsRequestDto } from './dtos/search-cafe.dto';
 import { plainToInstance } from 'class-transformer';
 import { CafeDetailResponseDto } from './dtos/cafe-detail.dto';
 import { CreateReviewRequestDto, ReviewListResponseDto, ReviewResponseDto } from './dtos/review.dto';
@@ -36,6 +36,25 @@ export class CafeController {
             query.limit,
         );
         
+        return plainToInstance(
+            SearchCafesResponseDto,
+            result,
+            { excludeExtraneousValues: true },
+        );
+    }
+
+    @Get('search/name')
+    async searchCafesByName(
+        @Query() query: SearchCafesByNameRequestDto,
+    ): Promise<SearchCafesResponseDto> {
+        // 서비스 레이어의 pg_trgm 유사도 검색 로직 호출
+        const result = await this.cafeService.searchCafesByName(
+            query.name,
+            query.page,
+            query.limit,
+        );
+        
+        // 응답 직렬화: 측면/키워드 검색과 완벽히 동일한 응답 규격(Top 10 키워드 포함) 보장
         return plainToInstance(
             SearchCafesResponseDto,
             result,

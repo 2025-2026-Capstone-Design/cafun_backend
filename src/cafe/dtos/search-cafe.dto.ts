@@ -1,5 +1,5 @@
 import { Expose, Transform, Type } from 'class-transformer';
-import { IsArray, ArrayMinSize, ArrayMaxSize, IsInt, Min, Max, IsOptional, IsString } from 'class-validator';
+import { IsArray, ArrayMinSize, ArrayMaxSize, IsInt, Min, Max, IsOptional, IsString, IsNotEmpty, IsNumber } from 'class-validator';
 import { CafeBasicInfo } from './cafe-basic-info.fragment';
 import { TopKeywordDto } from './top-keyword.dto';
 
@@ -35,6 +35,25 @@ export class SearchCafesWithKeywordsRequestDto extends SearchCafesRequestDto {
   @IsArray()
   @IsString({ each: true })
   keywords: string[];
+}
+
+export class SearchCafesByNameRequestDto {
+  // 검색할 카페 이름 (예: '스타벅스', '타벅', '스타벙스')
+  @IsString()
+  @IsNotEmpty({ message: '검색할 카페 이름을 입력해주세요.' })
+  name: string;
+
+  @IsOptional()
+  @Type(() => Number)
+  @IsNumber()
+  @Min(1)
+  page?: number = 1;
+
+  @IsOptional()
+  @Type(() => Number)
+  @IsNumber()
+  @Min(1)
+  limit?: number = 20;
 }
 
 export class CafeSearchItemDto extends CafeBasicInfo {
