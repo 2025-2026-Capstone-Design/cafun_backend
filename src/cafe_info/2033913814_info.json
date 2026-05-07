@@ -1,0 +1,246 @@
+{
+  "id": "2033913814",
+  "name": "밀랍 커피앤베이커리",
+  "category": "카페,디저트",
+  "micro_review": [
+    "깜빠뉴부터 마들렌까지 풍성한 선택"
+  ],
+  "road_address": "서울 성동구 서울숲4길 28-19",
+  "address": "서울 성동구 성수동1가 668-37",
+  "lat": "127.0438433",
+  "lon": "37.5465139",
+  "business_hours": [
+    {
+      "day": "매일",
+      "start": "10:00",
+      "end": "21:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1333-8841",
+  "url": "https://www.instagram.com/millab.seongsu/",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": true,
+    "대기공간": true,
+    "간편결제": true,
+    "반려동물 동반": true,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": true,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "매장에서 직접 구워 더 맛있는 프리미엄 베이커리 카페, 밀랍커피앤베이커리입니다.\n\nSignature: 겉바속촉 소금빵, 풍미 가득 휘낭시에 & 까눌레, 수제 르뱅쿠키\n\nVibe: 연예인 & 인플루언서 찐단골 맛집, 감성 가득 포토존 보유\n\n문 밖까지 퍼지는 향긋한 버터 향기를 따라 들어오시면, 매장에서 당일 생산하는 신선한 베이커리 라인업을 만나보실 수 있습니다. 밀랍만의 비법 레시피로 구워낸 인생 소금빵과 쫀득한 휘낭시에, 르뱅쿠키는 커피와 환상의 궁합을 자랑합니다.\n\n셀럽들이 사랑하는 힙한 공간에서 남기는 '인생샷'은 필수! 트렌디한 감성과 맛있는 디저트가 공존하는 이곳에서 소중한 사람과 행복한 시간을 보내세요.",
+  "Information_facilitie": [
+    "로스터리",
+    "핸드드립",
+    "단체 이용 가능",
+    "포장",
+    "무선 인터넷",
+    "대기공간",
+    "배달",
+    "반려동물 동반"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "네이버페이",
+    "간편결제"
+  ],
+  "menu": [
+    {
+      "name": "베리베리말차",
+      "price": "8500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251114_271/1763095132016whXWU_JPEG/19-%BA%A3%B8%AE%BA%A3%B8%AE%B8%BB%C2%F7_1.jpg",
+        "https://ldb-phinf.pstatic.net/20251114_251/176309513212903W90_JPEG/19-%BA%A3%B8%AE%BA%A3%B8%AE%B8%BB%C2%F7_2.jpg"
+      ]
+    },
+    {
+      "name": "벨벳초코말차",
+      "price": "8500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251114_261/1763094601604ISsv9_JPEG/20-%BA%A7%BA%AA%C3%CA%C4%DA%B8%BB%C2%F7_2.jpg",
+        "https://ldb-phinf.pstatic.net/20251114_176/17630946015667h2N4_JPEG/20-%BA%A7%BA%AA%C3%CA%C4%DA%B8%BB%C2%F7_3.jpg"
+      ]
+    },
+    {
+      "name": "플레인 소금빵",
+      "price": "3500",
+      "description": "버터 향과 소금 결정의 조화, 가장 기본의 정석",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251114_138/17630937751883FKJc_JPEG/12-%BC%D2%B1%DD%BB%A7_1.jpg"
+      ]
+    },
+    {
+      "name": "명란 소금빵",
+      "price": "5300",
+      "description": "짭조름한 명란과 버터가 어우러진 별미 소금빵",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251114_233/1763093793863F8RKV_JPEG/9-%B8%ED%B6%F5%BC%D2%B1%DD%BB%A7_1.jpg"
+      ]
+    },
+    {
+      "name": "마늘 소금빵",
+      "price": "5300",
+      "description": "진한 마늘버터 향 가득, 중독성 있는 풍미",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251114_211/1763093809735wRoav_JPEG/8-%B8%B6%B4%C3%BC%D2%B1%DD%BB%A7_1.jpg"
+      ]
+    },
+    {
+      "name": "올리브치즈 소금빵",
+      "price": "4800",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251114_80/1763093817644BFx6q_JPEG/7-%BF%C3%B8%AE%BA%EA%C4%A1%C1%EE%BC%D2%B1%DD%BB%A7_1.jpg"
+      ]
+    },
+    {
+      "name": "햄치즈 소금빵",
+      "price": "4800",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251114_135/1763093827809aH06G_JPEG/3-%C7%DC%C4%A1%C1%EE%BC%D2%B1%DD%BB%A7_1.jpg"
+      ]
+    },
+    {
+      "name": "청양마요소세지 소금빵",
+      "price": "6800",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251114_11/1763093958259DL3qT_JPEG/2-%C3%BB%BE%E7%B8%B6%BF%E4%BC%D2%BC%BC%C1%F6%BC%D2%B1%DD%BB%A7_1.jpg"
+      ]
+    },
+    {
+      "name": "피콜로",
+      "price": "6800",
+      "description": "커피퍽 사카룸 시럽으로 단맛을 더한 작지만 강한 라떼 (Hot only)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251114_151/1763094662692IFdJa_JPEG/23-%C7%C7%C4%DD%B7%CE%B6%F3%B6%BC_1.jpg",
+        "https://ldb-phinf.pstatic.net/20251114_49/1763094662715le6Y8_JPEG/23-%C7%C7%C4%DD%B7%CE%B6%F3%B6%BC_2.jpg"
+      ]
+    },
+    {
+      "name": "카푸치노",
+      "price": "7000",
+      "description": "부드러운 웻 스타일의 클래식 카푸치노 (Hot only)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251114_171/1763094261882RQ3JB_JPEG/24-%C4%AB%C7%AA%C4%A1%B3%EB_1.jpg",
+        "https://ldb-phinf.pstatic.net/20251114_213/1763094261911trnbO_JPEG/24-%C4%AB%C7%AA%C4%A1%B3%EB_2.jpg"
+      ]
+    },
+    {
+      "name": "말차맛차",
+      "price": "8000",
+      "description": "5월 첫물 수확 말차, 비정제 원당, 우유로 만든 깊고 고소한 말차 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251114_45/1763094452683ovXxR_JPEG/17-%B8%BB%C2%F7%B8%C0%C2%F7%BE%C6%C0%CC%BD%BA_2.jpg",
+        "https://ldb-phinf.pstatic.net/20251114_254/17630944527066pLjP_JPEG/18-%B8%BB%C2%F7%B8%C0%C2%F7_1.jpg"
+      ]
+    },
+    {
+      "name": "바닐라빈라떼",
+      "price": "7500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251114_140/1763094791731Ym6yz_JPEG/27-%BE%C6%C0%CC%BD%BA%B9%D9%B4%D2%B6%F3%BA%F3%B6%F3%B6%BC_2.jpg",
+        "https://ldb-phinf.pstatic.net/20251114_251/1763094791717RiT9H_JPEG/28-%B9%D9%B4%D2%B6%F3%BA%F3%B6%F3%B6%BC_1.jpg"
+      ]
+    },
+    {
+      "name": "더블초코 라테",
+      "price": "7500",
+      "description": "싱글오리진 카카오 2종 + 크림이 어우러진 진한 초콜릿 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251114_184/1763094303622KmXJV_JPEG/13-%B4%F5%BA%ED%C3%CA%C4%DA%B6%F3%B6%BC_1.jpg",
+        "https://ldb-phinf.pstatic.net/20251114_143/1763094303611Wen7e_JPEG/13-%B4%F5%BA%ED%C3%CA%C4%DA%B6%F3%B6%BC_3.jpg"
+      ]
+    },
+    {
+      "name": "카페라떼",
+      "price": "7000",
+      "description": "에스프레소와 우유의 완벽한 조화",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251114_249/1763094733411zSr9d_JPEG/25-%C4%AB%C6%E4%B6%F3%B6%BC_1.jpg",
+        "https://ldb-phinf.pstatic.net/20251114_89/1763094733413JSCAr_JPEG/26-%C4%AB%C6%E4%B6%F3%B6%BC%BE%C6%C0%CC%BD%BA_1.jpg"
+      ]
+    },
+    {
+      "name": "카페모카",
+      "price": "7500",
+      "description": "에스프레소, 홀랜더 초콜릿 그리고 달콤한 우유",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251114_262/1763094839920clJCX_JPEG/29-%C4%AB%C6%E4%B8%F0%C4%AB_1.jpg",
+        "https://ldb-phinf.pstatic.net/20251114_288/1763094839971c8weB_JPEG/30-%BE%C6%C0%CC%BD%BA%C4%AB%C6%E4%B8%F0%C4%AB_2.jpg"
+      ]
+    },
+    {
+      "name": "레몬 라임 비터스",
+      "price": "8500",
+      "description": "레몬·라임의 청량감, 허브 비터스가 더해진 논알콜 칵테일 (Ice only)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251114_66/1763094372476ftG67_JPEG/14-%B7%B9%B8%F3%B6%F3%C0%D3%BE%D8%BA%F1%C5%CD%BD%BA_1.jpg",
+        "https://ldb-phinf.pstatic.net/20251114_136/1763094372485aWE78_JPEG/14-%B7%B9%B8%F3%B6%F3%C0%D3%BE%D8%BA%F1%C5%CD%BD%BA_3.jpg"
+      ]
+    },
+    {
+      "name": "프라나차이",
+      "price": "8500",
+      "description": "20가지 향신료와 홍차, 오트밀크가 어우러진 정통 차이 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251114_105/17630949262408WBCq_JPEG/16-%C7%C1%B6%F3%B3%AA%C2%F7%C0%CC_2.jpg"
+      ]
+    },
+    {
+      "name": "아메리카노",
+      "price": "6500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251114_181/17630941545481Ploo_JPEG/21-%BE%C6%B8%DE%B8%AE%C4%AB%B3%EB%BE%C6%C0%CC%BD%BA_1.jpg",
+        "https://ldb-phinf.pstatic.net/20251114_119/17630941545448a7n5_JPEG/22-%BE%C6%B8%DE%B8%AE%C4%AB%B3%EB_1.jpg"
+      ]
+    },
+    {
+      "name": "이른 봄 쑥차",
+      "price": "8000",
+      "description": "달콤쌉싸름, 초콜릿 향미가 느껴지는 무카페인 쑥차",
+      "images": []
+    },
+    {
+      "name": "목련 현미 녹차",
+      "price": "8000",
+      "description": "구수함과 은은한 화사함이 공존하는 저카페인 녹차",
+      "images": []
+    },
+    {
+      "name": "베리베리",
+      "price": "8000",
+      "description": "상큼한 히비스커스와 달콤한 블랙커런트를 블렌딩한 저카페인 티",
+      "images": []
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20251011_253/1760193982591eGcOO_PNG/millab_logo_256.png",
+    "https://ldb-phinf.pstatic.net/20251111_186/1762836375506yRHbT_JPEG/2025-11-11_13_23_16.jpg",
+    "https://ldb-phinf.pstatic.net/20251011_208/17601940258749N2LQ_JPEG/IMG_8593.jpeg"
+  ]
+}

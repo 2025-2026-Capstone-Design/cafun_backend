@@ -1,0 +1,225 @@
+{
+  "id": "1884486346",
+  "name": "프라이데이 베이커리",
+  "category": "카페,디저트",
+  "micro_review": [
+    "다양한 맛으로 가득한 까눌레 천국"
+  ],
+  "road_address": "서울 성동구 왕십리로14길 7 1층 프라이데이베이커리",
+  "address": "서울 성동구 성수동1가 656-1766",
+  "lat": "127.0450111",
+  "lon": "37.5494935",
+  "business_hours": [
+    {
+      "day": "토",
+      "start": "11:00",
+      "end": "20:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "일",
+      "start": "11:00",
+      "end": "20:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": "11:00",
+      "end": "20:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": "11:00",
+      "end": "20:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "수",
+      "start": "11:00",
+      "end": "20:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "목(12/25)",
+      "start": "11:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": "성탄절",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "금",
+      "start": "11:00",
+      "end": "20:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": null,
+  "url": "https://blog.naver.com/friday_movement",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": true,
+    "대기공간": false,
+    "간편결제": true,
+    "반려동물 동반": true,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": true,
+    "포장": true,
+    "배달": true,
+    "출장": true,
+    "방문접수": true,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "[까눌레 & 커피 전문점]\n\n안녕하세요! 프라이데이 베이커리입니다:-)\n까눌레가 시그니처 메뉴인 디저트 카페입니다!\n\n까눌레박스 예약 가능 / 답례품,단체 예약 가능\n예약없이 당일 매장 방문 구매 가능 / 쿠팡이츠\n네이버 예약/주문\n\n까눌레 이외에도 다양한 디저트류를 매일 아침 최고급 재료만을 사용해 정성을 다해 구워냅니다.\n'주는 사람도 받는 사람도 모두에게 행복한 마법같은 디저트를 만들자' 를 항상 마음으로 새기며 만드는 과정부터 포장까지 심혈을 기울여 만들어냅니다. 고객님들께도 잘 전달이 되었으면 좋겠습니다!\n\n인스타그램 : @friday_bakery\n인스타그램을 통해 디저트 라인업과 새로운 소식을 확인하실 수 있습니다.",
+  "Information_facilitie": [
+    "예약",
+    "포장",
+    "배달",
+    "반려동물 동반",
+    "무선 인터넷",
+    "단체 이용 가능",
+    "방문접수/출장"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "지역화폐 (모바일형)",
+    "지역화폐 (카드형)",
+    "제로페이",
+    "간편결제"
+  ],
+  "menu": [
+    {
+      "name": "까눌레 9pcs box",
+      "price": "35000",
+      "description": "9가지 맛 베리에이션",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20210924_220/16324756556755myeX_JPEG/bmQOdbA0g2vC4MX0U5Ye4I4d.jpg"
+      ]
+    },
+    {
+      "name": "휘낭시에 4pcs box",
+      "price": "16000",
+      "description": "플레인 X 4",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250616_90/1750054942145VdxRq_JPEG/financier_set.jpg"
+      ]
+    },
+    {
+      "name": "까눌레 4pcs box 민트",
+      "price": "18000",
+      "description": "바닐라, 루씨오렌지, 라즈베리, 얼그레이",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230605_194/16859431846200MW5y_JPEG/03.17_Friday_27259_1.jpg"
+      ]
+    },
+    {
+      "name": "까눌레 4pcs box 오렌지",
+      "price": "18000",
+      "description": "바닐라, 밤, 흑임자, 피스타치오",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230605_147/1685943201972uypN7_JPEG/03.17_Friday_27253_1.jpg"
+      ]
+    },
+    {
+      "name": "까눌레 4pcs box 블랙",
+      "price": "18000",
+      "description": "바닐라, 쇼콜라, 말차, 아망드",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230605_246/1685943247128iojLV_JPEG/03.17_Friday_27267_1.jpg"
+      ]
+    },
+    {
+      "name": "까레쿠키",
+      "price": "8900",
+      "description": "\"네모난\"이란 뜻의 까레.\n고소한 헤이즐넛,피스타치오 상큼한 크렌베리가 들어간 달콤한 쿠키",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230729_174/1690607679692niGGN_JPEG/K55A4731.jpg"
+      ]
+    },
+    {
+      "name": "프무칸초",
+      "price": "8900",
+      "description": "헤이즐넛 풍미가 가득한 쿠키에 초코를 입힌\n귀여운 쿠키",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230729_155/1690607655449uw8Se_JPEG/K55A4831.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20250806_248/1754468182254jLYGz_JPEG/2.jpg",
+    "https://naverbooking-phinf.pstatic.net/20230331_159/1680230174739N79hW_JPEG/03.17_Friday_27275_1.JPG",
+    "https://ldb-phinf.pstatic.net/20240326_233/17114404876963704w_JPEG/21D24BE0-BC1F-460C-928A-1830EB8ED686.JPG",
+    "https://ldb-phinf.pstatic.net/20240326_173/1711440487632PvbxC_JPEG/6089736D-9B56-463D-9C5E-8E26F31BE55B.JPG",
+    "https://ldb-phinf.pstatic.net/20240326_245/1711440487565qU8nV_JPEG/BFC871A7-AB6A-44BA-8F5C-3512DE30628A.JPG",
+    "https://ldb-phinf.pstatic.net/20250806_169/1754468182445HJ3au_JPEG/16.jpg",
+    "https://ldb-phinf.pstatic.net/20210927_185/1632668728070CH7t1_JPEG/78ISmd_AOwdSaK45JlaJNUnP.JPG.jpg",
+    "https://ldb-phinf.pstatic.net/20240326_187/1711440487459xiuOn_JPEG/434B0AE1-D07B-4777-B53A-3B94DEED655D.JPG",
+    "https://ldb-phinf.pstatic.net/20240326_300/1711440487646OWnpx_JPEG/9EA4FA09-FBAD-4735-9CA7-90568DB18BD6.JPG",
+    "https://ldb-phinf.pstatic.net/20250806_137/1754468182878vkb3e_JPEG/15.jpg",
+    "https://ldb-phinf.pstatic.net/20240326_176/1711440487488Gbso6_JPEG/196B5C9E-87CE-47E3-9C7F-F2E33547495D.JPG",
+    "https://ldb-phinf.pstatic.net/20240326_274/1711440487588LhgTm_JPEG/3942F1B6-F791-4A7A-98C3-46A55BEAB086.JPG",
+    "https://ldb-phinf.pstatic.net/20210927_211/1632668727800imrrJ_JPEG/9Ib4uJ-h_h6f58fn-ObjtNBh.JPG.jpg",
+    "https://ldb-phinf.pstatic.net/20240326_233/1711440487595xHdRI_JPEG/94C5F4D2-B698-4FFE-837C-71652C1C9693.JPG",
+    "https://ldb-phinf.pstatic.net/20210927_287/16326687280117VRPK_JPEG/1-30r5oawp67pJahTFJmNA8M.JPG.jpg",
+    "https://naverbooking-phinf.pstatic.net/20230331_181/1680230123304qtp0o_JPEG/03.17_Friday_27244_2.JPG",
+    "https://naverbooking-phinf.pstatic.net/20230331_120/1680230174044gEl51_JPEG/03.17_Friday_27267_1.JPG",
+    "https://naverbooking-phinf.pstatic.net/20230331_10/1680230174349MlFlw_JPEG/03.17_Friday_27259_1.JPG",
+    "https://naverbooking-phinf.pstatic.net/20230331_277/16802301744804RQMq_JPEG/03.17_Friday_27253_1.JPG",
+    "https://ldb-phinf.pstatic.net/20250806_229/1754468182260AcfL4_JPEG/1.jpg",
+    "https://ldb-phinf.pstatic.net/20250806_48/1754468181038987Mb_JPEG/3.jpg",
+    "https://ldb-phinf.pstatic.net/20250806_11/1754468181979c8HAs_JPEG/4.jpg",
+    "https://ldb-phinf.pstatic.net/20250806_113/17544681819101LnQp_JPEG/5.jpg",
+    "https://ldb-phinf.pstatic.net/20250806_277/1754468181921FuhnO_JPEG/6.jpg",
+    "https://ldb-phinf.pstatic.net/20250806_256/1754468181937YLXTL_JPEG/7.jpg",
+    "https://ldb-phinf.pstatic.net/20250806_151/1754468181384EXqVc_JPEG/8.jpg",
+    "https://ldb-phinf.pstatic.net/20250806_109/1754468182292THiiW_JPEG/9.jpg",
+    "https://ldb-phinf.pstatic.net/20250806_147/1754468181796bx1hV_JPEG/10.jpg",
+    "https://ldb-phinf.pstatic.net/20250806_224/1754468182612p9i5y_JPEG/11.jpg",
+    "https://ldb-phinf.pstatic.net/20250806_86/1754468182035XjzxN_JPEG/12.jpg",
+    "https://ldb-phinf.pstatic.net/20250806_77/1754468182569B1cOb_JPEG/13.jpg",
+    "https://ldb-phinf.pstatic.net/20250806_135/1754468182298K5i3A_JPEG/14.jpg",
+    "https://naverbooking-phinf.pstatic.net/20250626_265/1750927351943Sdxd0_JPEG/KakaoTalk_20250626_173727793_15.jpg",
+    "https://ldb-phinf.pstatic.net/20240326_158/1711440487569ecUFv_JPEG/BAA0914A-7B3C-4F21-8010-E458D48ADC59.JPG",
+    "https://naverbooking-phinf.pstatic.net/20250626_96/1750927350760jV3hf_JPEG/KakaoTalk_20250626_173727793_10.jpg",
+    "https://naverbooking-phinf.pstatic.net/20230331_234/1680230174612Ympng_JPEG/03.17_Friday_27302_5.JPG",
+    "https://naverbooking-phinf.pstatic.net/20250626_170/1750927350215hc1OP_JPEG/KakaoTalk_20250626_173727793_08.jpg",
+    "https://naverbooking-phinf.pstatic.net/20250626_74/17509273486652aK7j_JPEG/KakaoTalk_20250626_173727793.jpg",
+    "https://naverbooking-phinf.pstatic.net/20250626_258/1750927348849iJlQs_JPEG/KakaoTalk_20250626_173727793_01.jpg",
+    "https://naverbooking-phinf.pstatic.net/20250626_147/1750927348966DQFhl_JPEG/KakaoTalk_20250626_173727793_02.jpg",
+    "https://naverbooking-phinf.pstatic.net/20250626_61/1750927349384J19lb_JPEG/KakaoTalk_20250626_173727793_03.jpg",
+    "https://naverbooking-phinf.pstatic.net/20250626_138/1750927349511Qms0O_JPEG/KakaoTalk_20250626_173727793_04.jpg",
+    "https://naverbooking-phinf.pstatic.net/20250626_286/1750927349618Y2Vdl_JPEG/KakaoTalk_20250626_173727793_05.jpg",
+    "https://naverbooking-phinf.pstatic.net/20250626_186/1750927349820wToJV_JPEG/KakaoTalk_20250626_173727793_06.jpg",
+    "https://naverbooking-phinf.pstatic.net/20250626_241/1750927349969CltWj_JPEG/KakaoTalk_20250626_173727793_07.jpg",
+    "https://naverbooking-phinf.pstatic.net/20250626_288/1750927350538cJPnA_JPEG/KakaoTalk_20250626_173727793_09.jpg",
+    "https://naverbooking-phinf.pstatic.net/20250626_14/17509273509954GPt0_JPEG/KakaoTalk_20250626_173727793_11.jpg",
+    "https://naverbooking-phinf.pstatic.net/20250626_226/17509273512115nhMI_JPEG/KakaoTalk_20250626_173727793_12.jpg",
+    "https://naverbooking-phinf.pstatic.net/20250626_283/17509273514187Qprh_JPEG/KakaoTalk_20250626_173727793_13.jpg",
+    "https://naverbooking-phinf.pstatic.net/20250626_3/1750927351777w5xro_JPEG/KakaoTalk_20250626_173727793_14.jpg"
+  ]
+}

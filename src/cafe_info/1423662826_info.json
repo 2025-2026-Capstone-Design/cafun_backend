@@ -1,0 +1,216 @@
+{
+  "id": "1423662826",
+  "name": "뵈르뵈르 성수본점",
+  "category": "아이스크림",
+  "micro_review": [
+    "진한 초코맛이 일품인 초코퍼지 월넛"
+  ],
+  "road_address": "서울 성동구 연무장7길 8 1층 뵈르뵈르 성수본점",
+  "address": "서울 성동구 성수동2가 315-32",
+  "lat": "127.0545573",
+  "lon": "37.543283",
+  "business_hours": [
+    {
+      "day": "토",
+      "start": "11:00",
+      "end": "21:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:20"
+        }
+      ]
+    },
+    {
+      "day": "일",
+      "start": "11:00",
+      "end": "21:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:20"
+        }
+      ]
+    },
+    {
+      "day": "월",
+      "start": "11:30",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "19:50"
+        }
+      ]
+    },
+    {
+      "day": "화",
+      "start": "11:30",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "19:50"
+        }
+      ]
+    },
+    {
+      "day": "수",
+      "start": "11:30",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "19:50"
+        }
+      ]
+    },
+    {
+      "day": "목(12/25)",
+      "start": "11:00",
+      "end": "21:30",
+      "breakHours": [],
+      "description": "성탄절",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "금",
+      "start": "11:30",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "19:50"
+        }
+      ]
+    }
+  ],
+  "virtual_phone_number": null,
+  "url": "https://www.instagram.com/beurrebeurre.kr",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": false,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "프리미엄 버터 아이스크림 하우스 BEURRE BEURRE\n뵈르뵈르의 아이스크림은 국내 유일, 국내 최초 프랑스산 유지방 82% 버터를 사용해 만들었습니다.\n아메리카 레트로 컨셉을 담은 뵈르뵈르만의 시그니처 메뉴를 즐겨보세요 !",
+  "Information_facilitie": [
+    "포장"
+  ],
+  "parking_info": null,
+  "payment_info": null,
+  "menu": [
+    {
+      "name": "싱글 식스팩",
+      "price": "28200",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241118_255/1731895901909cevFI_JPEG/%BD%C4%BD%BA%C6%D1.jpg"
+      ]
+    },
+    {
+      "name": "붕쥬르",
+      "price": "6000",
+      "description": "고소한 조선라이스 아이스크림 위에 달콤한 통단팥,그리고 겉바속촉 미니 붕어빵 조합",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251014_199/1760404578773o1W4b_PNG/%BA%D8%C1%EA%B8%A3_%B4%A9%B3%A2.png"
+      ]
+    },
+    {
+      "name": "싱글",
+      "price": "4700",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240610_14/1717981544587Scq1s_PNG/%BD%CC%B1%DB%C4%DC.png"
+      ]
+    },
+    {
+      "name": "더블",
+      "price": "6500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240610_211/1717981552723cBJAs_PNG/%B4%F5%BA%ED%C4%DC.png"
+      ]
+    },
+    {
+      "name": "트리플",
+      "price": "11200",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241118_21/1731895914156IoywU_JPEG/%C6%AE%B8%AE%C7%C3.jpg"
+      ]
+    },
+    {
+      "name": "쿼드러플",
+      "price": "18900",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241118_172/1731895919889neXhq_JPEG/%C4%F5%B5%E5%B7%AF%C7%C3.jpg"
+      ]
+    },
+    {
+      "name": "뉴욕쿠키",
+      "price": "4300",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240801_290/17224741229814xXKc_JPEG/%B4%BA%BF%E5%C4%ED%C5%B0.jpg"
+      ]
+    },
+    {
+      "name": "뉴욕쿠키 3-Pack",
+      "price": "12900",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240801_161/1722474142006mPqxi_JPEG/%B4%BA%BF%E5%C4%ED%C5%B0_3pack.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20241203_109/1733201931608h025X_JPEG/%C8%A6%B8%AE%B5%A5%C0%CC-%B8%C5%C0%E51.jpg",
+    "https://ldb-phinf.pstatic.net/20231218_61/17028654830054HyLX_JPEG/32.jpg",
+    "https://ldb-phinf.pstatic.net/20231218_232/1702865624462JUzNU_JPEG/KakaoTalk_20231218_111320165_04.jpg",
+    "https://ldb-phinf.pstatic.net/20241203_269/1733201949489OPww7_PNG/B._1080_1080_%283%29.png",
+    "https://ldb-phinf.pstatic.net/20231218_88/1702865624251D9Bfs_JPEG/KakaoTalk_20231218_111320165_02.jpg",
+    "https://ldb-phinf.pstatic.net/20231218_293/17028656245465GGBx_JPEG/KakaoTalk_20231218_111320165.jpg",
+    "https://ldb-phinf.pstatic.net/20231218_257/1702865624647WFps6_JPEG/KakaoTalk_20231218_111320165_03.jpg",
+    "https://ldb-phinf.pstatic.net/20231218_70/1702865436432RWDNo_JPEG/%BA%C6%B8%A3%BA%C6%B8%A3%B7%CE%B0%ED800.jpg"
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "id": "1123751171",
+  "name": "아도르 성수",
+  "category": "카페,디저트",
+  "micro_review": null,
+  "road_address": "서울 성동구 아차산로11길 3 아도르 성수",
+  "address": "서울 성동구 성수동2가 277-56",
+  "lat": "127.0589935",
+  "lon": "37.5440162",
+  "business_hours": [
+    {
+      "day": "토",
+      "start": "11:00",
+      "end": "19:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "일",
+      "start": "11:00",
+      "end": "19:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": null,
+      "end": null,
+      "breakHours": null,
+      "description": "정기휴무 (매주 월요일)",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": null,
+      "end": null,
+      "breakHours": null,
+      "description": "정기휴무 (매주 화요일)",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "수",
+      "start": "11:00",
+      "end": "19:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "목",
+      "start": "11:00",
+      "end": "19:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "금",
+      "start": "11:00",
+      "end": "19:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1336-7089",
+  "url": "https://www.instagram.com/lador_kr/",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": false,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": true,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "나를 소중하게 대하는 가장 향기로운 방법, 아도르 바디 케어 라인이 런칭되었습니다! 당신을 감싸는 선물 같은 부드러움을 경험해보세요.",
+  "Information_facilitie": [
+    "포장"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "제로페이",
+    "네이버페이",
+    "간편결제"
+  ],
+  "menu": [
+    {
+      "name": "아이스 아메리카노",
+      "price": "2000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240527_228/1716798269188WVsLF_JPEG/%BE%C6%C0%CC%BD%BA_%BE%C6%B8%DE%B8%AE%C4%AB%B3%EB.jpg"
+      ]
+    },
+    {
+      "name": "아이스 오스만투스 카페라떼",
+      "price": "5000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240527_253/1716798466165NWjAX_JPEG/%BE%C6%C0%CC%BD%BA_%BF%C0%BD%BA%B8%B8%C5%F5%BD%BA%B6%F3%B6%BC.jpg"
+      ]
+    },
+    {
+      "name": "아이스 카페라떼",
+      "price": "4500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240527_159/17167982852715ECwP_JPEG/%BE%C6%C0%CC%BD%BA_%C4%AB%C6%E4%B6%F3%B6%BC.jpg"
+      ]
+    },
+    {
+      "name": "아이스 블랙허니자몽티",
+      "price": "5500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240527_292/1716798432113xCLlU_JPEG/%BE%C6%C0%CC%BD%BA_%BA%ED%B7%A2%C7%E3%B4%CF%C0%DA%B8%F9%C6%BC.jpg"
+      ]
+    },
+    {
+      "name": "핫 아메리카노",
+      "price": "2000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240527_254/1716798521655Q0IS5_JPEG/%C7%D6_%BE%C6%B8%DE%B8%AE%C4%AB%B3%EB.jpg"
+      ]
+    },
+    {
+      "name": "핫 카페라떼",
+      "price": "4000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240527_294/1716798553313pNBLT_JPEG/%C7%D6_%C4%AB%C6%E4%B6%F3%B6%BC.jpg"
+      ]
+    },
+    {
+      "name": "핫 오스만투스 카페라떼",
+      "price": "4500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240527_102/1716798647692SxMeD_JPEG/%C7%D6_%BF%C0%BD%BA%B8%B8%C5%F5%BD%BA%B6%F3%B6%BC.jpg"
+      ]
+    },
+    {
+      "name": "핫 자몽허니블랙티",
+      "price": "4500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240527_19/1716798569809hzMBq_JPEG/%C7%D6_%C0%DA%C7%E3%BA%ED.jpg"
+      ]
+    },
+    {
+      "name": "아워리프티",
+      "price": "5000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240527_179/1716798446422V5idG_JPEG/%BE%C6%BF%F6%B8%AE%C7%C1%C6%BC.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20250522_207/1747907296712MQFOi_JPEG/L1010732_re.jpg",
+    "https://ldb-phinf.pstatic.net/20250515_71/1747291547431F7VTu_JPEG/1.jpg",
+    "https://ldb-phinf.pstatic.net/20250515_161/1747291547465cfEvb_JPEG/2.jpg",
+    "https://ldb-phinf.pstatic.net/20250515_129/1747291547425PXWPD_JPEG/3.jpg",
+    "https://ldb-phinf.pstatic.net/20250515_118/1747291547483Ws58A_JPEG/4.jpg",
+    "https://ldb-phinf.pstatic.net/20250515_149/1747291547638kToQS_JPEG/5.jpg",
+    "https://ldb-phinf.pstatic.net/20250515_290/17472915474884pVQT_JPEG/6.jpg",
+    "https://ldb-phinf.pstatic.net/20250515_141/1747291547460Od1H9_JPEG/7.jpg",
+    "https://ldb-phinf.pstatic.net/20250515_225/1747291547415pAG94_JPEG/9.jpg"
+  ]
+}

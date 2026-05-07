@@ -1,0 +1,200 @@
+{
+  "id": "1912626916",
+  "name": "아후 Ahoo",
+  "category": "케이크전문",
+  "micro_review": [
+    "입안에서 사르르 녹는 부드러운 무스"
+  ],
+  "road_address": "서울 성동구 뚝섬로 341-18 1층",
+  "address": "서울 성동구 성수동1가 72-98",
+  "lat": "127.0485351",
+  "lon": "37.5409022",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "12:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "토",
+      "start": "12:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "일",
+      "start": null,
+      "end": null,
+      "breakHours": null,
+      "description": "정기휴무 (매주 일요일)",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": null,
+      "end": null,
+      "breakHours": null,
+      "description": "정기휴무 (매주 월요일)",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": "12:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "수",
+      "start": "12:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "목(12/25)",
+      "start": "12:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": "성탄절",
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1496-0370",
+  "url": "https://m.smartstore.naver.com/ahoo",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": false,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": true,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": true,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "(아후) 라는 이름은 어린 아이가 생일 초를 (아~후우~~) 하고 부는 모습에서 영감받아 탄생하게 되었습니다.\n손님들의 생일, 기념일, 특별한 날, 그리고 소소한 일상을 행복하게 만드는 디저트를 만드는 것이 저희의 목표 입니다.\n\n아쉽게도 공간이 매우 협소하여 테이크아웃 위주로 운영이 됩니다만, 드시고 가고 싶으신 분을 위해 바 테이블과 바체어 4개가 준비되어 있습니다. 말씀해주시면 정성껏 차려 내어드리겠습니다.",
+  "Information_facilitie": [
+    "핸드드립",
+    "포장",
+    "예약"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "네이버페이",
+    "간편결제"
+  ],
+  "menu": [
+    {
+      "name": "흑토끼 (쁘띠갸또)",
+      "price": "12500",
+      "description": "다크초코/ 밀크초코 무스/크루스티앙 / 다쿠아즈비스퀴로 구성된 제품입니다.",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230507_7/1683429690586zpyJg_JPEG/Ahoo-%C6%F7%BD%BA%C5%CD-%C0%CC%B9%CC%C1%F6_%B4%F5%C7%F6%BC%AD-09.jpg",
+        "https://ldb-phinf.pstatic.net/20230507_131/1683429639817dDWIM_PNG/%B9%AB%BD%BA%B4%DC%B8%E9-05.png"
+      ]
+    },
+    {
+      "name": "시실리 (쁘띠갸또)",
+      "price": "13500",
+      "description": "피스타치오 페이스트와 체리콤포트의 고소하고 달콤새콤한 맛",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231202_221/1701473870174CuNRd_PNG/%C4%ED%C5%B0_%C6%F7%BD%BA%C5%CD%B4%EB%C1%F6_197%C5%A9%B8%AE%BD%BA%B8%B6%BD%BA.png",
+        "https://ldb-phinf.pstatic.net/20230507_287/1683430231038tqC7m_PNG/%B9%AB%BD%BA%B4%DC%B8%E9-03.png"
+      ]
+    },
+    {
+      "name": "브라운 테디",
+      "price": "11000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241026_210/1729925176851FFMMX_JPEG/%B9%DF%B7%BB%C5%B8%C0%CE_%C1%A4%B9%E6%C7%FC-02.jpg"
+      ]
+    },
+    {
+      "name": "백토끼 (쁘띠갸또)",
+      "price": "12500",
+      "description": "화이트초코 무스와 스타아니스,후추향이 우러난 유자꽁피가 들어간 부드러운 무스 케이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230507_188/1683430653306038SG_PNG/%B9%E9%C5%E4%B3%A2_%C6%F7%BD%BA%C5%CD.png",
+        "https://ldb-phinf.pstatic.net/20230507_27/1683430646413M03Li_PNG/%B9%AB%BD%BA%B4%DC%B8%E9_%B4%EB%C1%F6_1.png"
+      ]
+    },
+    {
+      "name": "에어리 하트 (쁘띠갸또)",
+      "price": "13500",
+      "description": "리치향의 달콤한 무스 안에 로즈,리치,라즈베리 크뢰뫼, 라즈베리콤포트가 만나 향긋한 맛",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230507_245/1683430438527QnoIa_PNG/Ahoo-%C6%F7%BD%BA%C5%CD-%C0%CC%B9%CC%C1%F6_%C7%F6%B4%EB%B9%AB%BF%AA_%28%C7%B3%BC%B1%29-06.png"
+      ]
+    },
+    {
+      "name": "포셀린 Porcelain (쁘띠갸또)",
+      "price": "13000",
+      "description": "유약을 바른 도자기처럼 반짝이며 구아바 판나코타,자몽콤포트로 달콤새콤한 맛",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230507_93/1683423563323ktUdV_PNG/%C6%F7%BC%BC%B8%B0_%C6%F7%BD%BA%C5%CD.png",
+        "https://ldb-phinf.pstatic.net/20221123_65/1669156476368Q7qOY_PNG/155060EA-D196-491F-9BA7-0D99304F3A4A.png"
+      ]
+    },
+    {
+      "name": "메르시 (쁘띠갸또)",
+      "price": "12500",
+      "description": "망고, 패션프루츠 무스에 프랑보아즈 콤포트, 다쿠아즈 비스퀴가 들어가 달콤새콤하고 부드러움",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230507_37/1683430790889ul0lW_JPEG/Ahoo-%C6%F7%BD%BA%C5%CD-%C0%CC%B9%CC%C1%F6_%B4%F5%C7%F6%BC%AD-05.jpg",
+        "https://ldb-phinf.pstatic.net/20230507_201/16834307783073xVSx_PNG/%B9%AB%BD%BA%B4%DC%B8%E9-07.png"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20230309_14/1678315240182Sg86u_PNG/%C8%E6%C5%E4%B3%A2_%C6%F7%BD%BA%C5%CD.png",
+    "https://naverbooking-phinf.pstatic.net/20241202_184/1733093914467aVbJr_JPEG/%C7%C1%B7%B9%C1%F6%BF%A1%B4%EB%C1%F6_31-100.jpg",
+    "https://naverbooking-phinf.pstatic.net/20241202_33/1733093915013x8Cpi_JPEG/%C5%A9%B8%AE%BD%BA%B8%B6%BD%BA%C4%C9%C0%CC%C5%A9%B4%EB%C1%F6_42-100.jpg",
+    "https://ldb-phinf.pstatic.net/20250208_248/1739007106599aAQfM_JPEG/2025_%B9%DF%B7%BB%C5%B8%C0%CE%B4%EB%C1%F6_2-100.jpg",
+    "https://naverbooking-phinf.pstatic.net/20241202_102/1733093914767k77rK_JPEG/%C1%F8%C0%FA%B4%EB%C1%F6_34-100.jpg",
+    "https://ldb-phinf.pstatic.net/20230901_14/1693527264150wSOnq_JPEG/%BF%A1%BE%EE%B8%AE%C7%CF%C6%AE_%C8%A6.jpg",
+    "https://ldb-phinf.pstatic.net/20240830_260/17250226219251CrIx_JPEG/IMG_3471.jpeg",
+    "https://ldb-phinf.pstatic.net/20230901_124/1693527323535Twvf2_JPEG/%C8%E6%C5%E4%B3%A2_%C8%A6%C4%C9%C0%CC%C5%A9.jpg",
+    "https://ldb-phinf.pstatic.net/20230901_162/16935272822055Iwux_JPEG/%B1%D7%B7%B9%C0%CC%BD%BA_%C8%A6.jpg",
+    "https://ldb-phinf.pstatic.net/20230901_99/1693527242944jDVIf_PNG/%B4%F5%C7%F6%BC%AD_2%C2%F7_%C6%F7%BD%BA%C5%CD%28%B7%CE%B0%ED%C1%A6%BF%DC%29-04.png",
+    "https://ldb-phinf.pstatic.net/20230901_118/16935272306408DgVp_PNG/%B4%F5%C7%F6%BC%AD_2%C2%F7_%C6%F7%BD%BA%C5%CD%28%B7%CE%B0%ED%C1%A6%BF%DC%29-03.png",
+    "https://ldb-phinf.pstatic.net/20230309_80/1678315240117IxBt7_PNG/%B9%E9%C5%E4%B3%A2_%C6%F7%BD%BA%C5%CD.png",
+    "https://ldb-phinf.pstatic.net/20230901_146/1693527181060zaaB6_PNG/%C3%DF%BC%AE%B4%EB%C7%A5%BB%E7%C1%F8-02.png",
+    "https://ldb-phinf.pstatic.net/20230924_100/1695548229268y3Yja_PNG/%C3%DF%BC%AE%B4%EB%C7%A5%BB%E7%C1%F8-05.png",
+    "https://ldb-phinf.pstatic.net/20230924_261/1695548219509IlJaL_PNG/%C3%DF%BC%AE%B4%EB%C7%A5%BB%E7%C1%F8-04.png",
+    "https://ldb-phinf.pstatic.net/20230924_131/169554820888562Q8b_PNG/%C3%DF%BC%AE%B4%EB%C7%A5%BB%E7%C1%F8-03.png",
+    "https://ldb-phinf.pstatic.net/20221031_262/1667208933727EhNj4_JPEG/ECEBC462-88EF-40DD-974F-47AB77AED8B1.jpeg",
+    "https://ldb-phinf.pstatic.net/20221209_202/16705910768542GKOx_JPEG/FullSizeRender.jpeg",
+    "https://ldb-phinf.pstatic.net/20221209_41/1670591090102w9Ttc_JPEG/IMG_8536.jpeg",
+    "https://ldb-phinf.pstatic.net/20221209_103/1670591085430fpjqt_JPEG/IMG_8441.jpeg",
+    "https://ldb-phinf.pstatic.net/20221209_166/1670590326257c4Y34_JPEG/IMG_9896.jpeg",
+    "https://ldb-phinf.pstatic.net/20221125_213/16693299296336779n_JPEG/R0003455.jpeg",
+    "https://ldb-phinf.pstatic.net/20221125_284/1669329909668JUo8R_JPEG/R0003462.jpeg",
+    "https://ldb-phinf.pstatic.net/20221125_102/1669330031770DYXCs_JPEG/R0003474.jpeg",
+    "https://ldb-phinf.pstatic.net/20221109_259/1667993171585NePvX_JPEG/61CD4F22-FF22-4E6B-B5EE-BFDBFF9A07CD.jpeg",
+    "https://ldb-phinf.pstatic.net/20221109_184/16679931716368K1R2_JPEG/A8A161A5-4E2F-44C5-9C60-AED8DC941A8A.jpeg"
+  ]
+}

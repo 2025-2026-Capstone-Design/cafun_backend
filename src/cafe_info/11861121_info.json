@@ -1,0 +1,349 @@
+{
+  "id": "11861121",
+  "name": "예빈당 성수본점",
+  "category": "떡카페",
+  "micro_review": [
+    "건강한 맛의 수제 팥빙수 한 그릇"
+  ],
+  "road_address": "서울 성동구 성수이로 87 성문빌딩 1층",
+  "address": "서울 성동구 성수동2가 315-7",
+  "lat": "127.0562415",
+  "lon": "37.5427538",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "08:00",
+      "end": "21:30",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:00"
+        }
+      ]
+    },
+    {
+      "day": "토",
+      "start": "09:00",
+      "end": "21:30",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:00"
+        }
+      ]
+    },
+    {
+      "day": "일",
+      "start": "09:00",
+      "end": "21:30",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:00"
+        }
+      ]
+    },
+    {
+      "day": "월",
+      "start": "08:00",
+      "end": "21:30",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:00"
+        }
+      ]
+    },
+    {
+      "day": "화",
+      "start": "08:00",
+      "end": "21:30",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:00"
+        }
+      ]
+    },
+    {
+      "day": "수",
+      "start": "08:00",
+      "end": "21:30",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:00"
+        }
+      ]
+    },
+    {
+      "day": "목(12/25)",
+      "start": "09:00",
+      "end": "21:30",
+      "breakHours": null,
+      "description": "성탄절",
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1441-5542",
+  "url": "https://smartstore.naver.com/yebindang/category/b8a4d9b7869441c58f7ca2d6cd89c2e2?cp=1",
+  "convenience": {
+    "주차": true,
+    "발렛파킹": false,
+    "무선 인터넷": false,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": true,
+    "대기공간": false,
+    "간편결제": true,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": true,
+    "포장": true,
+    "배달": true,
+    "출장": true,
+    "방문접수": true,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "개성주악, 개성약과, 꽃송편, 백설기, 호박설기, 누텔라설기, 두텁떡, 약식, 구름떡, 콩가루 인절미, 앙버떡, 율고, 유과, 깜놀쿠키, 현미바크초코 등 매대에 다양한 코리안 디저트를 판매합니다.\n(계절에 따라 디저트가 조금씩 변경됩니다.)\n\n안녕하세요\n코리안 디저트 카페 예빈당(yebindang) 입니다.\n우리 전통 음식과 커피와의 만남으로 우리 음식을 트렌드하게 접할 수 있는 카페입니다.\n혼례음식부터 선물세트, 그리고 코리안 디저트 카페까지, 예빈당은 대중화에 앞장서서 새로운 문화로 자리잡는데 기여하고 있습니다.\n\n선물 세트 및 답례품 등은 예약 주문으로 진행하고 있으며, 이바지 음식 및 폐백음식은 1대1 맞춤 상담으로 진행 되오니 02-3443-5542로 연락하여 예약바랍니다.",
+  "Information_facilitie": [
+    "예약",
+    "배달",
+    "방문접수/출장",
+    "포장",
+    "단체 이용 가능"
+  ],
+  "parking_info": {
+    "__typename": "InformationBasicParking",
+    "isFree": true,
+    "normalFeeDescription": null,
+    "extraFeeDescription": null
+  },
+  "payment_info": [
+    "제로페이",
+    "간편결제"
+  ],
+  "menu": [
+    {
+      "name": "100% 국내산 수제 팥빙수",
+      "price": "16000",
+      "description": "매장에서 직접 삶은 국내산 팥으로 만든 시원 달달 눈꽃 팥빙수 (2인분)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240714_268/1720931706939LoMj0_JPEG/KakaoTalk_20240714_132052447_09.jpg"
+      ]
+    },
+    {
+      "name": "임자라떼",
+      "price": "6000",
+      "description": "라떼 위에 매장에서 직접 만든 참깨크림을 올려 부드럽고 고소함이 가득한 크림라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250513_137/1747124945955tvj0a_JPEG/%C0%D3%C0%DA%B6%F3%B6%BC_%BC%AD%BA%EA.jpg",
+        "https://ldb-phinf.pstatic.net/20250513_254/1747124938782a7xVR_JPEG/%C0%D3%C0%DA%B6%F3%B6%BC_%B8%DE%C0%CE.jpg",
+        "https://ldb-phinf.pstatic.net/20240714_12/1720930697221VwfFI_JPEG/KakaoTalk_20220926_170653480.jpg"
+      ]
+    },
+    {
+      "name": "오미자차",
+      "price": "8000",
+      "description": "문경 오미자를 2일간 냉침하여 만들어 5가지 맛을 느낄 수 있는 수제 오미자차",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250513_138/1747122721864y9xPc_JPEG/%BF%C0%B9%CC%C0%DA_%B8%DE%C0%CE.jpg",
+        "https://ldb-phinf.pstatic.net/20240714_63/1720932085811O2cnG_JPEG/KakaoTalk_20220926_170653480_01.jpg"
+      ]
+    },
+    {
+      "name": "수정과",
+      "price": "8000",
+      "description": "통계피과 국산 생강 등을 넣고 끓인 예빈당 수정과. 수정과 안에 곶감 풍덩",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250513_23/1747122804111ooHu7_JPEG/%BC%F6%C1%A4%B0%FA_%B8%DE%C0%CE2.jpg",
+        "https://ldb-phinf.pstatic.net/20250513_112/174712279743210l67_JPEG/%BC%F6%C1%A4%B0%FA_%B8%DE%C0%CE.jpg",
+        "https://ldb-phinf.pstatic.net/20240714_259/172093149354713Bci_JPEG/KakaoTalk_20220926_170653480_04.jpg"
+      ]
+    },
+    {
+      "name": "홍시스무디",
+      "price": "7000",
+      "description": "아이스 홍시를 곱게 갈아 달콤하고 시원한 홍시스무디",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250513_33/1747124083403qhXmE_JPEG/%C8%AB%BD%C3%BD%BA%B9%AB%B5%F0_%B8%DE%C0%CE.jpg"
+      ]
+    },
+    {
+      "name": "들석구이",
+      "price": "9000",
+      "description": "들깨 가래떡을 석쇠에 구운 떡구이 (꿀소스)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250804_212/1754274177612Eekdx_JPEG/KakaoTalk_20250804_111341937.jpg"
+      ]
+    },
+    {
+      "name": "약과 아이스크림",
+      "price": "6000",
+      "description": "예빈당 시그니처 개성약과와 바닐라 아이스크림",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250819_163/17555906508979YBSn_JPEG/%BE%E0%B0%FA%BE%C6%C0%CC%BD%BA%C5%A9%B8%B2.jpg"
+      ]
+    },
+    {
+      "name": "미숫가루동동",
+      "price": "7500",
+      "description": "방앗간에서 24가지 곡물을 빻아내어 고소하고 꾸덕한 미숫가루 동동",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240714_255/17209316166442azGi_JPEG/KakaoTalk_20220926_173322909.jpg"
+      ]
+    },
+    {
+      "name": "유자차",
+      "price": "7000",
+      "description": "수제 유자청을 사용하여 맑게 끓여 진한 맛과 향이 일품인 유자차",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250513_259/1747125011544XsBPh_JPEG/%C0%AF%C0%DA%C2%F7_%B8%DE%C0%CE.jpg"
+      ]
+    },
+    {
+      "name": "팥라떼",
+      "price": "7000",
+      "description": "수제 팥을 곱게 갈아 우유와 어우러진 달콤하고 고소한 팥라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250513_14/1747124333176mUu29_JPEG/%C6%CF%B6%F3%B6%BC_%B8%DE%C0%CE.jpg"
+      ]
+    },
+    {
+      "name": "한라봉에이드",
+      "price": "7000",
+      "description": "한라봉을 청으로 만들어 탄산과 어우러진 한라봉에이드",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250513_274/1747122693952NFKVI_JPEG/%C7%D1%B6%F3%BA%C0%BF%A1%C0%CC%B5%E5_%B8%DE%C0%CE.jpg"
+      ]
+    },
+    {
+      "name": "딸기레몬에이드",
+      "price": "7500",
+      "description": "신선한 제철 딸기 청과 레몬 청이 탄산과 어우러진 수제 생 딸기레몬에이드",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250513_243/1747123136501JspfG_JPEG/%BB%FD%B5%FE%B1%E2_%BF%A1%C0%CC%B5%E5_%B8%DE%C0%CE.jpg"
+      ]
+    },
+    {
+      "name": "생딸기라떼",
+      "price": "7000",
+      "description": "신선한 제철 딸기를 청으로 만들어 우유와 어우러진 오리지널 생 딸기라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250513_165/1747122846287xxJ59_JPEG/%BB%FD%B5%FE%B1%E2%B6%F3%B6%BC_%B8%DE%C0%CE.jpg"
+      ]
+    },
+    {
+      "name": "레몬생강차",
+      "price": "7000",
+      "description": "수제로 만든 레몬청과 생강청이 조화롭게 어우러진 레몬생강차 입니다.",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250513_194/1747123737036U0zEc_JPEG/%B7%B9%B8%F3%BB%FD%B0%AD%BF%A1%C0%CC%B5%E5_%B8%DE%C0%CE.jpg"
+      ]
+    },
+    {
+      "name": "생강라떼",
+      "price": "7000",
+      "description": "수제 생강 청을 따뜻한 우유와 어우러져 고소하고 풍미가 좋은 생강라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250513_226/17471236663629ToqC_JPEG/%BB%FD%B0%AD%B6%F3%B6%BC_%B8%DE%C0%CE.jpg"
+      ]
+    },
+    {
+      "name": "대추차",
+      "price": "8500",
+      "description": "국내산 경산대추를 7시간 고아서 내린 예빈당 수제 대추차",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241009_100/1728413254661VTtRm_JPEG/IMG_6293.jpeg"
+      ]
+    },
+    {
+      "name": "초코라떼",
+      "price": "6500",
+      "description": "꾸덕한 기라델리 초코시럽에 초콜릿을 곁들인 초코라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250513_120/1747123349645IcPgn_JPEG/%C3%CA%C4%DA%B6%F3%B6%BC_%B8%DE%C0%CE.jpg"
+      ]
+    },
+    {
+      "name": "아포카토",
+      "price": "6000",
+      "description": "바닐라 아이스크림과 에스프레소 위에 쌀과자를 토핑한 예빈당만의 아포카토",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250819_186/175559076861687BEO_JPEG/KakaoTalk_20250819_170522433.jpg"
+      ]
+    },
+    {
+      "name": "카페라떼",
+      "price": "5000",
+      "description": "에스프레소와 우유가 어우러진 원두의 풍미 가득한 카페라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250513_112/17471256040891RfzT_JPEG/%C4%AB%C6%E4%B6%F3%B6%BC_%B8%DE%C0%CE.jpg"
+      ]
+    },
+    {
+      "name": "아메리카노",
+      "price": "4500",
+      "description": "브라질 에티오피아 베트남 원두가 어우러진 고소하고 다크한 아메리카노",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250513_245/1747125468972YBIzH_JPEG/%BE%C6%B8%DE%B8%AE%C4%AB%B3%EB_%B8%DE%C0%CE.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20240504_262/17148070165581UA3X_JPEG/IMG_9053.jpeg",
+    "https://ldb-phinf.pstatic.net/20250513_158/1747135902052B1Gue_JPEG/%B0%B3%BC%BA%BE%E0%B0%FA.jpg",
+    "https://ldb-phinf.pstatic.net/20250804_170/1754274071698Pz3AI_JPEG/KakaoTalk_20250804_111341937.jpg",
+    "https://ldb-phinf.pstatic.net/20240504_202/171480703805072Auv_JPEG/IMG_4435.jpeg",
+    "https://ldb-phinf.pstatic.net/20250513_1/1747135881284A402b_JPEG/462076798_1249977749474594_88835553201936809_n.jpg",
+    "https://ldb-phinf.pstatic.net/20250513_84/17471359377067onuG_JPEG/420501811_18082770877418171_3414049195818285086_n.jpg",
+    "https://ldb-phinf.pstatic.net/20240504_139/1714805617063R2S6Q_JPEG/IMG_4482.jpeg",
+    "https://ldb-phinf.pstatic.net/20250513_211/1747135975557TJSg8_JPEG/420478343_18082663858418171_6772008662502872835_n.jpg",
+    "https://ldb-phinf.pstatic.net/20250513_11/17471359509469AAJf_JPEG/%C3%CA%C4%DA%BC%B3%B1%E2.jpg",
+    "https://ldb-phinf.pstatic.net/20250513_153/174713592878465nT2_JPEG/428699297_18085578916418171_3258172144866482615_n.jpg",
+    "https://ldb-phinf.pstatic.net/20250513_296/1747135912549DLgc6_JPEG/482610228_1318736439173579_8954953484364667380_n.jpg",
+    "https://ldb-phinf.pstatic.net/20250513_285/17471359065561aoHf_JPEG/%B5%FE%B1%E2%C2%FD%BD%D2%B6%B1.jpg",
+    "https://ldb-phinf.pstatic.net/20250513_230/1747135897980l47U8_JPEG/479490005_18122044390418171_7413340541561703055_n.jpg",
+    "https://ldb-phinf.pstatic.net/20240504_23/1714807393139mSjU6_JPEG/IMG_4485.jpeg",
+    "https://ldb-phinf.pstatic.net/20240504_146/1714807042199iosWh_JPEG/IMG_4428.jpeg",
+    "https://ldb-phinf.pstatic.net/20240504_248/1714807044428ebGSN_JPEG/IMG_4432.jpeg",
+    "https://ldb-phinf.pstatic.net/20240504_91/1714807028587mBuc1_JPEG/IMG_4470.jpeg",
+    "https://ldb-phinf.pstatic.net/20240504_247/1714807046611B45hh_JPEG/IMG_4479.jpeg",
+    "https://ldb-phinf.pstatic.net/20240504_3/1714807393306BL3tN_JPEG/IMG_4484.jpeg",
+    "https://ldb-phinf.pstatic.net/20240504_52/17148073934049ctTD_JPEG/IMG_4486.jpeg",
+    "https://ldb-phinf.pstatic.net/20240504_175/1714807026621OYfLK_JPEG/IMG_1936.jpeg",
+    "https://ldb-phinf.pstatic.net/20240504_273/1714807043180fYabu_JPEG/IMG_4441.jpeg",
+    "https://ldb-phinf.pstatic.net/20240504_122/1714807051280g1Gjp_JPEG/IMG_4457.jpeg",
+    "https://ldb-phinf.pstatic.net/20240504_95/1714807051138BmzpY_JPEG/IMG_4445.jpeg",
+    "https://ldb-phinf.pstatic.net/20240504_163/1714807049207a0P7V_JPEG/IMG_4447.jpeg",
+    "https://ldb-phinf.pstatic.net/20240504_210/17148070508969wvQS_JPEG/IMG_4448.jpeg",
+    "https://ldb-phinf.pstatic.net/20240504_8/17148070456372KBC1_JPEG/IMG_4465.jpeg",
+    "https://ldb-phinf.pstatic.net/20240504_54/1714807042077mWBjY_JPEG/IMG_4460.jpeg"
+  ]
+}

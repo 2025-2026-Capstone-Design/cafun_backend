@@ -59,7 +59,10 @@ export class SearchCafesByNameRequestDto {
 export class CafeSearchItemDto extends CafeBasicInfo {
   @Expose()
   @Type(() => TopKeywordDto)
-  topKeywords: TopKeywordDto[]; // 프레그먼트 주입
+  topKeywords: TopKeywordDto[];
+
+  @Expose()
+  aspectVector: number[];
 }
 
 export class SearchCafesResponseDto {

@@ -1,0 +1,324 @@
+{
+  "id": "1973759403",
+  "name": "글리터",
+  "category": "카페,디저트",
+  "micro_review": [
+    "바나나푸딩으로 만나는 달콤한 행복"
+  ],
+  "road_address": "서울 성동구 성수이로 18 글리터",
+  "address": "서울 성동구 성수동2가 538-3",
+  "lat": "127.0541384",
+  "lon": "37.5367641",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "12:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "19:30"
+        }
+      ]
+    },
+    {
+      "day": "토",
+      "start": "12:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "19:30"
+        }
+      ]
+    },
+    {
+      "day": "일",
+      "start": "12:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "19:30"
+        }
+      ]
+    },
+    {
+      "day": "월",
+      "start": "12:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "19:30"
+        }
+      ]
+    },
+    {
+      "day": "화",
+      "start": null,
+      "end": null,
+      "breakHours": null,
+      "description": "정기휴무 (매주 화요일)",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "수(12/24)",
+      "start": "10:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "목(12/25)",
+      "start": "12:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": "성탄절",
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1364-1194",
+  "url": "https://www.instagram.com/glitter_seongsu",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": true,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "글리터 성수",
+  "Information_facilitie": [
+    "무선 인터넷",
+    "포장"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "네이버페이",
+    "간편결제"
+  ],
+  "menu": [
+    {
+      "name": "Lettering Cake",
+      "price": "",
+      "description": "레터링케이크문의 인스타 @glitter_seongsu / 카톡ID glitter_cake",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240619_20/1718738537223Y1fSW_JPEG/finalnew.jpg"
+      ]
+    },
+    {
+      "name": "댕근케이크",
+      "price": "11000",
+      "description": "댕근케이크는 예약 및 레터링이 불가하며 매장에서만 구매가 가능합니다.",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240930_290/1727665741904FogjH_JPEG/IMG_9484.jpeg",
+        "https://ldb-phinf.pstatic.net/20240930_34/1727665596206WnKCi_JPEG/IMG_9483.jpeg"
+      ]
+    },
+    {
+      "name": "Banana Pudding",
+      "price": "8000",
+      "description": "오므라이스 바나나푸딩",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251110_128/1762756964569TDLuC_JPEG/IMG_2106.jpeg"
+      ]
+    },
+    {
+      "name": "Vanilla Roll Cake",
+      "price": "8500",
+      "description": "바닐라롤케이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251110_208/1762757074119gzmc3_JPEG/IMG_5808.jpeg"
+      ]
+    },
+    {
+      "name": "Caramel Chocoroll",
+      "price": "8500",
+      "description": "카라멜초코롤",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251110_21/1762756728835DLUBb_JPEG/IMG_4592.jpeg"
+      ]
+    },
+    {
+      "name": "Valrhona Choco Latte",
+      "price": "8500",
+      "description": "발로나초코라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251110_265/1762757377062bhDsm_JPEG/IMG_4267.jpeg"
+      ]
+    },
+    {
+      "name": "Pink Cream Soda",
+      "price": "8000",
+      "description": "핑크크림소다",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240324_88/1711258961120y87Yb_JPEG/3FBD5116-4E1F-44DA-AAB9-8F011050D12D.jpeg"
+      ]
+    },
+    {
+      "name": "Valrhona Choco Latte",
+      "price": "8500",
+      "description": "발로나초코라떼(핫/아이스)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240324_184/1711258538022nicOd_JPEG/E7479D12-663A-4781-9A56-2D3D3F5EF20B.jpeg",
+        "https://ldb-phinf.pstatic.net/20240301_55/1709229585818d5WrP_JPEG/%C3%CA%C4%DA.jpg"
+      ]
+    },
+    {
+      "name": "Blue Cream Soda",
+      "price": "8000",
+      "description": "블루크림소다",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241221_206/1734757219855dDDd3_JPEG/IMG_0235.jpeg"
+      ]
+    },
+    {
+      "name": "Melon Cream Soda",
+      "price": "8000",
+      "description": "멜론크림소다",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240522_280/1716308525973Lx4uj_JPEG/IMG_6605.JPG"
+      ]
+    },
+    {
+      "name": "Lemon Ade(Ice only)",
+      "price": "7500",
+      "description": "레몬에이드(아이스)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240523_222/1716455235517DLO0A_JPEG/67DA53AF-B866-4395-99F1-11F4C15F7F57.jpeg"
+      ]
+    },
+    {
+      "name": "Vanilla Milk Shake",
+      "price": "8500",
+      "description": "바닐라밀크쉐이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240301_68/1709229464952qLXN9_JPEG/va.jpg"
+      ]
+    },
+    {
+      "name": "Americano(Hot/Ice)",
+      "price": "5000",
+      "description": "아메리카노(핫/아이스)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240301_279/17092292145728jXzK_JPEG/%BE%C6%B8%DE.jpg"
+      ]
+    },
+    {
+      "name": "Cafe Latte(Hot/Ice)",
+      "price": "5500",
+      "description": "카페라떼(핫/아이스)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240301_33/17092293086003KneY_JPEG/latte.jpg"
+      ]
+    },
+    {
+      "name": "Vanilla Bean Latte",
+      "price": "6000",
+      "description": "바닐라빈라떼(핫/아이스)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240301_197/1709229318877CcS5q_JPEG/latte.jpg"
+      ]
+    },
+    {
+      "name": "Jeju Matcha Latte",
+      "price": "7000",
+      "description": "제주 말차 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241221_10/1734757057054Mst4v_JPEG/IMG_7551.jpeg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20251028_6/1761648058387Ksbpf_JPEG/IMG_4784.jpeg",
+    "https://ldb-phinf.pstatic.net/20251028_43/1761648093705ScmzO_JPEG/E132EF97-5C46-46AD-880E-50D6E441D982.jpeg",
+    "https://ldb-phinf.pstatic.net/20251028_92/1761648094237uIdvb_JPEG/B479D1A9-BE8C-4F39-909A-F43A7E6FD145.jpeg",
+    "https://ldb-phinf.pstatic.net/20251028_219/1761648094131xmyzW_JPEG/7C28BBB1-86DF-445C-AB6B-1A4B55A65821.jpeg",
+    "https://ldb-phinf.pstatic.net/20240324_70/1711258295105uA2kx_JPEG/99513C02-FA36-4ED4-8C58-DB26F881AFAF.jpeg",
+    "https://ldb-phinf.pstatic.net/20250222_95/1740199525277YVSei_JPEG/3D6D16DB-0751-44D3-B8A5-E15A3B8FF1BA.jpeg",
+    "https://ldb-phinf.pstatic.net/20240204_75/1707056025915LCRCv_JPEG/IMG_5484.jpeg",
+    "https://ldb-phinf.pstatic.net/20250222_4/1740199414406mDYnd_JPEG/6E5BB09E-764D-421F-9CF1-03EF069403D5.jpeg",
+    "https://ldb-phinf.pstatic.net/20250222_191/1740199672004AbMUd_JPEG/659F8EB7-FDAB-4364-9633-D36D37D7417A.jpeg",
+    "https://ldb-phinf.pstatic.net/20250222_49/1740199444997Cea42_JPEG/B13C1845-6DC4-4024-8E84-845D20B5ED9C.jpeg",
+    "https://ldb-phinf.pstatic.net/20250222_217/1740199867265M7Qld_JPEG/CB565220-587F-4C63-AD0E-13461A2DA4A6.jpeg",
+    "https://ldb-phinf.pstatic.net/20250222_260/1740199867133vDkYd_JPEG/07F90435-69DF-4C25-BDED-75D1F8708AD0.jpeg",
+    "https://ldb-phinf.pstatic.net/20250222_76/1740199590008AWMgy_JPEG/3730E439-C5D8-451C-B8BA-3FD88903434B.jpeg",
+    "https://ldb-phinf.pstatic.net/20250222_53/1740199867223MmgBa_JPEG/C6A764E2-E18F-4235-A4C1-B98E13F46FCF.jpeg",
+    "https://ldb-phinf.pstatic.net/20250222_218/1740199867141jdUuY_JPEG/F082813D-EBB5-4017-817C-7469B12BE4B5.jpeg",
+    "https://ldb-phinf.pstatic.net/20240526_287/1716657732604PRYHf_JPEG/IMG_7673.jpeg",
+    "https://ldb-phinf.pstatic.net/20240522_142/1716313604270rGHUT_JPEG/IMG_5925_2.jpg",
+    "https://ldb-phinf.pstatic.net/20240522_115/17163083733551Yr2I_JPEG/IMG_6202.JPG",
+    "https://ldb-phinf.pstatic.net/20240522_147/1716306172564pnDlb_JPEG/IMG_7597.jpeg",
+    "https://ldb-phinf.pstatic.net/20240522_130/1716308373141U7Kv7_JPEG/IMG_6574.JPG",
+    "https://ldb-phinf.pstatic.net/20240324_125/1711258295639j8BWC_JPEG/C82A2BD7-F677-4D06-A892-9534F8BA2DD6.jpeg",
+    "https://ldb-phinf.pstatic.net/20240522_168/1716306172630Yp72r_JPEG/IMG_7600.jpeg",
+    "https://ldb-phinf.pstatic.net/20240522_58/17163083679577ykUc_JPEG/IMG_6044.JPG",
+    "https://ldb-phinf.pstatic.net/20240522_299/1716308373164Y2iAF_JPEG/IMG_7028.JPG",
+    "https://ldb-phinf.pstatic.net/20240522_267/1716306172661rx3XF_JPEG/IMG_7598.jpeg",
+    "https://ldb-phinf.pstatic.net/20250222_52/1740199867177al8M4_JPEG/71D79BBA-8061-4B17-AB3F-C59919532D3D.jpeg",
+    "https://ldb-phinf.pstatic.net/20240522_19/1716306172663HJLeU_JPEG/IMG_7596.jpeg",
+    "https://ldb-phinf.pstatic.net/20240522_177/1716306172822NAStF_JPEG/IMG_7599.jpeg",
+    "https://ldb-phinf.pstatic.net/20240324_247/1711258295910qVJT9_JPEG/8A7A4959-8873-490F-9C5D-9AB0BD406346.jpeg",
+    "https://ldb-phinf.pstatic.net/20240522_272/1716308370556rnOBF_JPEG/IMG_6605.JPG",
+    "https://ldb-phinf.pstatic.net/20240324_72/17112582951324YxIm_JPEG/D4E21AEB-4C75-44D6-AF66-ABBDD681C3B2.jpeg",
+    "https://ldb-phinf.pstatic.net/20240522_84/1716308373441skSwB_JPEG/IMG_5865.JPG",
+    "https://ldb-phinf.pstatic.net/20240522_263/1716306172728iMsDW_JPEG/IMG_7601.jpeg",
+    "https://ldb-phinf.pstatic.net/20240522_184/1716306172580ig2Lo_JPEG/IMG_7595.jpeg",
+    "https://ldb-phinf.pstatic.net/20240324_120/1711258295195VNn0K_JPEG/8E88213F-0A1E-4BF7-8E4D-D14B5EAABF1D.jpeg",
+    "https://ldb-phinf.pstatic.net/20240324_151/1711258295743pjuWx_JPEG/28EADD14-F6D7-4D87-8EEF-FBB605AED257.jpeg",
+    "https://ldb-phinf.pstatic.net/20240324_21/1711258295809E9WYE_JPEG/2FBDE1DB-3239-429E-AE52-CAA5B1BAA027.jpeg",
+    "https://ldb-phinf.pstatic.net/20240324_91/1711258295760kCahy_JPEG/AA98067B-131A-4E6B-B126-B9B95CE15E5D.jpeg",
+    "https://ldb-phinf.pstatic.net/20240324_259/1711258295821VJ2qp_JPEG/7C4D99A6-3E10-47CE-8ACA-EBCEAA7E3333.jpeg",
+    "https://ldb-phinf.pstatic.net/20240204_252/1707056027111XRthl_JPEG/IMG_5489.jpeg",
+    "https://ldb-phinf.pstatic.net/20240324_235/1711258295478wtIJb_JPEG/4A5B8E5E-AA88-49AC-8364-9016BD40767D.jpeg",
+    "https://ldb-phinf.pstatic.net/20240204_175/1707056280158eI43N_JPEG/IMG_5497.jpeg",
+    "https://ldb-phinf.pstatic.net/20240204_161/1707056280150NS6ru_JPEG/IMG_5496.jpeg",
+    "https://ldb-phinf.pstatic.net/20240522_163/1716308371053dt75s_JPEG/IMG_5438.JPG",
+    "https://ldb-phinf.pstatic.net/20240204_82/1707055777020O7BMV_JPEG/IMG_5373.jpeg",
+    "https://ldb-phinf.pstatic.net/20240204_13/1707056027797Ie6VQ_JPEG/IMG_5493.jpeg",
+    "https://ldb-phinf.pstatic.net/20240204_164/1707055777035N4bby_JPEG/IMG_5281.jpeg",
+    "https://ldb-phinf.pstatic.net/20240204_209/1707056280151ukqlY_JPEG/IMG_5495.jpeg",
+    "https://ldb-phinf.pstatic.net/20240204_67/17070557721474sU2x_JPEG/9D67AD21-FE9A-4DFD-BCE9-4F7CE8156DB3.jpeg",
+    "https://ldb-phinf.pstatic.net/20240204_178/1707056029055gctka_JPEG/IMG_5486.jpeg",
+    "https://ldb-phinf.pstatic.net/20240204_245/1707056031701CElfQ_PNG/IMG_5492.png",
+    "https://ldb-phinf.pstatic.net/20240204_294/1707056027100U4RaE_JPEG/IMG_5487.jpeg",
+    "https://ldb-phinf.pstatic.net/20240204_4/1707056027698gyOc3_JPEG/IMG_5490.jpeg",
+    "https://ldb-phinf.pstatic.net/20240204_49/1707056027798fRzyq_JPEG/IMG_5485.jpeg",
+    "https://ldb-phinf.pstatic.net/20240204_136/1707055783586IWbqQ_JPEG/IMG_5453.jpeg",
+    "https://ldb-phinf.pstatic.net/20240204_158/1707055777109tw1Y3_JPEG/IMG_5480.jpeg",
+    "https://ldb-phinf.pstatic.net/20240204_37/17070557776405vsr5_JPEG/IMG_5464.jpeg",
+    "https://ldb-phinf.pstatic.net/20240204_234/1707055777025FH6Cr_JPEG/IMG_5478.jpeg"
+  ]
+}

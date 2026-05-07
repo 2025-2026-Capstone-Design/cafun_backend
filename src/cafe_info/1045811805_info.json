@@ -1,0 +1,267 @@
+{
+  "id": "1045811805",
+  "name": "스테포스트",
+  "category": "카페,디저트",
+  "micro_review": [
+    "향긋한 밀크티 한 잔의 여유"
+  ],
+  "road_address": "서울 성동구 상원1길 13 1층",
+  "address": "서울 성동구 성수동1가 656-1097",
+  "lat": "127.0487376",
+  "lon": "37.5450361",
+  "business_hours": [
+    {
+      "day": "토",
+      "start": "11:30",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "19:30"
+        }
+      ]
+    },
+    {
+      "day": "일",
+      "start": "11:30",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "19:30"
+        }
+      ]
+    },
+    {
+      "day": "월",
+      "start": "11:30",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "19:30"
+        }
+      ]
+    },
+    {
+      "day": "화",
+      "start": "11:30",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "19:30"
+        }
+      ]
+    },
+    {
+      "day": "수",
+      "start": "11:30",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "19:30"
+        }
+      ]
+    },
+    {
+      "day": "목(12/25)",
+      "start": "11:30",
+      "end": "20:00",
+      "breakHours": [],
+      "description": "성탄절",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "금",
+      "start": "11:30",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "19:30"
+        }
+      ]
+    }
+  ],
+  "virtual_phone_number": null,
+  "url": "https://www.instagram.com/stepost_coffee/",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": true,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": false,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "편안한 분위기의 사진맛집\n스테포스트 커피입니다.\n\n11:30 - 20:00\n(Last order. 19:30)\nALWAYS OPEN\n설, 추석 당일 휴무\n\nPET FRIENDLY ZONE",
+  "Information_facilitie": [
+    "무선 인터넷",
+    "반려동물 동반"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "네이버페이"
+  ],
+  "menu": [
+    {
+      "name": "FIG NOIR",
+      "price": "7000",
+      "description": "무화과 쇼콜라티와 콜드브루를 블렌딩하여 은은한 향이 매력적인 스테포스트 시그니처",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250919_167/1758269509379gscMI_JPEG/KakaoTalk_20250820_171610601_01.jpg"
+      ]
+    },
+    {
+      "name": "STEPOST BLACK",
+      "price": "7000",
+      "description": "스테포스트의 시그니처, 고소한 흑임자크림과 밸런스 좋은 에스프레소를 같이 떠서 먹는 음료",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250919_253/1758269661950drsMl_JPEG/KakaoTalk_20250919_171256543.jpg"
+      ]
+    },
+    {
+      "name": "밀크티",
+      "price": "7000",
+      "description": "아쌈,다즐링,얼그레이를 배합하여 24시간 냉침한 수제 밀크티입니다:)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250314_268/1741920020164IBydg_JPEG/C5DB0A74-9BEA-45D0-9CCE-981100C81542.jpeg"
+      ]
+    },
+    {
+      "name": "STEPOST BROWN",
+      "price": "7000",
+      "description": "스테포스트의 시그니처, 고소한 크림라떼와 브라운치즈를 같이 떠서 먹는 단짠음료",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250919_195/1758269650452nFtw8_JPEG/KakaoTalk_20250919_171343994.jpg"
+      ]
+    },
+    {
+      "name": "espresso",
+      "price": "4500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250623_69/1750676844067Yi60g_JPEG/IMG_1892.jpeg"
+      ]
+    },
+    {
+      "name": "AMERICANO",
+      "price": "4500",
+      "description": "[과테말라 안티구아/브라질 블렌드]-고소한 넛츠,다크 초콜릿 풍미",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240918_132/17265866051542JSl6_JPEG/KakaoTalk_20240918_001503213_08.jpg"
+      ]
+    },
+    {
+      "name": "FLAT WHITE",
+      "price": "6000",
+      "description": "라떼보다 우유양이 적고 부드러운 질감의 음료",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250623_243/1750677827953jy6qx_JPEG/IMG_1897.jpeg"
+      ]
+    },
+    {
+      "name": "CAFE LATTE",
+      "price": "5000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240918_180/1726586821631RaPTO_JPEG/KakaoTalk_20240918_001503213_09.jpg"
+      ]
+    },
+    {
+      "name": "VANILLA LATTE",
+      "price": "6000",
+      "description": "With handmade syrup",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240918_37/1726586849829Td5bs_JPEG/KakaoTalk_20240918_001503213_09.jpg"
+      ]
+    },
+    {
+      "name": "TERRINE MATCHA",
+      "price": "8000",
+      "description": "최상급의 제주 말차만을 사용하여 말차의 진한 풍미와 꾸덕함을 느끼실 수 있습니다 !",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241019_114/1729310535137Mk9Hc_JPEG/IMG_8746.jpeg"
+      ]
+    },
+    {
+      "name": "TERRINE CHEESE",
+      "price": "8000",
+      "description": "깊은 치즈의 풍미를 느낄 수 있으며 맛의 함축도가 매우 높아 매우 꾸덕하고 진합니다:)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241019_83/1729310347126rkVmM_JPEG/IMG_8741.jpeg"
+      ]
+    },
+    {
+      "name": "초콜릿 허니 케이크",
+      "price": "7000",
+      "description": "쫀득한 식감의 말렌카 코코아 케이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241011_257/1728639386405h6usV_JPEG/IMG_9177.jpeg"
+      ]
+    },
+    {
+      "name": "FRENCH TOAST",
+      "price": "12000",
+      "description": "달걀을 머금은 퐁실퐁실 프렌치토스트, 겉바속촉 폭신함의 정석 !",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241016_71/1729067415682UMsc0_JPEG/IMG_8010.jpeg"
+      ]
+    },
+    {
+      "name": "CROFFLE",
+      "price": "8000",
+      "description": "크루아상 페스츄리 반죽으로 만든 바삭 쫄깃한 와플\n아이스크림과 브라운치즈 추가 가능해요!",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240918_166/1726587106535bjiaQ_JPEG/KakaoTalk_20240918_001503213_03.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20250318_126/1742282937527yF13i_JPEG/Screenshot_20250314_090043_Instagram.jpg",
+    "https://ldb-phinf.pstatic.net/20250318_57/174228293749951zk6_JPEG/Screenshot_20250314_090016_Instagram.jpg",
+    "https://ldb-phinf.pstatic.net/20240918_83/1726586261790sALK9_JPEG/KakaoTalk_20240918_001336103_02.jpg",
+    "https://ldb-phinf.pstatic.net/20240402_236/1711984539185kVDwa_JPEG/KakaoTalk_20240402_001419849_03.jpg",
+    "https://ldb-phinf.pstatic.net/20250314_85/1741880184212dqxFk_JPEG/1E64EC7B-E26F-4451-8507-9BD0B98E6B67.jpeg",
+    "https://ldb-phinf.pstatic.net/20240402_136/17119845391490SdOz_JPEG/KakaoTalk_20240402_001419849_02.jpg",
+    "https://ldb-phinf.pstatic.net/20240402_231/1711984539206BVN1L_JPEG/KakaoTalk_20240402_001419849_04.jpg",
+    "https://ldb-phinf.pstatic.net/20240918_29/17265862618128zqCA_JPEG/KakaoTalk_20240918_001336103_03.jpg"
+  ]
+}

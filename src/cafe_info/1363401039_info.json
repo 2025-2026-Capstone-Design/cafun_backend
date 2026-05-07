@@ -1,0 +1,204 @@
+{
+  "id": "1363401039",
+  "name": "프렌즈앤야드",
+  "category": "브런치카페",
+  "micro_review": [
+    "야외에서 즐기는 브런치의 여유"
+  ],
+  "road_address": "서울 성동구 연무장15길 11 B동 1층 125호",
+  "address": "서울 성동구 성수동2가 273-13",
+  "lat": "127.0597731",
+  "lon": "37.5424908",
+  "business_hours": [
+    {
+      "day": "매일",
+      "start": "10:00",
+      "end": "18:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "16:30"
+        }
+      ]
+    }
+  ],
+  "virtual_phone_number": null,
+  "url": "https://www.instagram.com/friends.and.yard/",
+  "convenience": {
+    "주차": true,
+    "발렛파킹": false,
+    "무선 인터넷": false,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": false,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "* 매일 10:00~18:00\n   브런치 메뉴 라스트오더 - 16:30\n   케이크 및 음료메뉴 라스트오더 - 17:00\n\n* 주차 1시간 지원(에스팩토리 주차장 이용가능)\n\n* 전화연결 X , 문의사항은 인스타그램 DM으로 문의 부탁드립니다!",
+  "Information_facilitie": [
+    "화장실 휠체어 이용가능"
+  ],
+  "parking_info": {
+    "__typename": "InformationBasicParking",
+    "isFree": false,
+    "normalFeeDescription": null,
+    "extraFeeDescription": "추가 요금 10분당 1,000원, 최대 1,000원"
+  },
+  "payment_info": null,
+  "menu": [
+    {
+      "name": "단호박 당근 스프",
+      "price": "9000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240806_250/1722939379453kyTvi_JPEG/IMG_5936.jpg"
+      ]
+    },
+    {
+      "name": "무화과 그릭요거트",
+      "price": "13000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251122_293/17637815204742c6kI_JPEG/KakaoTalk_Photo_2025-11-21-12-13-17.jpeg"
+      ]
+    },
+    {
+      "name": "리코타 딸기 샐러드",
+      "price": "18000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251122_160/1763781527650gsm3S_JPEG/KakaoTalk_Photo_2025-11-21-12-12-50.jpeg"
+      ]
+    },
+    {
+      "name": "미소 까르보나라",
+      "price": "23000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251122_240/1763781563318pFGI1_JPEG/KakaoTalk_Photo_2025-11-20-12-23-21.jpeg"
+      ]
+    },
+    {
+      "name": "허브오일 삼치 파스타",
+      "price": "22000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250103_9/1735896006022ocO8W_JPEG/IMG_1234.jpeg"
+      ]
+    },
+    {
+      "name": "클래식 프렌치토스트",
+      "price": "13000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250805_170/175440587860880YIK_JPEG/mosaV5Bkjd.jpeg"
+      ]
+    },
+    {
+      "name": "잣 트러플 머쉬룸 보리 리조또",
+      "price": "23000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251117_287/1763344768973GLObf_JPEG/KakaoTalk_Photo_2025-11-17-10-52-04.jpeg"
+      ]
+    },
+    {
+      "name": "클래식 라자냐",
+      "price": "22000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250830_15/1756547019457BhcOf_JPEG/IMG_8026.jpg"
+      ]
+    },
+    {
+      "name": "부라타 완두콩 타르틴",
+      "price": "19000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240512_107/1715471367853QzR95_JPEG/IMG_8264.JPG"
+      ]
+    },
+    {
+      "name": "마리네이드 카프레제 타르틴",
+      "price": "19000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250314_170/1741940719227G4Bql_JPEG/IMG_5887.jpeg"
+      ]
+    },
+    {
+      "name": "시칠리아 아란치니",
+      "price": "22000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250316_144/1742130191943j0fcR_JPEG/IMG_1964.jpeg"
+      ]
+    },
+    {
+      "name": "투머치 아보카도 칠리 에그 타르틴",
+      "price": "19000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240806_176/17229374717936FPCR_JPEG/IMG_5987.jpg"
+      ]
+    },
+    {
+      "name": "머쉬룸 시저 샐러드",
+      "price": "18000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240930_95/1727682822509xVvWh_JPEG/IMG_7242.jpeg"
+      ]
+    },
+    {
+      "name": "연어 스테이크 플래터",
+      "price": "21000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240410_53/1712686511552uqLMX_JPEG/IMG_1465.jpg"
+      ]
+    },
+    {
+      "name": "코코넛 브라우니",
+      "price": "9000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250323_134/1742737342964gja8O_JPEG/mosaIyBkU5_%281%29.jpeg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20251122_278/1763782184390GO1hG_JPEG/KakaoTalk_Photo_2025-11-20-12-23-21.jpeg",
+    "https://ldb-phinf.pstatic.net/20250318_178/1742225312763CAppi_JPEG/IMG_6055.jpeg",
+    "https://ldb-phinf.pstatic.net/20250805_70/1754405820983i85XE_JPEG/mosaV5Bkjd.jpeg",
+    "https://ldb-phinf.pstatic.net/20251122_273/1763782174006qDLB8_JPEG/KakaoTalk_Photo_2025-11-21-12-13-17.jpeg",
+    "https://ldb-phinf.pstatic.net/20240806_266/1722939319245bsINw_JPEG/IMG_1680.jpg",
+    "https://naverbooking-phinf.pstatic.net/20250830_299/1756544719190aOWUS_JPEG/IMG_8026.jpg",
+    "https://ldb-phinf.pstatic.net/20240806_194/1722937670844FMY1b_JPEG/IMG_5987.jpg",
+    "https://ldb-phinf.pstatic.net/20250318_6/1742224829463DWrA9_JPEG/IMG_1964.jpg",
+    "https://ldb-phinf.pstatic.net/20250318_286/1742224958790KDysj_JPEG/IMG_5887.JPG",
+    "https://ldb-phinf.pstatic.net/20250318_207/1742225418393HlNxD_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2025-03-18_%BF%C0%C0%FC_12.24.58.png",
+    "https://ldb-phinf.pstatic.net/20240806_42/1722937726566C2Ojy_JPEG/IMG_1465.jpg",
+    "https://ldb-phinf.pstatic.net/20241221_63/1734783972048Tmrr3_JPEG/IMG_0579.jpeg",
+    "https://ldb-phinf.pstatic.net/20250412_21/1744386604929JQFUS_JPEG/%B4%D9%BF%EE%B7%CE%B5%E5_%283%29.jpeg"
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "id": "1194510469",
+  "name": "하이라인 성수카페",
+  "category": "카페,디저트",
+  "micro_review": [
+    "입안에서 녹는 크림브륄레 라떼의 매력"
+  ],
+  "road_address": "서울 성동구 성덕정9길 10 2층 하이라인성수카페",
+  "address": "서울 성동구 성수동1가 272",
+  "lat": "127.0498827",
+  "lon": "37.5390219",
+  "business_hours": [
+    {
+      "day": "토",
+      "start": "10:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "day": "일",
+      "start": "10:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "day": "월",
+      "start": "10:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "day": "화",
+      "start": "10:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "day": "수",
+      "start": "10:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "day": "목(12/25)",
+      "start": "10:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": "성탄절",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "금",
+      "start": "10:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:00"
+        }
+      ]
+    }
+  ],
+  "virtual_phone_number": "0507-1363-1228",
+  "url": "https://blog.naver.com/highlinecafe",
+  "convenience": {
+    "주차": true,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": true,
+    "단체 이용 가능": true,
+    "대기공간": true,
+    "간편결제": true,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": true,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "안녕하세요.\n성수동 조용한 골목에 자리한 하이라인 성수카페입니다.\n\n이곳은 단순히 커피를 마시고 디저트를 즐기는 공간을 넘어 하루의 흐름 속에서 잠시 멈춰 숨을 고르고 자신에게 집중할 수 있는 시간을 선물하기 위해 오픈했습니다. 저희는 언제나 신선하고 좋은 재료만을 고집하며 정성을 다해 모든 메뉴를 준비합니다.\n\n한 잔의 커피, 한 접시의 브런치, 한 모금의 와인까지 하이라인에서의 모든 순간이 따뜻한 위로와 여유로 이어지길 바랍니다.\n넓은 창으로 쏟아지는 자연광과 모던하면서도 따뜻한 인테리어는 머무는 것만으로도 편안함과 영감을 느낄 수 있도록 설계되었습니다.\n\n하이라인 성수의 시그니처인 초당 옥수수 커피와 프렌치 토스트, 파블로바는 감각적인 비주얼과 독창적인 맛으로 많은 분들의 사랑을 받고 있습니다.\n\n브런치 메뉴는 솔티드 카라멜 프렌치 토스트의 달콤짭조름한 풍미, 초당 옥수수 스프의 부드럽고 고소한 맛이 여유로운 아침을 완성합니다.\n\n하이라인은 브랜드 아티스트 크리에이터들이 모이는 문화 플랫폼이기도 합니다. 촬영 전시 워크숍 소규모 모임 등 다양한 형태의 프라이빗 대관이 가능하며 공간을 찾는 모든 분들에게 진심 어린 서비스로 다가가고자 합니다.\n\n하이라인은 언제나 여러분의 발걸음을 환영하며\n소중한 일상 속 특별한 하루를 선물하기 위해 최선을 다하겠습니다.\n\n서울숲역 성수역 도보 10분\n주차 가능\n브런치 / 커피 / 프라이빗 대관",
+  "Information_facilitie": [
+    "글루텐프리 메뉴",
+    "테이크아웃 할인",
+    "생일 혜택",
+    "무선 인터넷",
+    "남/녀 화장실 구분",
+    "포장",
+    "단체 이용 가능",
+    "예약",
+    "대기공간"
+  ],
+  "parking_info": {
+    "__typename": "InformationBasicParking",
+    "isFree": false,
+    "normalFeeDescription": null,
+    "extraFeeDescription": "추가 요금 10분당 1,000원, 최대 30,000원"
+  },
+  "payment_info": [
+    "제로페이",
+    "네이버페이",
+    "간편결제"
+  ],
+  "menu": [
+    {
+      "name": "프리미엄 초당옥수수 커피",
+      "price": "6800",
+      "description": "통초당옥수수가 듬뿍! 달콤함이 가득한 스페셜 커피",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240427_129/1714218959720dOAlH_JPEG/IMG_9048.jpeg",
+        "https://ldb-phinf.pstatic.net/20240427_128/1714218951487Yzqrm_JPEG/IMG_3771.jpeg",
+        "https://ldb-phinf.pstatic.net/20240427_182/17142189511734rhfs_JPEG/67154922-7A6D-4C32-B81B-6E45EED878B6.jpeg",
+        "https://ldb-phinf.pstatic.net/20240427_77/1714218952187pPYfj_JPEG/IMG_2276.jpeg",
+        "https://ldb-phinf.pstatic.net/20240427_171/1714218952306mj1oG_JPEG/IMG_6347.jpeg"
+      ]
+    },
+    {
+      "name": "복숭아 소르베 에이드",
+      "price": "6800",
+      "description": "엄선된 복숭아 셔벗이 올라간 상큼 시원 에이드",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241221_109/1734761172698g0tXj_JPEG/IMG_0014.jpeg"
+      ]
+    },
+    {
+      "name": "초당옥수수 스페셜 프렌치 토스트",
+      "price": "14000",
+      "description": "폭신한 브리오슈에 초당옥수수 퓌레와 아이스크림을 듬뿍 올린 시그니처 메뉴",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241221_293/1734761204872hp5RR_JPEG/IMG_9996.jpeg"
+      ]
+    },
+    {
+      "name": "스페셜 망고 파블로바",
+      "price": "16000",
+      "description": "신선한 망고와 머랭의 완벽한 조화, 특별한 디저트",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241228_239/1735376766170SpsjX_JPEG/KakaoTalk_20241228_180331695.jpg"
+      ]
+    },
+    {
+      "name": "하이라인 프리미엄 라떼",
+      "price": "6500",
+      "description": "풍부한 크림과 특제 소스의 조화, 하이라인만의 특별한 크림 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220112_62/1641982337339E7LIl_JPEG/7D4F88B5-A0F0-44EA-B816-91535D9CEE64.jpeg"
+      ]
+    },
+    {
+      "name": "망고 소르베소다",
+      "price": "6800",
+      "description": "신선한 망고와 시원한 소다의 완벽한 조화",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241221_166/17347613666447Mnc0_JPEG/IMG_0011.jpeg"
+      ]
+    },
+    {
+      "name": "명품 크림브륄레 라떼",
+      "price": "6500",
+      "description": "직접 토치로 구운 크림브륄레가 올라간 스페셜 아인슈페너",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240510_211/1715336140185lJDsH_JPEG/IMG_0031.jpeg"
+      ]
+    },
+    {
+      "name": "쑥 크럼블 쇼콜라 라떼",
+      "price": "6800",
+      "description": "쌉쌀한 쑥과 달콤한 쇼콜라 크림, 바삭한 크럼블의 조화",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240421_62/1713629950708wQyD3_JPEG/IMG_8221.jpeg"
+      ]
+    },
+    {
+      "name": "정통 라임 모히또 에이드",
+      "price": "7500",
+      "description": "키위와 라임이 어우러진 시원한 에이드, 베스트 메뉴",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240421_3/1713630966242brlic_JPEG/IMG_8224.jpeg"
+      ]
+    },
+    {
+      "name": "수제 복숭아 밀크 라떼",
+      "price": "7500",
+      "description": "엄선된 복숭아 퓨레와 수제 복숭아 우유로 만든 달콤한 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241006_64/1728193731389clq8m_JPEG/1000063164.jpg"
+      ]
+    },
+    {
+      "name": "프리미엄 트로피컬 에이드",
+      "price": "7500",
+      "description": "망고, 패션후르츠, 키위가 어우러진 시원한 스페셜 에이드",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240421_74/1713630996258x3Viy_JPEG/IMG_8225.jpeg"
+      ]
+    },
+    {
+      "name": "프리미엄 몽블랑 프렌치토스트",
+      "price": "15000",
+      "description": "폭신한 브리오슈 식빵에 브라운치즈와 밤 아이스크림을 올린 특별한 프렌치토스트",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241221_271/173476123102506W5g_JPEG/IMG_9999.jpeg"
+      ]
+    },
+    {
+      "name": "정통 크림브륄레 치즈케이크",
+      "price": "8500",
+      "description": "톡 깨트려 먹는 크림브륄레가 매력적인 바스크 치즈케이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241221_213/1734761189971MWI1F_JPEG/IMG_0023.jpeg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20251106_192/1762428365272yqRjW_JPEG/KakaoTalk_Photo_2025-11-06-19-27-47_001.jpeg",
+    "https://ldb-phinf.pstatic.net/20251204_236/17648291200512MDyP_PNG/IMG_7954.png",
+    "https://ldb-phinf.pstatic.net/20251209_14/1765262016408kXK1w_PNG/Group_46_2.png",
+    "https://ldb-phinf.pstatic.net/20251106_36/1762430351621nFm8O_PNG/KakaoTalk_Photo_2025-11-06-20-58-56_003.png",
+    "https://ldb-phinf.pstatic.net/20251106_247/1762430351463OcQHG_PNG/KakaoTalk_Photo_2025-11-06-20-58-58_005.png",
+    "https://ldb-phinf.pstatic.net/20251106_127/1762430351458G44Sv_PNG/KakaoTalk_Photo_2025-11-06-20-58-57_004.png",
+    "https://ldb-phinf.pstatic.net/20251106_136/17624303513952py7V_PNG/KakaoTalk_Photo_2025-11-06-20-58-56_001.png",
+    "https://ldb-phinf.pstatic.net/20251106_40/17624303513853teDo_PNG/KakaoTalk_Photo_2025-11-06-20-58-56_002.png",
+    "https://ldb-phinf.pstatic.net/20251106_254/1762428644864ps8JN_PNG/KakaoTalk_Photo_2025-11-06-20-29-24_005.png",
+    "https://ldb-phinf.pstatic.net/20251106_197/17624286473842FfRV_PNG/KakaoTalk_Photo_2025-11-06-20-29-25_008.png",
+    "https://ldb-phinf.pstatic.net/20251106_244/1762428644357OVbbG_PNG/KakaoTalk_Photo_2025-11-06-20-29-24_006.png",
+    "https://ldb-phinf.pstatic.net/20251106_127/1762428644866SSNBf_PNG/KakaoTalk_Photo_2025-11-06-20-29-24_004.png",
+    "https://ldb-phinf.pstatic.net/20251106_208/1762428644791r3MPT_PNG/KakaoTalk_Photo_2025-11-06-20-29-23_003.png",
+    "https://ldb-phinf.pstatic.net/20251106_178/1762428644778oYCWd_PNG/KakaoTalk_Photo_2025-11-06-20-29-23_002.png",
+    "https://ldb-phinf.pstatic.net/20251106_127/17624286440748Ogdy_PNG/KakaoTalk_Photo_2025-11-06-20-29-23_001.png",
+    "https://ldb-phinf.pstatic.net/20251106_103/17624286440992fKGP_PNG/KakaoTalk_Photo_2025-11-06-20-29-24_007.png"
+  ]
+}

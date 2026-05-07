@@ -1,0 +1,315 @@
+{
+  "id": "1421711350",
+  "name": "서울북카페 센버스",
+  "category": "북카페",
+  "micro_review": [
+    "시간 무제한으로 즐기는 독서 천국"
+  ],
+  "road_address": "서울 성동구 아차산로13길 31 자원빌딩 2층",
+  "address": "서울 성동구 성수동2가 278-35",
+  "lat": "127.0615463",
+  "lon": "37.5458066",
+  "business_hours": [
+    {
+      "day": "매일",
+      "start": "11:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1396-2084",
+  "url": "https://www.instagram.com/senvers_official/",
+  "convenience": {
+    "주차": true,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": true,
+    "단체 이용 가능": true,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": true,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": true,
+    "포장": false,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "'나만의 몰입 공간'\n센버스는 성수의 감성과 북카페, 스타트업 키워드를 살려 인테리어한 감각적 팝업 컨셉의 복합문화공간 입니다.\n\n책 내용에 맞게 음악, 향수, 식음료가 페어링 되어있고, 자체 앱과 서비스를 즐길 수 있습니다.\n또한 영양사 상주 자체 케이터링을 운영, 카페 및 디저트 제공 등 행사 시 원활한 진행을 돕습니다. 오픈 기념으로 다양한 프로모션을 제공해드립니다. :)\n\n[공간 이력]\n'샤넬' 팝업스토어 협업 대관\n'카카오'개발팀 워크샵\n'코카콜라'파이낸셜 IT 워크샵\n'롯데인재개발원' 임원 대상 강연\n'삼성생명' 부사장 및 임원 워크샵\n'도쿄일렉트론코리아' 세미나\n'밀리의 서재' 북콘서트\n'한국문화예술위원회' 크리에이티브 라운지\n'청강문화산업대학교' 작품 전시\n'LIGHTSCALE' 블록체인 세미나\n'로로랜드' 패션 및 브랜딩 커뮤니티 워크샵\n'길 위의 인문학' 등\n각종 행사와 촬영, 세미나, 북토크 및 강연 등 다양한 협업 대관을 진행하였습니다.\n\n[공간 정보]\n- 70평대 아늑한 '대형공간'\n   100명 이상 수용 가능\n- 전시존, 매대존, 메인존, 대형존, 계단존 등 전시 및 관람 공간 다수 - 빔프로젝터(대강당용), 100인치, 150인치 등 다양한 스크린 구비\n- 마이크, 스피커, 태블릿, 헤드셋, 잭, 거치대 등 대관 시 필요 장비 구비\n- 커피 및 디저트 주문 가능 (대관 시 금액 할인)\n- 자체 케이터링 '연다이닝푸드' 운영\n한중일식 조리자격증 영양사님이 주문에 따라 맞춤 메뉴 구성\n- 피팅룸 및 촬영 대기공간 창고\n- 내부 화장실\n- 2000권 도서, 향수, 헤드셋 및 태블릿 이용 가능\n- 자체 웹앱 서비스 이용 가능\n- 커피 그라인더, 커피 머신, 냉장고, 냉동고, 전자레인지, 에어프라이어, 오븐, 주방\n- 성수역 도보 8분 -인스타 @senvers_official\n- 네이버 플레이스 '서울북카페 센버스'\n- 주차 주변 노상공영주차장 / 평일 6시 이후, 토요일 3시 이후, 일요일, 공휴일 무료\n\n필요 사항에 따라 합리적인 협의가 가능하니 편히 문의 부탁드립니다.\n\n대관 시 추가 업무를 원활히해 담당자분과 스텝분들의 어려움 없는\n진행을 도와드립니다.준비사항, 구조 변경, 위치, 현장인원 관리, 카페 및 디저트, 케이터링 등\n\n일주일 이상 대관 시 합리적인 비용 협의가 가능하니\n편히 답사 부탁드립니다.",
+  "Information_facilitie": [
+    "테이크아웃 할인",
+    "콜키지 가능 (무료)",
+    "단체 이용 가능",
+    "예약",
+    "무선 인터넷",
+    "반려동물 동반",
+    "남/녀 화장실 구분"
+  ],
+  "parking_info": {
+    "__typename": "InformationBasicParking",
+    "isFree": false,
+    "normalFeeDescription": "최초 30분 1,500원",
+    "extraFeeDescription": "추가 요금 60분당 3,000원, 최대 27,000원"
+  },
+  "payment_info": [
+    "제로페이"
+  ],
+  "menu": [
+    {
+      "name": "시간 무제한 이용권",
+      "price": "15000",
+      "description": "책+음료+태블릿+헤드셋+음원+시향+오믈렛 or 크룽지",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240116_38/1705400749366qvigs_JPEG/DSC05256.jpg",
+        "https://ldb-phinf.pstatic.net/20240116_70/1705400731006yFgbA_JPEG/DSC05233.jpg"
+      ]
+    },
+    {
+      "name": "2시간 이용권",
+      "price": "11900",
+      "description": "책+음료+태블릿+헤드셋+음원+시향",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240123_80/1705984122715ySJce_JPEG/KakaoTalk_Photo_2024-01-17-11-35-12-25.jpeg",
+        "https://ldb-phinf.pstatic.net/20240123_174/1705984122615G72E5_JPEG/KakaoTalk_Photo_2024-01-17-11-35-12-29.jpeg"
+      ]
+    },
+    {
+      "name": "위대한 개츠비",
+      "price": "0",
+      "description": "'위대한 개츠비' 매칭 책+음료+음원+향",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240116_133/1705402016798NIGTN_JPEG/%C0%A7%B4%EB%C7%D1%B0%B3%C3%F7%BA%F1.jpeg"
+      ]
+    },
+    {
+      "name": "어린왕자",
+      "price": "0",
+      "description": "'어린왕자' 매칭 책+음료+음원+향",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240116_193/1705404470655crMDp_JPEG/%BE%EE%B8%B0%BF%D5%C0%DA.jpeg"
+      ]
+    },
+    {
+      "name": "노인과 바다",
+      "price": "0",
+      "description": "'노인과 바다' 매칭 책+음료+음원+향",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240116_269/1705404561952VCbrz_JPEG/%B3%EB%C0%CE%B0%FA_%B9%D9%B4%D9.jpeg"
+      ]
+    },
+    {
+      "name": "이방인",
+      "price": "0",
+      "description": "'이방인' 매칭 책+음료+음원+향",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240116_274/1705404518557o1YNx_JPEG/%C0%CC%B9%E6%C0%CE.jpeg"
+      ]
+    },
+    {
+      "name": "동물농장",
+      "price": "0",
+      "description": "'동물농장' 매칭 책+음료+음원+향",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240116_134/1705404685497zMhOJ_JPEG/%B5%BF%B9%B0%B3%F3%C0%E5.jpeg"
+      ]
+    },
+    {
+      "name": "데미안",
+      "price": "0",
+      "description": "'데미안' 매칭 책+음료+음원+향",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240116_92/1705404644820WbO2x_JPEG/DSC05233.jpg"
+      ]
+    },
+    {
+      "name": "개츠비 뱅쇼",
+      "price": "0",
+      "description": "개츠비 와인잔에 담긴 과일과 시나몬 스틱, 팔각향의 뱅쇼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240116_66/1705404893069R0RLl_JPEG/%B9%F0%BC%EE.jpeg"
+      ]
+    },
+    {
+      "name": "로즈 밀크티",
+      "price": "0",
+      "description": "어린왕자에게 사랑의 의미를 알려주는 장미꽃\n부드러운 핑크 크림과 장미 코디얼 로즈 밀크티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240116_177/1705405294554pQ4fc_JPEG/%B7%CE%C1%EE%B9%D0%C5%A9%C6%BC.jpeg"
+      ]
+    },
+    {
+      "name": "바다에이드",
+      "price": "0",
+      "description": "산티아고 바다를 형상화한 블루레몬에이드",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240116_87/1705405539123b0EDb_JPEG/%BA%ED%B7%E7%B7%B9%B8%F3%BF%A1%C0%CC%B5%E5.jpeg"
+      ]
+    },
+    {
+      "name": "이방인 에스프레소",
+      "price": "0",
+      "description": "냉소적 행복과 씁쓸함의 바닐라 크림 초코 파우더 에스프레소",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240116_204/1705405890414ipX7y_JPEG/%C5%A9%B8%B2_%BF%A1%BD%BA%C7%C1%B7%B9%BC%D2.jpeg"
+      ]
+    },
+    {
+      "name": "동물농장 오곡라떼",
+      "price": "0",
+      "description": "자유의지 혁명의 달콤한 오곡과 독재의 진한 샷 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240116_227/1705406208430dlfWK_JPEG/%BF%C0%B0%EE%B6%F3%B6%BC.jpeg"
+      ]
+    },
+    {
+      "name": "데미안 라떼",
+      "price": "0",
+      "description": "\"새는 알에서 나오려고 투쟁한다.\n알은 세계이다\" 데미안 시그니처 아트 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240116_220/1705406297808V9HRp_JPEG/%B5%A5%B9%CC%BE%C8%B6%F3%B6%BC.jpeg"
+      ]
+    },
+    {
+      "name": "아메리칸드림",
+      "price": "3200",
+      "description": "달콤하지만 위태로운 개츠비의 꿈\n크림브륄레 마카롱",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240318_194/1710732684320qfPFO_JPEG/IMG_4520.JPG"
+      ]
+    },
+    {
+      "name": "B612장미",
+      "price": "4800",
+      "description": "살구 시럽을 묻힌 촉촉함 위에 생크림\n장미 데코 행성 크러핀",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240116_182/1705406917845J64Cs_JPEG/%C5%A9%B7%AF%C7%C9.jpeg"
+      ]
+    },
+    {
+      "name": "그랜드SEA",
+      "price": "3500",
+      "description": "얼그레이잎 향미 가득한 바다 마들렌",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240116_280/1705407020738RSmNy_JPEG/%B1%D7%B7%A3%B5%E5SEA.jpeg"
+      ]
+    },
+    {
+      "name": "부조리",
+      "price": "4800",
+      "description": "초코와 딸기잼을 인서트한 카뮈의 시그니처 페스츄리 랑그드샤",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240116_203/1705407059631ayh16_JPEG/%BA%CE%C1%B6%B8%AE.jpeg"
+      ]
+    },
+    {
+      "name": "나폴레옹의 농장",
+      "price": "3800",
+      "description": "동물농장의 텁텁하고 씁쓸한 결말을 담아낸 녹차 스콘",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240318_197/1710732721490q8C8G_JPEG/IMG_4522.JPG"
+      ]
+    },
+    {
+      "name": "새는 알을 깨고 나온다",
+      "price": "4800",
+      "description": "알은 슈가돔이다. 누구든지 타르트를 먹으려는 사람은 슈가돔을 깨야 한다",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240318_189/1710732795382bpRxq_JPEG/IMG_4550.JPG"
+      ]
+    },
+    {
+      "name": "아메리카노",
+      "price": "0",
+      "description": "'루비아' 원두를 사용해 깊고 부드러운 풍미와 질감을 자랑합니다.",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240117_247/1705478384344qulg6_JPEG/%BE%C6%B8%DE%B8%AE%C4%AB%B3%EB.jpeg"
+      ]
+    },
+    {
+      "name": "아인슈페너",
+      "price": "0",
+      "description": "부드러운 크림과 샷의 조화를 느낄 수 있는\n시그니처 기본메뉴",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240117_207/1705479404845ptJwf_JPEG/%BE%C6%C0%CE%BD%B4%C6%E4%B3%CA.jpeg"
+      ]
+    },
+    {
+      "name": "롱블랙",
+      "price": "0",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "카페라떼",
+      "price": "0",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "플랫화이트",
+      "price": "0",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "바닐라라떼",
+      "price": "0",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "레몬차",
+      "price": "0",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "자몽차",
+      "price": "0",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "허니자몽블랙티",
+      "price": "0",
+      "description": "",
+      "images": []
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20240905_35/17255202505894bBMV_JPEG/%B8%C5%C0%E5_%BB%E7%C1%F8.jpeg",
+    "https://ldb-phinf.pstatic.net/20240117_144/17054733413156S7b8_JPEG/KakaoTalk_20240116_150333693_17.jpg",
+    "https://ldb-phinf.pstatic.net/20240117_238/1705473341155UtNzD_JPEG/KakaoTalk_20240116_150333693_19.jpg",
+    "https://ldb-phinf.pstatic.net/20240117_67/1705473341125Ugf8F_JPEG/KakaoTalk_20240116_150333693_02.jpg",
+    "https://ldb-phinf.pstatic.net/20240117_150/1705473341283nPv7a_JPEG/KakaoTalk_20240116_150333693_01.jpg",
+    "https://ldb-phinf.pstatic.net/20240117_137/17054733414018GVm5_JPEG/KakaoTalk_20240116_151338183.jpg",
+    "https://ldb-phinf.pstatic.net/20240117_248/17054733408909wrjf_JPEG/KakaoTalk_20240116_150333693_05.jpg",
+    "https://ldb-phinf.pstatic.net/20240117_94/1705473341418262HQ_JPEG/KakaoTalk_20240116_150333693_06.jpg",
+    "https://ldb-phinf.pstatic.net/20240117_154/17054733413045kwyS_JPEG/KakaoTalk_20240116_150333693_07.jpg",
+    "https://ldb-phinf.pstatic.net/20240117_63/1705473341310xxwGf_JPEG/KakaoTalk_20240116_150333693_16.jpg",
+    "https://ldb-phinf.pstatic.net/20240117_285/1705473341323kx19m_JPEG/KakaoTalk_20240116_150333693_15.jpg",
+    "https://ldb-phinf.pstatic.net/20240117_262/17054733412686k061_JPEG/KakaoTalk_20240116_150333693_03.jpg",
+    "https://ldb-phinf.pstatic.net/20240117_253/1705473341477AQ6JX_JPEG/KakaoTalk_20240116_150333693_11.jpg",
+    "https://ldb-phinf.pstatic.net/20240117_115/1705473341049k9UuP_JPEG/KakaoTalk_20240116_150333693_08.jpg",
+    "https://ldb-phinf.pstatic.net/20240117_235/1705473340883kmoRl_JPEG/KakaoTalk_20240116_150333693_09.jpg",
+    "https://ldb-phinf.pstatic.net/20240117_131/1705473341368z9r2b_JPEG/KakaoTalk_20240116_150333693_10.jpg",
+    "https://ldb-phinf.pstatic.net/20240117_233/1705473341194u6eXx_JPEG/KakaoTalk_20240116_150333693_18.jpg",
+    "https://ldb-phinf.pstatic.net/20240117_74/1705473341039u3h4t_JPEG/KakaoTalk_20240116_150333693_12.jpg",
+    "https://ldb-phinf.pstatic.net/20240117_61/1705473340898xqen9_JPEG/KakaoTalk_20240116_150333693_13.jpg",
+    "https://ldb-phinf.pstatic.net/20240117_115/1705473341323yzfil_JPEG/KakaoTalk_20240116_150333693_14.jpg",
+    "https://ldb-phinf.pstatic.net/20240104_124/1704366409401F3QDx_JPEG/IMG_2963.JPG",
+    "https://ldb-phinf.pstatic.net/20240117_156/1705473341474m6sqp_JPEG/KakaoTalk_20240116_150333693_20.jpg"
+  ]
+}

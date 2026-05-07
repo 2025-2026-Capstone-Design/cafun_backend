@@ -1,0 +1,203 @@
+{
+  "id": "1168698330",
+  "name": "로우커피스탠드",
+  "category": "카페",
+  "micro_review": [
+    "부드러운 바닐라라떼의 완벽한 조화"
+  ],
+  "road_address": "서울 성동구 왕십리로4길 28-2 1층",
+  "address": "서울 성동구 성수동1가 8-16",
+  "lat": "127.0466518",
+  "lon": "37.5471789",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "08:00",
+      "end": "16:40",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "16:30"
+        }
+      ]
+    },
+    {
+      "day": "토",
+      "start": "10:00",
+      "end": "16:40",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "16:30"
+        }
+      ]
+    },
+    {
+      "day": "일",
+      "start": "10:00",
+      "end": "16:40",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "16:30"
+        }
+      ]
+    },
+    {
+      "day": "월",
+      "start": "08:00",
+      "end": "16:40",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "16:30"
+        }
+      ]
+    },
+    {
+      "day": "화",
+      "start": "08:00",
+      "end": "16:40",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "16:30"
+        }
+      ]
+    },
+    {
+      "day": "수",
+      "start": "08:00",
+      "end": "16:40",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "16:30"
+        }
+      ]
+    },
+    {
+      "day": "목(12/25)",
+      "start": "10:00",
+      "end": "16:40",
+      "breakHours": [],
+      "description": "성탄절",
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1334-3343",
+  "url": "https://m.smartstore.naver.com/rawcoffeestand",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": true,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": true,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "안녕하세요. 성수동에 위치한 로우커피스탠드입니다.",
+  "Information_facilitie": [
+    "포장",
+    "예약",
+    "무선 인터넷",
+    "반려동물 동반"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "제로페이"
+  ],
+  "menu": [
+    {
+      "name": "카페라떼",
+      "price": "3000",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "시나몬라떼",
+      "price": "3800",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "아메리카노",
+      "price": "2500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20191118_90/1574069980185hbET8_JPEG/nCZpa1k2rtvvG2Ib1ZWt0J-r.jpeg.jpg"
+      ]
+    },
+    {
+      "name": "바닐라라떼",
+      "price": "3500",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "카푸치노",
+      "price": "3000",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "카모마일,페퍼민트,실버문,얼그레이",
+      "price": "3500",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "밀크티",
+      "price": "4500",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "핫초코",
+      "price": "3500",
+      "description": "",
+      "images": []
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20181231_243/1546222036233mPl3B_JPEG/e4rNTtTKPAqP5hqBhkR3_uuP.jpeg.jpg",
+    "https://ldb-phinf.pstatic.net/20181231_23/1546222086613Wc9tK_JPEG/-1MUvq23XNykoE-cStT6fuwH.jpeg.jpg",
+    "https://ldb-phinf.pstatic.net/20191118_281/1574069806295WM6sT_JPEG/hzPtm-QYMH49QilrX6OV9Flp.jpeg.jpg",
+    "https://ldb-phinf.pstatic.net/20191118_49/15740698295253uhVA_JPEG/tCD-4Vzm9SMJnAH-Isy-Qr5e.jpeg.jpg"
+  ]
+}

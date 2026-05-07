@@ -5,7 +5,7 @@ import { In, Repository } from 'typeorm';
 import { AI_RECOMMENDATION_PORT, AiRecommendationPort } from './ai-recommendation.port';
 import { Review } from './entities/review.entity';
 import { CreateReviewRequestDto, ReviewResponseDto } from './dtos/review.dto';
-import { CafeRecommendationCacheService } from './cafe-recommendation-cache.service.ts';
+import { CafeRecommendationCacheService } from './cafe-recommendation-cache.service';
 import { CafeWithTopKeywords, TopKeyword } from './dtos/cafe-with-keywords.interface';
 
 @Injectable()
@@ -93,21 +93,29 @@ export class CafeService {
     }
 
     private enrichCafesWithTopKeywords(cafes: Cafe[]): CafeWithTopKeywords[] {
+        const vectors = this.cacheService.aspectVectors;
+        const DIMENSION = 12;
+
         return cafes.map(cafe => {
-            // 1. 인메모리 Map에서 해당 카페의 키워드 카운트 객체 O(1) 조회
             const metadata = this.cacheService.cafeMetadataMap.get(cafe.id);
             const keywordCounts = metadata?.keywordCounts || {};
 
-            // 2. 객체를 [키, 값] 배열로 변환 -> count 기준 내림차순 정렬 -> 상위 10개 추출
             const topKeywords: TopKeyword[] = Object.entries(keywordCounts)
                 .sort(([, countA], [, countB]) => countB - countA)
                 .slice(0, 10)
                 .map(([keyword, count]) => ({ keyword, count }));
 
-            // 3. 기존 엔티티 데이터에 topKeywords 속성을 병합하여 반환
+            const aspectVector: number[] = [];
+            if (metadata) {
+                for (let d = 0; d < DIMENSION; d++) {
+                    aspectVector.push(vectors[metadata.index + d]);
+                }
+            }
+
             return {
                 ...cafe,
                 topKeywords,
+                aspectVector,
             };
         });
     }

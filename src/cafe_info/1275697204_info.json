@@ -1,0 +1,167 @@
+{
+  "id": "1275697204",
+  "name": "세이케이크",
+  "category": "케이크전문",
+  "micro_review": [
+    "드로잉으로 표현하는 정성 가득 케이크"
+  ],
+  "road_address": "서울 성동구 동일로 75 1층 세이케이크",
+  "address": "서울 성동구 성수동2가 250-30",
+  "lat": "127.0623349",
+  "lon": "37.5396704",
+  "business_hours": [
+    {
+      "day": "토",
+      "start": "11:00",
+      "end": "14:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "일",
+      "start": "11:00",
+      "end": "14:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": "11:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": "11:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "수",
+      "start": "11:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "목",
+      "start": "11:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "금",
+      "start": "11:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1382-7467",
+  "url": "http://instagram.com/_saycake",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": false,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": true,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "소중한 사람과의 특별한 기념일을 더 의미있게 보내세요!\n맛있고 예쁘게 정성껏 제작합니다 :)",
+  "Information_facilitie": [
+    "예약",
+    "포장"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "제로페이"
+  ],
+  "menu": [
+    {
+      "name": "도시락케이크",
+      "price": "",
+      "description": "지름 12cm 손바닥 정도의 사이즈로 디자인마다 가격이 상이합니다.\n(평균 2만원대)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240717_203/1721209970165Ormua_JPEG/IMG_1986.jpeg",
+        "https://ldb-phinf.pstatic.net/20240717_151/1721209938024tiw8O_JPEG/IMG_0686.jpeg",
+        "https://ldb-phinf.pstatic.net/20240717_175/1721209910394ndcLG_JPEG/IMG_6619.jpeg",
+        "https://ldb-phinf.pstatic.net/20240717_36/1721209866914KPV8Y_JPEG/IMG_4277.jpeg",
+        "https://ldb-phinf.pstatic.net/20240717_194/1721209856309bqF0O_JPEG/IMG_3412.jpeg"
+      ]
+    },
+    {
+      "name": "생화케이크",
+      "price": "",
+      "description": "생화 특성상 사진과 완벽하게 같은 종류로는 제작 불가하며, 분위기와 색감 맞춰 진행됩니다!",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240717_17/1721211119161dNq5f_JPEG/IMG_9364.jpeg",
+        "https://ldb-phinf.pstatic.net/20240717_104/1721211086917MznJQ_JPEG/IMG_4905.jpeg",
+        "https://ldb-phinf.pstatic.net/20240717_202/1721211086798gP0x8_JPEG/IMG_2423.jpeg",
+        "https://ldb-phinf.pstatic.net/20240717_147/1721211086674tA689_JPEG/IMG_8127.jpeg",
+        "https://ldb-phinf.pstatic.net/20240717_126/1721210025398VyVIa_JPEG/9469FF55-9D80-43F0-A70C-507FE67E0A01-9111-0000080D0BF03C57.jpeg"
+      ]
+    },
+    {
+      "name": "쿠키 타르트 케이크",
+      "price": "",
+      "description": "빵 케이크 X, 쿠키 케이크 입니다!\n숫자/이니셜/하트 가능합니다!",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240717_33/1721210753024IGafT_JPEG/2866770523455966788-0.jpg",
+        "https://ldb-phinf.pstatic.net/20240717_263/17212103885458gxne_JPEG/IMG_4752.jpeg",
+        "https://ldb-phinf.pstatic.net/20240717_30/1721210323437VbGWC_JPEG/IMG_4172.jpeg",
+        "https://ldb-phinf.pstatic.net/20240717_124/1721210323161VJ3NJ_JPEG/IMG_4956.jpeg",
+        "https://ldb-phinf.pstatic.net/20240717_80/1721210215326wYt30_JPEG/IMG_9268.jpeg"
+      ]
+    },
+    {
+      "name": "드로잉 케이크",
+      "price": "",
+      "description": "인물 사진 또는 캐릭터 이미지 첨부 주시면 참고해서 그려드리고 있습니다!",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240717_144/1721210956657sKeO0_JPEG/IMG_9401.jpeg",
+        "https://ldb-phinf.pstatic.net/20240717_224/1721210890009wlhri_JPEG/IMG_1919.jpeg",
+        "https://ldb-phinf.pstatic.net/20240717_295/1721210890114AeteH_JPEG/IMG_1907.jpeg",
+        "https://ldb-phinf.pstatic.net/20240717_103/1721210890259OYIiQ_JPEG/IMG_0893.jpeg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20250214_94/1739527320392GzKoT_JPEG/IMG_3211.jpeg",
+    "https://ldb-phinf.pstatic.net/20250214_258/1739527320170T8wvy_JPEG/IMG_8127.jpeg",
+    "https://ldb-phinf.pstatic.net/20250214_288/173952732023287Eun_JPEG/IMG_9460.jpeg",
+    "https://ldb-phinf.pstatic.net/20250214_274/1739527320278PrEHr_JPEG/IMG_8418.jpeg",
+    "https://ldb-phinf.pstatic.net/20210604_54/1622733917112qidOt_JPEG/FRvcjoY5Tj_LSn7Yk6DC2fxh.jpeg.jpg",
+    "https://ldb-phinf.pstatic.net/20210604_115/1622733925874B4TCW_JPEG/R4Um0KblE3iN5Ehdva1Tksbl.jpeg.jpg",
+    "https://ldb-phinf.pstatic.net/20210604_108/16227339321714941n_JPEG/hCyLOWWZx8ajzmNHmMGMxfbN.jpeg.jpg",
+    "https://ldb-phinf.pstatic.net/20210807_136/1628293605265fNT6z_JPEG/D4S_zOLEWu2dpBEAqSo1GMHl.jpeg.jpg",
+    "https://ldb-phinf.pstatic.net/20210604_221/1622733905523dQBvJ_PNG/5nys_-wLAqDTYnWYxtnl7Jp1.png"
+  ]
+}

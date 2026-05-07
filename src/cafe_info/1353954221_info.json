@@ -1,0 +1,171 @@
+{
+  "id": "1353954221",
+  "name": "한정선",
+  "category": "카페,디저트",
+  "micro_review": [
+    "다양한 과일이 듬뿍 담긴 쫀득함"
+  ],
+  "road_address": "서울 성동구 연무장길 43-1 1층",
+  "address": "서울 성동구 성수동2가 316-74",
+  "lat": "127.0541964",
+  "lon": "37.542865",
+  "business_hours": [
+    {
+      "day": "매일",
+      "start": "10:30",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": null,
+  "url": "http://pf.kakao.com/_WTtbn",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": false,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "한국의 정서를 느낄 수 있는 공간과 맛, 한정선입니다.\n\n온화한 백색의 넉넉하고 꾸밈없는 형태의\n백자 달항아리는 들어온 '복(福)'을 담는 의미로\n한정선에 방문하시는 분들께\n'복(福)'을 전달하고자 벽장 가득 진열되어 있습니다.\n\n제품을 구매하지 않으셔도 좋습니다.\n잠시 들러 복을 담는 마음으로,\n편안하게 머물다 가시길 바랍니다.",
+  "Information_facilitie": [
+    "포장",
+    "출입구 휠체어 이용가능"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "제로페이"
+  ],
+  "menu": [
+    {
+      "name": "[한정수량] 생딸기 두바이 찹쌀떡",
+      "price": "7500",
+      "description": "신선한 생딸기에 피스타치오와 초콜릿의 풍미를 더한 쫀득한 찹쌀떡",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251128_87/1764323423334J1muJ_JPEG/%B9%DD%B0%A5_%BB%FD%B5%FE%B1%E2%B5%CE%B9%D9%C0%CC.jpg"
+      ]
+    },
+    {
+      "name": "[한정수량] 두바이st 찹쌀떡",
+      "price": "6500",
+      "description": "진한 초콜릿 안에 고메버터로 볶은 카다이프와 피스타치오100%로 만든 찹쌀떡",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241112_176/1731405611398ggm8Q_JPEG/%C7%D1%C1%A4%BC%B1-%C2%FD%BD%D2%B6%B1-%C0%CF%B7%AF%BD%BA%C6%AE-00-%B5%CE%B9%D9%C0%CCst.jpg"
+      ]
+    },
+    {
+      "name": "[한정수량] 초코딸기 찹쌀떡",
+      "price": "5500",
+      "description": "달콤한 생딸기를 초코앙금으로 감싼 초코딸기 찹쌀떡",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241202_185/1733126826392Ncr64_JPEG/%C3%CA%C4%DA%B5%FE%B1%E2_%C2%FD%BD%D2%B6%B1.JPG"
+      ]
+    },
+    {
+      "name": "생딸기 찹쌀떡",
+      "price": "4200",
+      "description": "하얀 찹쌀 피 안에 신선한 생딸기와 적앙금이 가득한 생딸기 찹쌀떡",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241030_236/1730267491232YG7Ry_JPEG/%C7%D1%C1%A4%BC%B1_%C2%FD%BD%D2%B6%B1_%C0%CF%B7%AF%BD%BA%C6%AE-05-%BB%FD%B5%FE.jpg"
+      ]
+    },
+    {
+      "name": "샤인머스캣 찹쌀떡",
+      "price": "4500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250718_250/1752797631694DrSrE_JPEG/%C7%D1%C1%A4%BC%B1_%C2%FD%BD%D2%B6%B1_%C0%CF%B7%AF%BD%BA%C6%AE-03_%BB%FE%C0%CE.jpg"
+      ]
+    },
+    {
+      "name": "쑥생딸기",
+      "price": "4500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250531_85/1748690276419h3wGL_JPEG/%C7%D1%C1%A4%BC%B1_%C2%FD%BD%D2%B6%B1_%C0%CF%B7%AF%BD%BA%C6%AE-06-%BE%A6.jpg"
+      ]
+    },
+    {
+      "name": "골드키위 찹쌀떡",
+      "price": "4500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250530_207/1748596124013aVktB_JPEG/%C7%D1%C1%A4%BC%B1_%C2%FD%BD%D2%B6%B1_%C0%CF%B7%AF%BD%BA%C6%AE-07-%C5%B0%C0%A7.jpg"
+      ]
+    },
+    {
+      "name": "홍시 찹쌀떡",
+      "price": "4200",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241030_130/1730267475907wrpSE_JPEG/%C7%D1%C1%A4%BC%B1_%C2%FD%BD%D2%B6%B1_%C0%CF%B7%AF%BD%BA%C6%AE-04_%B0%F9%B0%A8.jpg"
+      ]
+    },
+    {
+      "name": "앙버터 찹쌀떡 (고메버터)",
+      "price": "3500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241030_286/1730267560283mS66f_JPEG/%C7%D1%C1%A4%BC%B1_%C2%FD%BD%D2%B6%B1_%C0%CF%B7%AF%BD%BA%C6%AE-10-%BE%D3%B9%F6%C5%CD.jpg"
+      ]
+    },
+    {
+      "name": "통귤 찹쌀떡",
+      "price": "4000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241030_182/1730267564852S5YIi_JPEG/%C7%D1%C1%A4%BC%B1_%C2%FD%BD%D2%B6%B1_%C0%CF%B7%AF%BD%BA%C6%AE-09-%C5%EB%B1%D6.jpg"
+      ]
+    },
+    {
+      "name": "허니골드 파인애플 찹쌀떡",
+      "price": "4000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241030_197/1730267570822yzgkD_JPEG/%C7%D1%C1%A4%BC%B1_%C2%FD%BD%D2%B6%B1_%C0%CF%B7%AF%BD%BA%C6%AE-08-%C6%C4%C0%CE.jpg"
+      ]
+    },
+    {
+      "name": "6구 선물세트",
+      "price": "32000",
+      "description": "두바이st, 생딸기, 초코딸기, 홍시, 통귤, 샤인머스캣",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250806_156/1754453938989YIW7C_JPEG/6%B1%B8%BC%BC%C6%AE.jpg"
+      ]
+    },
+    {
+      "name": "9구 선물세트",
+      "price": "46000",
+      "description": "두바이st, 생딸기, 초코딸기, 홍시, 통귤, 파인애플, 샤인머스캣, 쑥생딸기, 골드키위",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250806_290/1754455121774YLdv7_JPEG/9%B1%B8%BC%BC%C6%AE%28%C0%DB%C0%BA%C0%CC%B9%CC%C1%F6%29.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20240606_60/1717643751457xvHHR_JPEG/IMG_3230.jpeg",
+    "https://ldb-phinf.pstatic.net/20231004_132/1696392887138Wquuk_JPEG/KakaoTalk_20231004_114859997_04.jpg",
+    "https://ldb-phinf.pstatic.net/20231004_213/1696392887170HO99y_JPEG/KakaoTalk_20231004_114859997_01.jpg",
+    "https://ldb-phinf.pstatic.net/20230927_41/1695795740687HP039_JPEG/KakaoTalk_20230927_151917865.jpg"
+  ]
+}

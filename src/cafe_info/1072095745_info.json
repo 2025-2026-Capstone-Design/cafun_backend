@@ -1,0 +1,312 @@
+{
+  "id": "1072095745",
+  "name": "소파",
+  "category": "아이스크림",
+  "micro_review": null,
+  "road_address": "서울 성동구 성수일로4길 50 1층",
+  "address": "서울 성동구 성수동2가 321-86",
+  "lat": "127.0541421",
+  "lon": "37.5424349",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "12:00",
+      "end": "21:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:00"
+        }
+      ]
+    },
+    {
+      "day": "토",
+      "start": "12:00",
+      "end": "21:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:00"
+        }
+      ]
+    },
+    {
+      "day": "일",
+      "start": "12:00",
+      "end": "21:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:00"
+        }
+      ]
+    },
+    {
+      "day": "월",
+      "start": "12:00",
+      "end": "21:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:00"
+        }
+      ]
+    },
+    {
+      "day": "화",
+      "start": "12:00",
+      "end": "21:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:00"
+        }
+      ]
+    },
+    {
+      "day": "수",
+      "start": "12:00",
+      "end": "21:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:00"
+        }
+      ]
+    },
+    {
+      "day": "목",
+      "start": "12:00",
+      "end": "21:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "21:00"
+        }
+      ]
+    }
+  ],
+  "virtual_phone_number": "0507-1373-8175",
+  "url": "https://www.instagram.com/sofar.ss",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": false,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": true,
+    "반려동물 동반": true,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": true,
+    "포장": true,
+    "배달": true,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "Gelato & Wine & Coffee\nLet's enjoy Light Pleasure!\nWe make our gelato fresh every day.\n\n소파는 매일 신선한 재료로 만들어지는 젤라또,\n엄선한 와인의 페어링을 통해\n반복되는 일상에 가벼운 즐거움을 선물합니다.",
+  "Information_facilitie": [
+    "와인 페어링",
+    "테이크아웃 할인",
+    "반려동물 동반",
+    "배달",
+    "포장",
+    "예약"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "제로페이",
+    "간편결제"
+  ],
+  "menu": [
+    {
+      "name": "젤라또(컵/콘) *맛 상시변동",
+      "price": "6000",
+      "description": "소파의 모든 젤라또는 테이크아웃 가능합니다. 취향에 따라 컵 또는 콘으로 즐겨보세요.",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250515_129/1747293525520Ps8wT_JPEG/%C0%CC%B9%CC%C1%F6_%BB%E7%C0%CC%C1%EE%BA%AF%B0%E6.jpg",
+        "https://ldb-phinf.pstatic.net/20250515_77/1747293505317lLui3_JPEG/%B8%C1%B0%ED.jpg",
+        "https://ldb-phinf.pstatic.net/20250515_99/1747293502974asfrN_JPEG/%B5%F6%C3%CA%C4%DD%B7%BF.jpg",
+        "https://ldb-phinf.pstatic.net/20250515_3/1747293498838IWiRx_JPEG/%B8%AE%C1%B6.jpg"
+      ]
+    },
+    {
+      "name": "글라스 와인",
+      "price": "9000",
+      "description": "화이트, 스윗화이트, 레드 중에서 고르세요. 가볍게 한 잔하기 좋은 와인을 준비했습니다.",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250721_272/1753081785824XsmCF_JPEG/7-1.jpg"
+      ]
+    },
+    {
+      "name": "소금올리브 젤라또(Signature)",
+      "price": "6000",
+      "description": "프랑스 게랑드 소금을 사용한 소금우유 젤라또에 올리브오일과 후추를 더한 풍미 가득한 젤라또",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250724_225/17533482209240FMlv_JPEG/%B3%D7%C0%CC%B9%F6%B8%DE%B4%BA%C6%C7_%BC%D2%B1%DD%BF%C3%B8%AE%BA%EA.jpg"
+      ]
+    },
+    {
+      "name": "두바이초코 젤라또",
+      "price": "9500",
+      "description": "100% 원물 피스타치오 젤라또와 다크초코 젤라또에 바삭한 카다이프가 토핑된 두바이 젤라또",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251118_126/1763433844483Ffs73_JPEG/%B5%CE%B9%D9%C0%CC_%B3%D7%C0%CC%B9%F6%B8%DE%B4%BA%C6%C7%BB%E7%C1%F82.jpg"
+      ]
+    },
+    {
+      "name": "시나몬고구마 젤라또",
+      "price": "9000",
+      "description": "따뜻한 군고구마에 쫀득한 고구마 젤라또가 한 스쿱 올라간 겨울 디저트",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251125_112/1764063711644g3CBQ_PNG/Gemini_Generated_Image_i2clpoi2clpoi2cl.png"
+      ]
+    },
+    {
+      "name": "바나나푸딩",
+      "price": "9000",
+      "description": "싱싱한 바나나와 초콜릿, 부드러운 커스타드 크림이 조화로운 디저트",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250515_196/17472931996835LbEI_JPEG/%B9%D9%C7%AA%BE%F7%B5%A5%C0%CC%C6%AE.jpg"
+      ]
+    },
+    {
+      "name": "브루키",
+      "price": "12000",
+      "description": "브라우니+쿠키 with 바닐라 젤라또 (맛 변경 +1.0)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250519_93/1747640936933EjyDX_JPEG/%BA%EA%B7%E7%C5%B0%BE%F7%B5%AB.jpg"
+      ]
+    },
+    {
+      "name": "바나나 브레드",
+      "price": "6000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250827_175/1756256485746FYEDc_JPEG/%B9%D9%B3%AA%B3%AA%BA%EA%B7%B9%B5%E5_%BE%C6%BD%BA%C6%C8%C6%AE.jpg"
+      ]
+    },
+    {
+      "name": "토마토페타치즈",
+      "price": "15000",
+      "description": "신선한 페타치즈와 바질페스토, 올리브오일과 발사믹 소스, 꿀이 어우러진 완벽한 한입 요리.",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250721_57/1753082661818FpN2J_JPEG/%C6%E4%C5%B8%C4%A1%C1%EE%BC%F6%C1%A4.jpg"
+      ]
+    },
+    {
+      "name": "뱅쇼(hot/ice)",
+      "price": "9000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251112_23/1762907562423zvc8L_JPEG/%B9%F0%BC%EE.jpg"
+      ]
+    },
+    {
+      "name": "아메리카노",
+      "price": "6000",
+      "description": "Koffee Sniffer 원두로 만들어진 구수하고 묵직한 바디감.",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250102_114/1735782397406KjRo7_JPEG/%BE%C6%B8%DE%B8%AE%C4%AB%B3%EB%C7%D5%BC%BA2.jpg"
+      ]
+    },
+    {
+      "name": "카페라떼",
+      "price": "6500",
+      "description": "Koffee Sniffer 원두의 로스티드 견과류, 카카오, 흑설탕의 풍미를 경험해보세요.",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241220_191/1734659614202dX0rK_JPEG/%B3%D7%C0%CC%B9%F6%B8%DE%B4%BA%C6%C7%BB%E7%C1%F8_%B6%F3.jpg"
+      ]
+    },
+    {
+      "name": "바닐라라떼",
+      "price": "6500",
+      "description": "Koffee Sniffer 원두의 고소한 맛과 바닐라의 달콤함이 조화롭게 어우러진 라떼.",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241220_103/1734660568470fSt32_JPEG/%B3%D7%C0%CC%B9%F6%B8%DE%B4%BA%C6%C7%BB%E7%C1%F8_%B9%D9%B4%D2%B6%F3%B6%F3.jpg"
+      ]
+    },
+    {
+      "name": "디카페인 콜드브루 (Only Ice)",
+      "price": "6500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250602_109/1748850236182hj5Xe_JPEG/%B5%F0%C4%AB%C6%E4%C0%CE_%BE%DF%BF%DC.jpg"
+      ]
+    },
+    {
+      "name": "핫초코",
+      "price": "7000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251210_211/1765326507735JpMOl_JPEG/IMG_7308.jpg"
+      ]
+    },
+    {
+      "name": "보틀 와인",
+      "price": "",
+      "description": "다양한 와인을 준비했어요. 리스트는 자주 업데이트되니 직원에게 문의해주세요. :)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250721_26/1753081942239q2Sg5_JPEG/%BC%D2%C6%C4%BF%CD%C0%CE%BA%B8%C6%B2.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20251002_31/1759368356494TyRr1_JPEG/251002.jpg",
+    "https://ldb-phinf.pstatic.net/20240812_229/1723450949959wbrGS_JPEG/3408196450514136651-0.jpeg",
+    "https://ldb-phinf.pstatic.net/20251002_228/1759367944091ycPIE_JPEG/250917.jpg",
+    "https://ldb-phinf.pstatic.net/20251002_67/1759367944161K3e16_JPEG/250724.jpg",
+    "https://ldb-phinf.pstatic.net/20251201_90/1764598439391z63Du_JPEG/IMG_7033.jpg",
+    "https://ldb-phinf.pstatic.net/20251002_76/1759368054290O4niz_JPEG/250722.jpg",
+    "https://ldb-phinf.pstatic.net/20251002_248/1759367944118NdByT_JPEG/250822.jpg",
+    "https://ldb-phinf.pstatic.net/20251002_25/1759367944423nrwre_PNG/250904.png",
+    "https://ldb-phinf.pstatic.net/20240812_41/1723450950043wnIUm_JPEG/3408196450514136651-0.jpeg",
+    "https://ldb-phinf.pstatic.net/20250903_294/1756862365247endNB_JPEG/%B3%D7%C0%CC%B9%F6%B8%DE%B4%BA%C6%C7_%BC%D2%B1%DD%BF%C3%B8%AE%BA%EA.jpg",
+    "https://ldb-phinf.pstatic.net/20250721_142/17530810436843b7lv_JPEG/7-1.jpg",
+    "https://ldb-phinf.pstatic.net/20250721_67/1753081281554Qle1o_PNG/250715.png",
+    "https://ldb-phinf.pstatic.net/20250721_66/1753081168697uE5rN_JPEG/1-2_250618.jpg",
+    "https://ldb-phinf.pstatic.net/20250423_87/1745388514480jkGjQ_JPEG/4.jpg",
+    "https://ldb-phinf.pstatic.net/20250721_188/1753081193337JsySp_JPEG/%BC%F6%C1%A42.jpg",
+    "https://ldb-phinf.pstatic.net/20240706_219/1720272730261biUPL_JPEG/IMG_3691.jpg",
+    "https://ldb-phinf.pstatic.net/20251002_197/17593680192453vK3q_JPEG/2-1_%281%29.jpg",
+    "https://ldb-phinf.pstatic.net/20250423_197/17453884502049ljGI_JPEG/%B8%DE%C0%CE.jpg",
+    "https://ldb-phinf.pstatic.net/20250721_191/17530811589049iXUL_PNG/1-2.png",
+    "https://ldb-phinf.pstatic.net/20250721_299/175308104882649WtC_PNG/6-1_3.png",
+    "https://ldb-phinf.pstatic.net/20250721_139/1753081161619FSStl_PNG/1-1.png",
+    "https://ldb-phinf.pstatic.net/20250721_21/1753081061173kTc8G_JPEG/1-1.jpg",
+    "https://ldb-phinf.pstatic.net/20241224_211/1735000482345MFJyH_JPEG/%B3%D7%C0%CC%B9%F6%B8%DE%B4%BA%C6%C7%BB%E7%C1%F8_%B0%A1%B0%D4%B3%BB%BA%CE.jpg",
+    "https://ldb-phinf.pstatic.net/20240706_227/17202727297521hqIQ_JPEG/IMG_4094.jpg",
+    "https://ldb-phinf.pstatic.net/20240812_57/1723450918177tVE8M_PNG/IMG_4062.png"
+  ]
+}

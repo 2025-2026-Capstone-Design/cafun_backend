@@ -1,0 +1,137 @@
+{
+  "id": "1250235967",
+  "name": "기댈빙",
+  "category": "빙수",
+  "micro_review": [
+    "단짠 조화로 완성된 빙수의 정수"
+  ],
+  "road_address": "서울 성동구 서울숲2길 19-8 1층",
+  "address": "서울 성동구 성수동1가 685-414",
+  "lat": "127.041084",
+  "lon": "37.5472214",
+  "business_hours": [
+    {
+      "day": "매일",
+      "start": "12:00",
+      "end": "24:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1378-3531",
+  "url": "https://www.instagram.com/gd__bing/",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": true,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": true,
+    "포장": true,
+    "배달": true,
+    "출장": true,
+    "방문접수": true,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "안녕하세요 성수동의 자랑인 빙수전문점 기댈빙 입니다\n사계절 언제든 먹을 수 있는 어디에서도\n맛 볼 수 없는 빙수를 만들고 있습니다\n빙수로 모두에게 위로가 되며 모두가 기댈 수 있는\n빙수 가게를 같이 만들어가고싶습니다.\n\n성수동맛집, 성수동파스타, 성수동뇨끼, 성수동스테이크, 성수동양식, 성수동브런치, 성수동점심, 성수동핫플, 성수동데이트, 성수동혼밥, 성수맛집, 뚝섬데이트코스, 뚝섬찐맛, 식, 성수점심, 성수핫플, 성수데이트, 성수혼밥, 성수동소개팅, 성수동 핫플 맛집, 서울 성수동 맛집, 성수동 양식 맛집, 성수동 브런치 맛집, 성수동 파스타 맛집, 성수동 뇨끼 맛집, 성수역 파스타, 성수역 파스타 맛집, 성수역맛집, 서울숲맛집, 성수2가카페거리점심데이트코스, 성수역3번출구, 성수역4번출구, 성수역1번출구, 성수역2번출구, 성수2가연무장길저녁레스토랑, 성수동생일파티, 성수동파스타회식, 뚝섬분위기, 카페거리, 성수동 연무장길성수역카페거리",
+  "Information_facilitie": [
+    "비건 메뉴",
+    "유기농 메뉴",
+    "와인 페어링",
+    "포장",
+    "무선 인터넷",
+    "단체 이용 가능",
+    "예약",
+    "방문접수/출장",
+    "배달"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "제로페이",
+    "네이버페이"
+  ],
+  "menu": [
+    {
+      "name": "생딸기빙수",
+      "price": "18000",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "말차 프렌치수풀레",
+      "price": "16000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251104_15/176226417379562fo6_JPEG/IMG_4138.jpeg",
+        "https://ldb-phinf.pstatic.net/20251104_147/1762264173592JGr6V_JPEG/IMG_4137.jpeg",
+        "https://ldb-phinf.pstatic.net/20251104_216/1762264174314UmtNl_JPEG/IMG_4143.jpeg"
+      ]
+    },
+    {
+      "name": "하몽메론빙수",
+      "price": "19000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250605_226/17491047394302rWgu_JPEG/KakaoTalk_20250204_135222790_01.jpg"
+      ]
+    },
+    {
+      "name": "루이보스 바닐라 티",
+      "price": "5000",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "피치스 카모마일 티",
+      "price": "5000",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "화이트템플 얼그레이 티",
+      "price": "5000",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "말차푸딩빙수",
+      "price": "24000",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "망고듬뿍빙수",
+      "price": "17500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250605_214/1749104726258PexJc_JPEG/KakaoTalk_20250204_135222790_03.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20240207_153/1707286945407pvR4K_JPEG/24B00658-1C57-4C51-B778-BADF56F52AF1.jpeg",
+    "https://ldb-phinf.pstatic.net/20240207_121/17072869453580vE2w_JPEG/29F2546F-1C76-4C5E-8426-3ABDE7A41E78.jpeg",
+    "https://ldb-phinf.pstatic.net/20240207_19/1707286945529qjrlq_JPEG/0E3CED25-9043-48F4-B0E8-DE216C852647.jpeg",
+    "https://ldb-phinf.pstatic.net/20251111_120/1762843477583lp25I_JPEG/C23DB3E5-A5CE-467A-98F3-EB32C8F4DB44.jpeg",
+    "https://ldb-phinf.pstatic.net/20240207_228/1707286945354MwKCT_JPEG/8E11A200-0A7F-45F0-83EF-A6CD2E15D24C.jpeg",
+    "https://ldb-phinf.pstatic.net/20240207_226/17072869453344Nm2z_JPEG/CB151648-9DFC-4C6C-83D8-A88A013C68C9.jpeg",
+    "https://ldb-phinf.pstatic.net/20240207_107/1707286945348QoEqe_JPEG/CB50043F-ACD6-4B92-B011-F1F6FDA35FE2.jpeg",
+    "https://ldb-phinf.pstatic.net/20240207_43/17072869453431Sl8G_JPEG/4DA39A51-91DE-4469-A444-272B3C3CBAA1.jpeg",
+    "https://ldb-phinf.pstatic.net/20240125_285/1706157049405vlcCg_JPEG/FB709FD7-C6BF-49F7-88D4-338FA582D25B.jpeg",
+    "https://ldb-phinf.pstatic.net/20240125_272/1706157050072E2lEO_JPEG/14B133C9-7488-45E2-B933-855723E9412C.jpeg"
+  ]
+}

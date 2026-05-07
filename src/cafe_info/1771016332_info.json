@@ -1,0 +1,189 @@
+{
+  "id": "1771016332",
+  "name": "본지르르 성수",
+  "category": "카페,디저트",
+  "micro_review": [
+    "친절한 서비스와 함께하는 즐거운 시간"
+  ],
+  "road_address": "서울 성동구 광나루로4가길 13 B1, 1, 2층",
+  "address": "서울 성동구 성수동2가 299-21",
+  "lat": "127.054698",
+  "lon": "37.5493012",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "11:00",
+      "end": "24:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "토",
+      "start": "11:00",
+      "end": "24:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "일",
+      "start": "11:00",
+      "end": "23:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": "11:00",
+      "end": "23:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": "11:00",
+      "end": "23:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "수",
+      "start": "11:00",
+      "end": "23:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "목",
+      "start": "11:00",
+      "end": "23:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1327-8615",
+  "url": "https://www.instagram.com/vonzrr_seongsu/",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": true,
+    "대기공간": false,
+    "간편결제": true,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "본지르르는 '본질'과 '번지르르'의 합성어이며 카페의 본질인 식음료의 맛, 편안한 공간 등을 기본으로 겉모습까지 갖추겠다라는 의미를 가지고 있습니다.",
+  "Information_facilitie": [
+    "테이크아웃 할인",
+    "단체 이용 가능",
+    "포장",
+    "무선 인터넷"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "네이버페이",
+    "간편결제"
+  ],
+  "menu": [
+    {
+      "name": "초코 테린느",
+      "price": "6000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251118_245/176344691838048urC_JPEG/KakaoTalk_20251118_150607655_06.jpg"
+      ]
+    },
+    {
+      "name": "말차 테린느",
+      "price": "6500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251118_260/1763446904834Hgglq_JPEG/KakaoTalk_20251118_150607655_05.jpg"
+      ]
+    },
+    {
+      "name": "바스크 치즈 케이크",
+      "price": "7000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251118_226/176344693347128Ivb_JPEG/KakaoTalk_20251118_150607655_04.jpg"
+      ]
+    },
+    {
+      "name": "레몬 케이크",
+      "price": "8000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251118_299/1763446946890mfTwO_JPEG/KakaoTalk_20251118_150607655_03.jpg"
+      ]
+    },
+    {
+      "name": "본지르르 머핀",
+      "price": "8500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250511_124/1746956080375y7hAh_JPEG/KakaoTalk_20250511_183332320.jpg"
+      ]
+    },
+    {
+      "name": "시나몬 당근 케이크",
+      "price": "9000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250511_170/1746956105850oD0AQ_JPEG/KakaoTalk_20250511_183332671.jpg"
+      ]
+    },
+    {
+      "name": "갈릭 치아바타",
+      "price": "10000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251118_37/1763446967422DYM10_JPEG/KakaoTalk_20251118_150607655.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20231104_243/1699067976293bHufr_JPEG/ACBB9BFD-04A6-40F7-A4A8-8D9C0CF55D20.jpeg",
+    "https://ldb-phinf.pstatic.net/20231104_115/1699067978264NyxKc_JPEG/608B823C-A403-4733-AEB6-F21FA94DE8CD.jpeg",
+    "https://ldb-phinf.pstatic.net/20231104_221/1699067977040j5DPS_JPEG/981C16A9-0692-4558-A080-8E7901CFE3F6.jpeg",
+    "https://ldb-phinf.pstatic.net/20231104_263/16990679775563Wlh5_JPEG/133A3941-98B9-4AAF-B785-EE7F1F1AD2D7.jpeg",
+    "https://ldb-phinf.pstatic.net/20231104_77/1699067977639H0m1N_JPEG/FB131103-624C-4378-9BE7-E7A247362022.jpeg",
+    "https://ldb-phinf.pstatic.net/20231104_271/1699067978763bqvmB_JPEG/934AE377-8F95-4B3B-9F29-C9967345CB90.jpeg",
+    "https://ldb-phinf.pstatic.net/20231104_28/16990679788492l7pW_JPEG/C8E3E8A1-FC91-4DD7-BEC5-5FBFCA581A54.jpeg",
+    "https://ldb-phinf.pstatic.net/20231104_159/1699067979699NyCl6_JPEG/F680A4D7-A2C1-4E3C-B1D4-BE90B6F3A36C.jpeg",
+    "https://ldb-phinf.pstatic.net/20231104_277/1699067976710Xjfwn_JPEG/6F66B02D-F69D-4FDE-A11D-FDF3D7E29ACC.jpeg",
+    "https://ldb-phinf.pstatic.net/20231104_204/1699067976836JnkmE_JPEG/009DBC70-92B7-4F26-A27F-6CFAAD8092B3.jpeg",
+    "https://ldb-phinf.pstatic.net/20231104_96/16990679768694GOSu_JPEG/B7E0FB27-CD05-4CDA-B661-49FA4503FFB1.jpeg",
+    "https://ldb-phinf.pstatic.net/20231104_96/1699067976937fwJ5f_JPEG/8497123E-9AC5-4289-A1E7-3FEE8311DA46.jpeg",
+    "https://ldb-phinf.pstatic.net/20231104_168/1699067976637a3iyK_JPEG/D84B5BB9-7E33-4E01-9666-3A6EF22E7C84.jpeg",
+    "https://ldb-phinf.pstatic.net/20231104_175/1699067979349llcQN_JPEG/49E01736-E174-4B21-AFA7-36558D569426.jpeg",
+    "https://ldb-phinf.pstatic.net/20231104_58/16990679793056dxiF_JPEG/7838A5B0-257A-417C-88FF-0BDF5339AFC0.jpeg",
+    "https://ldb-phinf.pstatic.net/20231104_191/1699067979430gszw4_JPEG/21B5D148-B4D6-4ABB-8CA8-2B8149F67DE7.jpeg",
+    "https://ldb-phinf.pstatic.net/20231104_237/1699067979793Ufyj5_JPEG/C131A75F-ABED-451F-B817-C5502AE6512D.jpeg",
+    "https://ldb-phinf.pstatic.net/20231104_31/16990679798451wd70_JPEG/57618EE9-B4AD-4A79-B244-565123939B77.jpeg",
+    "https://ldb-phinf.pstatic.net/20231104_212/1699067979872LmkEX_JPEG/72917D25-C352-400C-98BA-7D02E971FE80.jpeg"
+  ]
+}

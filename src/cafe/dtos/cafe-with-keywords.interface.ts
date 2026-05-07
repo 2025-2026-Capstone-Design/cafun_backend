@@ -7,4 +7,5 @@ export interface TopKeyword {
 
 export interface CafeWithTopKeywords extends Cafe {
     topKeywords: TopKeyword[];
+    aspectVector: number[];
 }

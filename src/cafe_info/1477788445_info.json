@@ -1,0 +1,323 @@
+{
+  "id": "1477788445",
+  "name": "미디엄스톤 성수 뚝섬역점",
+  "category": "카페,디저트",
+  "micro_review": [
+    "고소한 아메리카노 한 잔의 행복"
+  ],
+  "road_address": "서울 성동구 왕십리로10길 18-1 1층, 2층, 옥상 미디엄스톤",
+  "address": "서울 성동구 성수동1가 656-711",
+  "lat": "127.0465615",
+  "lon": "37.5465605",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "11:30",
+      "end": "21:30",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "토",
+      "start": "11:30",
+      "end": "21:30",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "일",
+      "start": "11:30",
+      "end": "21:30",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": "11:30",
+      "end": "21:30",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": "11:30",
+      "end": "21:30",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "수",
+      "start": "11:30",
+      "end": "21:30",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "목(12/25)",
+      "start": "11:30",
+      "end": "21:30",
+      "breakHours": [],
+      "description": "성탄절",
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1383-7181",
+  "url": "http://www.instagram.com/medium_stone",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": true,
+    "단체 이용 가능": true,
+    "대기공간": false,
+    "간편결제": true,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": true,
+    "포장": true,
+    "배달": true,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "도심 속에서 잠시 쉬어갈 수 있는 공간, 카페 미디엄스톤입니다.\n루프탑이 있는 개조 주택 카페로,\n1층부터 2층, 옥상까지 각기 다른 분위기에서 커피와 디저트를 즐기실 수 있어요.\n코발트 블루의 포인트컬러와 조용하고 단정한 공간이 특징입니다.\n2020년부터 We love Still Your Smile, We love Still your medium.이라는 슬로건을 추구하고 있습니다.\n\n미디엄스톤의 원두는\n브라질, 콜롬비아, 과테말라 원두를 블렌딩한 스페셜티 커피입니다.\n견과류와 진한 초콜릿의 고소한 맛이 특징이며,\n디카페인 원두도 따로 준비되어 있어요.\n화학 용매가 아닌 깨끗한 물로 카페인을 제거한 방식으로,\n커피 본연의 맛은 유지하면서 카페인은 거의 없는 상태입니다.\n\n미디엄스톤에는 시그니쳐 커피 메뉴인 선스톤, 문스톤\n시그니쳐 에이드인 청포도맛의 블루에이드, 블루소다맛의 스카이소다에이드,\n매장에서 직접 만든 소르베가 올라간 라임딸기,자몽,레몬 소르베에이드가 있습니다.\n\n모든 디저트는 매장에서 직접 만들고 있습니다.\n발로나 초콜릿, 케이지프리 계란, 동물성 생크림 등\n검증된 재료만 사용하며, 기본에 충실한 디저트를 지향합니다.\n\n한적한 주택가에 위치해 있으며,\n카페 내부는 1층,2층,루프탑으로 층별로 분위기가 달라\n혼자 오셔도, 함께 오셔도 편안하게 머무실 수 있습니다.",
+  "Information_facilitie": [
+    "테이크아웃 할인",
+    "단체 이용 가능",
+    "무선 인터넷",
+    "남/녀 화장실 구분",
+    "포장",
+    "배달",
+    "예약"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "제로페이",
+    "간편결제"
+  ],
+  "menu": [
+    {
+      "name": "옐로우스톤",
+      "price": "6500",
+      "description": "유자 크림과 아몬드분태가 올라간 발로나 초콜릿무스 케이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20211224_177/16403325898559Q7NX_JPEG/yellowstone.jpg"
+      ]
+    },
+    {
+      "name": "바나나푸딩",
+      "price": "7000",
+      "description": "로투스가 올라간 시그니쳐 바나나푸딩",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241105_272/1730808663203332cx_JPEG/KakaoTalk_20241105_165950110.jpg"
+      ]
+    },
+    {
+      "name": "스카이소다에이드",
+      "price": "6000",
+      "description": "소다맛 청량하고 달콤한 에이드",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250527_84/17483469342424zwiv_PNG/KakaoTalk_20241105_205035985_06.png",
+        "https://ldb-phinf.pstatic.net/20241104_189/1730722507631R10UI_JPEG/%BD%BA%C4%AB%C0%CC%BC%D2%B4%D9%BF%A1%C0%CC%B5%E5.jpg"
+      ]
+    },
+    {
+      "name": "스카이소다아이스크림",
+      "price": "6800",
+      "description": "소다맛 우유 음료로 아이스크림과 함께 즐길수 있는 음료",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250527_234/1748346943133rkmt6_PNG/KakaoTalk_20241105_205035985_05.png",
+        "https://ldb-phinf.pstatic.net/20241104_12/1730722627271akeVq_JPEG/%BE%C6%C0%CC%BD%BA%C5%A9%B8%B2%BD%BA%C4%AB%C0%CC%BC%D2%B4%D9.jpg"
+      ]
+    },
+    {
+      "name": "블루에이드",
+      "price": "6500",
+      "description": "라임,크랜베리,레몬이 들어간 청포도에이드",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250527_128/1748346883968vVtXy_PNG/KakaoTalk_20241105_205035985_08.png"
+      ]
+    },
+    {
+      "name": "선스톤",
+      "price": "7000",
+      "description": "미디엄스톤 시그니쳐 레몬크림 아인슈패너",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241129_127/1732868743862rwxzK_JPEG/%BC%B1%BD%BA%C5%E6.jpg"
+      ]
+    },
+    {
+      "name": "문스톤",
+      "price": "7000",
+      "description": "미디엄스톤 시그니쳐 에스프레소 콘파냐",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241129_299/17328687565155qt9y_JPEG/%B9%AE%BD%BA%C5%E6.JPG"
+      ]
+    },
+    {
+      "name": "얼그레이케이크",
+      "price": "6500",
+      "description": "냉칭생크림으로 만든 달콤 향긋 얼그레이 케이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241105_92/1730807995531hrw29_PNG/KakaoTalk_20241105_205035985.png"
+      ]
+    },
+    {
+      "name": "가또쇼콜라",
+      "price": "6800",
+      "description": "꾸덕한 식감, 풍미가득 고급스러운 가또쇼콜라",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241105_219/1730808113752opdfe_PNG/KakaoTalk_20241105_205035985_01.png"
+      ]
+    },
+    {
+      "name": "바스크치즈케이크",
+      "price": "6800",
+      "description": "밀도가득, 풍미가득,입에서 사르르 녹는 치즈케이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241105_265/173080807247185egb_PNG/KakaoTalk_20241105_205035985_02.png"
+      ]
+    },
+    {
+      "name": "흑임자케이크",
+      "price": "7000",
+      "description": "고소한 흑임자풍미와 밀도가득한 꾸덕한 케이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241129_216/1732865776361h0XGw_JPEG/IMG_8553_-_%BA%B9%BB%E7%BA%BB.JPG"
+      ]
+    },
+    {
+      "name": "크로플",
+      "price": "4500",
+      "description": "프랑스 브리도 크로아상 반죽으로 만든 겉바속촉 크로플",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241105_291/1730808209941PFWIk_PNG/KakaoTalk_20241105_205035985_04.png"
+      ]
+    },
+    {
+      "name": "에스프레소 콘파냐",
+      "price": "4000",
+      "description": "동물성생크림이 올라간 풍미있는 에스프레소 콘파냐",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241113_107/1731424875815H9sPI_JPEG/KakaoTalk_20241113_000946108_03.jpg"
+      ]
+    },
+    {
+      "name": "아메리카노",
+      "price": "4300",
+      "description": "산미없는 고소한 원두로 호불호 없이 즐길수 있는 스페셜티 원두를 사용한 아메리카노",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220106_264/1641429670572lMS7f_JPEG/%BE%C6%C0%CC%BD%BA%BE%C6%B8%DE%B8%AE%C4%AB%B3%EB_%281%29.jpg"
+      ]
+    },
+    {
+      "name": "카페라떼",
+      "price": "4800",
+      "description": "고소한 원두와 고소한 우유 조합의 깔끔한 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220106_180/1641429688118IvLP4_JPEG/%C4%AB%C6%E4%B6%F3%B6%BC_%281%29.jpg"
+      ]
+    },
+    {
+      "name": "소이라떼",
+      "price": "4800",
+      "description": "단맛없는 소이밀크 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220708_236/1657241501205G7OmG_JPEG/%BC%D2%C0%CC%B6%F3%B6%BC_%286%29.jpg"
+      ]
+    },
+    {
+      "name": "소르베에이드",
+      "price": "7000",
+      "description": "수제소르베가 올라간 과일에이드\n라임딸기/레몬/자몽",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241113_66/1731424934937CbDIe_JPEG/KakaoTalk_20241113_000946108_04.jpg"
+      ]
+    },
+    {
+      "name": "자몽에이드",
+      "price": "6000",
+      "description": "상큼달달한 자몽에이드",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250527_38/1748346904086jI9O6_PNG/KakaoTalk_20241105_205035985_07.png"
+      ]
+    },
+    {
+      "name": "스트로베리라떼",
+      "price": "5400",
+      "description": "상큼한 딸기 샤베트와 고소한 우유 조합 딸기라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220106_60/1641429847345XnRqG_JPEG/%BD%BA%C6%AE%B7%CE%BA%A3%B8%AE%B6%F3%B6%BC_%281%29.jpg"
+      ]
+    },
+    {
+      "name": "초코라떼",
+      "price": "5600",
+      "description": "달달하고 진한 초콜릿을 부드럽게 즐길수 있는 초코라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220105_222/1641346253902vXKld_JPEG/%BE%C6%C0%CC%BD%BA%C3%CA%C4%DA_0103.jpg"
+      ]
+    },
+    {
+      "name": "솔티드카라멜라떼",
+      "price": "6300",
+      "description": "달콤쌉쌀한 솔티드카라멜 크림층이 올라간 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220105_41/1641346192352nJOUw_JPEG/%BC%D6%C6%BC%B5%E5%C4%AB%B6%F3%B8%E1%B6%F3%B6%BC_0103.jpg"
+      ]
+    },
+    {
+      "name": "솔티드카라멜초코",
+      "price": "6800",
+      "description": "달콤 짭짤한 고급진 맛의 호불호 없는 초코라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20220105_201/16413462709227kQWE_JPEG/%BC%D6%C6%BC%B5%E5%C4%AB%B6%F3%B8%E1%C3%CA%C4%DA_0103.jpg"
+      ]
+    },
+    {
+      "name": "소르베하이볼",
+      "price": "9000",
+      "description": "수제소르베가 올라간 짐빔 베이스의 하이볼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241113_273/1731424969347axykr_JPEG/KakaoTalk_20241113_000946108.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20210423_248/1619182993571rerUg_JPEG/2t8j4-gfzLD_igzm9PCitMC_.JPG.jpg",
+    "https://ldb-phinf.pstatic.net/20241129_110/17328663736693u5zf_JPEG/%BA%B8%C1%A4_2-%BC%B1%B8%ED.jpg",
+    "https://ldb-phinf.pstatic.net/20241129_198/1732853651731NjXzo_PNG/%B9%E8%B9%CE%C4%C6_%283%29.png",
+    "https://ldb-phinf.pstatic.net/20241129_80/1732853651475S0znh_PNG/%B9%E8%B9%CE%C4%C6_%281%29.png",
+    "https://ldb-phinf.pstatic.net/20241129_201/1732853888221CDQ9q_JPEG/%BA%B8%C1%A4_1.JPG",
+    "https://ldb-phinf.pstatic.net/20241129_193/17328526815541soXD_JPEG/%BA%B8%C1%A4_2.JPG",
+    "https://ldb-phinf.pstatic.net/20241129_86/173286948664494VI9_JPEG/%BD%C3%B1%D7%B4%CF%C3%B3%C0%BD%B7%E1.JPG",
+    "https://ldb-phinf.pstatic.net/20241105_3/1730808694207JAMNv_JPEG/KakaoTalk_20241105_165950110.jpg",
+    "https://ldb-phinf.pstatic.net/20210423_42/1619183239033BTMgD_JPEG/eahtUublvypjD5lsMtwhVxcs.JPG.jpg",
+    "https://ldb-phinf.pstatic.net/20241202_286/1733127586502utmLC_JPEG/IMG_8616.JPG",
+    "https://ldb-phinf.pstatic.net/20241202_28/17331275858733lS6O_JPEG/IMG_8606.JPG",
+    "https://ldb-phinf.pstatic.net/20210423_106/16191829957361mMby_JPEG/SEwohQBD_32PhVTkk4gaLlaL.JPG.jpg",
+    "https://ldb-phinf.pstatic.net/20210423_42/1619182993077GE75l_JPEG/Zgo_Oz7-_5iCkf5dYx0GHyaD.JPG.jpg",
+    "https://ldb-phinf.pstatic.net/20210423_5/1619182994061AGUfK_JPEG/DWHKvTwGIL-YeypPd72gBin8.JPG.jpg",
+    "https://ldb-phinf.pstatic.net/20210423_284/1619183238430Q7Crw_JPEG/OY85O6CLC2KcG-IZe3SGnAGT.JPG.jpg",
+    "https://ldb-phinf.pstatic.net/20210423_146/16191829956340p6LP_JPEG/tAYUEY3fNfjYurmsTv2EnSY8.JPG.jpg",
+    "https://ldb-phinf.pstatic.net/20200920_292/1600562586544l4Bk0_JPEG/Da7-P9Db0aJ2pcXD4diuBJ6d.JPG.jpg",
+    "https://ldb-phinf.pstatic.net/20241202_180/1733121468311GyWVk_JPEG/IMG_8370.JPG",
+    "https://ldb-phinf.pstatic.net/20241202_26/17331214678315Lb5t_JPEG/IMG_8385.JPG",
+    "https://ldb-phinf.pstatic.net/20241202_154/1733121467833BCuDW_JPEG/IMG_8371.JPG"
+  ]
+}

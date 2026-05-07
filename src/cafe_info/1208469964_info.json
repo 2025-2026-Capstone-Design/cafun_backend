@@ -1,0 +1,228 @@
+{
+  "id": "1208469964",
+  "name": "어썸스윗 성수",
+  "category": "케이크전문",
+  "micro_review": [
+    "이색 데이트로 딱 좋은 베이킹 클래스"
+  ],
+  "road_address": "서울 성동구 뚝섬로 409 3층",
+  "address": "서울 성동구 성수동2가 331-8",
+  "lat": "127.0561606",
+  "lon": "37.5386829",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "10:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "토",
+      "start": "10:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "일",
+      "start": "10:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": "10:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": "10:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "수",
+      "start": "10:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "목(12/25)",
+      "start": "10:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": "성탄절",
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1329-8639",
+  "url": "http://pf.kakao.com/_sxiMBG",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": true,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": true,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": true,
+    "포장": true,
+    "배달": true,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "안녕하세요 :)\n성수 케이크 맛집 어썸스윗 성수입니다.\n\n***문의 및 주문은 카카오톡 플러스 친구 '어썸스윗' 검색 혹은 아래의 URL로 접속해주시면 됩니다 :)***\n\nhttp://pf.kakao.com/_sxiMBG\n\n저희는 성수동 카페거리 근처에 위치해있으며\n뚝섬, 서울숲과도 가까운 거리에있습니다.\n\n어썸스윗의 케이크는 초코시트, 얼그레이생크림, 크림치즈 겉크림 구성입니다.\n\n또한 초코 크런키가 들어있어 식감이 살아있는레터링 케이크입니다:)\n\n대표 메뉴로는 도시락 케이크, 박스형 케이크, 미니 티아라 케이크로 전부 당일에도 픽업가능한 당일케이크로도 운영하고있습니다^^\n\n성수에서 생일 케이크집을 떠올리면 어썸스윗이 떠오를 수 있도록 최선을 다하겠습니다!",
+  "Information_facilitie": [
+    "단체 이용 가능",
+    "포장",
+    "배달",
+    "예약",
+    "무선 인터넷",
+    "반려동물 동반"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "네이버페이"
+  ],
+  "menu": [
+    {
+      "name": "뉴 미니 2단 티아라 케이크",
+      "price": "38000",
+      "description": "📌당일케이크 13시부터 픽업 가능\n📌영문/숫자 15자까지 가능(한글불가)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250127_26/1737977773440xigpE_JPEG/KakaoTalk_20250125_204429098_08.jpg"
+      ]
+    },
+    {
+      "name": "뉴 미니 2단 젤리 케이크",
+      "price": "38000",
+      "description": "📌당일케이크 13시부터 픽업 가능\n📌영문/숫자 15자까지 가능(한글불가)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241210_184/1733810783227J63cM_JPEG/1000081481.jpg"
+      ]
+    },
+    {
+      "name": "박스케이크(젤리)",
+      "price": "26000",
+      "description": "📌당일케이크 13시부터 픽업 가능\n📌영문/숫자 15자까지 가능(한글불가)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250913_119/1757756475196rEggw_JPEG/1000104455.jpg"
+      ]
+    },
+    {
+      "name": "휘낭시에 베이킹 체험",
+      "price": "20000",
+      "description": "1인당 휘낭시에 6개 만들아가실 수 있는 베이킹 체험입니다.",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240606_209/1717673519265J5BBC_JPEG/KakaoTalk_20240606_190434486_15.jpg",
+        "https://ldb-phinf.pstatic.net/20240606_11/1717673519009tpk0n_JPEG/KakaoTalk_20240606_190434486_19.jpg"
+      ]
+    },
+    {
+      "name": "레드크리스마스",
+      "price": "39000",
+      "description": "2025 크리스마스케이크\n23,24,25 3일간 구매가능합니다:)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251202_216/1764687198319WyQ7v_JPEG/1000107480.jpg"
+      ]
+    },
+    {
+      "name": "블랙크리스마스케이크",
+      "price": "39000",
+      "description": "2025 크리스마스케이크\n23,24,25 3일간 구매가능합니다:)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251202_106/1764687265055wJCtr_JPEG/1000107481.jpg"
+      ]
+    },
+    {
+      "name": "멜팅 크리스마스",
+      "price": "22000",
+      "description": "2025 크리스마스케이크\n23,24,25 3일간 구매가능합니다:)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251202_74/1764687288935nRjTG_JPEG/1000107483.jpg"
+      ]
+    },
+    {
+      "name": "도시락 케이크(터치형)",
+      "price": "20000",
+      "description": "📌당일케이크 13시부터 픽업 가능\n📌영문/숫자 15자까지 가능(한글불가)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240831_181/17250338251792kOfJ_JPEG/1000072235.jpg"
+      ]
+    },
+    {
+      "name": "박스케이크(터치형)",
+      "price": "25000",
+      "description": "📌당일케이크 13시부터 픽업 가능\n📌영문/숫자 15자까지 가능(한글불가)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250328_186/1743163893252frdro_JPEG/1000097093.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20251119_156/1763537868119tyX6s_JPEG/1000107012.jpg",
+    "https://ldb-phinf.pstatic.net/20251119_248/1763537868144AU1jS_JPEG/1000107014.jpg",
+    "https://ldb-phinf.pstatic.net/20251119_144/17635378681988BaG7_JPEG/1000107016.jpg",
+    "https://ldb-phinf.pstatic.net/20241212_217/1733984775002bIUPB_JPEG/1000081481.jpg",
+    "https://ldb-phinf.pstatic.net/20250503_173/1746252713698qdhhR_JPEG/1000099637.jpg",
+    "https://ldb-phinf.pstatic.net/20250328_125/1743164294959NldmO_JPEG/EC31C684-4B0D-4A06-9447-2AEF9F3ED3F1.jpeg",
+    "https://ldb-phinf.pstatic.net/20250328_129/1743164295529TbcJp_JPEG/IMG_0641.jpeg",
+    "https://ldb-phinf.pstatic.net/20250127_211/1737977979077eyyhA_JPEG/KakaoTalk_20250125_204429098_08.jpg",
+    "https://ldb-phinf.pstatic.net/20250328_38/1743164297661j8msK_JPEG/IMG_0606.jpeg",
+    "https://ldb-phinf.pstatic.net/20250328_283/1743164297711jPhf4_JPEG/IMG_0587.jpeg",
+    "https://ldb-phinf.pstatic.net/20250127_183/1737977979032pgnE1_JPEG/KakaoTalk_20250125_204429098_20.jpg",
+    "https://ldb-phinf.pstatic.net/20241229_45/1735460921146YyU6c_JPEG/KakaoTalk_20241229_170908776.jpg",
+    "https://ldb-phinf.pstatic.net/20250328_118/1743164296643qKGNH_JPEG/IMG_0640.jpeg",
+    "https://ldb-phinf.pstatic.net/20240728_277/1722161537690URyQn_JPEG/1000069562.jpg",
+    "https://ldb-phinf.pstatic.net/20241102_90/1730474886489ffMkC_JPEG/KakaoTalk_20241023_102709413_01.jpg",
+    "https://ldb-phinf.pstatic.net/20241218_182/1734530796678RRGUl_JPEG/KakaoTalk_20241206_202600737_24.jpg",
+    "https://ldb-phinf.pstatic.net/20241218_216/1734530796739aOW5a_JPEG/KakaoTalk_20241206_202600737_29.jpg",
+    "https://ldb-phinf.pstatic.net/20241218_121/1734530797181MEBKQ_JPEG/KakaoTalk_20241206_202600737_14.jpg",
+    "https://naverbooking-phinf.pstatic.net/20240619_154/1718785956417EDEkt_JPEG/image.jpg",
+    "https://naverbooking-phinf.pstatic.net/20240619_5/1718786014289gzwYr_JPEG/image.jpg",
+    "https://ldb-phinf.pstatic.net/20240220_263/1708357551934M1LmE_JPEG/1000047081.jpg",
+    "https://ldb-phinf.pstatic.net/20240220_209/1708357552204LpohS_JPEG/1000047082.jpg",
+    "https://ldb-phinf.pstatic.net/20240203_5/1706966834964LH5zJ_JPEG/KakaoTalk_20240203_222343130_13.jpg",
+    "https://ldb-phinf.pstatic.net/20240203_203/1706966846374Ae31y_JPEG/KakaoTalk_20240203_222343130.jpg",
+    "https://ldb-phinf.pstatic.net/20240203_261/1706966989360fnB4a_JPEG/KakaoTalk_20240203_222837038_01.jpg",
+    "https://ldb-phinf.pstatic.net/20240203_232/1706966791200Y8Hin_JPEG/KakaoTalk_20240203_222343130_21.jpg",
+    "https://ldb-phinf.pstatic.net/20240203_255/17069667821685Di2M_JPEG/KakaoTalk_20240203_222343130_19.jpg",
+    "https://ldb-phinf.pstatic.net/20240203_264/170696697548239Jub_JPEG/KakaoTalk_20240203_222837038_02.jpg",
+    "https://naverbooking-phinf.pstatic.net/20240619_196/1718785996946jFmE3_JPEG/image.jpg",
+    "https://ldb-phinf.pstatic.net/20240203_133/1706966958661Y1PPD_JPEG/KakaoTalk_20240203_222837038_04.jpg",
+    "https://ldb-phinf.pstatic.net/20240203_243/1706966948004ikdyT_JPEG/KakaoTalk_20240203_222837038.jpg",
+    "https://ldb-phinf.pstatic.net/20240203_222/1706966743754Y6EeH_JPEG/KakaoTalk_20240203_222343130_10.jpg",
+    "https://ldb-phinf.pstatic.net/20240203_123/1706966717499zQ1zt_JPEG/KakaoTalk_20240203_222343130_17.jpg",
+    "https://ldb-phinf.pstatic.net/20240203_83/1706966754188b8UDU_JPEG/KakaoTalk_20240203_222343130_16.jpg",
+    "https://ldb-phinf.pstatic.net/20240203_202/1706966702933Lm7vl_JPEG/KakaoTalk_20240203_222343130_02.jpg",
+    "https://ldb-phinf.pstatic.net/20240203_104/17069667712835FOmt_JPEG/KakaoTalk_20240203_222343130_18.jpg",
+    "https://ldb-phinf.pstatic.net/20240203_160/1706966687833FhYMK_JPEG/KakaoTalk_20240203_222343130_04.jpg",
+    "https://ldb-phinf.pstatic.net/20240203_236/1706966679203dXnwt_JPEG/KakaoTalk_20240203_222343130_07.jpg",
+    "https://naverbooking-phinf.pstatic.net/20240815_213/1723728074930SQg17_JPEG/image.jpg",
+    "https://naverbooking-phinf.pstatic.net/20240815_101/17237280848445fdlM_JPEG/image.jpg"
+  ]
+}

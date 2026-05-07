@@ -1,0 +1,229 @@
+{
+  "id": "1432336976",
+  "name": "도렐 성수점",
+  "category": "카페",
+  "micro_review": [
+    "진하고 부드러운 시그니처 커피의 정석"
+  ],
+  "road_address": "서울 성동구 연무장7길 11 1층 도렐 성수점",
+  "address": "서울 성동구 성수동2가 314-12",
+  "lat": "127.0545305",
+  "lon": "37.5436382",
+  "business_hours": [
+    {
+      "day": "토",
+      "start": "11:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:30"
+        }
+      ]
+    },
+    {
+      "day": "일",
+      "start": "11:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:30"
+        }
+      ]
+    },
+    {
+      "day": "월",
+      "start": "08:00",
+      "end": "21:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:30"
+        }
+      ]
+    },
+    {
+      "day": "화",
+      "start": "08:00",
+      "end": "21:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:30"
+        }
+      ]
+    },
+    {
+      "day": "수",
+      "start": "08:00",
+      "end": "21:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:30"
+        }
+      ]
+    },
+    {
+      "day": "목(12/25)",
+      "start": "11:00",
+      "end": "21:00",
+      "breakHours": null,
+      "description": "성탄절",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "금",
+      "start": "08:00",
+      "end": "21:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:30"
+        }
+      ]
+    }
+  ],
+  "virtual_phone_number": null,
+  "url": "http://www.instagram.com/dorrell_coffee",
+  "convenience": {
+    "주차": true,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": true,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": true,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": true,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "1만원 이상 구매 시 1시간씩 가능 (건물 주차 최초 30분 무료)\n\n배달의민족, 쿠팡이츠에서도 이용이 가능합니다 :)",
+  "Information_facilitie": [
+    "무선 인터넷",
+    "남/녀 화장실 구분",
+    "포장",
+    "배달"
+  ],
+  "parking_info": {
+    "__typename": "InformationBasicParking",
+    "isFree": false,
+    "normalFeeDescription": null,
+    "extraFeeDescription": "추가 요금 60분당 9,000원, 최대 100,000원"
+  },
+  "payment_info": [
+    "제로페이",
+    "간편결제"
+  ],
+  "menu": [
+    {
+      "name": "그린티클라우드",
+      "price": "6500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240327_35/17115401977284GbzP_PNG/20220520_DR17803.png"
+      ]
+    },
+    {
+      "name": "너티클라우드",
+      "price": "6500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240327_289/1711540184683uuriT_PNG/20220520_DR17739.png"
+      ]
+    },
+    {
+      "name": "라떼",
+      "price": "5500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240327_184/1711540164274CqkKw_PNG/20220520_DR17720.png",
+        "https://ldb-phinf.pstatic.net/20240327_179/17115401607756loAn_PNG/20220520_DR17723.png"
+      ]
+    },
+    {
+      "name": "아메리카노",
+      "price": "4500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240327_205/1711540142840nmyhw_PNG/20220520_DR17696.png",
+        "https://ldb-phinf.pstatic.net/20240327_23/1711540139254o1h5W_PNG/20220520_DR17698.png"
+      ]
+    },
+    {
+      "name": "까눌레",
+      "price": "2900",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221123_240/1669174173719vWHaG_JPEG/%B1%EE%B4%AD%B7%B9.jpg"
+      ]
+    },
+    {
+      "name": "레몬파운드",
+      "price": "3600",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221123_115/1669174092521SE4uC_JPEG/%B7%B9%B8%F3%C6%C4%BF%EE%B5%E5.jpg"
+      ]
+    },
+    {
+      "name": "얼그레이파운드",
+      "price": "3600",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221123_245/1669174072772BJIu1_JPEG/%BE%F3%B1%D7%B7%B9%C0%CC%C6%C4%BF%EE%B5%E5.jpg"
+      ]
+    },
+    {
+      "name": "블루베리크림치즈 크럼블쿠키",
+      "price": "3800",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "애플시나몬 크럼블쿠키",
+      "price": "3600",
+      "description": "",
+      "images": []
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20181026_249/1540537897309RYsmp_JPEG/nlgx9s93vcTdGl71Iad8c5ty.jpg",
+    "https://ldb-phinf.pstatic.net/20181026_235/1540537922107p8Rr2_JPEG/J_rIdrqRgrnI9evZxrGqbfMG.jpg",
+    "https://ldb-phinf.pstatic.net/20231104_18/16991019997337XCEs_JPEG/SDIM2812.JPG",
+    "https://ldb-phinf.pstatic.net/20231104_255/1699102021366auqqx_JPEG/SDIM2773.JPG"
+  ]
+}

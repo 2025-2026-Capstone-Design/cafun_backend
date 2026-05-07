@@ -1,0 +1,128 @@
+{
+  "id": "2046166522",
+  "name": "브레빌 카페앤스토어 성수",
+  "category": "카페,디저트",
+  "micro_review": [
+    "커피 클래스로 배우는 향기로운 시간"
+  ],
+  "road_address": "서울 성동구 연무장길 39-7",
+  "address": "서울 성동구 성수동2가 316-42",
+  "lat": "127.0538217",
+  "lon": "37.5431735",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "10:30",
+      "end": "19:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "토",
+      "start": "10:30",
+      "end": "19:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "일",
+      "start": "10:30",
+      "end": "19:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": "10:30",
+      "end": "19:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": "10:30",
+      "end": "19:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "수",
+      "start": "10:30",
+      "end": "19:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "목",
+      "start": "10:30",
+      "end": "19:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": null,
+  "url": "https://www.instagram.com/brevillekorea/",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": true,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "브레빌은 1932년 호주 시드니에서 설립된 프리미엄 주방 가전 브랜드입니다.\n\n2022년 6월, 아시아 지역 최초 공식 지사로 브레빌 코리아를 출범했습니다.\n\n브레빌은 지난 90년 동안 전 세계 75개 이상의 국가에 혁신적인 기술과 뛰어난 디자인을 가진 다양한 주방 제품을 선보이며 글로벌 브랜드로 성장했습니다.\n\n브레빌은 사용자 위주의 탁월한 혁신과 감각적인 디자인을 통해 사람들의 삶의 질을 향상시키고 있으며, 가정 내에서도 좀 더 손쉽고 건강한 요리에 도전하고 궁극적으로 요리의 모든 순간을 완벽하게(Master Every Moment) 할 수 있도록 노력하고 있습니다.",
+  "Information_facilitie": [
+    "로스터리",
+    "테이크아웃 할인",
+    "포장",
+    "무선 인터넷",
+    "남/녀 화장실 구분"
+  ],
+  "parking_info": null,
+  "payment_info": null,
+  "menu": [
+    {
+      "name": "아메리카노",
+      "price": "5500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250818_220/1755489574730xG0Ac_PNG/250814_%BA%EA%B7%B9%BA%F4_%BC%BA%BC%F6%C1%A1_%B8%DE%B4%BA%C6%C7-01.png"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20250826_197/1756196361659vGdhw_JPEG/_DSC3478-%C0%FC%B0%E6.JPG",
+    "https://ldb-phinf.pstatic.net/20250826_139/1756196653372bBVNQ_JPEG/_DSC3786-%C0%BD%B7%E1%BA%A3%C0%CC%C4%BF%B8%AE.JPG",
+    "https://ldb-phinf.pstatic.net/20250826_123/1756196462309iNt8w_JPEG/_DSC3491-1%C3%FE_%C4%AB%C6%E4.JPG",
+    "https://ldb-phinf.pstatic.net/20250826_296/1756196653199jqw7T_JPEG/_DSC3487-1%C3%FE_%C4%AB%C6%E4.JPG",
+    "https://ldb-phinf.pstatic.net/20250826_90/1756196401130wl8Jw_JPEG/_DSC3507-%BC%EE%B7%EB.JPG",
+    "https://ldb-phinf.pstatic.net/20250826_128/1756196653437NNaRk_JPEG/_DSC3571-%B6%F3%B6%BC%BE%C6%C6%AE.JPG",
+    "https://ldb-phinf.pstatic.net/20250826_73/17561965921679UvKm_JPEG/_DSC3537-%B0%E8%B7%AE.JPG",
+    "https://ldb-phinf.pstatic.net/20250826_285/17561964862949p0XB_JPEG/_DSC3475-%B7%E7%C7%C1%C5%BE.JPG"
+  ]
+}

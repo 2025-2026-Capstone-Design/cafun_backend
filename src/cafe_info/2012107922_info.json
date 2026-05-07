@@ -1,0 +1,372 @@
+{
+  "id": "2012107922",
+  "name": "미지떡",
+  "category": "떡카페",
+  "micro_review": [
+    "흑임자 떡과 말차라떼의 달콤한 조화"
+  ],
+  "road_address": "서울 성동구 왕십리로6길 21 1층",
+  "address": "서울 성동구 성수동1가 10-1",
+  "lat": "127.0471937",
+  "lon": "37.5456679",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "10:30",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "토",
+      "start": "10:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "일",
+      "start": "10:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": "10:30",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": "10:30",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "수",
+      "start": "10:30",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "목",
+      "start": "10:30",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1481-2458",
+  "url": "https://www.instagram.com/mig_ricecake",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": true,
+    "단체 이용 가능": true,
+    "대기공간": false,
+    "간편결제": true,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": false,
+    "출장": true,
+    "방문접수": true,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "성수(뚝섬역 6번출구 근처) 떡카페 미지떡입니다.\n프리미엄 디저트 떡 전문매장입니다.\n양갱설기, 생크림토끼떡, 롤떡케이크 등\n차별화 된 떡을 만들고 판매합니다.\n답례, 선물용으로도 안성맞춤!",
+  "Information_facilitie": [
+    "단체 이용 가능",
+    "포장",
+    "방문접수/출장",
+    "무선 인터넷",
+    "남/녀 화장실 구분"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "제로페이",
+    "간편결제"
+  ],
+  "menu": [
+    {
+      "name": "떡롤케이크(흑임자, 블루베리, 커피)",
+      "price": "8500",
+      "description": "쌀로만든 떡롤케이크! 직접 만든 크림치즈와의 환상적 조화",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250630_192/1751268949686IHTkA_JPEG/IMG_6082_%282%29.jpg"
+      ]
+    },
+    {
+      "name": "생크림토끼떡",
+      "price": "3000",
+      "description": "크림치즈, 생크림, 춘설앙금이 가득 들어간\n미지 시그니처 토끼떡",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250630_98/17512674363646ppJl_JPEG/IMG_6717_%281%29.jpg"
+      ]
+    },
+    {
+      "name": "하트설기(치즈, 초코, 딸기)",
+      "price": "3000",
+      "description": "꾸덕쫄깃 하트설기! 치즈, 초코 등 각각의 맛을 가득 담았습니다.",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250630_165/1751268994408KidSj_JPEG/IMG_6462.JPG"
+      ]
+    },
+    {
+      "name": "양갱설기(초코, 치즈, 딸기)",
+      "price": "5500",
+      "description": "다양한 맛의 쫀득고소한 백설기와 수제양갱의 만남",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250630_5/1751268272544QVkC6_JPEG/IMG_6611.JPG"
+      ]
+    },
+    {
+      "name": "꽈배기 튀김떡볶이",
+      "price": "7500",
+      "description": "어디서도 볼 수 없는 쫄깃쫄깃 튀김떡볶이! 저희 떡은 튀겨도 터지지않습니다.",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250630_105/1751268616559gzsP4_JPEG/IMG_6226_%281%29.jpg"
+      ]
+    },
+    {
+      "name": "튀김치즈떡볶이",
+      "price": "8500",
+      "description": "튀겨먹는 튀김떡볶이! 터지지않는 기술력으로 만든 환상적인 맛의 치즈떡볶이",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250703_178/1751518211518ojCNC_JPEG/%C4%A1%C1%EE%B6%B1%BA%BA%C0%CC.jpeg"
+      ]
+    },
+    {
+      "name": "튀김통팥떡볶이",
+      "price": "8500",
+      "description": "통팥앙금이 가득한 튀김 떡볶이!",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250703_248/175151822021426Bu1_JPEG/%C6%CF_%B6%B1%BA%BA%C0%CC.jpeg"
+      ]
+    },
+    {
+      "name": "흑임자 통 가래떡",
+      "price": "2000",
+      "description": "직접만든 흑임자 고물로,\n고소함 폭발하는 흑임자 통 가래떡",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250716_228/1752632282177GIq1x_JPEG/%C8%E6%C0%D3%C0%DA%C5%EB%B0%A1%B7%A1%B6%B1.jpg"
+      ]
+    },
+    {
+      "name": "땅콩크림떡",
+      "price": "3000",
+      "description": "수제 땅콩크림을 가득담은 쫄깃한 땅콩크림떡",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250703_14/1751518374964vlYQR_JPEG/%B6%A5%C4%E1.jpeg"
+      ]
+    },
+    {
+      "name": "잎새절편",
+      "price": "3500",
+      "description": "통팥앙금을 가득담은 나뭇잎모양 절편",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250727_286/1753584365190mnYbT_JPEG/_MG_6669.jpg"
+      ]
+    },
+    {
+      "name": "카스테라크림떡",
+      "price": "3000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250717_136/175270988959341j9Y_JPEG/%C5%A9%B8%B2%C2%FD%BD%D2%B6%B1.jpg"
+      ]
+    },
+    {
+      "name": "수국꽃절편",
+      "price": "5500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250727_10/1753584322926ciJgV_JPEG/020_%283%29.jpg"
+      ]
+    },
+    {
+      "name": "아이스 아메리카노",
+      "price": "3500",
+      "description": "take out 2500원",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250716_77/1752632739777Gy4DA_JPEG/%BE%C6%C0%CC%BD%BA_%BE%C6%B8%DE%B8%AE%C4%AB%B3%EB.jpg"
+      ]
+    },
+    {
+      "name": "카페라떼",
+      "price": "4000",
+      "description": "take out 3000원",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250716_191/1752632762756naFqK_JPEG/%BE%C6%C0%CC%BD%BA_%C4%AB%C6%E4%B6%F3%B6%BC.jpg"
+      ]
+    },
+    {
+      "name": "말차라떼",
+      "price": "6000",
+      "description": "100% 말차가루로 만든 말차라떼입니다. 말차파우더X 말차덕후들 모여라",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250703_87/1751507195347Jp8DE_PNG/%B8%BB%C2%F7%B6%F3%B6%BC%28%BC%F6%C1%A4%29.png"
+      ]
+    },
+    {
+      "name": "딸기라떼",
+      "price": "6000",
+      "description": "진~~한 딸기라떼 찾는분은 어서오세요",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250703_1/1751507449463B4rzz_PNG/%B5%FE%B1%E2%B6%F3%B6%BC%28%BC%F6%C1%A4%29.png"
+      ]
+    },
+    {
+      "name": "레드자몽에이드",
+      "price": "6000",
+      "description": "진한 레드자몽맛을 느낄 수 있는 에이드",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250703_225/175150783175945tHx_PNG/%B7%B9%B5%E5%C0%DA%B8%F9%BF%A1%C0%CC%B5%E5%28%BC%F6%C1%A4%29.png"
+      ]
+    },
+    {
+      "name": "복숭아에이드",
+      "price": "6000",
+      "description": "달콤한 복숭아를 그대로 담은 에이드",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250703_296/1751518493195PUU0y_JPEG/%BA%B9%BC%FE%BE%C6%BF%A1%C0%CC%B5%E5%28%BC%F6%C1%A42%29.jpeg"
+      ]
+    },
+    {
+      "name": "다크초코향밀크티",
+      "price": "6500",
+      "description": "진한 로얄밀크티 베이스에 진한 다크초코향을 블랜딩한 밀크티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250703_80/1751507789326P8Sqn_PNG/%B9%D0%C5%A9%C6%BC%28%BC%F6%C1%A4%29.png"
+      ]
+    },
+    {
+      "name": "바닐라향밀크티",
+      "price": "6500",
+      "description": "진한 로얄밀크티 베이스에 진한 바닐라향을 블랭딩한 밀크티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250703_265/1751507800810UUeXq_PNG/%B9%D0%C5%A9%C6%BC%28%BC%F6%C1%A4%29.png"
+      ]
+    },
+    {
+      "name": "혼자있는시간",
+      "price": "6000",
+      "description": "쉼이 필요할 때, 꽃향기에 이끌려 도심 속 나만의 휴식공간을 만난 상상을 블랜딩한 차",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250703_193/1751508420672nuUoa_JPEG/%C8%A5%C0%DA%C0%D6%B4%C2%BD%C3%B0%A3.jpeg"
+      ]
+    },
+    {
+      "name": "캐러멜향홍차",
+      "price": "6000",
+      "description": "담콤함에 고소함을 더해 성인을 위한 캐러멜향을 입혀, 마음을 감미롭게 하는 매력의 가향차",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250703_298/1751508293069tkhWW_JPEG/%C4%B3%B7%AF%B8%E1%C7%E2%C8%AB%C2%F7.jpeg"
+      ]
+    },
+    {
+      "name": "다이너마이트티",
+      "price": "6000",
+      "description": "불꽃놀이를 볼 때 느껴지는 해방감, 터질듯한 행복감을 선사하는 맛과 향을 담은 블랜딩티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250703_219/1751507971998SgaxB_JPEG/%B4%D9%C0%CC%B3%CA%B8%B6%C0%CC%C6%AE%C6%BC.jpeg"
+      ]
+    },
+    {
+      "name": "레몬머틀블랜드",
+      "price": "6000",
+      "description": "상큼한 레몬향과 기관지에 좋은 레몬머틀, 레몬그라스, 청정 제주 귤피를 블랜딩한 티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250703_22/1751508141420CXvVz_JPEG/%B7%B9%B8%F3%B8%D3%C6%B2%BA%ED%B7%BB%B5%E5.jpeg"
+      ]
+    },
+    {
+      "name": "캐모마일블렌드",
+      "price": "6000",
+      "description": "'역경 속의 힘' 꽃말을 가진 캐모마일\n사과향과 비슷한 달콤함을 느낄 수 있는 차",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250703_39/1751508596586Qj5Y5_JPEG/%C4%B3%B8%F0%B8%B6%C0%CF.jpeg"
+      ]
+    },
+    {
+      "name": "스윗 히비스커스",
+      "price": "6000",
+      "description": "달콤한 과일 향기가 담긴 히비스커스 차",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250703_187/1751508189524D8xsz_JPEG/%BD%BA%C0%AD%C8%F7%BA%F1%BD%BA%C4%BF%BD%BA.jpeg"
+      ]
+    },
+    {
+      "name": "페퍼민트블렌드",
+      "price": "6000",
+      "description": "멘톨향을 느끼게 해주는 허브로써, 산뜻한 청량감을 주는 차",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250703_159/1751508532512OgxYc_JPEG/%C6%E4%C6%DB%B9%CE%C6%AE.jpeg"
+      ]
+    },
+    {
+      "name": "미숫가루라떼",
+      "price": "5000",
+      "description": "곡물의 고소함에 달달함을 더한 환상적 벨런스의 미숫가루라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250703_235/1751507855221LhEyX_PNG/%B9%CC%BC%FD%B0%A1%B7%E7%28%BC%F6%C1%A4%29.png"
+      ]
+    },
+    {
+      "name": "식혜",
+      "price": "3500",
+      "description": "한국전통음료 식혜",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250703_186/1751507863940Boqi2_PNG/%BD%C4%C7%FD%28%BC%F6%C1%A4%29.png"
+      ]
+    },
+    {
+      "name": "단호박 식혜",
+      "price": "4000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250716_221/1752632955329Kbmkr_JPEG/%B4%DC%C8%A3%B9%DA_%BD%C4%C7%FD.jpg"
+      ]
+    },
+    {
+      "name": "오미자차",
+      "price": "5000",
+      "description": "성수에서 즐기는 전통 오미자차",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250703_228/1751518014863NUwp1_JPEG/%BF%C0%B9%CC%C0%DA%C2%F7.jpeg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20250630_31/1751269405528t5DtR_JPEG/IMG_6717_%281%29.jpg",
+    "https://ldb-phinf.pstatic.net/20250630_82/1751269427292UniKm_JPEG/IMG_6082_%282%29.jpg",
+    "https://ldb-phinf.pstatic.net/20250630_89/1751269556448K6fuy_JPEG/IMG_6556.jpg",
+    "https://ldb-phinf.pstatic.net/20250630_33/1751269058477H5UJy_JPEG/IMG_6611.JPG",
+    "https://ldb-phinf.pstatic.net/20250630_71/17512694975170kQB9_JPEG/IMG_6462.JPG",
+    "https://ldb-phinf.pstatic.net/20250630_191/1751269068044Kiu6l_JPEG/IMG_6226_%281%29.jpg",
+    "https://ldb-phinf.pstatic.net/20250630_73/1751266633804ng86i_JPEG/IMG_6644.jpg",
+    "https://ldb-phinf.pstatic.net/20250630_116/175127014063108pbw_JPEG/IMG_6769.jpg",
+    "https://ldb-phinf.pstatic.net/20250630_170/1751270100827pH5yd_JPEG/IMG_6688.jpg"
+  ]
+}

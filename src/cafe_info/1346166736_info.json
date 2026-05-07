@@ -1,0 +1,192 @@
+{
+  "id": "1346166736",
+  "name": "단일서울",
+  "category": "카페,디저트",
+  "micro_review": [
+    "테이크아웃에도 정성 가득한 라떼 아트"
+  ],
+  "road_address": "서울 성동구 왕십리로 66-33 1층",
+  "address": "서울 성동구 성수동1가 656-471",
+  "lat": "127.0454827",
+  "lon": "37.5429936",
+  "business_hours": [
+    {
+      "day": "토",
+      "start": "10:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "일",
+      "start": "10:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": "09:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": "09:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "수",
+      "start": "09:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "목(12/25)",
+      "start": "10:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": "성탄절",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "금",
+      "start": "09:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1384-9779",
+  "url": "http://danilseoul.kr",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "서울 성수동에 위치한 단일서울은 바리스타와 로스터로 오랜 시간 활동하고 있는 두 사람이 시작한 커피 전문 브랜드입니다.\n\n단맛을 바탕으로 균형감 있는 향미는 일상의 활력이 되어준다고 생각하며 '누구나 매일 편안하게 마실 수 있는 커피'를 지향합니다.\n단일의 '단'에는 단맛(Sweetness)를 내포하고 있으며 생산의 모든 과정에서 중점적으로 체크하고 있습니다.\n\n원두 납품에 대한 문의는 홈페이지 'Wholesale' 카테고리의 양식지를 통해 편리하게 하실 수 있습니다.",
+  "Information_facilitie": [
+    "포장",
+    "무선 인터넷"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "제로페이",
+    "네이버페이"
+  ],
+  "menu": [
+    {
+      "name": "COFFEE",
+      "price": "5000",
+      "description": "핸드드립(브루잉 또는 필터)커피를 포함한 커피 전 메뉴가 같은 단일가격.",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20200723_152/1595498386846uUW3v_JPEG/m59gJWNmOBtTcMqL1nyM111E.jpg",
+        "https://ldb-phinf.pstatic.net/20210117_258/16108683070845pbYV_JPEG/sFUk6GsNnav6hGc_PASWpBay.jpg",
+        "https://ldb-phinf.pstatic.net/20210117_189/1610868307046CyKqn_JPEG/jxxROc6ih96Lzg3nrEQf1W3Y.jpg",
+        "https://ldb-phinf.pstatic.net/20210117_74/1610868307923A0WBK_JPEG/4ORX6nzzO9JqmJxKaaVqmdxY.jpg",
+        "https://ldb-phinf.pstatic.net/20210117_94/1610868310778hqH4l_JPEG/zpmPR7FLMJfrgNRdiFhqyjUx.jpg"
+      ]
+    },
+    {
+      "name": "Beans 100G",
+      "price": "9000",
+      "description": "약5잔 정도의 분량이며 집에서 가끔 드시는 분들을 위한 패키지입니다.",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221215_169/1671065625866G2qVg_JPEG/100g_%BF%F8%B5%CE.jpg",
+        "https://ldb-phinf.pstatic.net/20221215_276/1671065612304ypfFE_JPEG/100g_%C1%A6%C7%B0%BB%E7%C1%F8.jpg"
+      ]
+    },
+    {
+      "name": "Beans 200G",
+      "price": "16000",
+      "description": "준비된 3-5가지 원두중 2가지 선택해서 담아갈 수 있는 패키지 구성으로 커피를 즐기실 수 있습니다.",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221215_179/1671065644015DRY41_JPEG/%C1%A6%C7%B0%BB%E7%C1%F84.jpg"
+      ]
+    },
+    {
+      "name": "COOKIE",
+      "price": "4000",
+      "description": "2종류의 쿠키 (Matcha Crumble, Lotus)가 준비되어 있습니다.",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20210603_146/1622698074929IUwsQ_JPEG/oTXZIOaRqI3kyh61IHNdp9E5.jpg"
+      ]
+    },
+    {
+      "name": "TIRAMISU",
+      "price": "6000",
+      "description": "파트아봄브, 마스카포네 치즈와 발로나 코코아 파우더를 사용한 클레식한 디저트",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20200814_91/1597370042929QVnhs_JPEG/OorVwtNDSfDC2I_ZuM9XisnX.jpg"
+      ]
+    },
+    {
+      "name": "SODA(스파클링 드링크)",
+      "price": "5000",
+      "description": "허브티 시럽과 레몬, 탄산수가 들어가는 청량한 음료",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20210117_74/1610868036885h9UEg_JPEG/a59_RMon2eduHDJrBG3acJ1D.jpg"
+      ]
+    },
+    {
+      "name": "HERB TEA",
+      "price": "5000",
+      "description": "",
+      "images": []
+    },
+    {
+      "name": "Beans 500G",
+      "price": "30000",
+      "description": "1kg 이상 구매를 원하시거나 사업장 납품관련문의는 상담신청을 받고 있습니다.\n상담은 전화나 인스타그램DM, 카카오톡 대화하기등의 채널을 통해 쉽고 빠르게 받아보실 수 있습니다.",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221004_151/16648769211667xETe_JPEG/%BF%F8%B5%CE%B3%B3%C7%B0.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20200723_166/1595498600505v2k7p_JPEG/sPJtCWKL4EtgwBjpZJCF-UmN.jpg",
+    "https://ldb-phinf.pstatic.net/20200723_275/1595498600610v2ssH_JPEG/i-J_FPj2Q-t4jbtXfLr_iikN.jpg",
+    "https://ldb-phinf.pstatic.net/20200723_52/1595498599822vuhbC_JPEG/JB3P6OKA6wGDJH_FOqBIRNcY.jpg",
+    "https://ldb-phinf.pstatic.net/20200723_283/159549859992889JEq_JPEG/7gdJ4OegZiwUOyd4ruZf5uaP.jpg",
+    "https://ldb-phinf.pstatic.net/20200723_276/1595498600028W7zDo_JPEG/QkTpe8udI5mIriJklHGWJ66z.jpg",
+    "https://ldb-phinf.pstatic.net/20200723_181/1595498600351Dolef_JPEG/URtEPA9fmEx64ALSLaK7ljlU.jpg",
+    "https://ldb-phinf.pstatic.net/20200723_124/1595498600322lDsDy_JPEG/PUVrZ3VAJHWjMtVoHCoX6k_h.jpg",
+    "https://ldb-phinf.pstatic.net/20200723_132/15954986018735Ozym_JPEG/4Jmldo95nBkQPUlab888fdDF.jpg",
+    "https://ldb-phinf.pstatic.net/20210608_247/1623117169971KaBVN_JPEG/3EvYYVxIygVfS2b6FkvJEoaS.jpg",
+    "https://ldb-phinf.pstatic.net/20210608_189/1623117170821JQV5h_JPEG/yz9V1QxLairNl77ssDE7OwPI.jpg",
+    "https://ldb-phinf.pstatic.net/20210608_75/1623117171134Tlw2x_JPEG/zxVodhb1cBPNqAiWWXiIj3Nm.jpg",
+    "https://ldb-phinf.pstatic.net/20210608_53/1623117174198VANVT_JPEG/cc9a6s5Dbv5Oy9kUVkyYpPJS.jpg",
+    "https://ldb-phinf.pstatic.net/20210608_128/162311731259038twt_JPEG/nQcnazgcMycoWrsJ0SGu-e22.jpg"
+  ]
+}

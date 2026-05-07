@@ -1,0 +1,443 @@
+{
+  "id": "1615279747",
+  "name": "레브레드 성수",
+  "category": "베이커리",
+  "micro_review": [
+    "커피와 디저트의 환상적 궁합"
+  ],
+  "road_address": "서울 성동구 왕십리로 83-21 지하1층 비117~120 호",
+  "address": "서울 성동구 성수동1가 685-700",
+  "lat": "127.0433577",
+  "lon": "37.5441547",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "10:00",
+      "end": "21:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:30"
+        }
+      ]
+    },
+    {
+      "day": "토",
+      "start": "10:00",
+      "end": "21:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:30"
+        }
+      ]
+    },
+    {
+      "day": "일",
+      "start": "10:00",
+      "end": "21:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:30"
+        }
+      ]
+    },
+    {
+      "day": "월",
+      "start": "10:00",
+      "end": "21:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:30"
+        }
+      ]
+    },
+    {
+      "day": "화",
+      "start": "10:00",
+      "end": "21:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:30"
+        }
+      ]
+    },
+    {
+      "day": "수",
+      "start": "10:00",
+      "end": "21:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:30"
+        }
+      ]
+    },
+    {
+      "day": "목",
+      "start": "10:00",
+      "end": "21:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:30"
+        }
+      ]
+    }
+  ],
+  "virtual_phone_number": "0507-1371-7625",
+  "url": "https://www.instagram.com/rebread_bakery",
+  "convenience": {
+    "주차": true,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": true,
+    "단체 이용 가능": true,
+    "대기공간": true,
+    "간편결제": true,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": true,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "매일 아침 10시,\n파티셰들의 꿈이 담긴 빵이 오븐에서 구워집니다.\n\n빵 한 조각이 일상에 작은 온기가 될 수 있기를\n정성을 다해, 당신의 하루에 꿈 같은 순간을 선물합니다.\n\n따뜻한 하루가 시작되는 곳, 레브레드",
+  "Information_facilitie": [
+    "비건 메뉴",
+    "단체 이용 가능",
+    "포장",
+    "남/녀 화장실 구분",
+    "대기공간",
+    "무선 인터넷",
+    "유아의자",
+    "화장실 휠체어 이용가능",
+    "출입구 휠체어 이용가능",
+    "좌석 휠체어 이용가능",
+    "장애인 주차구역"
+  ],
+  "parking_info": {
+    "__typename": "InformationBasicParking",
+    "isFree": true,
+    "normalFeeDescription": null,
+    "extraFeeDescription": null
+  },
+  "payment_info": [
+    "제로페이",
+    "간편결제"
+  ],
+  "menu": [
+    {
+      "name": "브레드푸딩",
+      "price": "8500",
+      "description": "유럽식 전통 구움식 프렌치 토스트, 브레드푸딩 위에 생바닐라빈커스터드를 듬뿍 올린 시그니처",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250721_195/1753102849151W1BbD_JPEG/IMG_3103_2.jpg"
+      ]
+    },
+    {
+      "name": "티라미수 케이크",
+      "price": "10000",
+      "description": "부드러운 마스카포네를 이용해 만든 클래식하고 촉촉한 티라미수 케이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251030_283/1761800794779M9JlU_JPEG/IMG_7324.jpeg"
+      ]
+    },
+    {
+      "name": "뺑스위스",
+      "price": "5900",
+      "description": "프랑스 프리미엄 버터 패스츄리 속 생 바닐라빈을 넣은 커스터드와 초콜릿 조합의 디저트",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250721_170/1753102755127ROgAp_JPEG/IMG_3112_2.jpg"
+      ]
+    },
+    {
+      "name": "사워도우",
+      "price": "9000",
+      "description": "천연 발효종 르방을 이용하여 만든 사워도우, 통밀이 들어가 고소함을 느끼실 수 있습니다:)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250722_246/17531188303989R0ES_JPEG/DSCF3094.jpeg"
+      ]
+    },
+    {
+      "name": "100% 통밀빵",
+      "price": "12500",
+      "description": "100% 프랑스 통밀가루, 레브레드만의 방식으로 다른 통밀과 달리 덜 거칠고 촉촉합니다:)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250722_286/1753118601352xK1TF_JPEG/DSCF3098.jpeg"
+      ]
+    },
+    {
+      "name": "바게트",
+      "price": "5000",
+      "description": "천연 발효종 르방과 프랑스 밀가루, 물, 소금으로만 만든 레브레드 시그니처 바게트",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250721_147/1753104430803EbXxI_JPEG/DSCF3103.jpg"
+      ]
+    },
+    {
+      "name": "딸기 케이크 조각",
+      "price": "10500",
+      "description": "시즌 한정 케이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251210_138/1765350985166Gdwh4_JPEG/IMG_9071.jpg"
+      ]
+    },
+    {
+      "name": "레브 스카치 라떼",
+      "price": "7000",
+      "description": "레브레드만의 버터스카치 크림이 올라간 진한 크림 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251204_91/1764833267276JSkEA_JPEG/IMG_8764.jpg"
+      ]
+    },
+    {
+      "name": "어니언스프",
+      "price": "8000",
+      "description": "캐러멜라이징한 양파에 엘르앤비르 버터를 넣어 만든 양파스프",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251030_243/1761801094023LTWhn_JPEG/IMG_7236.jpeg"
+      ]
+    },
+    {
+      "name": "바스크 치즈 케이크",
+      "price": "9000",
+      "description": "촉촉한 크림치즈를 가득 담은 클래식 바스크 치즈 케이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251030_150/1761801002779C5aQo_JPEG/IMG_7325.jpeg"
+      ]
+    },
+    {
+      "name": "말돈소금빵",
+      "price": "4200",
+      "description": "프랑스 엘르앤비르 퓨어버터와 말돈 소금을 이용해 촉촉하게 구워낸 레브레드 소금빵",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250721_16/1753102770296weYL5_JPEG/IMG_3107_2.jpg"
+      ]
+    },
+    {
+      "name": "명란바게트",
+      "price": "7000",
+      "description": "더현대서울에서 일 100개씩 판매되어 시즌메뉴에서 상시메뉴로 바뀐,, 인기 명란바게트",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251030_61/1761801366376UrGOB_JPEG/IMG_5677.jpeg"
+      ]
+    },
+    {
+      "name": "루꼴라 잠봉 샌드위치",
+      "price": "7000",
+      "description": "엘르앤비르로 구운 소금빵 속 잠봉과 루꼴라 오렌지마멀레이드를 넣은 샌드위치",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251030_50/1761801328649xETqz_JPEG/IMG_5627.jpeg"
+      ]
+    },
+    {
+      "name": "스펠트밀 사워도우",
+      "price": "10500",
+      "description": "단백질함량 높고 혈당관리에 도움이 되는 스펠트밀, 천연발효종, 물, 소금으로만 만든 건강빵",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250722_187/1753118906619dFDQ6_JPEG/DSCF3095.jpeg"
+      ]
+    },
+    {
+      "name": "100% 호밀 1kg/500g",
+      "price": "8000~15000",
+      "description": "프랑스산 100% 호밀가루, 천연 발효종, 물, 소금으로만 만든 건강빵",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250722_195/1753119015992bWacC_JPEG/DSCF3096.jpeg"
+      ]
+    },
+    {
+      "name": "바질 햄치즈 샌드위치",
+      "price": "7800",
+      "description": "퐁신한 포카치아 속 바질스프레드,햄,치즈,루꼴라,토마토를 넣은 프레쉬한 샌드위치",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251030_69/1761801269951R0Sso_JPEG/IMG_7190.jpeg"
+      ]
+    },
+    {
+      "name": "잠봉뵈르 샌드위치",
+      "price": "7500",
+      "description": "천연 발효종 르방으로 만든 바게트에 프랑스 프리미엄 버터와 잠봉을 넣어 만든 샌드위치",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251030_183/1761801295067eXesE_JPEG/IMG_7192.jpeg"
+      ]
+    },
+    {
+      "name": "소세지 페스츄리",
+      "price": "7500",
+      "description": "프랑스 프리미엄 버터로 만든 페스츄리 속 통 소세지를 그대로 넣어 만든 매콤한 식사빵",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250721_93/1753102697253OVMDV_JPEG/IMG_3111_2.jpg"
+      ]
+    },
+    {
+      "name": "토마토 루꼴라 포카치아",
+      "price": "8300",
+      "description": "토마토와 올리브, 루꼴라를 올려 만든 유럽식 식사빵 포카치아",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250721_96/1753103004344iY3Bh_JPEG/IMG_3110_2.jpg"
+      ]
+    },
+    {
+      "name": "헤이즐넛 크림 데니쉬",
+      "price": "6500",
+      "description": "프랑스 프리미엄 버터를 넣은 페스츄리와 헤이즐넛 크림치즈를 올려 고소하고 달콤한 디저트",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250721_25/1753103605561kVhgD_JPEG/DSCF3081_2.jpg"
+      ]
+    },
+    {
+      "name": "촉촉 크림 데니쉬",
+      "price": "6500",
+      "description": "프랑스 프리미엄 버터를 넣은 페스츄리 속 크림치즈를 촉촉하게 채워넣은 디저트",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250721_35/1753103345509eL7D5_JPEG/IMG_3109_2.jpg"
+      ]
+    },
+    {
+      "name": "라즈베리 크림치즈 데니쉬",
+      "price": "6800",
+      "description": "프랑스 프리미엄 버터를 넣은 페스츄리와 라즈베리 크림치즈를 올려 촉촉하고 달콤한 디저트",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250721_82/1753103588159Vxgbp_JPEG/DSCF3082_2.jpg"
+      ]
+    },
+    {
+      "name": "플레인 깜빠뉴",
+      "price": "7000",
+      "description": "천연 발효종 르방과 프랑스 밀가루로 만들어진 깜빠뉴",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250721_222/1753103895914s6DBx_JPEG/DSCF3087.jpg"
+      ]
+    },
+    {
+      "name": "단호박 크림치즈 깜빠뉴",
+      "price": "8700",
+      "description": "천연 발효종 르방과 프랑스 밀가루로 만든 깜빠뉴에 단호박과 크림치즈로 달콤 짭짤한 식사빵",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250721_202/1753104153319GLPqe_JPEG/DSCF3092.jpg"
+      ]
+    },
+    {
+      "name": "무화과 깜빠뉴",
+      "price": "8200",
+      "description": "천연 발효종 르방과 프랑스 밀가루로 만든 깜빠뉴 속 와인에 졸인 무화과 넣어 만든 식사빵",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250721_50/1753104234049UNVFh_JPEG/DSCF3091.jpg"
+      ]
+    },
+    {
+      "name": "크랜베리 깜빠뉴",
+      "price": "7800",
+      "description": "천연 발효종 르방과 프랑스 밀가루로 만든 깜빠뉴에 크랜베리를 가득 넣어 만들었습니다:)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250721_121/1753104097745Rn1ge_JPEG/DSCF3090.jpg"
+      ]
+    },
+    {
+      "name": "트리플 치즈 깜빠뉴",
+      "price": "8500",
+      "description": "천연 발효종 르방과 프랑스 밀가루로 만든 깜빠뉴에 트리플 치즈를 가득 넣어 만들었습니다:)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250721_39/1753103999963SnH96_JPEG/DSCF3089.jpg"
+      ]
+    },
+    {
+      "name": "올리브 푸가스",
+      "price": "7500",
+      "description": "올리브를 가득 넣어 구운 푸가스",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250721_194/1753103662004e8OcK_JPEG/DSCF3086.jpg"
+      ]
+    },
+    {
+      "name": "초코 바게트",
+      "price": "7800",
+      "description": "천연 발효종으로 만든 고소한 바게트에 초코를 더한 달콤한 초코 바게트",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250722_140/17531190835657cdEo_JPEG/DSCF3093.jpeg"
+      ]
+    },
+    {
+      "name": "시나몬롤",
+      "price": "7500",
+      "description": "프랑스 버터를 가득 넣은 브리오슈로 만든 시나몬롤",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250721_91/1753102971429oP2nM_JPEG/IMG_3106_2.jpg"
+      ]
+    },
+    {
+      "name": "크루아상",
+      "price": "4800",
+      "description": "프랑스 프리미엄 버터로 매장에서 직접 만드는 크루아상",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250721_12/1753102826875HgNtB_JPEG/IMG_3104_2.jpg"
+      ]
+    },
+    {
+      "name": "뺑오쇼콜라",
+      "price": "5500",
+      "description": "프랑스 프리미엄 버터와 발로나 초콜릿을 넣은 매장에서 직접 만드는 뺑오쇼콜라",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250721_156/1753102807502s3HxG_JPEG/IMG_3105_2.jpg"
+      ]
+    },
+    {
+      "name": "소금빵 베이스의 촉촉한 우유 생식빵",
+      "price": "8000",
+      "description": "촉촉하고 부들부들한 우유식빵",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250722_272/1753119172956glQi4_JPEG/DSCF3097.jpeg"
+      ]
+    },
+    {
+      "name": "아인슈페너",
+      "price": "6500",
+      "description": "레브레드 밀크 크림이 올라간 진한 아인슈페너",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251204_63/1764833524549tgJPP_JPEG/IMG_8788.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://naverbooking-phinf.pstatic.net/20251210_141/1765343560382iaSJa_JPEG/IMG_9197.JPG",
+    "https://naverbooking-phinf.pstatic.net/20251210_285/1765343560801vGnYE_JPEG/IMG_9195.JPG",
+    "https://naverbooking-phinf.pstatic.net/20251210_125/1765343561419tv6nt_JPEG/IMG_9194.JPG"
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "id": "1138764515",
+  "name": "카페데이지크",
+  "category": "카페,디저트",
+  "micro_review": [
+    "니트 케이크로 전하는 따뜻한 맛"
+  ],
+  "road_address": "서울 성동구 연무장5길 6 2층",
+  "address": "서울 성동구 성수동2가 316-6",
+  "lat": "127.052443",
+  "lon": "37.543633",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "11:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "day": "토",
+      "start": "11:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "day": "일",
+      "start": "11:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "day": "월",
+      "start": "11:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "day": "화",
+      "start": "11:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "day": "수",
+      "start": "11:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "day": "목(12/25)",
+      "start": "10:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": "성탄절",
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": null,
+  "url": "https://www.instagram.com/cafe_dasique/",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": true,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "차분한 겨울의 온기와 크리스마스의 설렘을 담은 카페 데이지크.\n크리스마스 한정 케이크와 따스한 겨울 티 한 잔으로 완성되는 특별한 홀리데이의 순간을 만나보세요!",
+  "Information_facilitie": [
+    "포장",
+    "무선 인터넷",
+    "남/녀 화장실 구분"
+  ],
+  "parking_info": null,
+  "payment_info": null,
+  "menu": [
+    {
+      "name": "산타 핑크 베어",
+      "price": "16000",
+      "description": "홀리데이 한정판으로 출시된 산타모자를 쓴 카페 데이지크 시그니처 곰돌이 케이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251204_298/1764812574542AVK82_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2025-12-04_103923.png"
+      ]
+    },
+    {
+      "name": "산타 베어",
+      "price": "16000",
+      "description": "홀리데이 한정판으로 출시된 산타모자를 쓴 카페 데이지크 시그니처 곰돌이 케이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251204_178/17648126436576hTMW_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2025-12-04_103917.png"
+      ]
+    },
+    {
+      "name": "윈터 오너먼트",
+      "price": "13000",
+      "description": "딸기 인서트에 딸기 초콜릿 무스를 더해 딸기, 라즈베리 향 가득한 오너먼트 모양 쁘띠갸또",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251204_243/1764812710281Gq7Df_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2025-12-04_104503.png"
+      ]
+    },
+    {
+      "name": "리틀 스노우맨",
+      "price": "16000",
+      "description": "부드러운 바닐라 크림에 라즈베리 잼과 화이트 초콜릿, 아몬드가 들어간 눈사람 모양 갸또",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251204_273/1764812461838w8zXq_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2025-12-04_103959.png"
+      ]
+    },
+    {
+      "name": "코티지 니트 케이크",
+      "price": "14000",
+      "description": "향긋하고 부드러운 로즈 무스와 석류, 리치 인서트, 과일 비스퀴가 조화로운 쁘띠갸또",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251204_281/1764812545642MeCtB_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2025-12-04_103942.png"
+      ]
+    },
+    {
+      "name": "스트로베리 말차 트리",
+      "price": "14000",
+      "description": "쌉싸름한 말차 몽떼와 딸기가 씹히는 새콤달콤한 인서트가 들어간 트리 모양의 쁘띠 갸또",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251204_3/1764812198925Mobft_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2025-12-04_103633.png"
+      ]
+    },
+    {
+      "name": "스노우 몽블랑 플레이크",
+      "price": "13000",
+      "description": "은은하고 부드러운 밤 무스에 보늬밤과 사브레로 식감을 살린 쁘띠갸또",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251204_263/1764812516626fsuo0_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2025-12-04_103950.png"
+      ]
+    },
+    {
+      "name": "아뜰리에 무스",
+      "price": "16000",
+      "description": "바삭한 타르트에 향기로운 커피, 쌉싸름한 카라멜이\n조화로운 코코넛 무스 케이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251204_125/1764812432572OiQ69_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2025-12-04_104012.png"
+      ]
+    },
+    {
+      "name": "피치 스퀴즈 에이드",
+      "price": "8500",
+      "description": "복숭아 베이스에 리치와 레몬의 상큼함이 더해진 시그니처 에이드",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240809_160/1723178003171xB1O6_JPEG/%BA%B9%BC%FE%BE%C6-%C7%CE%C5%A9%BF%A1%C0%CC%B5%E5.jpg"
+      ]
+    },
+    {
+      "name": "데이지크 골든 티",
+      "price": "6000",
+      "description": "햇살을 머금은 사과와 파인애플, 은은한 금잔화 꽃잎이 어우러진 데이지크의 시그니처 티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250915_67/1757903851520DPInp_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2025-09-15_113722.png"
+      ]
+    },
+    {
+      "name": "블루 소다 에이드",
+      "price": "8500",
+      "description": "청량한 소다 에이드와 부드러운 아이스크림의 조화",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240809_98/1723178023866RXodd_JPEG/%BC%D2%B4%D9%BF%A1%C0%CC%B5%E5.jpg"
+      ]
+    },
+    {
+      "name": "스트로베리 마차 라떼",
+      "price": "7500",
+      "description": "보성 유기농 말차를 이용해 만든 달콤쌉싸름한 카페 데이지크의 REAL 딸기 말차 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251204_152/1764812982757kImSn_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2025-12-04_104738.png"
+      ]
+    },
+    {
+      "name": "스모어 쿠키 라떼",
+      "price": "7500",
+      "description": "진한 초코렛 라떼 위에서 마시멜로우 반식욕을 즐기고 있는 쿠키 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251204_47/1764812930883A3eB4_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2025-12-04_104715.png"
+      ]
+    },
+    {
+      "name": "스노우 베리 라떼",
+      "price": "7500",
+      "description": "수제 딸기청과 달콤한 우유 베이스, 휘핑크림과 스프링클이 뿌려진 딸기 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251204_207/1764812972225DEpuh_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2025-12-04_104748.png"
+      ]
+    },
+    {
+      "name": "스노우 에이드",
+      "price": "7000",
+      "description": "새하얀 눈이 내려앉은 듯한 소다맛의 스노우 에이드",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251204_64/1764812889638GSVit_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2025-12-04_104702.png"
+      ]
+    },
+    {
+      "name": "밀크 크림 라떼",
+      "price": "7500",
+      "description": "아몬드 우유와 부드러운 밀크 크림의 풍미를 즐길 수 있는 카페 데이지크의 시그니처 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240809_94/1723177932046f2eUI_JPEG/%B9%D0%C5%A9%C5%A9%B8%B2%B6%F3%B6%BC_%28%BD%C3%B1%D7%B4%CF%C3%B3%29.jpg"
+      ]
+    },
+    {
+      "name": "버터롤 라떼",
+      "price": "7500",
+      "description": "버터스카치의 달콤함을 즐길 수 있는 크림 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240809_171/1723177970449FMN16_JPEG/%B9%F6%C5%CD%B7%D1%B6%F3%B6%BC_%28%BD%C3%B1%D7%B4%CF%C3%B3%29.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20241112_172/1731401531046T17ug_PNG/%C1%A6%B8%F1_%BE%F8%C0%BD.png",
+    "https://ldb-phinf.pstatic.net/20240914_24/1726306731658y5b26_JPEG/IMG_3517.jpeg",
+    "https://naverbooking-phinf.pstatic.net/20241106_122/1730855388124M6mVM_JPEG/KakaoTalk_20241106_095926503.jpg"
+  ]
+}

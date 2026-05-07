@@ -1,0 +1,416 @@
+{
+  "id": "1454848217",
+  "name": "커피스니퍼 클래식 서울숲점",
+  "category": "카페,디저트",
+  "micro_review": [
+    "모던한 감성 속에서 즐기는 커피 타임"
+  ],
+  "road_address": "서울 성동구 왕십리로 83-21 디타워 지하 1층 B115, B116 커피스니퍼 클래식",
+  "address": "서울 성동구 성수동1가 685-700",
+  "lat": "127.0433577",
+  "lon": "37.5441547",
+  "business_hours": [
+    {
+      "day": "토",
+      "start": "10:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:30"
+        }
+      ]
+    },
+    {
+      "day": "일",
+      "start": "10:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:30"
+        }
+      ]
+    },
+    {
+      "day": "월",
+      "start": "10:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:30"
+        }
+      ]
+    },
+    {
+      "day": "화",
+      "start": "10:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:30"
+        }
+      ]
+    },
+    {
+      "day": "수",
+      "start": "10:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:30"
+        }
+      ]
+    },
+    {
+      "day": "목",
+      "start": "10:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:30"
+        }
+      ]
+    },
+    {
+      "day": "금",
+      "start": "10:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:30"
+        }
+      ]
+    }
+  ],
+  "virtual_phone_number": "0507-1404-1783",
+  "url": "https://blog.naver.com/koffeesniffer",
+  "convenience": {
+    "주차": true,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": true,
+    "단체 이용 가능": true,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "깊이 있는 브랜드 경험을 제공하기 위해 클래식을 주제로 기획했습니다. 브랜드 스토리에서 영감을 받은 탐정 사무소 콘셉트, 정교하게 설계된 커피 메뉴, 그리고 바리스타의 전문성이 더해진 섬세한 서비스가 조화를 이루어 클래식의 깊이와 현대적인 감각을 동시에 전달합니다.\n\n커피를 좋아하는 모든 사람들이 쉽고 편안하게 즐길 수 있는 커피 문화를 중심으로 성장 목표를 두고 있습니다. 커피 스니퍼에 방문하시는 분들이 역사 속에 담겨있는 커피 스니퍼를 시각적으로 즐길 수 있는 인테리어 포인트, 커피 중심의 메뉴 구성 등을 기반으로 어우러진 음악과 함께 오감을 만족시킬 수 있는 분위기를 조성합니다.",
+  "Information_facilitie": [
+    "로스터리",
+    "핸드드립",
+    "단체 이용 가능",
+    "무선 인터넷",
+    "포장",
+    "남/녀 화장실 구분"
+  ],
+  "parking_info": {
+    "__typename": "InformationBasicParking",
+    "isFree": true,
+    "normalFeeDescription": null,
+    "extraFeeDescription": null
+  },
+  "payment_info": null,
+  "menu": [
+    {
+      "name": "스니퍼 라떼",
+      "price": "6000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250318_57/1742277427964maWj1_JPEG/1Z0A0357.jpg"
+      ]
+    },
+    {
+      "name": "버터 크림 도넛",
+      "price": "9000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251023_297/1761205178015vAM9s_JPEG/%B9%F6%C5%CD%C5%A9%B8%B2%B5%B5%B3%D32.jpg"
+      ]
+    },
+    {
+      "name": "커스터드 라떼",
+      "price": "7000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250318_285/1742277419338BVWRN_JPEG/1Z0A0393.jpg"
+      ]
+    },
+    {
+      "name": "블랙 커피",
+      "price": "5500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250318_88/1742277409540k5AHF_JPEG/1Z0A0353.jpg"
+      ]
+    },
+    {
+      "name": "올드 패션드 도넛 (슈톨렌)",
+      "price": "6000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251128_227/1764291760938QvvPQ_JPEG/%BD%B4%C5%E7%B7%BB_%BB%E7%C1%F8_1.jpg"
+      ]
+    },
+    {
+      "name": "비스킷 라떼 (Seasonal)",
+      "price": "7000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251001_80/1759274023944nBElk_JPEG/%BA%F1%BD%BA%C5%B6_%B6%F3%B6%BC.jpg"
+      ]
+    },
+    {
+      "name": "시그니처 도넛 SET",
+      "price": "10000",
+      "description": "시그니처 음료 2종 중 택 1 + 도넛 1개(몽블랑 제외)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251103_268/1762132458674WmK1u_JPEG/%BF%C0%C8%C4%BC%BC%C6%AE.jpg"
+      ]
+    },
+    {
+      "name": "오트 라떼",
+      "price": "6500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250318_289/1742277399187GJUnq_JPEG/1Z0A0348.jpg"
+      ]
+    },
+    {
+      "name": "에스프레소 콘파냐",
+      "price": "6000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250318_21/1742277385591kNQN7_JPEG/1Z0A0387.jpg"
+      ]
+    },
+    {
+      "name": "클래식 카푸치노",
+      "price": "6000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250318_137/1742277373208Gkq9a_JPEG/1Z0A0368.jpg"
+      ]
+    },
+    {
+      "name": "클래식 레몬 에이드",
+      "price": "6500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250318_110/1742277362396vmQdo_JPEG/1Z0A0384.jpg"
+      ]
+    },
+    {
+      "name": "클래식 밀크티",
+      "price": "7000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250318_39/1742277352368Cj8je_JPEG/1Z0A0410.jpg"
+      ]
+    },
+    {
+      "name": "샤케라토",
+      "price": "7000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250318_170/1742277341599lRUhc_JPEG/1Z0A0391.jpg"
+      ]
+    },
+    {
+      "name": "필터 커피",
+      "price": "",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250318_108/1742277330225BsBgm_JPEG/1Z0A0406.jpg"
+      ]
+    },
+    {
+      "name": "올드 벨벳 패션드(칵테일)",
+      "price": "15000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250701_196/17513291226842cXWR_JPEG/%C4%AC%C5%D7%C0%CF_1.jpg"
+      ]
+    },
+    {
+      "name": "트와일라잇 네그로니(칵테일)",
+      "price": "15000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250701_214/1751329106714z6SxD_JPEG/%C4%AC%C5%D7%C0%CF_2.jpg"
+      ]
+    },
+    {
+      "name": "데일리 커피",
+      "price": "5000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250618_280/1750210699192RugwQ_JPEG/KakaoTalk_20250618_103754808.jpg"
+      ]
+    },
+    {
+      "name": "데일리 세트",
+      "price": "7000",
+      "description": "구성 : 플레인 올드 패션드 도넛 + 데일리 커피",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250618_25/1750210729013QsOFL_JPEG/KakaoTalk_20250618_103754808_01.jpg"
+      ]
+    },
+    {
+      "name": "오렌지 선셋 (Seasonal)",
+      "price": "6500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251001_198/1759274037520Fessm_JPEG/%BF%C0%B7%BB%C1%F6_%BC%B1%BC%C2.jpg"
+      ]
+    },
+    {
+      "name": "시즈널 티",
+      "price": "6500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250318_282/1742277321629BrsNE_JPEG/1Z0A0397.jpg"
+      ]
+    },
+    {
+      "name": "올드 패션드 도넛 (애플)",
+      "price": "4800",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250901_84/1756692190836plw87_JPEG/%BE%D6%C7%C32.jpg"
+      ]
+    },
+    {
+      "name": "올드 패션드 도넛 (몽블랑)",
+      "price": "6000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250901_282/1756692175234iHq2g_JPEG/%B8%F9%BA%ED%B6%FB.jpg"
+      ]
+    },
+    {
+      "name": "올드 패션드 도넛 (플레인)",
+      "price": "4500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250318_123/1742277312202v69Y0_JPEG/KakaoTalk_20250305_115335949_04.jpg"
+      ]
+    },
+    {
+      "name": "올드 패션드 도넛 (시나몬)",
+      "price": "4800",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250318_114/1742277300039yupWb_JPEG/KakaoTalk_20250305_115335949_01.jpg"
+      ]
+    },
+    {
+      "name": "올드 패션드 도넛 (초코)",
+      "price": "4800",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250318_165/1742277268924fqTA3_JPEG/KakaoTalk_20250305_115335949.jpg"
+      ]
+    },
+    {
+      "name": "올드 패션드 도넛 (솔티드 카라멜)",
+      "price": "4800",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250605_40/1749115087190yWEMv_JPEG/1-1-30.jpg"
+      ]
+    },
+    {
+      "name": "비스코티 3종",
+      "price": "3800",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251103_277/1762132545179wLyuf_JPEG/%BA%F1%BD%BA%C4%DA%C6%BC.jpg"
+      ]
+    },
+    {
+      "name": "쿠키 2종",
+      "price": "4300",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251103_246/1762132560278NdHrQ_PNG/%C6%AE%B8%AE%C7%C3_%C3%CA%C4%DA_%C4%ED%C5%B0.png"
+      ]
+    },
+    {
+      "name": "파운드 케이크",
+      "price": "6500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251103_226/1762132856011MhCkr_PNG/%C6%C4%BF%EE%B5%E5_%C4%C9%C0%CC%C5%A9.png"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20250324_112/174278363454921TF6_JPEG/1Z0A9583_%281%29_%282%29.jpg",
+    "https://ldb-phinf.pstatic.net/20250527_78/1748325928416nzH9K_JPEG/KakaoTalk_20250527_150437429_02.jpg",
+    "https://ldb-phinf.pstatic.net/20251022_40/17610971732638bm62_JPEG/0Q8A3243.jpg",
+    "https://ldb-phinf.pstatic.net/20251022_64/1761097146177he6E5_JPEG/0Q8A3223.jpg",
+    "https://ldb-phinf.pstatic.net/20251022_296/1761097206352PuFA8_JPEG/0Q8A3312.jpg",
+    "https://ldb-phinf.pstatic.net/20251022_9/17610971810527BslB_JPEG/0Q8A3251.jpg",
+    "https://ldb-phinf.pstatic.net/20251022_30/1761097168646xs427_JPEG/0Q8A3227.jpg",
+    "https://ldb-phinf.pstatic.net/20251022_201/1761097162215jSPzb_JPEG/0Q8A3225.jpg",
+    "https://ldb-phinf.pstatic.net/20251022_137/1761097155654nFlo4_JPEG/0Q8A3221.jpg",
+    "https://ldb-phinf.pstatic.net/20250324_298/1742783660686TVBBQ_JPEG/1Z0A9664_%281%29.jpg",
+    "https://ldb-phinf.pstatic.net/20251022_122/1761097138491PNOTK_JPEG/0Q8A3177.jpg",
+    "https://ldb-phinf.pstatic.net/20251022_41/1761097341998Ip5Qz_JPEG/2__%BD%BA%B4%CF%C6%DB_%B6%F3%B6%BC_%281%29.jpg",
+    "https://ldb-phinf.pstatic.net/20251022_160/1761097336531y37SU_JPEG/3__%C4%BF%BD%BA%C5%CD%B5%E5_%B6%F3%B6%BC_%281%29.jpg",
+    "https://ldb-phinf.pstatic.net/20251022_50/1761097198049RqCG5_JPEG/0Q8A3342.jpg",
+    "https://ldb-phinf.pstatic.net/20250527_92/1748325928470T0PXr_JPEG/KakaoTalk_20250527_150437429_01.jpg",
+    "https://ldb-phinf.pstatic.net/20250324_49/1742783694839diu2K_JPEG/1Z0A9469.jpg",
+    "https://ldb-phinf.pstatic.net/20250527_183/1748325928452uvIjn_JPEG/KakaoTalk_20250527_150437429_03.jpg",
+    "https://ldb-phinf.pstatic.net/20250527_175/1748325928462rsfeq_JPEG/KakaoTalk_20250527_150437429_04.jpg",
+    "https://ldb-phinf.pstatic.net/20250527_187/17483259284782FB2D_JPEG/KakaoTalk_20250527_150437429.jpg",
+    "https://ldb-phinf.pstatic.net/20250324_71/1742783716743j18ja_JPEG/1Z0A9571_%281%29_%282%29.jpg",
+    "https://ldb-phinf.pstatic.net/20250324_88/1742783713969tQCbv_JPEG/1Z0A9586_%281%29.jpg",
+    "https://ldb-phinf.pstatic.net/20250324_125/1742783656523EsAxb_JPEG/1Z0A9558_%282%29.jpg",
+    "https://ldb-phinf.pstatic.net/20250324_64/1742783640555ILcbR_JPEG/1Z0A9461_%281%29.jpg",
+    "https://ldb-phinf.pstatic.net/20250324_161/1742783643391sF5BQ_JPEG/1Z0A9451_%281%29.jpg"
+  ]
+}

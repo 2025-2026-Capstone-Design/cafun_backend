@@ -1,0 +1,569 @@
+{
+  "id": "1128289843",
+  "name": "글루닉",
+  "category": "카페,디저트",
+  "micro_review": [
+    "글루텐 프리 쌀케이크로 즐기는 행복"
+  ],
+  "road_address": "서울 성동구 서울숲2길 16-12 1층",
+  "address": "서울 성동구 성수동1가 685-463",
+  "lat": "127.0401552",
+  "lon": "37.5469645",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "11:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "토",
+      "start": "11:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "일",
+      "start": "11:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": null,
+      "end": null,
+      "breakHours": null,
+      "description": "정기휴무 (매주 월요일)",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": "11:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "수",
+      "start": "11:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "목",
+      "start": "11:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1303-5475",
+  "url": "https://www.instagram.com/cafe_glunic/",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": true,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": true,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "건강하고 맛있는 디저트를 만듭니다.\n일반 설탕 대신 유기농 비정제 설탕과 제로슈가\n밀가루 대신 쌀가루,아몬드가루로 만든\n글루텐프리,비건 메뉴들을 서울숲이 보이는 글루닉에서 즐겨보세요:^)\n\n위층 매장에서는 탁트인 서울숲 뷰를 보실 수 있고,\n단체석, 안락한 좌석을 원하시는 분들은 아래층에서 편안하게 즐기실 수 있습니다.\n\n글루닉 커피는 모두 프릳츠 원두를 사용합니다.\n\n전국 택배 가능(구움과자류에 한하여)\n스마트스토어 : https://smartstore.naver.com/cafe_glunic",
+  "Information_facilitie": [
+    "비건 메뉴",
+    "글루텐프리 메뉴",
+    "유기농 메뉴",
+    "포장",
+    "무선 인터넷",
+    "배달"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "네이버페이",
+    "간편결제"
+  ],
+  "menu": [
+    {
+      "name": "무화과 보틀 쌀케이크 GF",
+      "price": "8500",
+      "description": "담백한 쌀 시트에 달달한 무화과가 잘 어우러진 고소하고 건강한 저당 쌀 케이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250810_141/1754802002828jpUHj_JPEG/IMG_7526.JPG"
+      ]
+    },
+    {
+      "name": "단호박 바스크치즈케이크 GF",
+      "price": "8300",
+      "description": "직접 삶아낸 달달한 단호박이 통째로 들어가는 쌀로만 만든 바스크치즈케이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250305_142/1741166162749iyzXE_JPEG/KakaoTalk_Photo_2025-02-22-16-31-36_002.jpeg",
+        "https://ldb-phinf.pstatic.net/20250305_137/1741166157863t9CjQ_JPEG/KakaoTalk_Photo_2025-02-22-16-31-51.jpeg"
+      ]
+    },
+    {
+      "name": "얼그레이 쌀휘낭시에",
+      "price": "3800",
+      "description": "은은하게 퍼지는 얼그레이향과 화이트 초코의 달달한 만남! 담백한 쌀 휘낭시에",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250305_141/17411650259011XHx0_JPEG/KakaoTalk_Photo_2025-02-22-16-30-27_002.jpeg"
+      ]
+    },
+    {
+      "name": "유자 오미자 에이드",
+      "price": "7000",
+      "description": "소백산자락길 오미자원액으로 만든 오미자와 유기농 유자청을 더 해 상큼한 에이드",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240822_101/1724313041648KQAp0_JPEG/IMG_8663.jpg",
+        "https://ldb-phinf.pstatic.net/20240822_262/1724313034373o33DW_JPEG/IMG_8665.jpg"
+      ]
+    },
+    {
+      "name": "쑥 쌀 크럼블 마들렌 GF",
+      "price": "3300",
+      "description": "쌀가루와 국내산 쑥, 쌀 크럼블이 토핑된 쌀 마들렌",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240822_40/17243129519356SDXP_JPEG/IMG_8691.jpg",
+        "https://ldb-phinf.pstatic.net/20240822_189/1724312943091UbqcA_JPEG/IMG_8708.jpg"
+      ]
+    },
+    {
+      "name": "장뇌삼 라떼",
+      "price": "7000",
+      "description": "단양에서 키우고 재배한 산양삼, 장뇌삼으로 만든 건강하고 고소한 장뇌삼라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240813_193/1723533953606rpPtt_JPEG/KakaoTalk_Photo_2024-08-13-16-16-29_005.jpeg",
+        "https://ldb-phinf.pstatic.net/20240813_129/1723533944510GVb6O_JPEG/KakaoTalk_Photo_2024-08-13-16-16-30_008.jpeg"
+      ]
+    },
+    {
+      "name": "복숭아 요거트크림 보틀 쌀케이크 GF",
+      "price": "8500",
+      "description": "상큼한 요거트 크림과 싱그러운 복숭아가 조화로운 여름 맛 보틀 쌀케이크!",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250628_46/1751091606652EIpux_JPEG/IMG_3497.JPG",
+        "https://ldb-phinf.pstatic.net/20250628_162/1751091606683Jv7eq_JPEG/IMG_3498.JPG"
+      ]
+    },
+    {
+      "name": "흑임자 바스크 치즈케이크 GF",
+      "price": "8500",
+      "description": "끼리 크림치즈로 만든 흑임자의 고소함이 진하게 퍼지는 글루텐프리 흑임자 바스크치즈케이크!",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250628_286/17510913673433elkT_JPEG/IMG_2946.JPG"
+      ]
+    },
+    {
+      "name": "이천 쌀 슈페너",
+      "price": "7000",
+      "description": "달달한 크림과 고소한 쌀의 조화! 달달꼬숩 아인슈페너",
+      "images": []
+    },
+    {
+      "name": "핑크슈페너 (커피O)",
+      "price": "7000",
+      "description": "벚꽃잎의 분홍빛 색감과 화이트초콜릿의 풍미가 가득한 핑크빛 슈페너",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250615_104/1749976666849JtpHq_JPEG/KakaoTalk_Photo_2025-04-26-14-57-51.jpeg"
+      ]
+    },
+    {
+      "name": "저당 딸기라떼",
+      "price": "5500",
+      "description": "자일로스 설탕으로 만들어 깔끔하고 달콤한 수제 딸기청 글루닉 딸기라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250615_56/1749976535324ql7sX_JPEG/IMG_1084.JPG"
+      ]
+    },
+    {
+      "name": "저당 딸기말차 라떼",
+      "price": "7800",
+      "description": "알룰로스 딸기청과 진한 제로당 말차소스 베이스가 잘 어울리는 글루닉 딸기 말차라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250615_98/1749976506381FUn6q_JPEG/IMG_2945.JPG"
+      ]
+    },
+    {
+      "name": "황치즈 쌀 쿠키세트 (10개입)GF",
+      "price": "5300",
+      "description": "진한 황치즈의 풍미가 가득한 치즈덕후라면 꼭 먹어봐야 할 황치즈 쌀쿠키 세트!",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250615_73/1749976431582Lo5vh_JPEG/KakaoTalk_Photo_2025-06-15-17-29-16.jpeg",
+        "https://ldb-phinf.pstatic.net/20250615_92/17499764253806ft0n_JPEG/KakaoTalk_Photo_2025-06-15-17-11-38.jpeg"
+      ]
+    },
+    {
+      "name": "녹차 쌀 쿠키 세트 (10개입 )GF",
+      "price": "5500",
+      "description": "국내산 보성녹차 가루로 만들어 녹차의 달콤 쌉싸름한 맛이 매력적인 녹차 쌀쿠키 세트!",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250615_243/17499763674769PgYW_JPEG/KakaoTalk_Photo_2025-06-15-17-29-24.jpeg",
+        "https://ldb-phinf.pstatic.net/20250615_241/1749976356772Jc7Jx_JPEG/KakaoTalk_Photo_2025-06-15-17-11-32.jpeg"
+      ]
+    },
+    {
+      "name": "비건 오트밀 크럼블파이 GF ,VG",
+      "price": "5500",
+      "description": "동물성재료,밀가루,설탕이 모두 들어가지않고 맛과 건강을 다 챙긴 비건 오트밀파이!",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250615_101/1749976458299c0kjD_JPEG/KakaoTalk_Photo_2025-06-15-17-02-50_003.jpeg",
+        "https://ldb-phinf.pstatic.net/20250609_99/1749457218786L8Qqd_JPEG/1000009126.jpg",
+        "https://ldb-phinf.pstatic.net/20250609_225/1749457218735pxM30_JPEG/1000009124.jpg",
+        "https://ldb-phinf.pstatic.net/20250609_289/1749457218751PKS0G_JPEG/1000009127.jpg"
+      ]
+    },
+    {
+      "name": "블루베리 요거트 보틀 쌀케이크 GF",
+      "price": "8500",
+      "description": "저당으로 직접만든 블루베리필링과\n상큼한 요거트 크림이 잘어울리는 건강하고 맛있는 쌀케이크!",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250609_108/1749456256107RNVcc_JPEG/1000009114.jpg",
+        "https://ldb-phinf.pstatic.net/20250609_19/1749456256082sNwOI_JPEG/1000009115.jpg",
+        "https://ldb-phinf.pstatic.net/20250609_209/1749456256231dLOYo_JPEG/1000009105.jpg",
+        "https://ldb-phinf.pstatic.net/20250609_234/1749456256212nNvBt_JPEG/1000009103.jpg"
+      ]
+    },
+    {
+      "name": "초코나무 숲 쌀마들렌",
+      "price": "3400",
+      "description": "초코와 말차가 만나 달콤쌉싸름한 맛이 매력적인 쌀 마들렌",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250305_7/1741166041875nKD4Y_JPEG/KakaoTalk_Photo_2025-02-22-16-33-07_001.jpeg"
+      ]
+    },
+    {
+      "name": "라즈베리 초코 쌀마들렌",
+      "price": "3500",
+      "description": "라즈베리잼과 초코의 조화가 좋은 초코 쌀마들렌",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250305_233/1741165741734PUcse_JPEG/KakaoTalk_Photo_2025-02-22-16-28-14_001.jpeg"
+      ]
+    },
+    {
+      "name": "피스타치오 라즈베리 쌀마들렌",
+      "price": "3500",
+      "description": "라즈베리 잼과 화이트초코 ,피스타치오 토핑의조화가 잘 어우러진 상큼달달 쌀마들렌",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250305_157/17411654477892YiBs_JPEG/KakaoTalk_Photo_2025-02-22-16-28-15_006.jpeg"
+      ]
+    },
+    {
+      "name": "레몬 쌀마들렌",
+      "price": "3300",
+      "description": "레몬맛이 상큼달달한 쌀 마들렌",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250305_168/17411653904563Apns_JPEG/KakaoTalk_Photo_2025-02-22-16-28-15_004.jpeg"
+      ]
+    },
+    {
+      "name": "츄러스 쌀휘낭시에",
+      "price": "3800",
+      "description": "쌀 휘낭시에를 츄러스맛으로 즐겨볼 수 있는 기회!",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250305_188/1741165149443xGY0b_JPEG/KakaoTalk_Photo_2025-02-22-16-28-16_009.jpeg",
+        "https://ldb-phinf.pstatic.net/20250305_292/1741165143636Qw3HD_JPEG/KakaoTalk_Photo_2025-02-22-16-28-16_011.jpeg"
+      ]
+    },
+    {
+      "name": "쑥 크럼블 쌀 휘낭시에 GF",
+      "price": "3800",
+      "description": "쑥향이 진하고 쌀 크럼블이 올라가 식감이 좋은 고소한 쌀로만든 휘낭시에",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241011_58/1728625408695BbYVF_JPEG/KakaoTalk_Photo_2024-10-11-14-28-11_008%BE%A6_%C5%A9%B7%B3%BA%ED_%C8%D6%B3%B6%BD%C3%BF%A1.jpeg",
+        "https://ldb-phinf.pstatic.net/20241011_139/1728625408733OWCTb_JPEG/KakaoTalk_Photo_2024-10-11-14-28-11_009%BE%A6_%C5%A9%B7%B3%BA%ED_%C8%D6%B3%B6%BD%C3%BF%A1.jpeg"
+      ]
+    },
+    {
+      "name": "더블초코 쌀 휘낭시에 GF",
+      "price": "3800",
+      "description": "초코칩이 두 줄로 들어가서 초코가 더 진~한 쌀로만든 휘낭시에",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241011_84/1728625371178424GE_JPEG/KakaoTalk_Photo_2024-10-11-14-28-10_004%C3%CA%C4%DA_%C8%D6%B3%B6%BD%C3%BF%A1.jpeg",
+        "https://ldb-phinf.pstatic.net/20241011_180/17286253711616sCRJ_JPEG/KakaoTalk_Photo_2024-10-11-14-28-10_006%C3%CA%C4%DA_%C8%D6%B3%B6%BD%C3%BF%A1.jpeg"
+      ]
+    },
+    {
+      "name": "초코칩 플레인 쌀 스콘",
+      "price": "4000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241003_120/1727929483084ApLCb_JPEG/IMG_1024.JPG"
+      ]
+    },
+    {
+      "name": "초코칩 초코 쌀 스콘",
+      "price": "4500",
+      "description": "쌀스콘의 매력적인 식감과 초코칩의 만남!",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241003_213/1727929523170RzpuB_JPEG/KakaoTalk_Photo_2024-09-12-14-08-11_002.jpeg",
+        "https://ldb-phinf.pstatic.net/20241003_13/1727929523231x4WRs_JPEG/KakaoTalk_Photo_2024-09-12-14-08-10_001.jpeg",
+        "https://ldb-phinf.pstatic.net/20241003_155/17279295130538BYxr_JPEG/IMG_1019.JPG"
+      ]
+    },
+    {
+      "name": "크림치즈 무화과 쌀휘낭시에 GF",
+      "price": "3800",
+      "description": "직접 만든 무화과 당졸임과 크림치즈가 조화로운 쌀로만든 휘낭시에",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241003_223/1727929694719y6FcM_JPEG/IMG_9448%B9%AB%C8%AD%B0%FA_%C5%A9%B8%B2%C4%A1%C1%EE_%C8%D6%B3%B6%BD%C3%BF%A1.JPG",
+        "https://ldb-phinf.pstatic.net/20241003_99/1727929694911l8b5z_JPEG/IMG_9447%B9%AB%C8%AD%B0%FA_%C5%A9%B8%B2%C4%A1%C1%EE_%C8%D6%B3%B6%BD%C3%BF%A1.JPG",
+        "https://ldb-phinf.pstatic.net/20241003_118/1727929694562iLilX_JPEG/IMG_9451%BD%D2_%C8%D6%B3%B6%BD%C3%BF%A1_2%C1%BE_%B8%F0%B5%D2.JPG"
+      ]
+    },
+    {
+      "name": "바닐라빈 바스크 치즈케이크 GF",
+      "price": "7500",
+      "description": "쌀 쿠키 시트와 바닐라빈이 통째로 들어간, 꾸덕 바스크 치즈 케이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240911_188/1726020289377pUpYP_JPEG/IMG_8297.JPG",
+        "https://ldb-phinf.pstatic.net/20240911_86/1726020276532manna_JPEG/IMG_8793.jpg"
+      ]
+    },
+    {
+      "name": "샤케라또",
+      "price": "5000",
+      "description": "에스프레소와 얼음, 설탕을 이용하여 만든 이탈리아 식 커피 음료",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240824_100/1724480074473esrYI_JPEG/IMG_8904_2.jpg"
+      ]
+    },
+    {
+      "name": "장터 미숫가루",
+      "price": "6500",
+      "description": "식사대용으로도 가능한 구수하고 달달한 장터 미숫가루",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240824_49/1724480001576iKCWG_JPEG/%B9%CC%BC%FD%B0%A1%B7%E7.jpg"
+      ]
+    },
+    {
+      "name": "빠다 코코넛 쌀 스콘",
+      "price": "4500",
+      "description": "빠다 코코넛과자 맛이 생각나는 버터와 코코넛의 풍미가 가득한 쌀로만든 스콘",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240911_203/1726020100989Er4Te_JPEG/%BA%FC%B4%D9%C4%DA%C4%DA%B3%D3_%BD%D2%BD%BA%C4%DC.jpeg",
+        "https://ldb-phinf.pstatic.net/20240911_189/1726020100961U5Y6z_JPEG/%BA%FC%B4%D9%C4%DA%C4%DA%B3%D3_%BD%D2_%BD%BA%C4%DC.jpeg"
+      ]
+    },
+    {
+      "name": "두부두부해 셋트(두부스콘+크림)",
+      "price": "4500",
+      "description": "글루텐프리 두부스콘과 비건 바닐라 두부크림이 조화로운 고소하고 담백한 스콘셋트",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240824_140/1724472100447v2rGK_JPEG/%B5%CE%BA%CE%BD%BA%C4%DC.jpg",
+        "https://ldb-phinf.pstatic.net/20240824_273/17244720926125rLDL_JPEG/IMG_8986.jpg",
+        "https://ldb-phinf.pstatic.net/20240824_77/1724472078948q9jsf_JPEG/IMG_8988.jpg"
+      ]
+    },
+    {
+      "name": "카푸치노",
+      "price": "6000",
+      "description": "프릳츠의 다크한 원두와 우유 거품이 풍성하고 고소한 카푸치노",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240822_134/17243140546492EsgO_JPEG/IMG_8648.jpg"
+      ]
+    },
+    {
+      "name": "피스타치오 크림라떼",
+      "price": "7000",
+      "description": "피스타치오 크림과 부드러운 스팀우유가 올라간 크림라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240822_100/1724313149619McPCO_JPEG/IMG_8819.jpg",
+        "https://ldb-phinf.pstatic.net/20240822_222/1724313139322VnAx8_JPEG/IMG_8823.jpg"
+      ]
+    },
+    {
+      "name": "초코 쌀 마들렌 GF",
+      "price": "3300",
+      "description": "쌀가루와 발로나 초코가 어우러져 진하고 맛있는 쌀 마들렌",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240822_150/1724312799609JyFIb_JPEG/IMG_8687.jpg",
+        "https://ldb-phinf.pstatic.net/20240822_110/17243127900039goVl_JPEG/IMG_8708.jpg"
+      ]
+    },
+    {
+      "name": "플레인 쌀 마들렌 GF",
+      "price": "3000",
+      "description": "쌀가루로 만들어 고소하고 은은한 단맛의 깔끔한 오리지널 쌀 마들렌",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240822_23/1724312719460Nmxla_JPEG/IMG_8679.jpg",
+        "https://ldb-phinf.pstatic.net/20240822_245/1724312711400pniQ7_JPEG/IMG_8680.jpg",
+        "https://ldb-phinf.pstatic.net/20240822_91/1724312696749lMaqV_JPEG/IMG_8708.jpg"
+      ]
+    },
+    {
+      "name": "비건 라즈베리 화이트 초코 쿠키 VG",
+      "price": "4100",
+      "description": "통밀가루와 식물성 재료로만 만든 라즈베리가 상큼하게 씹히는 게 매력적인 비건쿠키",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241003_57/1727929672157uHjuj_JPEG/IMG_9369%BA%F1%B0%C7_%C8%AD%C0%CC%C6%AE%C3%CA%C4%DA_%B6%F3%C1%EE%BA%A3%B8%AE%C4%ED%C5%B0.JPG",
+        "https://ldb-phinf.pstatic.net/20240822_102/1724312284602DA8kd_JPEG/IMG_8743.jpg"
+      ]
+    },
+    {
+      "name": "비건 초코칩 코코넛 쿠키 VG",
+      "price": "2900",
+      "description": "코코넛과 달달한 초코칩의 식감이 좋은 비건 쿠키",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241003_109/1727929648400rKnKV_JPEG/IMG_9374%BA%F1%B0%C7_%C4%DA%C4%DA%B3%D3_%C3%CA%C4%DA%C4%A8_%C4%ED%C5%B0.JPG",
+        "https://ldb-phinf.pstatic.net/20240822_42/1724312162429lm3gt_JPEG/IMG_8319.JPG",
+        "https://ldb-phinf.pstatic.net/20240822_222/1724312030456di4wN_JPEG/IMG_8743.jpg"
+      ]
+    },
+    {
+      "name": "주르륵 초코 생크림 쌀케이크 GF",
+      "price": "8300",
+      "description": "쌀 제누와즈 시트와 초코 가나슈가 흘러내려 먹음직스러운 진한 초코 쌀 케이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251108_299/1762584414068cQXYp_JPEG/IMG_7612.JPG"
+      ]
+    },
+    {
+      "name": "플레인 쌀 휘낭시에 GF",
+      "price": "3500",
+      "description": "쌀가루와, 비정제 원당으로 깔끔하게 맛을 낸 플레인 휘낭시에",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241003_161/1727929619593NF93x_JPEG/%C7%C3%B7%B9%C0%CE_%BD%D2_%C8%D6%B3%B6%BD%C3%BF%A1.JPG",
+        "https://ldb-phinf.pstatic.net/20241003_80/1727929619613CQf2u_JPEG/IMG_9451%BD%D2_%C8%D6%B3%B6%BD%C3%BF%A1_2%C1%BE_%B8%F0%B5%D2.JPG"
+      ]
+    },
+    {
+      "name": "비건 초코 크랙 쿠키 VG",
+      "price": "3900",
+      "description": "통밀가루,비정제 원당, 식물성 재료로 만든 진한 초코맛의 겉바속쫀 쿠키",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241003_224/1727929579712RFtOb_JPEG/IMG_9366%BA%F1%B0%C7_%C3%CA%C4%DA_%C5%A9%B7%A2%C4%ED%C5%B0.JPG",
+        "https://ldb-phinf.pstatic.net/20240822_35/1724308261642U9JIO_JPEG/IMG_8743.jpg"
+      ]
+    },
+    {
+      "name": "비건 르뱅 쿠키 VG",
+      "price": "4100",
+      "description": "식물성 재료와 통밀가루, 비정제 원당으로 만든 쿠키",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241003_165/17279295538323Q7Sl_JPEG/%BA%F1%B0%C7_%B8%A3%B9%F0_%C4%ED%C5%B0.JPG",
+        "https://ldb-phinf.pstatic.net/20241003_296/1727929553936oYiQx_JPEG/%BA%F1%B0%C7%B8%A3%B9%F0%C4%ED%C5%B0.JPG"
+      ]
+    },
+    {
+      "name": "코코넛 쌀 브라우니 GF",
+      "price": "4000",
+      "description": "밀가루,일반설탕이 들어가지 않은 코코넛의 풍미가 진~하고 쫀득한 브라우니",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241003_17/172792972529598eNe_JPEG/IMG_9372%C4%DA%C4%DA%B3%D3_%BA%EA%B6%F3%BF%EC%B4%CF.JPG",
+        "https://ldb-phinf.pstatic.net/20241003_282/17279297150883MaPV_JPEG/IMG_9376%C4%DA%C4%DA%B3%D3_%BA%EA%B6%F3%BF%EC%B4%CF.JPG",
+        "https://ldb-phinf.pstatic.net/20240822_49/1724317839382Lh0cX_JPEG/IMG_8332.JPG"
+      ]
+    },
+    {
+      "name": "아메리카노",
+      "price": "5500",
+      "description": "산미 없이 고소하고 진한 프릳츠 원두 커피",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240813_129/17235339207399PVb8_JPEG/KakaoTalk_Photo_2024-08-13-16-16-28_001.jpeg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20250628_65/1751090990665u3RWW_JPEG/IMG_3498.JPG",
+    "https://ldb-phinf.pstatic.net/20250628_10/1751090990919CHxMu_JPEG/IMG_3508.JPG",
+    "https://ldb-phinf.pstatic.net/20250628_142/1751091010871CCeVc_JPEG/KakaoTalk_Photo_2025-06-15-17-29-24.jpeg",
+    "https://ldb-phinf.pstatic.net/20250628_145/1751091011188XhTrE_JPEG/KakaoTalk_Photo_2025-06-15-17-29-16.jpeg",
+    "https://ldb-phinf.pstatic.net/20250628_3/1751091010635IpJlV_JPEG/KakaoTalk_Photo_2025-06-15-17-29-08.jpeg",
+    "https://ldb-phinf.pstatic.net/20250628_104/1751090991034X5VRV_JPEG/IMG_2946.JPG",
+    "https://ldb-phinf.pstatic.net/20250608_171/1749354994868kvDit_JPEG/IMG_2572.JPG",
+    "https://ldb-phinf.pstatic.net/20250608_97/1749354994805UCp3r_JPEG/IMG_2576.JPG",
+    "https://ldb-phinf.pstatic.net/20250608_91/1749355004238p00tT_JPEG/IMG_2633.JPG",
+    "https://ldb-phinf.pstatic.net/20250608_214/1749355004256YlnjG_JPEG/IMG_2581.JPG",
+    "https://ldb-phinf.pstatic.net/20250608_7/17493550043611G1ig_JPEG/IMG_2575.JPG",
+    "https://ldb-phinf.pstatic.net/20250503_228/1746265167066RxH4I_JPEG/IMG_0371.JPG",
+    "https://ldb-phinf.pstatic.net/20250503_299/1746265167026viVQh_JPEG/IMG_0365.JPG",
+    "https://ldb-phinf.pstatic.net/20250503_253/1746265167090cJobd_JPEG/IMG_0360.JPG",
+    "https://ldb-phinf.pstatic.net/20250503_288/1746265167190dY1mS_JPEG/IMG_0351.JPG",
+    "https://ldb-phinf.pstatic.net/20250503_21/1746265166956gvQgA_JPEG/IMG_0347.JPG",
+    "https://ldb-phinf.pstatic.net/20250314_202/1741941593239wjXir_JPEG/KakaoTalk_Photo_2025-02-22-16-31-36_002.jpeg",
+    "https://ldb-phinf.pstatic.net/20250314_278/1741941593584HfnJl_JPEG/KakaoTalk_Photo_2025-02-22-16-33-07_001.jpeg",
+    "https://ldb-phinf.pstatic.net/20250314_43/1741941593933BEPeM_JPEG/KakaoTalk_Photo_2025-02-22-16-28-16_011.jpeg",
+    "https://ldb-phinf.pstatic.net/20250314_37/1741941593221feI24_JPEG/KakaoTalk_Photo_2025-02-22-16-28-15_006.jpeg",
+    "https://ldb-phinf.pstatic.net/20250314_204/1741941593224oldTF_JPEG/KakaoTalk_Photo_2025-02-22-16-28-15_004.jpeg",
+    "https://ldb-phinf.pstatic.net/20250314_69/1741941593115wPhpp_JPEG/KakaoTalk_Photo_2025-02-22-16-28-14_001.jpeg",
+    "https://ldb-phinf.pstatic.net/20250314_154/17419415086467Fetm_JPEG/KakaoTalk_Photo_2025-03-09-13-59-55_008.jpeg",
+    "https://ldb-phinf.pstatic.net/20250314_118/1741941336874GPEJ6_JPEG/IMG_8115.JPG",
+    "https://ldb-phinf.pstatic.net/20250314_191/1741941341249BNzGn_JPEG/IMG_8116.JPG",
+    "https://ldb-phinf.pstatic.net/20250314_284/1741941335514eX2Lm_JPEG/IMG_8117.JPG",
+    "https://ldb-phinf.pstatic.net/20250314_86/1741941331411xHSu8_JPEG/IMG_8118.JPG",
+    "https://ldb-phinf.pstatic.net/20250314_40/1741941339281nMJLl_JPEG/IMG_8119.JPG",
+    "https://ldb-phinf.pstatic.net/20250314_118/1741941340878VRqUD_JPEG/IMG_8120.JPG",
+    "https://ldb-phinf.pstatic.net/20250314_164/1741941330517gwwz9_JPEG/IMG_8122.JPG",
+    "https://ldb-phinf.pstatic.net/20250314_124/1741941327289Gq9QE_JPEG/IMG_8123.JPG",
+    "https://ldb-phinf.pstatic.net/20241011_201/17286254616522aJj8_JPEG/KakaoTalk_Photo_2024-10-11-14-28-12_012%B9%E3_%B9%D9%BD%BA%C5%A9_%C4%A1%C1%EE%C4%C9%C0%CC%C5%A9.jpeg",
+    "https://ldb-phinf.pstatic.net/20241011_126/1728625454548XNR5t_JPEG/KakaoTalk_Photo_2024-10-11-14-28-09_003.jpeg",
+    "https://ldb-phinf.pstatic.net/20241003_106/1727929321971tyoSG_JPEG/IMG_1020_2.JPG",
+    "https://ldb-phinf.pstatic.net/20241003_62/1727929321968dvskz_JPEG/IMG_1025.JPG",
+    "https://ldb-phinf.pstatic.net/20241003_85/1727929321936PSdLI_JPEG/IMG_1027.JPG",
+    "https://ldb-phinf.pstatic.net/20241003_79/1727929322002kOx0R_JPEG/IMG_1024.JPG",
+    "https://ldb-phinf.pstatic.net/20240928_114/1727507391332VdiV4_JPEG/KakaoTalk_Photo_2024-09-03-11-30-39_001%B9%AB%C8%AD%B0%FA_%BB%FD%C5%A9%B8%B2_%BD%D2_%C4%C9%C0%CC%C5%A9.jpeg",
+    "https://ldb-phinf.pstatic.net/20240928_275/1727507559071zPpNO_JPEG/%BA%F1%B0%C7_%B8%A3%B9%F0_%C4%ED%C5%B0.JPG",
+    "https://ldb-phinf.pstatic.net/20240928_273/1727507559067yRQ3v_JPEG/IMG_9366%BA%F1%B0%C7_%C3%CA%C4%DA_%C5%A9%B7%A2%C4%ED%C5%B0.JPG",
+    "https://ldb-phinf.pstatic.net/20240928_113/1727507559082X05rW_JPEG/IMG_9369%BA%F1%B0%C7_%C8%AD%C0%CC%C6%AE%C3%CA%C4%DA_%B6%F3%C1%EE%BA%A3%B8%AE%C4%ED%C5%B0.JPG",
+    "https://ldb-phinf.pstatic.net/20240928_23/1727507559142QDzuQ_JPEG/IMG_9374%BA%F1%B0%C7_%C4%DA%C4%DA%B3%D3_%C3%CA%C4%DA%C4%A8_%C4%ED%C5%B0.JPG",
+    "https://ldb-phinf.pstatic.net/20240928_37/1727507287340bTviz_JPEG/%BA%FC%B4%D9%C4%DA%C4%DA%B3%D3_%BD%D2%BD%BA%C4%DC.jpeg",
+    "https://ldb-phinf.pstatic.net/20240928_220/1727507303316UJxhd_JPEG/KakaoTalk_Photo_2024-09-12-14-08-11_002.jpeg",
+    "https://ldb-phinf.pstatic.net/20240928_28/172750755910144LcY_JPEG/IMG_8691.jpg",
+    "https://ldb-phinf.pstatic.net/20240928_54/1727507319815Jw8xr_JPEG/IMG_8708.jpg",
+    "https://ldb-phinf.pstatic.net/20240928_4/1727507419539ruPXt_JPEG/%BA%F1%B0%C7%C4%ED%C5%B0%BC%C2%C6%AE.JPG",
+    "https://ldb-phinf.pstatic.net/20240928_144/1727507366569yfe9s_JPEG/IMG_8295.JPG",
+    "https://ldb-phinf.pstatic.net/20240928_41/1727507366478AEgLm_JPEG/IMG_8298.JPG",
+    "https://ldb-phinf.pstatic.net/20240928_232/1727507366493l98A8_JPEG/IMG_8299.JPG",
+    "https://ldb-phinf.pstatic.net/20240928_230/1727507295810DaeAJ_JPEG/IMG_9379%C1%D6%B8%A3%B8%A3_%C3%CA%C4%DA_%BB%FD%C5%A9%B8%B2_%C4%C9%C0%CC%C5%A9.jpg",
+    "https://ldb-phinf.pstatic.net/20240928_35/1727507292749fdDtN_JPEG/IMG_9448%B9%AB%C8%AD%B0%FA_%C5%A9%B8%B2%C4%A1%C1%EE_%C8%D6%B3%B6%BD%C3%BF%A1.jpg",
+    "https://ldb-phinf.pstatic.net/20240928_227/1727507514934v7qBn_JPEG/IMG_8819.JPG",
+    "https://ldb-phinf.pstatic.net/20240928_281/1727507515088QY3RM_JPEG/IMG_8914.jpg",
+    "https://ldb-phinf.pstatic.net/20240928_232/172750751498314lm2_JPEG/IMG_8648.jpg",
+    "https://ldb-phinf.pstatic.net/20240928_294/1727507515022e8DOb_JPEG/KakaoTalk_Photo_2024-09-03-15-51-28_002.jpeg",
+    "https://ldb-phinf.pstatic.net/20240928_111/17275075151343AYiA_JPEG/KakaoTalk_Photo_2024-08-28-16-17-09_004.jpeg",
+    "https://ldb-phinf.pstatic.net/20240928_37/17275075150618ixeJ_JPEG/KakaoTalk_Photo_2024-08-27-14-56-54_003.jpeg",
+    "https://ldb-phinf.pstatic.net/20240928_228/172750751499991tYb_JPEG/KakaoTalk_Photo_2024-08-21-11-55-04_005.jpeg",
+    "https://ldb-phinf.pstatic.net/20240928_17/1727507462649HU9OV_JPEG/IMG_8663.jpg",
+    "https://ldb-phinf.pstatic.net/20240928_274/1727507462675rY3d2_JPEG/%B9%CC%BC%FD%B0%A1%B7%E7.jpg",
+    "https://ldb-phinf.pstatic.net/20240928_69/1727507462909gEL4L_JPEG/IMG_9380.jpg",
+    "https://ldb-phinf.pstatic.net/20240928_285/1727507463053eLCXz_JPEG/KakaoTalk_Photo_2024-08-27-15-23-20_003.jpeg",
+    "https://ldb-phinf.pstatic.net/20240928_239/1727507462928gT3UV_JPEG/KakaoTalk_Photo_2024-08-21-11-55-03_002.jpeg",
+    "https://ldb-phinf.pstatic.net/20240928_79/17275074630744ULKm_JPEG/IMG_9395%B7%E7%C0%CC%BA%B8%BD%BA.JPG",
+    "https://ldb-phinf.pstatic.net/20240928_105/1727507462839CopyN_JPEG/IMG_9406%C0%AF%C0%DA%C3%BB%B1%D6.JPG",
+    "https://ldb-phinf.pstatic.net/20240928_208/1727507463049USLx4_JPEG/IMG_9402%BA%B9%BC%FE%BE%C6%B2%C9.JPG",
+    "https://ldb-phinf.pstatic.net/20240928_187/1727507463014Gmvxm_JPEG/IMG_9400%B5%BF%B9%E9%B2%C9.JPG",
+    "https://ldb-phinf.pstatic.net/20240928_264/1727507462984QKS2d_JPEG/IMG_9398%B1%B9%C8%AD%B2%C9.JPG",
+    "https://ldb-phinf.pstatic.net/20240928_183/1727507463110klv8o_JPEG/IMG_9396%C0%E5%B9%CC%B2%C9.JPG",
+    "https://ldb-phinf.pstatic.net/20240818_27/1723976573033q5efv_JPEG/IMG_3541.jpeg",
+    "https://ldb-phinf.pstatic.net/20240928_14/1727507611904V5GHr_JPEG/IMG_8044%B8%C5%C0%E5_%C0%FC%B0%E6_.JPG",
+    "https://ldb-phinf.pstatic.net/20240928_152/1727507611938ILlTq_JPEG/IMG_8046%B8%C5%C0%E5_%C0%FC%B0%E6_.JPG",
+    "https://ldb-phinf.pstatic.net/20240928_249/1727507611852B7xJg_JPEG/IMG_8009%B8%C5%C0%E5_%C0%FC%B0%E6_.JPG",
+    "https://ldb-phinf.pstatic.net/20240818_9/1723973924487U5TMm_PNG/IMG_3533.png"
+  ]
+}

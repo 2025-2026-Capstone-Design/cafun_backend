@@ -1,0 +1,474 @@
+{
+  "id": "1529218208",
+  "name": "네모네",
+  "category": "카페,디저트",
+  "micro_review": [
+    "딸기와 크림의 완벽한 조화 딸기케미크"
+  ],
+  "road_address": "서울 성동구 상원2길 6 1층, B1층",
+  "address": "서울 성동구 성수동1가 16-2",
+  "lat": "127.0495238",
+  "lon": "37.5458335",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "12:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:30"
+        }
+      ]
+    },
+    {
+      "day": "토",
+      "start": "12:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:30"
+        }
+      ]
+    },
+    {
+      "day": "일",
+      "start": "12:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:30"
+        }
+      ]
+    },
+    {
+      "day": "월",
+      "start": "13:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:30"
+        }
+      ]
+    },
+    {
+      "day": "화",
+      "start": "13:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:30"
+        }
+      ]
+    },
+    {
+      "day": "수",
+      "start": "13:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:30"
+        }
+      ]
+    },
+    {
+      "day": "목",
+      "start": "13:00",
+      "end": "21:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "20:30"
+        }
+      ]
+    }
+  ],
+  "virtual_phone_number": "0507-1397-1820",
+  "url": "https://www.instagram.com/nemone_cafe",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": false,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": false,
+    "대기공간": true,
+    "간편결제": true,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": true,
+    "포장": true,
+    "배달": false,
+    "출장": true,
+    "방문접수": true,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "성수동을 네모로 지배한 케이크집 아니고 케미크집 밉니다,,ㅁ(NEMO NEMO BEAM)\n\n평소 접해보지 못했던 재미난 컨셉과 분위기 특이하면서도 맛있는\n케이크와 음료 그리고 빙수,베이커리류로 특별한 경험을 본인에게 선물해보세요.\n\n추천메뉴는 제철과일빙수 와 네모라떼, 생크림 과일케이크까지 그리고 다양한 음료까지 감성적인 매장내부에서 취식도 가능합니다.\n\n성수동 카페 네모네는 맛있게 만들기 위해 항상 최선을 다하고 있습니다.\n\n홀케이크 문의는 최소 하루 전 매장으로 예약 받고 있으며,당일 현장구매도 가능합니다. 매장내 취식가능합니다",
+  "Information_facilitie": [
+    "테이크아웃 할인",
+    "로스터리",
+    "글루텐프리 메뉴",
+    "포장",
+    "대기공간",
+    "방문접수/출장",
+    "예약"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "지역화폐 (지류형)",
+    "간편결제"
+  ],
+  "menu": [
+    {
+      "name": "딸기케미크",
+      "price": "13800",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251111_190/17628231696110YrQl_JPEG/IMG_1360.jpeg"
+      ]
+    },
+    {
+      "name": "[미니]딸기케미크 2~3인",
+      "price": "43000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251111_165/1762823210452mRr5F_JPEG/IMG_1359.jpeg"
+      ]
+    },
+    {
+      "name": "[1호]딸기케미크",
+      "price": "54000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251111_96/1762823265868m6zyY_JPEG/IMG_1359.jpeg"
+      ]
+    },
+    {
+      "name": "무화과빔수",
+      "price": "28800",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250808_253/1754617760002MLTxe_JPEG/KakaoTalk_20250808_095802752_02.jpg"
+      ]
+    },
+    {
+      "name": "복숨마빔수",
+      "price": "28800",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250808_33/1754617827459NGKJO_JPEG/KakaoTalk_20250808_104616482.jpg"
+      ]
+    },
+    {
+      "name": "망고파르페",
+      "price": "18800",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250321_84/1742488459306JtskC_JPEG/IMG_0721.jpeg"
+      ]
+    },
+    {
+      "name": "복숨마파르페",
+      "price": "18800",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250709_21/1752059098018CG8Uj_JPEG/IMG_5071.jpeg",
+        "https://ldb-phinf.pstatic.net/20250709_146/1752059098036qRF7J_JPEG/IMG_5056.jpeg"
+      ]
+    },
+    {
+      "name": "샘망고타뭐케미크[8~10인]",
+      "price": "78000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250711_77/1752199100895wdeub_JPEG/IMG_5190.jpeg"
+      ]
+    },
+    {
+      "name": "[1호]복숨마케미크",
+      "price": "53000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250709_187/1752059065302B3Ee6_JPEG/IMG_5070.jpeg"
+      ]
+    },
+    {
+      "name": "샤민머스캣빔수",
+      "price": "28800",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250808_38/1754617879258x8FBW_JPEG/KakaoTalk_20250808_095802752_01.jpg"
+      ]
+    },
+    {
+      "name": "샘맘고빔수",
+      "price": "28800",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250321_53/1742488610589NNIzr_JPEG/IMG_1300.jpeg"
+      ]
+    },
+    {
+      "name": "딸기케미크",
+      "price": "13800",
+      "description": "100% 동물성 생크림과 직접 구운 제누와즈로 만들어진 딸기가 듬뿍 들어간 딸기케이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250309_45/1741465903763P3COi_JPEG/IMG_8156.jpeg",
+        "https://ldb-phinf.pstatic.net/20241121_58/1732177903761lh0Bm_JPEG/IMG_9634.jpeg"
+      ]
+    },
+    {
+      "name": "딸기수건케미크",
+      "price": "12800",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250309_11/1741465829290sjNeG_JPEG/IMG_9648.jpeg"
+      ]
+    },
+    {
+      "name": "딸기케미크[초코,피스타치오,생크림]",
+      "price": "",
+      "description": "100% 동물성 생크림과 직접 구운 제누와즈로 만들어진 딸기가 듬뿍 들어간 딸기케이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241121_117/1732177967440QXI0E_JPEG/IMG_9636.jpeg"
+      ]
+    },
+    {
+      "name": "[1호]딸기케미크",
+      "price": "53000",
+      "description": "100% 동물성 생크림과 직접 구운 제누와즈로 만들어진 딸기가 듬뿍 들어간 딸기홀케이크",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241107_130/1730986049193VfJTv_JPEG/IMG_7153.jpeg"
+      ]
+    },
+    {
+      "name": "슈퍼샤인묘거트케미크",
+      "price": "11800",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240928_34/1727478762042CmT1r_JPEG/IMG_0489.jpeg"
+      ]
+    },
+    {
+      "name": "휘남시메 8종",
+      "price": "",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250709_47/1752059110843xx5eH_JPEG/IMG_5072.jpeg",
+        "https://ldb-phinf.pstatic.net/20240723_158/17216875598129XFem_JPEG/9A599A8F-9DC5-4752-9F7E-CF657CF284DF.jpeg"
+      ]
+    },
+    {
+      "name": "네모라떼",
+      "price": "8000",
+      "description": "100%동물성 생크림+엑설런트 그리고 네모네만에 맛을 더한 아이스크림라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231125_299/1700840219502LfxQb_JPEG/IMG_3768.jpeg"
+      ]
+    },
+    {
+      "name": "두바미수건케미크",
+      "price": "",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251201_201/1764572258885RHfdE_JPEG/IMG_9708.jpeg"
+      ]
+    },
+    {
+      "name": "딸기두바미쫀득볼",
+      "price": "",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251201_277/176457222769514dae_JPEG/IMG_3283.jpeg"
+      ]
+    },
+    {
+      "name": "두바미쫀득볼",
+      "price": "",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251201_237/17645722069253cOgh_JPEG/IMG_3276.jpeg"
+      ]
+    },
+    {
+      "name": "무화과케미크",
+      "price": "13800",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250725_74/17534258150428fCEW_JPEG/KakaoTalk_20241030_155638709_08.jpg"
+      ]
+    },
+    {
+      "name": "그릭모모빔수",
+      "price": "",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250709_136/1752058737054O2ej7_JPEG/IMG_5062.jpeg"
+      ]
+    },
+    {
+      "name": "[1호]무화과피스타치모",
+      "price": "56000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250725_163/1753425852761ntbQL_JPEG/%B4%D9%BF%EE%B7%CE%B5%E5_%281%29.jpeg"
+      ]
+    },
+    {
+      "name": "[미니]무화과홀케미크",
+      "price": "42000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250725_105/175342586679711RvT_JPEG/KakaoTalk_20241030_155638709_03.jpg"
+      ]
+    },
+    {
+      "name": "[미니]복숨마케미크",
+      "price": "42000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250711_83/1752199076939P6EfK_JPEG/IMG_5075.jpeg"
+      ]
+    },
+    {
+      "name": "딸기크레미프케미크",
+      "price": "13800",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250412_160/1744435636236BuwA7_JPEG/IMG_4109.jpeg"
+      ]
+    },
+    {
+      "name": "샘맘고케미크",
+      "price": "13800",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250401_106/1743515263929psEKh_JPEG/IMG_0599.jpeg"
+      ]
+    },
+    {
+      "name": "체리초코케미크",
+      "price": "13800",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250225_188/1740455274185xa0Yl_JPEG/IMG_8143.jpeg"
+      ]
+    },
+    {
+      "name": "딸기타뭐케미크",
+      "price": "",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241209_50/1733684286303bYLdN_JPEG/A8181F31-B775-483B-BC56-126E4F0000E8.jpeg"
+      ]
+    },
+    {
+      "name": "귤묘거트케미크",
+      "price": "11800",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240930_41/1727631805483gXdMX_JPEG/KakaoTalk_20240929_230929189_01.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20250225_44/1740455187985tEHtV_JPEG/IMG_8156.jpeg",
+    "https://ldb-phinf.pstatic.net/20250321_114/174248831925014yWt_JPEG/IMG_0719.jpeg",
+    "https://ldb-phinf.pstatic.net/20250709_51/17520590087026XSTk_JPEG/IMG_5071.jpeg",
+    "https://ldb-phinf.pstatic.net/20250711_72/17521991371501cJgK_JPEG/IMG_5190.jpeg",
+    "https://ldb-phinf.pstatic.net/20250711_185/1752199153485BEBqI_JPEG/IMG_5075.jpeg",
+    "https://ldb-phinf.pstatic.net/20250711_141/1752199153462U0rki_JPEG/IMG_5070.jpeg",
+    "https://ldb-phinf.pstatic.net/20250709_118/1752058808896ltQhc_JPEG/IMG_5061.jpeg",
+    "https://ldb-phinf.pstatic.net/20250709_8/1752058809183hB3aG_JPEG/IMG_5067.jpeg",
+    "https://ldb-phinf.pstatic.net/20250321_57/1742488343024EKDl9_JPEG/IMG_1278.jpeg",
+    "https://ldb-phinf.pstatic.net/20250309_21/1741465953716OSRF0_JPEG/ECDA3A53-A2C1-46AC-A844-09BE9D6C50A1.jpeg",
+    "https://ldb-phinf.pstatic.net/20250309_284/1741465432865i2nlK_JPEG/IMG_9644.jpeg",
+    "https://ldb-phinf.pstatic.net/20250309_250/1741465432328KFJMM_JPEG/IMG_9429.jpeg",
+    "https://ldb-phinf.pstatic.net/20250309_116/1741465432748EQ8IS_JPEG/IMG_9648.jpeg",
+    "https://ldb-phinf.pstatic.net/20250309_162/1741465953495UyJwF_JPEG/IMG_8614.jpeg",
+    "https://ldb-phinf.pstatic.net/20231205_198/1701759120809ejOjt_JPEG/60F50547-36E3-4445-9DB5-EA30D1322744.jpeg",
+    "https://ldb-phinf.pstatic.net/20241209_278/17336842144452ItG4_JPEG/IMG_2386.jpeg",
+    "https://ldb-phinf.pstatic.net/20241107_130/17309758972451g0WD_JPEG/KakaoTalk_20241107_193348786.jpg",
+    "https://ldb-phinf.pstatic.net/20241127_93/1732693996416u00Vs_JPEG/IMG_0647.jpeg",
+    "https://ldb-phinf.pstatic.net/20241127_205/17326939964782dvqq_JPEG/IMG_0648.jpeg",
+    "https://ldb-phinf.pstatic.net/20241024_270/17297504393982lg5I_JPEG/IMG_4084.jpeg",
+    "https://ldb-phinf.pstatic.net/20241003_268/1727966548249jk2Pg_JPEG/BA535C72-24A6-46A7-AA81-7ED871B99D4B.jpeg",
+    "https://ldb-phinf.pstatic.net/20241107_12/1730975897136WXphw_JPEG/KakaoTalk_20241107_192043210_02_-_%BA%B9%BB%E7%BA%BB.jpg",
+    "https://ldb-phinf.pstatic.net/20241003_229/1727966549114qcqYB_JPEG/IMG_1378.jpeg",
+    "https://ldb-phinf.pstatic.net/20241024_260/1729750439488EeWQN_JPEG/IMG_4083.jpeg",
+    "https://ldb-phinf.pstatic.net/20241003_63/1727966588317v3ob8_JPEG/IMG_0977.jpeg",
+    "https://ldb-phinf.pstatic.net/20240916_247/1726421783699crxvW_JPEG/IMG_6758.jpeg",
+    "https://ldb-phinf.pstatic.net/20241003_189/1727966587997678wP_JPEG/IMG_0978.jpeg",
+    "https://naverbooking-phinf.pstatic.net/20240830_226/17250083005850Fzy3_JPEG/KakaoTalk_20240830_174920097.jpg",
+    "https://ldb-phinf.pstatic.net/20240930_172/1727632165410JUJr0_JPEG/KakaoTalk_20240930_024801430_02.jpg",
+    "https://ldb-phinf.pstatic.net/20240930_269/1727632165459vuMSA_JPEG/KakaoTalk_20240930_024801430_05.jpg",
+    "https://ldb-phinf.pstatic.net/20240930_232/1727632165392QwCnU_JPEG/KakaoTalk_20240930_024801430_03.jpg",
+    "https://ldb-phinf.pstatic.net/20240930_236/1727632165403vNEcQ_JPEG/KakaoTalk_20240930_024801430.jpg",
+    "https://ldb-phinf.pstatic.net/20240928_12/1727478604312NuNcJ_JPEG/IMG_0489.jpeg",
+    "https://ldb-phinf.pstatic.net/20240923_113/1727040320212SLm70_JPEG/KakaoTalk_20240923_061438379_03.jpg",
+    "https://ldb-phinf.pstatic.net/20240923_232/17270403202942skBb_JPEG/KakaoTalk_20240923_061438379.jpg",
+    "https://ldb-phinf.pstatic.net/20240703_182/1719932911087Qtk0o_JPEG/KakaoTalk_20240702_235353012_07.jpg",
+    "https://ldb-phinf.pstatic.net/20240612_113/17181181642308WptP_JPEG/51419023-A6A5-4C65-9BC2-273017ED2648.jpeg",
+    "https://ldb-phinf.pstatic.net/20240703_188/1719932910951QEUAC_JPEG/KakaoTalk_20240702_235353012_06.jpg",
+    "https://naverbooking-phinf.pstatic.net/20240908_42/1725791305186aQRDH_JPEG/KakaoTalk_20240908_192352930_01.jpg",
+    "https://ldb-phinf.pstatic.net/20240830_4/17250155207986rucv_JPEG/IMG_6527.jpeg",
+    "https://ldb-phinf.pstatic.net/20240723_217/17216877795325CFEE_JPEG/37214ABC-E8FB-4643-9B57-03E6BA5724C7.jpeg",
+    "https://ldb-phinf.pstatic.net/20240703_136/17199329109534lUJB_JPEG/KakaoTalk_20240702_235353012_04.jpg",
+    "https://naverbooking-phinf.pstatic.net/20240618_162/1718718725933UsnQo_JPEG/image.jpg",
+    "https://ldb-phinf.pstatic.net/20240610_81/1717950143020mEbDK_JPEG/KakaoTalk_20240610_011852979_03.jpg",
+    "https://ldb-phinf.pstatic.net/20240423_231/1713873106075MRDRI_JPEG/KakaoTalk_20240423_204008936_06.jpg",
+    "https://ldb-phinf.pstatic.net/20240601_101/171718387063954OO5_JPEG/638DA9F2-44DA-4D41-8460-9304076F1793.jpeg",
+    "https://ldb-phinf.pstatic.net/20231205_212/1701759120459lY8sO_JPEG/84FDBFFC-EDD3-43DE-B853-D2CA2F18FFE2.jpeg",
+    "https://ldb-phinf.pstatic.net/20240610_101/171795014303585GU8_JPEG/KakaoTalk_20240610_011852979_02.jpg",
+    "https://ldb-phinf.pstatic.net/20231207_164/1701954625015jnJle_JPEG/35446B7C-4236-4743-B2FB-F3E1D1E2E942.jpeg",
+    "https://ldb-phinf.pstatic.net/20240601_37/1717171446517NBXSU_JPEG/6249D5CF-8351-498B-AC95-95B3FDA28241.jpeg",
+    "https://naverbooking-phinf.pstatic.net/20240520_166/1716201518930oEHrq_JPEG/KakaoTalk_20240520_192635957.jpg",
+    "https://ldb-phinf.pstatic.net/20240423_31/17138731060493S3rE_JPEG/KakaoTalk_20240423_204008936_04.jpg",
+    "https://ldb-phinf.pstatic.net/20240423_286/1713873106062xrId4_JPEG/KakaoTalk_20240423_204008936_03.jpg",
+    "https://ldb-phinf.pstatic.net/20231205_277/1701759120501F6kv0_JPEG/72626059-BC21-4CC4-93C7-9ACB6DA8F92E.jpeg",
+    "https://ldb-phinf.pstatic.net/20231205_283/17017591208100fhtN_JPEG/C1085FCE-DE5E-42DA-803A-CA0AF4195E86.jpeg",
+    "https://ldb-phinf.pstatic.net/20240423_127/17138731061665R5M8_JPEG/KakaoTalk_20240423_204008936_07.jpg",
+    "https://ldb-phinf.pstatic.net/20231201_210/1701413754976TOhtb_JPEG/E7BA9DDA-D983-4241-8C7F-764E80783C1F.jpeg",
+    "https://ldb-phinf.pstatic.net/20231207_189/1701954625884S3gJG_JPEG/21E2F706-6C1A-4ACE-BCA2-B7575262E086.jpeg",
+    "https://ldb-phinf.pstatic.net/20231201_117/1701413723343pg2rJ_JPEG/42EE0657-9EDC-4EA9-A5BD-2C84AD408E90.jpeg",
+    "https://ldb-phinf.pstatic.net/20231201_28/1701413723472hqwOE_JPEG/7245E192-A210-4782-8A32-0E003FC1953A.jpeg",
+    "https://ldb-phinf.pstatic.net/20231024_110/16981526086330eD59_JPEG/KakaoTalk_20231013_032937411_01.jpg",
+    "https://ldb-phinf.pstatic.net/20231024_24/1698152608433PvG8m_JPEG/KakaoTalk_20231013_032937411.jpg",
+    "https://naverbooking-phinf.pstatic.net/20240908_149/1725791305094JFwMS_JPEG/KakaoTalk_20240908_192352930.jpg",
+    "https://naverbooking-phinf.pstatic.net/20240908_181/1725791305269Hq3k7_JPEG/KakaoTalk_20240908_192352930_03.jpg"
+  ]
+}

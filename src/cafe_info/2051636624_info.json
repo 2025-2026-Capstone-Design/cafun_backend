@@ -1,0 +1,115 @@
+{
+  "id": "2051636624",
+  "name": "챔프커피 성수",
+  "category": "카페,디저트",
+  "micro_review": [
+    "이태원 명성 그대로 성수 상륙"
+  ],
+  "road_address": "서울 성동구 성수이로10길 6 1층",
+  "address": "서울 성동구 성수동2가 328-19",
+  "lat": "127.0557722",
+  "lon": "37.5398163",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "08:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "토",
+      "start": "11:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "일",
+      "start": "11:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": "08:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": "08:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "수",
+      "start": "08:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "목",
+      "start": "08:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1485-7111",
+  "url": "https://champcoffee.kr",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": false,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": false,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "챔프커피 성수점",
+  "Information_facilitie": [],
+  "parking_info": null,
+  "payment_info": null,
+  "menu": [
+    {
+      "name": "아메리카노",
+      "price": "4800",
+      "description": "아메리카노",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250717_212/1752763902374WCF0E_JPEG/1000049179.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20250716_150/1752670583085PHUxG_JPEG/1000049089.jpg"
+  ]
+}

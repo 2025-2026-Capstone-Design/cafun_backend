@@ -1,0 +1,160 @@
+{
+  "id": "1038370038",
+  "name": "맥파이앤타이거 성수티룸",
+  "category": "카페,디저트",
+  "micro_review": [
+    "호박과 치즈케이크의 달콤한 조합"
+  ],
+  "road_address": "서울 성동구 성수이로 97 5층",
+  "address": "서울 성동구 성수동2가 315-108",
+  "lat": "127.0566125",
+  "lon": "37.5436565",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "11:00",
+      "end": "21:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "토",
+      "start": "11:00",
+      "end": "21:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "일",
+      "start": "11:00",
+      "end": "21:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": "11:00",
+      "end": "21:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": "11:00",
+      "end": "21:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "수",
+      "start": "11:00",
+      "end": "21:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "목",
+      "start": "11:00",
+      "end": "21:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1306-1629",
+  "url": "https://smartstore.naver.com/magpie-and-tiger",
+  "convenience": {
+    "주차": true,
+    "발렛파킹": true,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": true,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "통창으로 내려다보이는 성수동, 가만히 앉아 즐기는 차의 시간.\n전 좌석에 콘센트와 개별 조명이 있습니다. 작업을 하거나, 책을 읽으며 차와 디저트를 곁들여보세요.\n\n청량한 하늘의 6층 루프탑은 봄,여름,가을 열어둡니다.\n\nMagpie&Tiger Seongsu Tearoom",
+  "Information_facilitie": [
+    "테이크아웃 할인",
+    "무선 인터넷",
+    "포장",
+    "남/녀 화장실 구분",
+    "출입구 휠체어 이용가능"
+  ],
+  "parking_info": {
+    "__typename": "InformationBasicParking",
+    "isFree": false,
+    "normalFeeDescription": "최초 60분 6,000원",
+    "extraFeeDescription": "추가 요금 10분당 1,000원, 최대 60,000원"
+  },
+  "payment_info": null,
+  "menu": [
+    {
+      "name": "Signature Tea",
+      "price": "8000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20221011_90/1665460558866mndlg_JPEG/%BC%BA%BC%F6%C6%BC%B7%EB9.jpg"
+      ]
+    },
+    {
+      "name": "쑥 티라미수",
+      "price": "7000",
+      "description": "향긋하고 고소한 쑥의 향기와 부드럽고 진한 마스카포네 치즈의 향미가 가득한 쑥 티라미수",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231204_15/1701696381376phqHe_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2023-12-04_%BF%C0%C8%C4_4.02.56.png"
+      ]
+    },
+    {
+      "name": "단호박 파운드",
+      "price": "5300",
+      "description": "부드럽게 씹히는 단호박과 고메버터의 풍미를 담은 단호박파운드 입니다.",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231204_270/1701696318460T10RJ_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2023-12-04_%BF%C0%C8%C4_10.23.36.png"
+      ]
+    },
+    {
+      "name": "바스크 치즈케이크",
+      "price": "7800",
+      "description": "고소한 치즈의 향미가 가득한 클래식 바스크치즈케이크입니다.",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230603_102/1685777437826IMucv_JPEG/65A05104.jpg",
+        "https://ldb-phinf.pstatic.net/20230603_2/1685777429617lj6v0_JPEG/65A05099.jpg"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20230603_16/1685799196773IiiMX_JPEG/DSC03052.jpg",
+    "https://ldb-phinf.pstatic.net/20240827_27/1724721454000IAyBv_JPEG/DSCF5602.jpg",
+    "https://ldb-phinf.pstatic.net/20240827_61/1724721453949meaPi_JPEG/DSCF7403.JPG",
+    "https://ldb-phinf.pstatic.net/20240514_257/1715649171996ixpY8_JPEG/DSCF4367.jpg",
+    "https://ldb-phinf.pstatic.net/20240514_103/1715649171652yRY9j_JPEG/DSCF8086.JPG",
+    "https://ldb-phinf.pstatic.net/20230603_132/1685799043777JOGyc_JPEG/DSC03252.jpg",
+    "https://ldb-phinf.pstatic.net/20230603_12/1685799175335W64Lp_JPEG/DSC03020.jpg",
+    "https://ldb-phinf.pstatic.net/20230603_145/168579912529000bpa_JPEG/DSC02711.jpg",
+    "https://ldb-phinf.pstatic.net/20240827_270/1724721553009iDFeK_JPEG/DSCF3445.JPG",
+    "https://ldb-phinf.pstatic.net/20240827_249/1724721454382D2GII_JPEG/DSCF5869.JPG"
+  ]
+}

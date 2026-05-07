@@ -1,0 +1,206 @@
+{
+  "id": "55585656",
+  "name": "카멜커피 성수점",
+  "category": "카페,디저트",
+  "micro_review": null,
+  "road_address": "서울 성동구 성덕정19길 6 1층",
+  "address": "서울 성동구 성수동2가 570-1",
+  "lat": "127.0559151",
+  "lon": "37.5372841",
+  "business_hours": [
+    {
+      "day": "매일",
+      "start": "10:00",
+      "end": "18:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "17:30"
+        }
+      ]
+    }
+  ],
+  "virtual_phone_number": "0507-1417-0492",
+  "url": "https://www.instagram.com/camelcoffee_kor/",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": true,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "카멜커피 성수점입니다.",
+  "Information_facilitie": [
+    "포장",
+    "배달",
+    "무선 인터넷"
+  ],
+  "parking_info": null,
+  "payment_info": null,
+  "menu": [
+    {
+      "name": "카멜커피",
+      "price": "6500",
+      "description": "진한 라떼(플랫화이트) 베이스에 실키한 크림이 얇게 올라간 시그니처 커피",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250404_177/1743766399889fpsyP_PNG/ldb-phinf.pstatic.net.png"
+      ]
+    },
+    {
+      "name": "성수커피",
+      "price": "5800",
+      "description": "에스프레소 위에 우유폼과 시나몬 파우더가 뿌려진 커피",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250103_95/1735897712785ht26n_PNG/%BC%BA%BC%F6%C4%BF%C7%C7.png"
+      ]
+    },
+    {
+      "name": "카멜말차",
+      "price": "6000",
+      "description": "제주 오설록 차밭 유기농 말차로 만든 라떼에 카멜 시그니처 크림을 올린 음료",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250430_207/1746011350479lDWv5_PNG/%C4%AB%B8%E1%B8%BB%C2%F7.png"
+      ]
+    },
+    {
+      "name": "카멜파운드",
+      "price": "5000",
+      "description": "커피, 초코, 바닐라맛이 섞여있는 카멜의 시그니처 컬러를 담은 파운드",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251010_284/1760059052318gt98N_PNG/%C4%AB%B8%E1%C6%C4%BF%EE%B5%E5.png"
+      ]
+    },
+    {
+      "name": "말차레모네이드",
+      "price": "6500",
+      "description": "제주 오설록 차밭 유기농 말차의 감칠맛과 레몬의 상큼함이 어우러진 새콤달콤한 레모네이드",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250430_73/1746011362489bLOjT_PNG/ldb-phinf-2.pstatic.net.png"
+      ]
+    },
+    {
+      "name": "망고말차라떼",
+      "price": "7500",
+      "description": "제주 오설록 차밭 말차라떼에 달콤한 망고퓨레가 어우러진 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250714_50/1752420771692Ies02_PNG/KakaoTalk_20250714_001702115_01.png"
+      ]
+    },
+    {
+      "name": "말차라떼",
+      "price": "7000",
+      "description": "제주 오설록 차밭 말차로 만든 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250714_278/1752420749321WrjVs_PNG/KakaoTalk_20250714_001702115.png"
+      ]
+    },
+    {
+      "name": "에스프레소",
+      "price": "4500",
+      "description": "카라멜 초콜릿 톤의 풍부한 단맛과 고소한 향미가 느껴지는 에스프레소",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250821_273/1755768048274718lj_PNG/%BF%A1%BD%BA%C7%C1%B7%B9%BC%D22.png"
+      ]
+    },
+    {
+      "name": "아메리카노",
+      "price": "5500",
+      "description": "다크 초콜릿의 단맛과 견과류의 고소함이 느껴지는 커피",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240314_65/1710400861239Osq37_PNG/%BE%C6%B8%DE%B8%AE%C4%AB%B3%EB.png"
+      ]
+    },
+    {
+      "name": "라떼",
+      "price": "6000",
+      "description": "견과류의 고소한 단맛에 부드러운 질감으로 밸런스 좋은 커피",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240314_81/1710400886136RzPuV_PNG/%B6%F3%B6%BC.png"
+      ]
+    },
+    {
+      "name": "바닐라라떼",
+      "price": "7000",
+      "description": "직접 제조한 바닐라 시럽을 베이스로 부드럽고 달콤한 풍미가 느껴지는 커피",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240314_210/1710400917096UdISl_PNG/%B9%D9%B4%D2%B6%F3%B6%F3%B6%BC.png"
+      ]
+    },
+    {
+      "name": "플랫화이트",
+      "price": "6000",
+      "description": "고소하며 쌉싸름한 맛이 조화롭게 느껴지는 진한 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240314_131/1710400977297xrvbc_PNG/%C7%C3%B7%A7%C8%AD%C0%CC%C6%AE.png"
+      ]
+    },
+    {
+      "name": "MSGR (미숫가루)",
+      "price": "7000",
+      "description": "12가지 곡물을 담은 클래식한 미숫가루",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240314_265/1710401438827LEtAS_PNG/%B9%CC%BC%FD%B0%A1%B7%E7.png"
+      ]
+    },
+    {
+      "name": "밀크티",
+      "price": "7000",
+      "description": "오랜시간 저온으로 침출한 루이보스 아몬드 밀크티 (디카페인)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240314_226/17104016134624XVGB_PNG/%B9%D0%C5%A9%C6%BC.png"
+      ]
+    },
+    {
+      "name": "카멜코지티",
+      "price": "6000",
+      "description": "카모마일과 민트, 루이보스가 들어간 당이 첨가되지 않은 담백한 스타일의 디카페인티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250526_136/1748185512038RLBh6_PNG/KakaoTalk_20250526_000319148.png"
+      ]
+    },
+    {
+      "name": "오렌지주스",
+      "price": "6500",
+      "description": "생오렌지를 착즙하여 만든 신선한 오렌지주스",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250404_212/1743760423214eJdNN_PNG/ldb-phinf.pstatic.net.png"
+      ]
+    },
+    {
+      "name": "바나나파운드&망고버터",
+      "price": "6500",
+      "description": "카멜 망고버터를 곁들인 촉촉한 바나나브레드",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251203_229/1764758944228MEFzq_PNG/%B9%D9%B3%AA%B3%AA%BA%EA%B7%B9%B5%E5%B8%C1%B0%ED%B9%F6%C5%CD.png"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20250411_50/1744364726465Gaato_PNG/%BC%BA%BC%F6.png",
+    "https://ldb-phinf.pstatic.net/20190612_275/1560294769766Wny6J_JPEG/kV9VQJq3JADOevCkUSQtfLSo.jpeg.jpg",
+    "https://ldb-phinf.pstatic.net/20170608_275/1496884709661H5Q4J_JPEG/186558504848499_0.jpeg",
+    "https://ldb-phinf.pstatic.net/20200109_265/1578579343783Yzrsb_JPEG/yl8auin_4zJFTuz5aMuXoDHu.jpg"
+  ]
+}

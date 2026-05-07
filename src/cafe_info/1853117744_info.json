@@ -1,0 +1,331 @@
+{
+  "id": "1853117744",
+  "name": "블랙로드커피 성수",
+  "category": "카페",
+  "micro_review": [
+    "전시회로 만나는 색다른 커퍼 문화"
+  ],
+  "road_address": "서울 성동구 서울숲2길 19-18 2층",
+  "address": "서울 성동구 성수동1가 685-325",
+  "lat": "127.0411671",
+  "lon": "37.5474265",
+  "business_hours": [
+    {
+      "day": "토",
+      "start": "11:00",
+      "end": "18:00",
+      "breakHours": [
+        {
+          "__typename": "StartEndTime",
+          "start": "14:30",
+          "end": "15:30"
+        }
+      ],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "휴게시간",
+          "time": "14:00"
+        },
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "17:30"
+        }
+      ]
+    },
+    {
+      "day": "일",
+      "start": null,
+      "end": null,
+      "breakHours": null,
+      "description": "정기휴무 (매주 일요일)",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": null,
+      "end": null,
+      "breakHours": null,
+      "description": "정기휴무 (매주 월요일)",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": "11:00",
+      "end": "18:00",
+      "breakHours": [
+        {
+          "__typename": "StartEndTime",
+          "start": "14:30",
+          "end": "15:30"
+        }
+      ],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "휴게시간",
+          "time": "14:00"
+        },
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "17:30"
+        }
+      ]
+    },
+    {
+      "day": "수",
+      "start": "11:00",
+      "end": "18:00",
+      "breakHours": [
+        {
+          "__typename": "StartEndTime",
+          "start": "14:30",
+          "end": "15:30"
+        }
+      ],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "휴게시간",
+          "time": "14:00"
+        },
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "17:30"
+        }
+      ]
+    },
+    {
+      "day": "목",
+      "start": "11:00",
+      "end": "18:00",
+      "breakHours": [
+        {
+          "__typename": "StartEndTime",
+          "start": "14:30",
+          "end": "15:30"
+        }
+      ],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "휴게시간",
+          "time": "14:00"
+        },
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "17:30"
+        }
+      ]
+    },
+    {
+      "day": "금",
+      "start": "11:00",
+      "end": "18:00",
+      "breakHours": [
+        {
+          "__typename": "StartEndTime",
+          "start": "14:30",
+          "end": "15:30"
+        }
+      ],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "휴게시간",
+          "time": "14:00"
+        },
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "17:30"
+        }
+      ]
+    }
+  ],
+  "virtual_phone_number": "0507-1399-2442",
+  "url": "https://www.blackroadss.kr",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": true,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": true,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "파인커피, Fine Coffee\n스페셜티 커피는 더 이상 스페셜하지 않습니다.\n\n2004년 파나마 에스메랄다에서 게이샤가 탄생한 이후로 커피 업계에는 새로운 흐름이 생기기 시작했습니다. 하루를 깨우는 데일리 커피를 넘어선 비일상적 커피 경험을 불러 일으키는 특별한 커피들이 생겨나기 시작한것이죠.\n이런 커피는 퀄리티는 기본이며, 희소성과 문화유산적 가치들을 가지고 있습니다. 블랙로드에서는 이런 커피를 파인 커피라고 부르기로 했습니다.\n\nSpecialty coffee is no longer special. Since the birth of Geisha in Panama Esmeralda in 2004, a new trend has started in the coffee industry. It began to produce unique coffees that evoke an extraordinary coffee experience beyond the daily coffee that awakens the day. These coffees are fundamentally about quality, but they also possess rarity and cultural heritage values.\n\nAt Black Road, we have decided to call these coffees Fine Coffee.",
+  "Information_facilitie": [
+    "로스터리",
+    "핸드드립",
+    "예약",
+    "무선 인터넷",
+    "포장"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "네이버페이",
+    "간편결제"
+  ],
+  "menu": [
+    {
+      "name": "12월 게이샤 팝업 : 메리 게이샤",
+      "price": "",
+      "description": "워크인으로 방문가능하며, 오시면 파나마 게이샤 한잔을 무료로 제공해드립니다.",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251212_183/1765504300469ubuSv_JPEG/IMG_0171.jpeg",
+        "https://ldb-phinf.pstatic.net/20251210_73/1765293754413DJgEn_JPEG/IMG_4435.jpg",
+        "https://ldb-phinf.pstatic.net/20251210_207/17652937544772qJqC_JPEG/IMG_4440.jpg",
+        "https://ldb-phinf.pstatic.net/20251210_275/1765293754593BLSv7_JPEG/IMG_4427.jpg",
+        "https://ldb-phinf.pstatic.net/20251210_97/1765293734297036ei_JPEG/IMG_4426.jpg"
+      ]
+    },
+    {
+      "name": "11월: 니도 vs 아구아카티요",
+      "price": "195000",
+      "description": "에스메랄다 '니도' 옥션랏과 엘리다 '아구아카티요' 옥션랏을 함께 경할 수 있는 전시",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251030_290/17618044723065S9ud_PNG/KakaoTalk_20251030_150546833.png"
+      ]
+    },
+    {
+      "name": "10월: 에덴은 없다",
+      "price": "580000",
+      "description": "누구도 맛 보지 못한 '에덴' 랏의 게이샤를 1~4월 수확 시기 별로 맛볼 수 있는 기회.",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251030_117/1761803891421X60Fa_JPEG/dff3f89c-4784-4ac1-8093-0cc4a74d1a68.jpg"
+      ]
+    },
+    {
+      "name": "9월 : Niche Coffee",
+      "price": "158000",
+      "description": "에콰도르, 징롱, 누구오, 세니소스\n4가지의 농장의 커피를 브루잉으로 경험 할 수 있습니다",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250905_203/1757062960312iWfU5_PNG/%B4%CF%C4%A1%C4%BF%C7%C7_9%BF%F9.png"
+      ]
+    },
+    {
+      "name": "8월 Fantastic Cenizos",
+      "price": "58000",
+      "description": "세니소스의 핵심 커피들이 1-2주차에 있으며 8번째 사도는 3-4주차에 포함되어있습니다.",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250822_68/1755832055379nDpSp_PNG/6.png"
+      ]
+    },
+    {
+      "name": "5월 커피 전시 : Pergamino",
+      "price": "48000",
+      "description": "이달 2개의 사도가 탄생했습니다.\n1-2주차, 3-4주차 사도와 커피 구성이 다릅니다.",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250428_55/1745799574955NQCGA_JPEG/5%BF%F9_%C6%E4%B8%A3%B0%A1%B9%CC%B3%EB_%C0%FC%BD%C3_%C6%F7%BD%BA%C5%CD.jpeg"
+      ]
+    },
+    {
+      "name": "4월 커피 전시 : 커피의 화신",
+      "price": "98000",
+      "description": "신의물방울 12사도 중 두번째 커피인 아구아카티요워시드와 함께 3잔의 커피를 즐길수있습니다",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250320_158/17424512651301cbgi_PNG/4%BF%F9-01.png"
+      ]
+    },
+    {
+      "name": "3월 커피전시 : 신의 물방울",
+      "price": "78000",
+      "description": "어떤 커피인지는 비공개로 예약이 진행되며 4개의 커피를 마실 수 있습니다.",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250318_31/17422677662408zXRg_PNG/%BD%C5%C0%C7%B9%B0%B9%E6%BF%EF-01.png"
+      ]
+    },
+    {
+      "name": "블랙로드 커피 소장전",
+      "price": "",
+      "description": "1월부터 2월말까지 블랙로드 소장전을 진행합니다\n놓치셨던 전시가 있다면 지금이 기회입니다",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250104_276/17359756691377S2yi_PNG/%BC%D2%C0%E5%C0%FC.png"
+      ]
+    },
+    {
+      "name": "12월 커피전시 : 프로메테우스",
+      "price": "68000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241205_182/1733391896691YrWBu_PNG/%C7%C1%B7%CE%B8%DE%C5%D7%BF%EC%BD%BA2-01.png"
+      ]
+    },
+    {
+      "name": "11월 커피전시 : 유일무이",
+      "price": "480000",
+      "description": "월드 레코드 : 세계에서 가장 비싼 커피 아구아카티요를 경험할수 있는 유일무이한 기회",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241021_89/1729467586756uSFY0_PNG/IMG_7965.png"
+      ]
+    },
+    {
+      "name": "10월 커피 전시 : 또뚜마스",
+      "price": "48000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20241016_124/1729053256935KmCGk_PNG/%B6%C7%B6%D1%B8%B6%BD%BA-01.png"
+      ]
+    },
+    {
+      "name": "7월 커피 전시 : 커피 레거시",
+      "price": "48000",
+      "description": "파나마 엘리다 농장 최상위 랏 3개의 커피를 코스로 제공합니다.",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240618_156/1718675490703oVGj0_PNG/%B6%F3%B8%B6%BD%BA%C5%F5%BD%BA_%C3%D6%C1%BE-01.png"
+      ]
+    },
+    {
+      "name": "6월 커피전시 : 럭셔리 커피",
+      "price": "38000",
+      "description": "Panama Esmeralda Mario Geisha NanoLot \"Black Road\"",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240508_75/1715178062539viTrG_PNG/%B7%B0%BC%C5%B8%AE%C4%BF%C7%C7.png"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20241016_196/1729053019140jFiBJ_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2024-10-16_%BF%C0%C8%C4_1.28.23.png",
+    "https://ldb-phinf.pstatic.net/20241016_48/17290530142661U50y_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2024-10-16_%BF%C0%C8%C4_1.28.09.png",
+    "https://ldb-phinf.pstatic.net/20241016_266/1729053014324KeyvX_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2024-10-16_%BF%C0%C8%C4_1.27.34.png",
+    "https://ldb-phinf.pstatic.net/20241016_289/1729053014188RHsO3_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2024-10-16_%BF%C0%C8%C4_1.27.40.png",
+    "https://ldb-phinf.pstatic.net/20241016_174/1729052956912m7gYH_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2024-10-16_%BF%C0%C8%C4_1.27.20.png",
+    "https://ldb-phinf.pstatic.net/20241016_32/1729053018660uDsdT_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2024-10-16_%BF%C0%C8%C4_1.27.52.png",
+    "https://ldb-phinf.pstatic.net/20241016_217/1729053011939mTkU4_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2024-10-16_%BF%C0%C8%C4_1.27.45.png",
+    "https://ldb-phinf.pstatic.net/20241016_3/1729053009262HIwPE_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2024-10-16_%BF%C0%C8%C4_1.28.04.png",
+    "https://ldb-phinf.pstatic.net/20241016_149/1729053019666RaTNM_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2024-10-16_%BF%C0%C8%C4_1.28.15.png",
+    "https://ldb-phinf.pstatic.net/20241016_111/1729053022836CWa6P_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2024-10-16_%BF%C0%C8%C4_1.28.50.png",
+    "https://ldb-phinf.pstatic.net/20241016_190/1729052990582tfMSD_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2024-10-16_%BF%C0%C8%C4_1.28.34.png",
+    "https://ldb-phinf.pstatic.net/20241016_61/1729052999010AS6sk_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2024-10-16_%BF%C0%C8%C4_1.28.43.png",
+    "https://ldb-phinf.pstatic.net/20241016_145/1729053018693nf3og_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2024-10-16_%BF%C0%C8%C4_1.27.59.png",
+    "https://ldb-phinf.pstatic.net/20241016_15/1729053019614o7GFe_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2024-10-16_%BF%C0%C8%C4_1.28.30.png",
+    "https://ldb-phinf.pstatic.net/20241016_216/1729053013303W3vur_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2024-10-16_%BF%C0%C8%C4_1.27.27.png"
+  ]
+}

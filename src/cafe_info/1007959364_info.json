@@ -1,0 +1,124 @@
+{
+  "id": "1007959364",
+  "name": "비데이 성수점",
+  "category": "카페,디저트",
+  "micro_review": [
+    "한교동 생일카페의 특별한 추억 만들기"
+  ],
+  "road_address": "서울 성동구 뚝섬로 47-7 카페 B DAY",
+  "address": "서울 성동구 성수동2가 331-33",
+  "lat": "127.0559804",
+  "lon": "37.5389764",
+  "business_hours": [
+    {
+      "day": "토",
+      "start": "10:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "일",
+      "start": "10:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": "10:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": "10:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "수",
+      "start": "10:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "목(12/25)",
+      "start": "10:00",
+      "end": "20:00",
+      "breakHours": [],
+      "description": "성탄절",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "금",
+      "start": "10:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1335-3922",
+  "url": "https://x.com/cafe_Bday",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": true,
+    "단체 이용 가능": true,
+    "대기공간": false,
+    "간편결제": true,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "안녕하세요 카페 B'DAY 입니다.\n\nB'DAY에서는 여러분이 좋아하는 아티스트 뿐만 아니라 매번 다른 이벤트들로 카페를 꾸며 여러분에게 색다른 즐거움을 드립니다.\n\n이름처럼 사랑하는 사람을 위해 사랑을 쏟는 이들과 함께 특별한 하루를 기록해 나아가세요.\n\n생일카페/팝업전시/행사대관/기업대관 전부 진행합니다.\n대관 문의는 카카오 채널을 통해 연락주세요.",
+  "Information_facilitie": [
+    "무선 인터넷",
+    "단체 이용 가능",
+    "포장",
+    "남/녀 화장실 구분"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "간편결제"
+  ],
+  "menu": [
+    {
+      "name": "아메리카노",
+      "price": "5000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240604_142/171748568143282TNq_PNG/Americano.png"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20240423_242/1713838544884JEIIb_PNG/%BA%F1%B5%A5%C0%CC.png",
+    "https://ldb-phinf.pstatic.net/20240513_16/1715573103850qD1Dp_JPEG/IMG_9669.jpg",
+    "https://ldb-phinf.pstatic.net/20240513_183/1715573103830NHpul_JPEG/IMG_9671.jpg"
+  ]
+}

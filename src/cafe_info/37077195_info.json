@@ -1,0 +1,369 @@
+{
+  "id": "37077195",
+  "name": "모리티아",
+  "category": "카페,디저트",
+  "micro_review": [
+    "시그니쳐 모리라떼의 부드러운 산미"
+  ],
+  "road_address": "서울 성동구 아차산로5길 10 1층 모리티아",
+  "address": "서울 성동구 성수동2가 284-63",
+  "lat": "127.0524867",
+  "lon": "37.5466411",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "08:00",
+      "end": "19:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "18:30"
+        }
+      ]
+    },
+    {
+      "day": "토",
+      "start": "09:00",
+      "end": "18:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "17:30"
+        }
+      ]
+    },
+    {
+      "day": "일",
+      "start": null,
+      "end": null,
+      "breakHours": null,
+      "description": "정기휴무 (매주 일요일)",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": "08:00",
+      "end": "19:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "18:30"
+        }
+      ]
+    },
+    {
+      "day": "화",
+      "start": "08:00",
+      "end": "19:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "18:30"
+        }
+      ]
+    },
+    {
+      "day": "수",
+      "start": "08:00",
+      "end": "19:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "18:30"
+        }
+      ]
+    },
+    {
+      "day": "목(12/25)",
+      "start": "09:00",
+      "end": "18:00",
+      "breakHours": null,
+      "description": "성탄절",
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1412-8733",
+  "url": "http://instagram.com/mauritia_coffee",
+  "convenience": {
+    "주차": true,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": true,
+    "단체 이용 가능": true,
+    "대기공간": false,
+    "간편결제": true,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": true,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "[스페셜티 커피&수제쿠키 전문점 모리티아!]\n\n성수동에 위치한 모리티아는 수제 쿠키와 디저트,\n스페셜티 커피를 다양한 테마의 룸에서 맛볼 수 있는 공간입니다 :)\n(대관가능)\n\n모리티아 대표 디저트 [모리쿠키]는\n프랑스 밀가루 엘르엔비르 고메버터로 반죽하고\n프랑스, 벨기에 초콜릿 등 건강하고\n신선한 재료를 사용하여 생산하고 있습니다.\n\n[상큼 레몬 쿠키] : 4,500원\n통째로 사용된 신선한 레몬 제스트와 즙이 가득 담겨 있어\n입안 가득 상큼함이 퍼지는 쿠키 >_<\n\n[쫀득 무화과 쿠키] : 4,500원\n와인으로 직접 졸인 무화과 조림으로 쫀득하면서\n고소한 피칸으로 식감까지 완벽한 쿠키\n\n[화이트 마카다미아 뚱키] : 5,000원\n통째로 들어가 더욱 고소한 마카다미아와\n듬뿍 들어간 화이트초코로 크키마저 1.5배 커진 모리티아 뚱키\n\n[싱글오리진 아메리카노] : 5,300원\n주기적으로 변경되어 때마다 다양한 나라의 원두를 준비하고있습니다:)\n고유의 풍부한 향미와 밸런스를 가진 아메리카노\n\n[모리 라떼] : 6,000원\n부드러운 밀크티와 에스프레소 그리고 밀크티폼을 올린 시그니처 라떼\n\n달콤한 쿠키와 스페셜티 커피의 향기가\n가득한 모리티아에서 다양한 테마와 함께\n특별한 추억 만들어 보세요:)",
+  "Information_facilitie": [
+    "예약",
+    "단체 이용 가능",
+    "포장",
+    "무선 인터넷",
+    "남/녀 화장실 구분"
+  ],
+  "parking_info": {
+    "__typename": "InformationBasicParking",
+    "isFree": true,
+    "normalFeeDescription": null,
+    "extraFeeDescription": null
+  },
+  "payment_info": [
+    "지역화폐 (모바일형)",
+    "제로페이",
+    "간편결제"
+  ],
+  "menu": [
+    {
+      "name": "갈아만든 홍시",
+      "price": "6500",
+      "description": "신선한 홍시를 갈아만든 홍시슬러쉬\n숙취해소와 피로회복 그리고 면역력 강화에 최고!",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251103_58/1762135852106L5esu_PNG/%C8%AB%BD%C3%C0%BD%B7%E1.png"
+      ]
+    },
+    {
+      "name": "에너지 스파클링",
+      "price": "4800",
+      "description": "지치고 힘든 직장인들에게 기운을 북돋아주는 에너지 스파클링",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250716_207/1752630193651KlQ7z_PNG/%BF%A1%B3%CA%C1%F6_%BD%BA%C6%C4%C6%B2%B8%B5_%BB%E7%C1%F8.png"
+      ]
+    },
+    {
+      "name": "수박주스",
+      "price": "6000",
+      "description": "신선한 수박을 즉석에서 직접 갈아 시원하고 달콤한 수박주스",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250624_288/1750733283262uvLgK_PNG/%BC%F6%B9%DA%BB%E7%C1%F8.png"
+      ]
+    },
+    {
+      "name": "모리쿠키",
+      "price": "4500",
+      "description": "모리티아의 대표 디저트로 프랑스버터와 유기농달걀, 벨기에 다크초콜릿을 사용하였습니다.\n쫀득하고 부드러우며 묵직한 쿠키 입니다.",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230824_37/1692866771913Wx6Bu_PNG/%B8%F0%B8%AE%C4%ED%C5%B0%C5%BEre.png",
+        "https://ldb-phinf.pstatic.net/20210202_252/1612258138240baEEb_JPEG/rLJVWZuO3re1jjoeuTt4Dyi_.jpeg.jpg"
+      ]
+    },
+    {
+      "name": "썸띵커피 모리치노",
+      "price": "6500",
+      "description": "커피, 카라멜소스, 수제휘핑크림에\n유지방 함량이 높은 바닐라빈 아이스크림이 더해진 스무디",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240613_194/1718262898214BkX7i_JPEG/M-5.jpg"
+      ]
+    },
+    {
+      "name": "모리라떼",
+      "price": "6000",
+      "description": "스리랑카산 홍차와 프리미엄 우유를 함께 우려낸 후, 스페셜티 에스프레소, 특제 크림을 올린 모리타아의 시그니쳐 메뉴입니다.",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231204_98/1701656103626mu1AU_JPEG/KakaoTalk_20231204_111333687_02.jpg"
+      ]
+    },
+    {
+      "name": "프리미엄 카페라떼",
+      "price": "5800",
+      "description": "스페셜티 커피와 고농축으로 만들어 영양소의 함량이 높은 프리미엄 우유가 어울어진 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240613_142/1718263920436RWTbq_JPEG/M-13.jpg"
+      ]
+    },
+    {
+      "name": "콜드브루(캔)",
+      "price": "4300",
+      "description": "차가운 물로 오랜시간 우려내어 부드럽고 깔끔한 맛의 커피 (카페인 함량도 상대적으로 낮음)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240613_212/17182636752019fBAN_JPEG/a-3.jpg"
+      ]
+    },
+    {
+      "name": "애플 사이다 비니거",
+      "price": "5500",
+      "description": "스페인산 사과효모식초 다양한 유기산, 효소, 유익균이 살아있어 건강하게 마실 수 있는 음료",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250929_267/17591119241904JdTK_PNG/%BE%D6%C7%C3_%BB%E7%C0%CC%B4%D9_%BA%F1%B4%CF%B0%C5.png"
+      ]
+    },
+    {
+      "name": "체리 스파클링",
+      "price": "5800",
+      "description": "비타민, 항산화 물질이 풍부한 수제 체리청이 들어간 스파클링 음료",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250401_245/1743484338764KL4LK_JPEG/%C3%BC%B8%AE%BD%BA%C6%C4%C5%AC%B8%B5_%BD%C3%C1%F0%C0%BD%B7%E1.jpg"
+      ]
+    },
+    {
+      "name": "레드베리 스파클링",
+      "price": "5800",
+      "description": "히비스커스, 베리, 석류 그리고 코코넛젤리가 들어간 상큼하고 달콤한 스파클링 음료",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240628_95/1719565591355y0kt8_JPEG/%B7%B9%B5%E5%BA%A3%B8%AE_%BD%BA%C6%C4%C5%AC%B8%B5.jpg"
+      ]
+    },
+    {
+      "name": "썸띵 오렌지 스파클링",
+      "price": "5800",
+      "description": "직접만든 오렌지 청으로 과육이 듬뿍 들어가 상큼하고 달콤한 오렌지 스파클링",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231204_280/170165634519140cXI_JPEG/KakaoTalk_20231204_111333687_01.jpg"
+      ]
+    },
+    {
+      "name": "아메리카노(이탈리안잡/클래식)",
+      "price": "4300",
+      "description": "2가지의 블렌딩 원두로 각각 다른 맛의 스페셜티 커피를 느낄 수 있는 모리티아의 아메리카노",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231204_210/1701656223159VmS04_JPEG/KakaoTalk_20231204_111333687.jpg"
+      ]
+    },
+    {
+      "name": "바닐라빈라떼",
+      "price": "5700",
+      "description": "바닐라빈으로 직접 만든 수제시럽과 스페셜티 커피의 만남으로 부드럽고 깔끔한 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231204_134/17016561138871OI7q_JPEG/KakaoTalk_20231204_111333687_03.jpg"
+      ]
+    },
+    {
+      "name": "자두 모리치노",
+      "price": "6000",
+      "description": "상큼한 자두가 들어간 수제청을 넣어 만든 스무디",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240613_178/17182630562745kRTx_JPEG/a-1.jpg"
+      ]
+    },
+    {
+      "name": "한라봉 모리치노",
+      "price": "6000",
+      "description": "제주산 감귤과 한라봉이 들어간 수제청을 넣어 만든 스무디",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240613_268/17182640527691MpK5_JPEG/M-7.jpg"
+      ]
+    },
+    {
+      "name": "딸기요모리치노",
+      "price": "6500",
+      "description": "친환경 그릭요거트와 수제딸기청으로 만든 진하고 새콤 달콤한 시원한 스무디",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20231204_130/1701660072722twRE2_JPEG/KakaoTalk_20231204_111333687_04.jpg"
+      ]
+    },
+    {
+      "name": "자몽티",
+      "price": "6000",
+      "description": "수제 자몽청과 생자몽을 넣어 과육이 맛이 살아있는 티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240613_16/1718263536016ldrQC_JPEG/M-14.jpg"
+      ]
+    },
+    {
+      "name": "초콜렛우유",
+      "price": "5500",
+      "description": "벨기에 초콜릿과 수제 휘핑크림이 올라가\n풍미가 진한 다크초코우유",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240613_199/1718263822033IT6NI_JPEG/M-11.jpg"
+      ]
+    },
+    {
+      "name": "말차우유",
+      "price": "5500",
+      "description": "제주산 유기농 말차로 만든 부드럽고 진한 우유",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240613_237/17182638904002BSQ7_JPEG/M-9.jpg"
+      ]
+    },
+    {
+      "name": "모리슬리브 11인치형",
+      "price": "24000",
+      "description": "노트북과 태블릿을 충격과 오염으로부터 보호해줄 귀여운 파우치, 부드러우며 내구성 good",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240614_208/17183282268500kwav_JPEG/%B8%F0%B8%AE%BD%BD%B8%AE%BA%EA11%C0%CE%C4%A1%C7%FC_%BD%E6%B3%D7%C0%CF.jpg",
+        "https://ldb-phinf.pstatic.net/20240614_9/1718328223491WE6hK_JPEG/%BD%BD%B8%AE%BA%EA_%B3%BB%BA%CE%BE%C8%B3%BB.JPG",
+        "https://ldb-phinf.pstatic.net/20240614_234/1718328217785LQqAL_JPEG/11%C0%CE%C4%A1_%BB%E7%C0%CC%C1%EE.JPG"
+      ]
+    },
+    {
+      "name": "모리슬리브 13인치형",
+      "price": "27000",
+      "description": "노트북과 태블릿을 충격과 오염으로부터 보호해줄 귀여운 파우치, 부드러우며 내구성 good",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240613_202/1718265397805lP5sJ_JPEG/%B8%F0%B8%AE%BD%BD%B8%AE%BA%EA13%C0%CE%C4%A1%C7%FC_%BD%E6%B3%D7%C0%CF.jpg",
+        "https://ldb-phinf.pstatic.net/20240613_49/1718265388319dTCs0_JPEG/13%C0%CE%C4%A1.JPG"
+      ]
+    },
+    {
+      "name": "모리에코백 민트",
+      "price": "23500",
+      "description": "일반적으로 사용하는 캔버스면이 아닌 20수 옥스포드를 사용하고 촉감이 부드럽고 가볍습니다",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240614_47/1718329165464PGhtQ_JPEG/%B8%F0%B8%AE%BF%A1%C4%DA%B9%E9mint_%BD%E6%B3%D7%C0%CF_1.jpg",
+        "https://ldb-phinf.pstatic.net/20240614_156/1718329136832Q4Sjw_JPEG/%B8%F0%B8%AE%BF%A1%C4%DA%B9%E9_%BC%D5%C0%E2%C0%CC.JPG",
+        "https://ldb-phinf.pstatic.net/20240614_130/17183291368248zsOq_JPEG/%BF%A1%C4%DA%B9%E9_%B9%CE%C6%AE_%BB%E7%C0%CC%C1%EE.JPG",
+        "https://ldb-phinf.pstatic.net/20240614_278/17183291368450ADEv_JPEG/%BF%A1%C4%DA%B9%E9_%B9%CE%C6%AE_%BC%D3%BE%C8.JPG"
+      ]
+    },
+    {
+      "name": "미니파우치 블랙",
+      "price": "14700",
+      "description": "간단한 용품을 넣고 다니기에 좋은 미니 파우치\n작아보이지만 밑면에 폭을 넣어 수납 good",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240614_251/1718329550036to1Rx_JPEG/%B9%CC%B4%CF%C6%C4%BF%EC%C4%A1%BA%ED%B7%A2_%BD%E6%B3%D7%C0%CF.jpg",
+        "https://ldb-phinf.pstatic.net/20240614_56/1718329544387tVDCH_JPEG/%B9%CC%B4%CF%C6%C4%BF%EC%C4%A1_%BA%ED%B7%A2_%B3%BB%BA%CE.JPG",
+        "https://ldb-phinf.pstatic.net/20240614_82/17183295443630fH9q_JPEG/%B9%CC%B4%CF%C6%C4%BF%EC%C4%A1_%BB%E7%C0%CC%C1%EE.JPG"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20250716_53/1752630407288tDJpE_JPEG/KakaoTalk_20240726_101218805_01.jpg",
+    "https://ldb-phinf.pstatic.net/20250325_172/1742864965816gG9QP_JPEG/KakaoTalk_20250321_174811193.jpg",
+    "https://ldb-phinf.pstatic.net/20250716_148/1752630524195owPj5_JPEG/%B6%F3%BF%EE%C1%F6_A.jpg",
+    "https://ldb-phinf.pstatic.net/20250325_115/1742864965788E89rM_JPEG/KakaoTalk_20250321_174811193_01.jpg",
+    "https://ldb-phinf.pstatic.net/20220308_161/1646716582255qqHO5_JPEG/KakaoTalk_20220308_141356446_04.jpg",
+    "https://ldb-phinf.pstatic.net/20220308_80/1646716582629Bqx9A_JPEG/KakaoTalk_20220308_141356446.jpg",
+    "https://ldb-phinf.pstatic.net/20190705_211/1562314031111awSuH_JPEG/4a0a6i9nH1qS6Ikl5c49nfR0.jpg",
+    "https://ldb-phinf.pstatic.net/20190705_222/15623140308107payH_JPEG/U1xlN6t2gr_UFEFnQsmf18SH.jpg",
+    "https://ldb-phinf.pstatic.net/20190705_122/1562314030049Cz7I5_JPEG/6cLMYNwYmEPoGNbtjAL6cjvW.jpg",
+    "https://ldb-phinf.pstatic.net/20190705_202/15623140309938CL41_JPEG/vzcx-opk2GXMinUdtsDinpi5.jpg",
+    "https://ldb-phinf.pstatic.net/20190705_65/1562314082887Hj01C_JPEG/gkREf6Ga4rG_iwicz9ktH2t_.jpg",
+    "https://ldb-phinf.pstatic.net/20190705_38/1562314258766vsQfr_JPEG/tYG2UpSb3Mr2A5QKPzhl4VTg.jpg",
+    "https://ldb-phinf.pstatic.net/20190705_133/1562314270291vhIQV_JPEG/DC3dEUmM5qzBNx_ONsyutfcW.jpg",
+    "https://ldb-phinf.pstatic.net/20190705_279/1562314030507XyyMj_JPEG/pYg10n2-aNqEMJfg0gbDEdvl.jpg",
+    "https://ldb-phinf.pstatic.net/20190705_194/15623140306269GIBT_JPEG/ul1yXPgZ1azdBb99Vnpo_ScL.jpg",
+    "https://ldb-phinf.pstatic.net/20190821_72/1566364151411SOQcb_JPEG/KakaoTalk_20190816_171159975.jpg",
+    "https://ldb-phinf.pstatic.net/20200201_239/1580514279652PAgro_JPEG/h4QVrTLo9TMsm9aCD5p52PNd.jpg"
+  ]
+}

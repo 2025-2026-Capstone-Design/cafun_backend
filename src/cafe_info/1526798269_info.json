@@ -1,0 +1,268 @@
+{
+  "id": "1526798269",
+  "name": "뺑드에코",
+  "category": "베이커리",
+  "micro_review": [
+    "담백한 호밀빵으로 즐기는 유럽식 아침"
+  ],
+  "road_address": "서울 성동구 성수일로 20 102호",
+  "address": "서울 성동구 성수동1가 25-2",
+  "lat": "127.0490005",
+  "lon": "37.5422272",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "11:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "토",
+      "start": "11:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "일",
+      "start": null,
+      "end": null,
+      "breakHours": null,
+      "description": "정기휴무 (매주 일요일)",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": null,
+      "end": null,
+      "breakHours": null,
+      "description": "정기휴무 (매주 월요일)",
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": "11:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "수",
+      "start": "11:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "목",
+      "start": "11:00",
+      "end": "19:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": null,
+  "url": "https://smartstore.naver.com/paindeecho",
+  "convenience": {
+    "주차": true,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": true,
+    "단체 이용 가능": false,
+    "대기공간": true,
+    "간편결제": true,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": true,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "평소에 빵을 먹으면 속이 더부룩하시나요?\n뺑드에코는\n상업용 이스트 발효가 아닌 천연발효종으로만 된 반죽을\n16시간 이상 장시간 발효해\n속이 더부룩하지 않고 소화가 잘됩니다.\n빵이 소화가 잘 안되는 분들, 당뇨있거나 운동하시는 분들도\n건강하게 맛있게 드실 수 있습니다\n\n하루를 건강한 식사빵으로 시작해보세요!\n\n뺑드에코의 사워도우는\n유기농밀가루\n물\n소금\n뺑드에코에서 직접 배양한 천연효모인 '르방'\n으로만 만들고 있습니다.\n\nNo Yeast / No Sugar / No Butter\nNo Milk / No Egg / No 화학첨가물\n\n* 커피 메뉴는 없습니다\n* 빵을 드실 수 있는 조그만 테이블과 병, 캔 음료와 물이 있습니다",
+  "Information_facilitie": [
+    "비건 메뉴",
+    "유기농 메뉴",
+    "예약",
+    "포장",
+    "무선 인터넷",
+    "남/녀 화장실 구분",
+    "대기공간"
+  ],
+  "parking_info": {
+    "__typename": "InformationBasicParking",
+    "isFree": true,
+    "normalFeeDescription": null,
+    "extraFeeDescription": null
+  },
+  "payment_info": [
+    "제로페이",
+    "간편결제"
+  ],
+  "menu": [
+    {
+      "name": "신의 바게트",
+      "price": "4600",
+      "description": "이스트없이 천연효모로만 만드는 바삭하고 쫄깃한 사워도우 바게트입니다",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20200404_27/1585987466288SnLT5_JPEG/esRD4cj6JZpXhVTaluULp1ce.jpeg.jpg"
+      ]
+    },
+    {
+      "name": "깜빠뉴",
+      "price": "9200",
+      "description": "유기농통밀과 호밀이 15% 들어간 잡곡빵으로 오픈샌드위치로 어울리는 시골빵입니다",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20200421_54/1587454192340RJ2SY_JPEG/V5fTWZKQH9IOq0WvspcTW5lx.jpeg.jpg"
+      ]
+    },
+    {
+      "name": "무화과피칸깜빠뉴",
+      "price": "9200",
+      "description": "통밀호밀 15% 반죽에 씹히는 맛이 좋은 무화과와 고소한 피칸. 베스트 메뉴입니다",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20200421_218/15874546573887dlTN_JPEG/bafy9oKJ1ncR3_XIrKr5PJ_J.jpeg.jpg"
+      ]
+    },
+    {
+      "name": "올리브치즈바게트",
+      "price": "9200",
+      "description": "그린올리브, 블랙올리브, 롤치즈가 듬뿍 들어간 사워도우바게트로 잠봉등을 올려 안주, 간식",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20200421_252/1587454756384dphfb_JPEG/hAHSkGYlseg16Ok5vHx4Xgar.jpeg.jpg"
+      ]
+    },
+    {
+      "name": "뺑선형쓰",
+      "price": "9200",
+      "description": "유기농통밀과 호밀이 30% 호두, 피칸, 아몬드가 듬뿍 들어간 구수하고 감칠맛도는 사워도우",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20200421_34/1587454809503kyz2Q_JPEG/iFMyqDNl1FCUaKWjPPVbccwF.jpeg.jpg"
+      ]
+    },
+    {
+      "name": "르방크로와상",
+      "price": "3900",
+      "description": "소량의 이스트와 천연발효종을 듬뿍 넣어 만드는 바삭하고 속은 쫄깃, 담백한 크라상입니다",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20200421_147/1587454226436O6tVC_JPEG/B-4Ftue2uSu-evux8nnBFnY_.jpeg.jpg"
+      ]
+    },
+    {
+      "name": "브리오쉬낭테르",
+      "price": "8800",
+      "description": "달걀, 우유, 버터가 듬뿍 들어 부드럽고 고소한 달지 않은 뜯어먹는 식빵, 프렌치토스트",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20200421_182/1587454281098BjRVz_JPEG/fSDxUohz3CDQS63BxXvfr6Jj.jpeg.jpg"
+      ]
+    },
+    {
+      "name": "호밀빵/통밀빵",
+      "price": "9200",
+      "description": "유기농호밀 100%나 유기농통밀100%와\n물, 소금, 천연발효종으로만 만드는 사워도우",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20200421_69/1587454395923a42PC_JPEG/AatC8oxiykKXxGs6Z4Q7I2ia.jpeg.jpg"
+      ]
+    },
+    {
+      "name": "갈릭어니언바게트",
+      "price": "5500",
+      "description": "마늘, 롤치즈, 양파를 닮은 바게트로 양파의 단맛과 알싸한 마늘, 고소한 치즈맛,달지않아요",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20200421_171/1587454453363h7HmM_JPEG/lVUxJV6-GnecRQiCQ-bcIrGH.jpeg.jpg"
+      ]
+    },
+    {
+      "name": "쁘띠아리",
+      "price": "3300",
+      "description": "꿀과 롤치즈가 들어간 달콤한 바게트로 두개가 한쌍입니다",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20200421_15/158745498844313Nrk_JPEG/sug2YnehJ_xcRF6-Jk2BBPIt.jpeg.jpg"
+      ]
+    },
+    {
+      "name": "쇼콜라바게트",
+      "price": "5500",
+      "description": "초코칩과 럼에 절인 설타나, 크렌베리, 건살구, 오렌지가 들어간 많이 달지 않은 사워도우",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20200421_15/1587455059596zUlvd_JPEG/zv5GmzUuPGvFTqRy7wjOr-T7.jpeg.jpg"
+      ]
+    },
+    {
+      "name": "퀸아망",
+      "price": "3300",
+      "description": "달달하고 쫀득한 맛, 아이스크림 한스쿱 올려드시면 근사한 디저트가 됩니다",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20200421_215/1587455102168TTOAy_JPEG/YwrtiDeYePw1BayhGOklmSBJ.jpeg.jpg"
+      ]
+    },
+    {
+      "name": "소세지바게트",
+      "price": "4200",
+      "description": "짭짤한 소세지가 든 바삭바삭 들고 뜯어먹는 사워도우바게트로 안주나 간식으로 좋아요",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20200421_234/1587455263585mdnu8_JPEG/Nt1qS9nI10qb10QbhNMg1Y_2.jpeg.jpg"
+      ]
+    },
+    {
+      "name": "부드러운 사워도우식빵",
+      "price": "9200",
+      "description": "이스트없이 만드는 부드러운식빵",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20200421_144/1587455348690gCmw2_JPEG/t3YKUl-rQqs7vQyDmPYT81LR.jpeg.jpg"
+      ]
+    },
+    {
+      "name": "통밀요거트스콘",
+      "price": "3900",
+      "description": "통밀50%로 구수하고 씹히는 맛이 좋은 스콘입니다 크렌베리, 호두가 들어있어요",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20200421_202/1587455440719CGYWe_JPEG/eiSVgdTRwAuxt0xqJzWDpjuX.jpeg.jpg"
+      ]
+    },
+    {
+      "name": "시나몬피칸스콘",
+      "price": "3900",
+      "description": "시나몬향이 은은하게 나는 기분좋은 단맛과 고소함의 스콘입니다",
+      "images": []
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20231013_250/1697183842617V5sHp_JPEG/IMG_1432.jpeg",
+    "https://ldb-phinf.pstatic.net/20231013_230/16971838425019HdV6_JPEG/IMG_1438.jpeg",
+    "https://ldb-phinf.pstatic.net/20231013_120/1697183842627WmVg1_JPEG/IMG_1364.jpeg",
+    "https://ldb-phinf.pstatic.net/20231013_6/16971838427871chRB_JPEG/IMG_1365.jpeg",
+    "https://ldb-phinf.pstatic.net/20231013_179/1697183842611N8sAa_JPEG/IMG_1366.jpeg",
+    "https://ldb-phinf.pstatic.net/20231013_107/16971838420729J6nW_JPEG/IMG_1361.jpeg",
+    "https://ldb-phinf.pstatic.net/20231013_58/1697183847861LFtEp_JPEG/IMG_1094.jpeg",
+    "https://ldb-phinf.pstatic.net/20231013_54/16971838477453AIVi_JPEG/IMG_0966.jpeg",
+    "https://ldb-phinf.pstatic.net/20231013_217/1697183848094EBIvs_JPEG/IMG_0963.jpeg",
+    "https://ldb-phinf.pstatic.net/20231013_54/1697183846921N85lj_JPEG/IMG_0930.jpeg",
+    "https://ldb-phinf.pstatic.net/20231013_16/1697183848002CoffX_JPEG/IMG_0875.jpeg",
+    "https://ldb-phinf.pstatic.net/20231013_67/1697183771275BtYwx_PNG/IMG_1443.png",
+    "https://ldb-phinf.pstatic.net/20231013_186/1697183770177iVEvX_JPEG/IMG_1429.jpeg",
+    "https://ldb-phinf.pstatic.net/20231013_106/16971837699991ihxI_JPEG/IMG_1403.jpeg",
+    "https://ldb-phinf.pstatic.net/20231013_192/1697183770408UygAD_JPEG/IMG_1339.jpeg",
+    "https://ldb-phinf.pstatic.net/20231013_16/1697183770510pgz0k_JPEG/IMG_1343.jpeg",
+    "https://ldb-phinf.pstatic.net/20200509_79/1589025918892D2otl_JPEG/brkVDUMyJ_3PaRTunie5Dp4v.jpg",
+    "https://ldb-phinf.pstatic.net/20200601_229/1590983810748PNYhr_JPEG/7ai3twB3TLHA44GPWIjvdwk3.jpeg.jpg",
+    "https://ldb-phinf.pstatic.net/20200601_222/1590983739507YWWhO_JPEG/-kCNQU-s7O8Gf4au75VZYGi6.jpeg.jpg",
+    "https://ldb-phinf.pstatic.net/20200720_96/1595206510033tdeCP_JPEG/AXP3ADlHoKrOPpXPuhu5NmSc.jpg"
+  ]
+}

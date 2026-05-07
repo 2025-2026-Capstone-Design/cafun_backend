@@ -1,0 +1,292 @@
+{
+  "id": "2047923851",
+  "name": "로앤엄 성수",
+  "category": "카페",
+  "micro_review": [
+    "애니메이션으로 만나는 개성 만점 라떼"
+  ],
+  "road_address": "서울 성동구 왕십리로14길 24 1층",
+  "address": "서울 성동구 성수동1가 656-823",
+  "lat": "127.046174",
+  "lon": "37.548392",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "10:00",
+      "end": "18:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "토",
+      "start": "12:00",
+      "end": "18:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "일",
+      "start": "12:00",
+      "end": "18:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": "10:00",
+      "end": "18:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": "10:00",
+      "end": "18:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "수",
+      "start": "10:00",
+      "end": "18:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "목(12/25)",
+      "start": "12:00",
+      "end": "18:00",
+      "breakHours": null,
+      "description": "성탄절",
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": null,
+  "url": "https://www.instagram.com/_au__rora_?igsh=MTNiOTNnM2Q0djUxdw==",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": false,
+    "단체 이용 가능": false,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": true,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "커피 월드라떼아트 챔피언 커플이 운영하는 곳\n[에스프레소바 업그레이드버전]\n커피바 & 커피클래스\n\n생활의 달인- 라떼아트 편 출연",
+  "Information_facilitie": [
+    "로스터리",
+    "핸드드립",
+    "반려동물 동반",
+    "포장",
+    "무선 인터넷",
+    "출입구 휠체어 이용가능",
+    "좌석 휠체어 이용가능"
+  ],
+  "parking_info": null,
+  "payment_info": null,
+  "menu": [
+    {
+      "name": "성수 말차에이드",
+      "price": "6500",
+      "description": "[탄산수 , 고급(우지)말차]\n말차러버들은 무조건 Get!!!!!!",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250906_290/1757168473824Sq6pW_JPEG/IMG_5569.jpeg"
+      ]
+    },
+    {
+      "name": "로마노",
+      "price": "7000",
+      "description": "수제 레몬젤라또 + 시그니처 에스프레소\n[젤라또의 쫀득함과 바디감이 풍부한 에쏘]",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250712_77/1752258148164eWHBC_JPEG/IMG_9571.jpeg"
+      ]
+    },
+    {
+      "name": "오렌지 에쏘",
+      "price": "4000",
+      "description": "로앤엄만의 시그니처 에스프레소 + 오렌지\n필\n[디저트 에스프레소]",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250906_278/1757168425614XP7Eq_JPEG/IMG_5673.jpeg"
+      ]
+    },
+    {
+      "name": "카페 로얄",
+      "price": "20000",
+      "description": "브루잉과 위스키 - 스페셜한 음료[알콜 10%]",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251016_227/1760550104524c5At5_JPEG/IMG_8411.jpeg"
+      ]
+    },
+    {
+      "name": "초상화 라떼(Live)",
+      "price": "20000",
+      "description": "커피 라떼아트 월드챔피언 [엄폴] 초상화 라떼\n그 무엇이든 가능(캐릭터,애니메이션 등등)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250922_82/175854888879203xuc_JPEG/IMG_6942.jpeg"
+      ]
+    },
+    {
+      "name": "[이탈리아 정통] 커피,말차 티라미수",
+      "price": "8500",
+      "description": "이탈리아 이모에게 전수받은 레시피!!!\n•커피 맛이 풍부한\n•고급말차와 고급치즈 담백그자체",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250906_41/1757168864141F6fqi_JPEG/IMG_5530.jpeg"
+      ]
+    },
+    {
+      "name": "레몬에이드",
+      "price": "6500",
+      "description": "고급끝판왕 상큼달달 레몬에이드!\n레몬 러버들은 무조건 Get!!",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250906_286/1757168703459E4LKp_JPEG/ISIMG-973868.jpeg"
+      ]
+    },
+    {
+      "name": "컬러 초상화 라떼(Live)",
+      "price": "30000",
+      "description": "커피 라떼아트 월드챔피언 [엄폴] 초상화 라떼\n그 무엇이든 가능(캐릭터,애니메이션 등등)",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250921_14/1758447637769U41Ed_JPEG/IMG_6883.jpeg"
+      ]
+    },
+    {
+      "name": "[월드챔피언]시그니처 디자인 라떼",
+      "price": "10000",
+      "description": "월드라떼아트 챔피언 시그니쳐디자인 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250712_265/1752262102427xSMW7_JPEG/IMG_9600.jpeg",
+        "https://ldb-phinf.pstatic.net/20250712_93/1752262102782eV324_JPEG/IMG_9602.jpeg",
+        "https://ldb-phinf.pstatic.net/20250712_167/1752262102775kOr5Y_JPEG/IMG_9603.jpeg",
+        "https://ldb-phinf.pstatic.net/20250712_259/1752262042304HtpJk_JPEG/IMG_9599.jpeg"
+      ]
+    },
+    {
+      "name": "모카에쏘",
+      "price": "4500",
+      "description": "진한모카에 매력을 느낄 수 있고\n담백한 쿠키로 저어먹는\n디저트 에스프레소",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250819_84/17555318562840KDls_JPEG/IMG_3651.jpeg"
+      ]
+    },
+    {
+      "name": "깔루아 에쏘",
+      "price": "4500",
+      "description": "커피로 깔루아 향미와\n진한 바디를 재현해낸 에쏘",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250819_229/1755532288463H6rx2_JPEG/IMG_3652.jpeg"
+      ]
+    },
+    {
+      "name": "말차말차",
+      "price": "6500",
+      "description": "로앤엄만의 밀크베이스 + 고급말차\n[격불한 말차로 만든 바디가 꽉찬 음료]",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250712_95/1752258409635xkkKn_JPEG/IMG_9568.jpeg"
+      ]
+    },
+    {
+      "name": "에스프레소",
+      "price": "3500",
+      "description": "특허받은 “채널링마스터 탬퍼” 로 추출하여\n밸런스와 클린컵! 에스프레소의 정석 그자체!",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250712_28/17522587548137qVBX_JPEG/IMG_9565.jpeg"
+      ]
+    },
+    {
+      "name": "아메리카노",
+      "price": "4500",
+      "description": "콜드브루! 시그니처 기술로 컨트롤하여\n밸런스-깔끔 그자체!",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250712_240/1752258949768PS5u9_JPEG/IMG_9562.jpeg"
+      ]
+    },
+    {
+      "name": "라떼",
+      "price": "5000",
+      "description": "로앤엄만의 수제밀크베이스 + 시그니처 에스프레소\n[풍미끝판왕]",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250712_235/1752259110136abpDL_JPEG/IMG_9567.jpeg"
+      ]
+    },
+    {
+      "name": "바닐라라떼",
+      "price": "5700",
+      "description": "제로 바닐라시럽 0%\n[입안 꽉차는 풍미- 끝은 깔끔그자체]",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250712_108/17522591854717N561_JPEG/IMG_9566.jpeg"
+      ]
+    },
+    {
+      "name": "아포가또",
+      "price": "6500",
+      "description": "녹지않는 아포가또! 시그니처 에스프레소가\n크런치하게 변하면서 다 먹는 순간까지 쫀득함!",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250712_285/1752258545036KoS1s_JPEG/IMG_9572.jpeg"
+      ]
+    },
+    {
+      "name": "스페셜 브루잉",
+      "price": "",
+      "description": "주기적으로 달라지는\n싱글브루잉을 즐겨보세요!",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250712_122/1752327114898L8w3p_PNG/8D0B804D-1084-426D-A509-4B7E2C4A116D.png"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20250812_226/1754998962134wVVpq_JPEG/IMG_9467.jpeg",
+    "https://ldb-phinf.pstatic.net/20250818_36/1755528591602w85Ew_JPEG/IMG_3529.jpeg",
+    "https://ldb-phinf.pstatic.net/20250906_72/1757168310719UrQGu_JPEG/IMG_5494.jpeg",
+    "https://ldb-phinf.pstatic.net/20250906_108/1757168312546gmcKz_JPEG/IMG_5569.jpeg",
+    "https://ldb-phinf.pstatic.net/20250906_237/1757168229940dUlWT_JPEG/IMG_5673.jpeg",
+    "https://ldb-phinf.pstatic.net/20250903_173/1756887165453PPb0m_JPEG/1FBA42F2-7E9B-4CFF-B81E-9B430455DF2C.jpeg",
+    "https://ldb-phinf.pstatic.net/20250904_31/1756926676541cAgMU_JPEG/7D3C1B01-33F5-46B9-AB5E-AEE703FBF337.jpeg",
+    "https://ldb-phinf.pstatic.net/20250904_236/1756926644795HPllo_JPEG/IMG_2994.jpeg",
+    "https://ldb-phinf.pstatic.net/20250904_39/1756926680346ydEss_JPEG/IMG_2880.jpeg",
+    "https://ldb-phinf.pstatic.net/20250812_201/1754999666975XD9JF_JPEG/IMG_9611.jpeg",
+    "https://ldb-phinf.pstatic.net/20250812_4/1754999176695fARQh_PNG/IMG_1539.png",
+    "https://ldb-phinf.pstatic.net/20250812_209/1754999664804G6FnY_JPEG/IMG_9571.jpeg",
+    "https://ldb-phinf.pstatic.net/20250901_300/1756701530499vpcoK_JPEG/IMG_4647.jpeg",
+    "https://ldb-phinf.pstatic.net/20250812_128/1754999176432I4PNp_JPEG/IMG_1684.jpeg",
+    "https://ldb-phinf.pstatic.net/20250812_14/1754999664168gMEaw_JPEG/IMG_9564.jpeg",
+    "https://ldb-phinf.pstatic.net/20250812_126/1754999232213fHzY1_JPEG/IMG_9711.jpeg",
+    "https://ldb-phinf.pstatic.net/20250812_246/1754999176366Cc8Rw_JPEG/IMG_2609.jpeg",
+    "https://ldb-phinf.pstatic.net/20250812_165/1754999664349opTO7_JPEG/IMG_9572.jpeg",
+    "https://ldb-phinf.pstatic.net/20250812_35/1754999233367d8xG3_PNG/IMG_9691.png",
+    "https://ldb-phinf.pstatic.net/20250812_157/1754999666864YmSv4_JPEG/IMG_9141.jpeg",
+    "https://ldb-phinf.pstatic.net/20250812_176/1754999236053efAHa_JPEG/IMG_2591.jpeg",
+    "https://ldb-phinf.pstatic.net/20250812_215/17549992361207I1rL_JPEG/IMG_2676.jpeg",
+    "https://ldb-phinf.pstatic.net/20250812_179/1754999176391lSUpQ_JPEG/IMG_2394.jpeg",
+    "https://ldb-phinf.pstatic.net/20250812_221/1754999176512Q45hb_JPEG/IMG_2428.jpeg",
+    "https://ldb-phinf.pstatic.net/20250812_101/1754999010905SzT1k_JPEG/IMG_1883.jpeg",
+    "https://ldb-phinf.pstatic.net/20250812_46/1754999011494ySnHo_JPEG/IMG_8107.jpeg",
+    "https://ldb-phinf.pstatic.net/20250812_173/175499901100408sI3_JPEG/IMG_1885.jpeg",
+    "https://ldb-phinf.pstatic.net/20250812_229/17549990113720YuRA_JPEG/IMG_4263.jpeg",
+    "https://ldb-phinf.pstatic.net/20250812_153/17549989616358OYTg_JPEG/IMG_9311.jpeg",
+    "https://ldb-phinf.pstatic.net/20250812_173/1754998962196TDA6K_JPEG/IMG_9286.jpeg",
+    "https://ldb-phinf.pstatic.net/20250812_176/1754998961639Ce3F7_JPEG/IMG_9386.jpeg"
+  ]
+}

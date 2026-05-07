@@ -1,0 +1,284 @@
+{
+  "id": "319626943",
+  "name": "오우도",
+  "category": "카페,디저트",
+  "micro_review": [
+    "신선한 망고 빙수의 여름 특별 메뉴"
+  ],
+  "road_address": "서울 성동구 성수일로 55 106호",
+  "address": "서울 성동구 성수동1가 16-4",
+  "lat": "127.0497496",
+  "lon": "37.5453825",
+  "business_hours": [
+    {
+      "day": "금",
+      "start": "10:00",
+      "end": "22:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "토",
+      "start": "11:00",
+      "end": "22:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "일",
+      "start": "11:00",
+      "end": "22:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "월",
+      "start": "10:00",
+      "end": "22:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "화",
+      "start": "10:00",
+      "end": "22:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "수",
+      "start": "10:00",
+      "end": "22:00",
+      "breakHours": null,
+      "description": null,
+      "lastOrderTimes": null
+    },
+    {
+      "day": "목(12/25)",
+      "start": "11:00",
+      "end": "22:00",
+      "breakHours": [],
+      "description": "성탄절",
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": "0507-1343-8922",
+  "url": "http://www.instagram.com/oudogallery",
+  "convenience": {
+    "주차": true,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": true,
+    "단체 이용 가능": true,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "안녕하세요.\n성수동에 위치한 GALLERY&CAFE 오우도 입니다.",
+  "Information_facilitie": [
+    "단체 이용 가능",
+    "포장",
+    "남/녀 화장실 구분",
+    "무선 인터넷"
+  ],
+  "parking_info": {
+    "__typename": "InformationBasicParking",
+    "isFree": false,
+    "normalFeeDescription": null,
+    "extraFeeDescription": "추가 요금 10분당 600원, 최대 82,800원"
+  },
+  "payment_info": null,
+  "menu": [
+    {
+      "name": "군고구마 브륄레",
+      "price": "9500",
+      "description": "군고구마 기계로 직접 구운 꿀고구마와 바닐라 젤라또, 크런치한 플레이크를 곁들인 겨울디저트",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251218_273/1766051265500l1PiV_JPEG/4AC54564-F74C-4B95-A8D5-9B26D7742D3A.jpeg"
+      ]
+    },
+    {
+      "name": "Maple Bacon Croffle",
+      "price": "11000",
+      "description": "갓 구운 크로와상 와플과 바닐라 젤라또, 베이컨 칩, 메이플 시럽, 시나몬 파우더",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251017_182/17606878481912ULRM_JPEG/KakaoTalk_20251017_165708336.jpg"
+      ]
+    },
+    {
+      "name": "Salty Crunch Croffle",
+      "price": "11000",
+      "description": "갓 구운 크로와상 와플과 바닐라 젤라또, 크런치한 식감을 주는 토핑과 소금, 메이플 시럽",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251017_191/17606877387862E3GC_JPEG/KakaoTalk_20251017_165307368_01.jpg"
+      ]
+    },
+    {
+      "name": "Cinnmon Latte",
+      "price": "7000",
+      "description": "시나몬 라떼 - 시나몬스틱과 바닐라빈을 함께 넣고 끓여 풍부하고 부드러운 수제 시나몬 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240716_233/17211022656522NN0C_JPEG/IMG_8675.jpeg"
+      ]
+    },
+    {
+      "name": "Mulberry Bramble",
+      "price": "14000",
+      "description": "오디 브램블 - 수제 오디 시럽, 진, 레몬",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250908_152/1757316770977pPEr7_JPEG/IMG_0875.jpeg"
+      ]
+    },
+    {
+      "name": "Royal Kahlua",
+      "price": "14000",
+      "description": "로얄 깔루아 - 로얄 밀크티, 깔루아, 크림, 우유",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250908_161/1757316887684OiUem_JPEG/IMG_0883.jpeg"
+      ]
+    },
+    {
+      "name": "Tiramisu",
+      "price": "7500",
+      "description": "티라미수 - 파트아봄브 마스카포네 크림, 신선한 에스프레소와 깔루아를 머금은 레이디핑거",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230522_11/1684754653189VupgV_JPEG/KakaoTalk_20230522_202312631.jpg"
+      ]
+    },
+    {
+      "name": "Basil Cream Latte",
+      "price": "8000",
+      "description": "바질 크림 라떼 - 생 바질잎으로 만든 수제 바질 크림과 우유, 에스프레소의 조화",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240430_149/1714458536885ulxQd_JPEG/IMG_6157.jpeg"
+      ]
+    },
+    {
+      "name": "Elderflower Cooler",
+      "price": "12000",
+      "description": "엘더플라워 쿨러",
+      "images": []
+    },
+    {
+      "name": "Latte",
+      "price": "6500",
+      "description": "라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20230426_25/16824982679610mI9a_JPEG/AF1CAF92-9F34-4FE7-9F28-492CDEA8357D.jpeg"
+      ]
+    },
+    {
+      "name": "Vanilla Bean Latte",
+      "price": "7000",
+      "description": "바닐라빈 라떼 - 카라멜과 크림의 달콤하고 진한 향을 가진 수제 부르봉 바닐라빈 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240716_2/17211022337946KiAv_JPEG/IMG_8683.jpeg"
+      ]
+    },
+    {
+      "name": "Americano",
+      "price": "5500",
+      "description": "아메리카노",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240716_199/1721102212683ri9X0_JPEG/IMG_8662.jpeg"
+      ]
+    },
+    {
+      "name": "Snickerdoodle",
+      "price": "3500",
+      "description": "스니커두들 - 시나몬 슈가를 묻혀 구워, 겉은 바삭 속은 쫀득한 쿠키",
+      "images": []
+    },
+    {
+      "name": "Honey Sesame Cookie",
+      "price": "4000",
+      "description": "꿀깨쿠키 - 쫀득한 단 맛의 꿀, 톡톡 터지는 식감과 고소한 맛의 참깨",
+      "images": []
+    },
+    {
+      "name": "Classic Financier",
+      "price": "4000",
+      "description": "클래식 휘낭시에 - 누아젯 버터와 꿀의 풍미 가득한\n바통 휘낭시에",
+      "images": []
+    },
+    {
+      "name": "Whiskey Highball",
+      "price": "11000",
+      "description": "위스키 하이볼",
+      "images": []
+    },
+    {
+      "name": "Espresso",
+      "price": "5000",
+      "description": "에스프레소",
+      "images": []
+    },
+    {
+      "name": "Cinnamon Milk",
+      "price": "7000",
+      "description": "시나몬 밀크",
+      "images": []
+    },
+    {
+      "name": "Chocolate",
+      "price": "7000",
+      "description": "초콜릿",
+      "images": []
+    },
+    {
+      "name": "Milk Tea",
+      "price": "7000",
+      "description": "루이보스바닐라 밀크티 • 얼그레이 밀크티",
+      "images": []
+    },
+    {
+      "name": "Ade",
+      "price": "7500",
+      "description": "엘더플라워 진저에이드 • 라즈베리 레몬에이드",
+      "images": []
+    },
+    {
+      "name": "Tea",
+      "price": "6000",
+      "description": "루이보스바닐라 • 얼그레이 • 자스민 • 페퍼민트 • 카모마일",
+      "images": []
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20230605_125/1685963415250RxiGS_JPEG/KakaoTalk_20230605_200920659.jpg",
+    "https://ldb-phinf.pstatic.net/20251210_293/1765336049919l3Gwc_JPEG/4AC54564-F74C-4B95-A8D5-9B26D7742D3A.jpeg",
+    "https://ldb-phinf.pstatic.net/20251105_51/1762325719221umVtG_JPEG/IMG_4005.jpeg",
+    "https://ldb-phinf.pstatic.net/20230605_25/1685964011595afxY3_JPEG/KakaoTalk_20230605_201259055.jpg",
+    "https://ldb-phinf.pstatic.net/20230605_275/1685964062006Tdwr1_JPEG/KakaoTalk_20230605_201550118.jpg",
+    "https://ldb-phinf.pstatic.net/20230605_17/1685964061983dQjpV_JPEG/KakaoTalk_20230605_201620099.jpg",
+    "https://ldb-phinf.pstatic.net/20230605_60/1685964061887BpGUj_JPEG/KakaoTalk_20230605_201453934.jpg",
+    "https://ldb-phinf.pstatic.net/20230605_75/1685964061793blD4s_JPEG/KakaoTalk_20230605_201436119.jpg",
+    "https://ldb-phinf.pstatic.net/20230605_167/1685964061929yfApE_JPEG/KakaoTalk_20230605_201532328.jpg",
+    "https://ldb-phinf.pstatic.net/20200819_230/1597773367899kJSPp_JPEG/U7timEr4CE7_ri7vd5HN8mi9.jpeg.jpg",
+    "https://ldb-phinf.pstatic.net/20230605_242/1685964062299slByT_JPEG/KakaoTalk_20230605_201732003.jpg",
+    "https://ldb-phinf.pstatic.net/20200819_75/1597773405356xvYnf_JPEG/p0YHnyi4EYq2vzEobFY4DJgY.jpeg.jpg",
+    "https://ldb-phinf.pstatic.net/20200819_275/15977734778127WrYS_JPEG/8tO2SafeM3rk9QUQm-fwqC-R.jpeg.jpg",
+    "https://ldb-phinf.pstatic.net/20190719_103/1563548065240vB1h5_JPEG/LgLAlrKoG02sfYFzpac9GdD7.jpeg.jpg"
+  ]
+}

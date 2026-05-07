@@ -1,0 +1,219 @@
+{
+  "id": "2087888314",
+  "name": "라운지엑스24h 서울숲AK점",
+  "category": "카페",
+  "micro_review": null,
+  "road_address": "서울 성동구 성수일로 99 서울숲AK밸리 1층 108호",
+  "address": "서울 성동구 성수동1가 13-207",
+  "lat": "127.0511879",
+  "lon": "37.5494708",
+  "business_hours": [
+    {
+      "day": "매일",
+      "start": "00:00",
+      "end": "24:00",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": null
+    }
+  ],
+  "virtual_phone_number": null,
+  "url": "https://smartstore.naver.com/lounge_shop",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": true,
+    "단체 이용 가능": true,
+    "대기공간": false,
+    "간편결제": false,
+    "반려동물 동반": false,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": false,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "라운지엑스24h 서울숲AK점\n서울숲에서 가까운 위치에 있는 24시간 무인 로봇카페\n\n성수의 번화한 거리에서 살짝 떨어져 있어\n직장인, 성수동 주민 등 누구나\n언제든지 조용하고 편안하게 머물 수 있는 공간이에요.\n\n로봇 바리스타가 직접 커피를 내려주고,\n교보문고 베스트셀러 도서도 함께 비치되어 있어요.\n커피를 기다리는 시간에도 독서나 휴식을 즐길 수 있어요.\n\n노트북 작업이 필요할 때,\n조용히 책을 읽고 싶을 때,\n편하게 대화를 나누고 싶은 시간까지\n커피 주문 후 자유롭게 이용할 수 있는 공간이에요.\n\n서울숲 산책 후 잠깐 쉬어가고 싶을 때나\n퇴근 후 늦은 밤,\n이른 아침 출근 전에도\n부담 없이 찾을 수 있는 24시간 카페에요.\n\n-운영시간: 24시간 오픈\n-메뉴: 스페셜티 커피 / 논커피 음료 / 베이커리 디저트에요\n-교보문고 콜라보: 베스트셀러 도서가 비치되어 있어요\n-노트북 작업 / 독서 / 미팅 등 대화 공간 (커피 주문 후 이용 가능)\n-앱 주문 15% 할인 (2025.12.31까지)\n*Welcome 쿠폰 1,000원: 앱 첫 가입 시 제공!",
+  "Information_facilitie": [
+    "단체 이용 가능",
+    "무선 인터넷",
+    "남/녀 화장실 구분"
+  ],
+  "parking_info": null,
+  "payment_info": null,
+  "menu": [
+    {
+      "name": "제주 유기농 말차라떼",
+      "price": "3800",
+      "description": "부드러운 우유에 제주산 유기농 말차의 깊고 진한 풍미가 어우러진 프리미엄 음료",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20251112_268/1762934029169QhEA6_PNG/%C1%A6%B8%F1%C0%BB-%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4_-001_%288%29.png"
+      ]
+    },
+    {
+      "name": "후르츠 카페인",
+      "price": "4400",
+      "description": "강민서 챔피언 바리스타와 콜라보 시그니처 메뉴",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250430_181/1746008719770bINFS_PNG/%C8%C4%B8%A3%C3%F7_%C4%AB%C6%E4%C0%CE.png"
+      ]
+    },
+    {
+      "name": "오렌지 아이스티",
+      "price": "3900",
+      "description": "상큼한 오렌지가 더해진 상쾌한 아이스티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250430_173/1746008706710i4pNj_PNG/%BF%C0%B7%BB%C1%F6_%BE%C6%C0%CC%BD%BA%C6%BC.png"
+      ]
+    },
+    {
+      "name": "아메리카노",
+      "price": "3200",
+      "description": "직접 로스팅한 원두로 내린 신헌한 커피",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250430_70/1746008686139QsYu5_PNG/%BE%C6%B8%DE%B8%AE%C4%AB%B3%EB.png"
+      ]
+    },
+    {
+      "name": "하프샷 아메리카노",
+      "price": "2800",
+      "description": "산뜻한 잔향을 남기는 연한 저카페인 아메리카노",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250430_214/1746008672676RWvID_PNG/%C7%CF%C7%C1%BC%A6_%BE%C6%B8%DE%B8%AE%C4%AB%B3%EB.png"
+      ]
+    },
+    {
+      "name": "더블샷 아메리카노",
+      "price": "3000",
+      "description": "카페인이 두 배, 묵직한 바디감의 진한 아메리카노",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250430_298/1746008659586trH5I_PNG/%B4%F5%BA%ED%BC%A6_%BE%C6%B8%DE%B8%AE%C4%AB%B3%EB.png"
+      ]
+    },
+    {
+      "name": "화이트 아메리카노",
+      "price": "3500",
+      "description": "우유를 소량 첨가해 부드러운 버전의 아메리카노",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250507_40/1746610821705lASzO_PNG/%C8%AD%C0%CC%C6%AE_%BE%C6%B8%DE%B8%AE%C4%AB%B3%EB.png"
+      ]
+    },
+    {
+      "name": "카페 라떼",
+      "price": "3900",
+      "description": "신선한 우유의 풍미가 감싸는 우유 베이스 커피",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250430_171/1746008642559r6DvO_PNG/%C4%AB%C6%E4%B6%F3%B6%BC.png"
+      ]
+    },
+    {
+      "name": "바닐라라떼",
+      "price": "4200",
+      "description": "달콤한 바닐라 시럽과 고소한 커피가 어우러진 라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250430_132/1746008627912kCzmb_PNG/%C4%AB%C6%E4%B6%F3%B6%BC.png"
+      ]
+    },
+    {
+      "name": "초코라떼",
+      "price": "4200",
+      "description": "깊고 진한 초코에 우유가 조화로운 초코라떼",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250430_176/17460086053993H0tu_PNG/%C3%CA%C4%DA%B6%F3%B6%BC.png"
+      ]
+    },
+    {
+      "name": "카페모카",
+      "price": "4200",
+      "description": "진한 초코 베이스와 고소한 카페라떼가 어우러진 카페모카",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250430_82/1746008590891vyvcK_PNG/%C4%AB%C6%E4%B8%F0%C4%AB.png"
+      ]
+    },
+    {
+      "name": "밀크티 라떼",
+      "price": "4400",
+      "description": "밀크티와 에스프레소의 달콤 쌈싸름한 조합",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250430_163/1746009259611DL2Ly_PNG/%B9%D0%C5%A9%C6%BC%B6%F3%B6%BC.png"
+      ]
+    },
+    {
+      "name": "밀크티",
+      "price": "4200",
+      "description": "묵직한 홍차와 부드러운 우유의 만남",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250430_138/17460085778109X14e_PNG/%B9%D0%C5%A9%C6%BC.png"
+      ]
+    },
+    {
+      "name": "허니 자몽티",
+      "price": "3900",
+      "description": "실키한 꿀과 상큼한 자몽의 조화가 매력적인 차",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250430_102/1746008562609qHJfD_PNG/%C7%E3%B4%CF%C0%DA%B8%F9%C6%BC.png"
+      ]
+    },
+    {
+      "name": "아샷추",
+      "price": "4200",
+      "description": "복숭아 아이스티에 더해진 고소한 샷 추가",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250430_131/1746008548998I7MnP_PNG/%BE%C6%BC%A6%C3%DF.png"
+      ]
+    },
+    {
+      "name": "블랙 아이스티",
+      "price": "4200",
+      "description": "달콤 쌈싸름한 홍차 아이스티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250430_227/1746008535552kaqPB_PNG/%BA%ED%B7%A2_%BE%C6%C0%CC%BD%BA%C6%BC.png"
+      ]
+    },
+    {
+      "name": "복숭아 아이스티",
+      "price": "3700",
+      "description": "달콤한 복숭아 아이스티",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250430_258/1746008519997yA9M2_PNG/%BE%C6%BC%A6%C3%DF.png"
+      ]
+    },
+    {
+      "name": "바닐라 밀크",
+      "price": "4000",
+      "description": "고급스러운 바닐라 풍미가 은은하게 퍼지는 우유",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250430_291/1746008497624dr5mw_PNG/%B9%D9%B4%D2%B6%F3_%B9%D0%C5%A9.png"
+      ]
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20251217_279/1765949722629sRJ1b_PNG/%B6%F3%BF%EE%C1%F6%BF%A2%BD%BA%BC%AD%BF%EF%BD%A3AK%C1%A1_%283%29.jpeg.png",
+    "https://ldb-phinf.pstatic.net/20251217_36/1765949722562x4oB9_PNG/%B6%F3%BF%EE%C1%F6%BF%A2%BD%BA%BC%AD%BF%EF%BD%A3AK%C1%A1_%282%29.jpeg.png",
+    "https://ldb-phinf.pstatic.net/20251217_185/176594972270566sgd_PNG/%B6%F3%BF%EE%C1%F6%BF%A2%BD%BA%BC%AD%BF%EF%BD%A3AK%C1%A1_%281%29.jpeg.png",
+    "https://ldb-phinf.pstatic.net/20250508_49/1746688579521DoL75_JPEG/DSC09463-%C7%E2%BB%F3%B5%CA-%B3%EB%C0%CC%C1%EE_%B0%A8%BC%D2.jpg",
+    "https://ldb-phinf.pstatic.net/20250508_6/1746688514089bRAa2_JPEG/DSC09429.jpg",
+    "https://ldb-phinf.pstatic.net/20250905_177/1757063473051LCPh3_PNG/image_%2886%29.png",
+    "https://ldb-phinf.pstatic.net/20250508_111/1746688595348dSWrd_JPEG/DSC09471.jpg",
+    "https://ldb-phinf.pstatic.net/20250508_114/1746688539587g6Mm6_JPEG/DSC09474-%C7%E2%BB%F3%B5%CA-%B3%EB%C0%CC%C1%EE_%B0%A8%BC%D2.jpg",
+    "https://ldb-phinf.pstatic.net/20250508_246/1746688546717mSSx0_JPEG/DSC09451-%C7%E2%BB%F3%B5%CA-%B3%EB%C0%CC%C1%EE_%B0%A8%BC%D2.jpg",
+    "https://ldb-phinf.pstatic.net/20250508_208/1746688566745kT2xg_JPEG/DSC09456-%C7%E2%BB%F3%B5%CA-%B3%EB%C0%CC%C1%EE_%B0%A8%BC%D2.jpg",
+    "https://ldb-phinf.pstatic.net/20250508_289/1746688561533Fc025_JPEG/DSC09457-%C7%E2%BB%F3%B5%CA-%B3%EB%C0%CC%C1%EE_%B0%A8%BC%D2.jpg",
+    "https://ldb-phinf.pstatic.net/20250508_160/1746688550750fyVjb_JPEG/DSC09455-%C7%E2%BB%F3%B5%CA-%B3%EB%C0%CC%C1%EE_%B0%A8%BC%D2.jpg",
+    "https://ldb-phinf.pstatic.net/20250508_269/1746688543024QIKnX_JPEG/DSC09450-%C7%E2%BB%F3%B5%CA-%B3%EB%C0%CC%C1%EE_%B0%A8%BC%D2.jpg",
+    "https://ldb-phinf.pstatic.net/20250508_74/1746688521660mgEzF_JPEG/DSC09436-%C7%E2%BB%F3%B5%CA-%B3%EB%C0%CC%C1%EE_%B0%A8%BC%D2.jpg",
+    "https://ldb-phinf.pstatic.net/20250508_99/1746688517273UWYWn_JPEG/DSC09430.jpg"
+  ]
+}

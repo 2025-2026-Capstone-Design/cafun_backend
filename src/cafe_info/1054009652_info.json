@@ -1,0 +1,289 @@
+{
+  "id": "1054009652",
+  "name": "그레이펭귄커피",
+  "category": "카페,디저트",
+  "micro_review": [
+    "넓은 공간에서 맛보는 달콤한 디저트"
+  ],
+  "road_address": "서울 성동구 서울숲4길 26-14 1층,2층,루프탑",
+  "address": "서울 성동구 성수동1가 668-55",
+  "lat": "127.0433698",
+  "lon": "37.546841",
+  "business_hours": [
+    {
+      "day": "매일",
+      "start": "10:00",
+      "end": "22:30",
+      "breakHours": [],
+      "description": null,
+      "lastOrderTimes": [
+        {
+          "__typename": "LastOrderTimes",
+          "type": "영업시간",
+          "time": "22:00"
+        }
+      ]
+    }
+  ],
+  "virtual_phone_number": "0507-1433-2439",
+  "url": "https://www.instagram.com/gray_penguin_",
+  "convenience": {
+    "주차": false,
+    "발렛파킹": false,
+    "무선 인터넷": true,
+    "남/녀 화장실 구분": true,
+    "단체 이용 가능": true,
+    "대기공간": false,
+    "간편결제": true,
+    "반려동물 동반": true,
+    "유아시설": false,
+    "유아의자": false,
+    "수유실": false,
+    "장애인 주차구역": false,
+    "휠체어 이용가능": false,
+    "장애인 화장실": false,
+    "좌식/입식 선택": false,
+    "예약": false,
+    "포장": true,
+    "배달": false,
+    "출장": false,
+    "방문접수": false,
+    "무료 발렛": false,
+    "지역화폐 카드형": false,
+    "지역화폐 모바일형": false,
+    "지역화폐 지류형": false
+  },
+  "description": "서울숲 바로 앞,\n펭귄이 가득한 따뜻한 공간 그레이펭귄커피입니다.\n회색빛 도심 속에서 잠시 쉬어갈 수 있는 조용한 곳,\n그레이펭귄은 그런 공간이기를 바랍니다.\n바쁘게 흘러가는 하루 속에서 커피 한 잔, 디저트 한 조각이 작은 위로가 되기를 바라는 마음으로 문을 열었습니다.\n\n이곳의 모든 디저트는 파티쉐가 매일 아침 직접 굽습니다. 바삭한 타르트, 달콤한 쿠키, 고소한 휘낭시에와 같은 구움과자류는 프랑스산 고급 버터와 좋은 재료만을 사용해 정직하게 만들어집니다. 단순한 맛이지만, 오래 기억에 남을 수 있도록 오븐 앞에서 시간을 들여 구워냅니다.\n\n음료에는 제철 과일을 직접 손질해 담근 수제청을 사용합니다. 과일의 향과 단맛을 온전히 담아낸 청으로 만든 에이드나 티는 카페인이 부담스러운 분들께도 좋은 선택이 됩니다. 한 모금 마실 때마다 신선한 과일의 기운이 전해지길 바라는 마음을 담았습니다.\n\n매장 안에는 귀여운 펭귄들이 곳곳에 자리하고 있어요. 입구에서, 진열대 사이에서, 선반 위에 조용히 앉아 있는 펭귄들은 이 공간을 기억하는 또 하나의 따뜻한 이유가 됩니다.\n어린아이부터 어른까지, 손님들은 자연스럽게 미소를 지으며 펭귄들을 찾아보는 소소한 즐거움을 누리곤 하죠.\n\n펭귄은 추운 남극에서도 함께 모여 살아가기에\n혹독한 환경 속에서도 따뜻함을 나눌 수 있다고 합니다. 그레이펭귄커피도 서울숲 한가운데에서\n사람들이 모여 따뜻함을 나눌 수 있는 공간이기를 바랍니다.\n혼자여도, 여럿이어도 편안하게 머무를 수 있고,\n그저 커피 한 잔으로도 마음이 정리되는 그런 곳.\n\n햇살이 드는 창가에 앉아 책을 읽거나, 누군가와 담백한 대화를 나누거나, 일상에서 벗어난 조용한 시간을 보내고 싶을 때 그레이펭귄은 언제나 당신을 기다리고 있습니다.\n\n오늘도 갓 구운 디저트와 부드러운 커피,\n그리고 다정한 인사로 하루를 준비하고 있어요.\n서울숲에 오셨다면, 펭귄 만나러 한 번 들러주세요.",
+  "Information_facilitie": [
+    "테이크아웃 할인",
+    "반려동물 동반",
+    "남/녀 화장실 구분",
+    "무선 인터넷",
+    "포장",
+    "단체 이용 가능"
+  ],
+  "parking_info": null,
+  "payment_info": [
+    "간편결제"
+  ],
+  "menu": [
+    {
+      "name": "바닐라타르트",
+      "price": "4800",
+      "description": "부드러운 커스터드 크림과, 바닐라 빈이 가득들어 있는 파이타르트",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250402_141/1743599275525UOC1w_JPEG/Nikon-4835.jpg"
+      ]
+    },
+    {
+      "name": "시즌과일(제철과일)",
+      "price": "",
+      "description": "제철과일(상시변동)와, 부드러운 크림의 조화가 인상적인 파이타르트",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250915_90/1757912164712RO3vp_JPEG/IMG_3535.jpeg",
+        "https://ldb-phinf.pstatic.net/20250402_164/1743599350921dGlnC_JPEG/Nikon-4850.jpg"
+      ]
+    },
+    {
+      "name": "그레이펭귄라떼",
+      "price": "7000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250430_77/174599794703466aMb_JPEG/IMG_0373.jpeg"
+      ]
+    },
+    {
+      "name": "베리포레스트라떼",
+      "price": "7000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250430_122/1745997928652u6IkW_JPEG/IMG_0371.jpeg"
+      ]
+    },
+    {
+      "name": "오로라에이드",
+      "price": "7500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250430_216/1745997883805nCsJz_JPEG/IMG_0372.jpeg"
+      ]
+    },
+    {
+      "name": "펭귄라떼 [시그니처]",
+      "price": "7000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240627_231/1719464193942Npx9Q_JPEG/6.jpg"
+      ]
+    },
+    {
+      "name": "토마토바질에이드",
+      "price": "7500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240627_204/1719464426110yOT8q_JPEG/14.jpg"
+      ]
+    },
+    {
+      "name": "믹스베리",
+      "price": "5200",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250402_39/1743599843240BjTO0_JPEG/Nikon-4861.jpg"
+      ]
+    },
+    {
+      "name": "크림브륄레",
+      "price": "5200",
+      "description": "숟가락으로 톡 하고 깨먹는 재미의 크림브륄레와 파이타르트의 조화",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250402_206/1743599402955csyNx_JPEG/Nikon-4818.jpg"
+      ]
+    },
+    {
+      "name": "얼그레이",
+      "price": "5200",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250402_10/1743599821635KDcYw_JPEG/Nikon-4846.jpg"
+      ]
+    },
+    {
+      "name": "솔티캬라멜",
+      "price": "5200",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250402_65/1743599763398wlzWq_JPEG/Nikon-4830.jpg"
+      ]
+    },
+    {
+      "name": "다크가나슈",
+      "price": "5200",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250402_143/1743599733641LM8BA_JPEG/Nikon-4814.jpg"
+      ]
+    },
+    {
+      "name": "아메리카노",
+      "price": "5500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240627_96/1719464104254sXTgD_JPEG/1.jpg"
+      ]
+    },
+    {
+      "name": "말차라떼",
+      "price": "6500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20250915_259/1757912219033iaVEf_JPEG/IMG_3534.jpeg"
+      ]
+    },
+    {
+      "name": "카페라떼",
+      "price": "6500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240627_299/171946411453197mlD_JPEG/2.jpg"
+      ]
+    },
+    {
+      "name": "바닐라라떼",
+      "price": "6500",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240627_31/1719464126452j23hR_JPEG/5.jpg"
+      ]
+    },
+    {
+      "name": "크림라떼",
+      "price": "7000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240627_137/17194641505326RQG8_JPEG/4.jpg"
+      ]
+    },
+    {
+      "name": "얼그레이",
+      "price": "6000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240627_214/1719464313622KT4pd_JPEG/8.jpg"
+      ]
+    },
+    {
+      "name": "아이스티",
+      "price": "6000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240627_52/1719464437769WL460_JPEG/11.jpg"
+      ]
+    },
+    {
+      "name": "캐모마일",
+      "price": "6000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240627_287/1719464333799SvUrX_JPEG/9.jpg"
+      ]
+    },
+    {
+      "name": "페퍼민트",
+      "price": "6000",
+      "description": "",
+      "images": [
+        "https://ldb-phinf.pstatic.net/20240627_247/1719464299044qqwOW_JPEG/10.jpg"
+      ]
+    },
+    {
+      "name": "밀크티",
+      "price": "6000",
+      "description": "",
+      "images": []
+    }
+  ],
+  "image_url": [
+    "https://ldb-phinf.pstatic.net/20250915_136/1757890237621DkXFe_JPEG/IMG_3534.jpeg",
+    "https://ldb-phinf.pstatic.net/20251007_269/1759817683346LXVkQ_JPEG/IMG_4088.jpeg",
+    "https://ldb-phinf.pstatic.net/20250828_258/1756357363303YVUwJ_JPEG/IMG_2697.jpeg",
+    "https://ldb-phinf.pstatic.net/20250402_120/1743599108311DM8LS_JPEG/Nikon-5005.jpg",
+    "https://ldb-phinf.pstatic.net/20250402_283/1743599107962GIaD4_JPEG/Nikon-4861.jpg",
+    "https://ldb-phinf.pstatic.net/20250402_164/1743599209151OD1lr_JPEG/Nikon-4952.jpg",
+    "https://ldb-phinf.pstatic.net/20241111_201/1731315365744nMIFO_JPEG/1731315257609.jpg",
+    "https://ldb-phinf.pstatic.net/20250402_224/1743599108049RXxq2_JPEG/Nikon-4850.jpg",
+    "https://ldb-phinf.pstatic.net/20240627_245/1719463910702j3vcV_JPEG/14.jpg",
+    "https://ldb-phinf.pstatic.net/20250402_69/1743599107916CJ9sp_JPEG/Nikon-4835.jpg",
+    "https://ldb-phinf.pstatic.net/20250402_171/1743599108057voQUb_JPEG/Nikon-4814.jpg",
+    "https://ldb-phinf.pstatic.net/20250402_141/1743599108027YjACV_JPEG/Nikon-4818.jpg",
+    "https://ldb-phinf.pstatic.net/20250402_132/1743599108132idtN0_JPEG/Nikon-4830.jpg",
+    "https://ldb-phinf.pstatic.net/20241111_137/1731315365305ynHHS_JPEG/1731315265796.jpg",
+    "https://ldb-phinf.pstatic.net/20241111_242/1731315364994k8OF4_JPEG/1731315265632.jpg",
+    "https://ldb-phinf.pstatic.net/20241111_238/1731315365671fBOUW_JPEG/1731315265993.jpg",
+    "https://ldb-phinf.pstatic.net/20241111_281/1731315365287o3FfB_JPEG/1731315264942.jpg",
+    "https://ldb-phinf.pstatic.net/20241111_297/1731315364927KfvyF_JPEG/1731315257486.jpg",
+    "https://ldb-phinf.pstatic.net/20241111_155/1731315364244KokRq_JPEG/1731315264763.jpg",
+    "https://ldb-phinf.pstatic.net/20241111_127/17313153643623OMpK_JPEG/1731315265088.jpg",
+    "https://ldb-phinf.pstatic.net/20241111_75/1731315364284ATFwO_JPEG/1731315265228.jpg",
+    "https://ldb-phinf.pstatic.net/20241111_227/1731315365300IfMiG_JPEG/1731315265338.jpg",
+    "https://ldb-phinf.pstatic.net/20241111_69/1731315363777QQxpV_JPEG/1731315265478.jpg",
+    "https://ldb-phinf.pstatic.net/20241111_174/1731315365452WXmGn_JPEG/1731315277310.jpg",
+    "https://ldb-phinf.pstatic.net/20241111_103/1731315365012gkezd_JPEG/1731315277168.jpg",
+    "https://ldb-phinf.pstatic.net/20241111_142/17313153648059R3um_JPEG/1731315277432.jpg",
+    "https://ldb-phinf.pstatic.net/20241111_275/17313153129129AKvI_JPEG/1731315276945.jpg",
+    "https://ldb-phinf.pstatic.net/20241111_291/1731315365823QGxlQ_JPEG/1731315253117.jpg",
+    "https://ldb-phinf.pstatic.net/20240627_223/1719463910710lVL73_JPEG/4.jpg",
+    "https://ldb-phinf.pstatic.net/20240627_79/1719463910739FXMxB_JPEG/7.jpg",
+    "https://ldb-phinf.pstatic.net/20240627_229/1719463910806Ezmr9_JPEG/1.jpg",
+    "https://ldb-phinf.pstatic.net/20240627_102/1719463910735oAsrQ_JPEG/2.jpg",
+    "https://ldb-phinf.pstatic.net/20240627_131/1719463910763Oiy9b_JPEG/3.jpg",
+    "https://ldb-phinf.pstatic.net/20240627_147/1719463910740ofLDW_JPEG/5.jpg",
+    "https://ldb-phinf.pstatic.net/20240627_47/1719463910713h7eHw_JPEG/15.jpg",
+    "https://ldb-phinf.pstatic.net/20240627_36/1719463910739tdzsW_JPEG/12.jpg",
+    "https://ldb-phinf.pstatic.net/20240627_95/17194639106921lE00_JPEG/13.jpg",
+    "https://ldb-phinf.pstatic.net/20240627_259/1719463910764oenQE_JPEG/8.jpg",
+    "https://ldb-phinf.pstatic.net/20240627_12/1719463910719E7Pak_JPEG/9.jpg",
+    "https://ldb-phinf.pstatic.net/20240627_275/1719463910717sMjzw_JPEG/10.jpg",
+    "https://ldb-phinf.pstatic.net/20240627_36/1719463910783Ca1Wo_JPEG/11.jpg"
+  ]
+}
