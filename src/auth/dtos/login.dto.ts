@@ -1,3 +1,4 @@
+import { Expose } from 'class-transformer';
 import { IsEmail, IsString } from 'class-validator';
 
 export class LoginReqDto {
@@ -10,6 +11,8 @@ export class LoginReqDto {
 }
 
 export class LoginResDto {
+  @Expose()
   accessToken: string;
+  @Expose()
   id: number;
 }

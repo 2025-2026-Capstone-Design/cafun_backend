@@ -134,8 +134,8 @@ export class CafeService {
         // QueryBuilder를 이용한 유사도 검색 로직
         const [cafes, totalCount] = await this.cafeRepository.createQueryBuilder('cafe')
             .where('cafe.name ILIKE :exactLike', { exactLike: `%${searchWord}%` }) // 1. 부분 일치 매칭 (예: '스타벅' -> '스타벅스')
-            .orWhere('cafe.name % :keyword', { keyword: searchWord }) // 2. pg_trgm 유사도 매칭 (예: '스타벙스' -> '스타벅스')
-            .orderBy('cafe.name <-> :keyword', 'ASC') // 3. 검색어와의 거리(Distance)가 가까운 순(ASC)으로 정렬
+            .orWhere('cafe.name %> :keyword', { keyword: searchWord }) // 2. pg_trgm 유사도 매칭 (예: '스타벙스' -> '스타벅스')
+            .orderBy('cafe.name <->> :keyword', 'ASC') // 3. 검색어와의 거리(Distance)가 가까운 순(ASC)으로 정렬
             .skip(offset)
             .take(limit)
             .getManyAndCount();

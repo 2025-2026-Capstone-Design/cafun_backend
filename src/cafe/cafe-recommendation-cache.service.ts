@@ -65,6 +65,8 @@ export class CafeRecommendationCacheService implements OnApplicationBootstrap {
       this.logger.warn('조회된 카페 벡터 데이터가 없습니다.');
     }
 
+    const inMemorytTime = performance.now();
+
     // 2. 1차원 Float32Array 메모리 할당 (카페 수 * 12차원)
     this.aspectVectors = new Float32Array(numCafes * this.DIMENSION);
     
@@ -94,6 +96,9 @@ export class CafeRecommendationCacheService implements OnApplicationBootstrap {
     const endTime = performance.now();
     this.logger.log(
       `인메모리 적재 완료: 총 ${numCafes}개 데이터 처리 (${(endTime - startTime).toFixed(2)}ms 소요)`
+    );
+    this.logger.log(
+      `데이터 파싱 소요 시간: ${(endTime - inMemorytTime).toFixed(2)}ms`
     );
   }
 }
