@@ -1,0 +1,160 @@
+name: Backend CI
+
+# 트리거 조건: main 및 dev 브랜치에 Push 되거나 PR이 생성될 때 실행
+on:
+  push:
+    branches: [ "main", "dev", "feature/ci" ]
+  pull_request:
+    branches: [ "main", "dev" ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    env:
+      DB_TYPE: postgres
+      DB_HOST: localhost
+      DB_PORT: 5432
+      DB_USERNAME: root
+      DB_PASSWORD: 1234
+      DB_DATABASE: test_db
+      JWT_SECRET: your-secret-key
+      JWT_EXPIRES_IN: 120
+
+    # 1. 테스트에 필요한 PostgreSQL 서비스 컨테이너 정의
+    services:
+      postgres:
+        image: postgres:15
+        env:
+          POSTGRES_USER: root
+          POSTGRES_PASSWORD: 1234
+          POSTGRES_DB: test_db
+        ports:
+          - 5432:5432
+        # DB 컨테이너가 완전히 실행될 때까지 대기하는 헬스체크 설정
+        options: >-
+          --health-cmd pg_isready
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
+
+    steps:
+      # 2. 코드 체크아웃
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      # 3. pnpm 설치
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
+      # 4. Node.js 환경 설정 및 pnpm 캐싱 적용
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22' # 프로젝트의 Node 버전에 맞게 수정
+          cache: 'pnpm'
+
+      # 5. 의존성 설치
+      - name: Install Dependencies
+        run: pnpm install --frozen-lockfile
+
+      # 5. 마스터 데이터 다운로드 및 압축 해제
+      # ubuntu-latest 러너에 기본 내장된 GitHub CLI(gh)를 사용하여 Release 자산을 다운로드합니다.
+      - name: Download Master Data from GitHub Release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # 태그명(v1.0.0)을 지정하여 data.zip 다운로드
+          gh release download v1.0.0 -p "data.zip" --repo ${{ github.repository }}
+          
+          # 압축 해제
+          unzip -o data.zip -d ./data
+
+      # 6. 마이그레이션 실행 (pg_trgm 확장 생성 및 마스터 데이터 적재 포함)
+      - name: Run Migrations
+        run: pnpm run migration:run:test
+
+      # 7. 테스트 실행
+      - name: Run Tests
+        run: |
+          pnpm test      # 단위 테스트
+          pnpm test:e2e # E2E 테스트
+    
+  deploy:
+    needs: test # CI(test job)가 성공해야만 배포 진행
+    if: github.ref == 'refs/heads/main' # main 브랜치에 merge/push 될 때만 실제 배포 수행
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. 코드 체크아웃
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      # 2. pnpm 및 Node.js 세팅
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'pnpm'
+
+      # 3. 빌드 및 배포용 Artifact 생성
+      - name: Install Dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Build Application
+        run: pnpm run build
+
+      # 4. 마스터 데이터 다운로드 (CI와 동일하게 EC2로 넘기기 위해 수행)
+      - name: Download Master Data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release download v1.0.0 -p "data.zip" --repo ${{ github.repository }}
+          unzip -o data.zip -d ./data
+
+      # 5. SCP를 이용한 EC2 파일 전송
+      - name: Transfer Files to EC2 via SCP
+        uses: appleboy/scp-action@v0.1.7
+        with:
+          host: ${{ secrets.EC2_HOST }}
+          username: ${{ secrets.EC2_USERNAME }} 
+          key: ${{ secrets.EC2_SSH_KEY }}
+          source: "dist,src,data,package.json,pnpm-lock.yaml"
+          target: "/home/ec2-user/app"
+
+      # 6. SSH 접속 후 환경변수 세팅, 마이그레이션 및 앱 재시작
+      - name: Execute Deployment Scripts on EC2
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.EC2_HOST }}
+          username: ${{ secrets.EC2_USERNAME }}
+          key: ${{ secrets.EC2_SSH_KEY }}
+          script: |
+            # AL2023 홈 디렉토리로 이동
+            cd /home/ec2-user/app
+
+            # A. GitHub Secrets를 활용하여 운영 환경용 .env.prod 파일 동적 생성
+            echo "DB_TYPE=${{ secrets.DB_TYPE }}" > .env.prod
+            echo "DB_HOST=${{ secrets.DB_HOST }}" >> .env.prod
+            echo "DB_PORT=${{ secrets.DB_PORT }}" >> .env.prod
+            echo "DB_USERNAME=${{ secrets.DB_USERNAME }}" >> .env.prod
+            echo "DB_PASSWORD=${{ secrets.DB_PASSWORD }}" >> .env.prod
+            echo "DB_DATABASE=${{ secrets.DB_DATABASE }}" >> .env.prod
+            echo "JWT_SECRET=${{ secrets.JWT_SECRET }}" >> .env.prod
+            echo "JWT_EXPIRES_IN=${{ secrets.JWT_EXPIRES_IN }}" >> .env.prod
+            echo "NODE_ENV=prod" >> .env.prod
+
+            # B. 패키지 설치
+            pnpm install --frozen-lockfile
+
+            # C. 마스터 데이터 마이그레이션 실행
+            pnpm run migration:run:prod
+
+            # D. 애플리케이션 시작 (PM2 활용)
+            pm2 restart nest-app || pm2 start pnpm --name nest-app -- run start:prod
