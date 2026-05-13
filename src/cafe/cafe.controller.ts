@@ -18,6 +18,7 @@ export class CafeController {
             query.aspectVector,
             query.page,
             query.limit,
+            query.conveniences,
         );
         return plainToInstance(
             SearchCafesResponseDto,
@@ -32,9 +33,10 @@ export class CafeController {
     ): Promise<SearchCafesResponseDto> {
         const result = await this.cafeService.searchCafesByAspectAndKeyword(
             query.aspectVector,
-            query.keywords, // 추가된 키워드 배열 파라미터
+            query.keywords,
             query.page,
             query.limit,
+            query.conveniences,
         );
         
         return plainToInstance(
