@@ -4,7 +4,7 @@ import { Cafe } from './entities/cafe.entity';
 import { In, Repository } from 'typeorm';
 import { AI_RECOMMENDATION_PORT, AiRecommendationPort } from './ai-recommendation.port';
 import { Review } from './entities/review.entity';
-import { CreateReviewRequestDto, ReviewResponseDto } from './dtos/review.dto';
+import { CreateReviewRequestDto } from './dtos/review.dto';
 import { CafeRecommendationCacheService } from './cafe-recommendation-cache.service';
 import { CafeWithTopKeywords, TopKeyword } from './dtos/cafe-with-keywords.interface';
 
@@ -24,15 +24,16 @@ export class CafeService {
     async searchCafesByAspect(
         aspectVector: number[],
         page: number = 1,
-        limit: number = 20
+        limit: number = 20,
+        conveniences: string[] = [],
     ): Promise<{ cafes: CafeWithTopKeywords[]; totalCount: number; totalPages: number }> {
-        // AI 어댑터에서 전체 정렬된 ID 리스트를 가져옴
-        const allRecommendedIds = await this.aiModelAdapter.getRecommendedCafeIds(aspectVector);
+        let allRecommendedIds = await this.aiModelAdapter.getRecommendedCafeIds(aspectVector);
 
-        // A. 공통 조회 및 정렬
+        if (conveniences.length > 0) {
+            allRecommendedIds = await this.filterIdsByConvenience(allRecommendedIds, conveniences);
+        }
+
         const { cafes, totalCount, totalPages } = await this.fetchAndSortPaginatedCafes(allRecommendedIds, page, limit);
-
-        // B. 데이터 가공 (Top 10 키워드 부착)
         const enrichedCafes = this.enrichCafesWithTopKeywords(cafes);
 
         return { cafes: enrichedCafes, totalCount, totalPages };
@@ -43,18 +44,33 @@ export class CafeService {
         aspectVector: number[],
         keywords: string[],
         page: number = 1,
-        limit: number = 20
+        limit: number = 20,
+        conveniences: string[] = [],
     ): Promise<{ cafes: CafeWithTopKeywords[]; totalCount: number; totalPages: number }> {
-        // AI 어댑터에서 키워드가 반영된 전체 정렬된 ID 리스트를 가져옴
-        const allRecommendedIds = await this.aiModelAdapter.getRecommendedCafeIdsWithKeywords(aspectVector, keywords);
+        let allRecommendedIds = await this.aiModelAdapter.getRecommendedCafeIdsWithKeywords(aspectVector, keywords);
 
-        // A. 공통 조회 및 정렬
+        if (conveniences.length > 0) {
+            allRecommendedIds = await this.filterIdsByConvenience(allRecommendedIds, conveniences);
+        }
+
         const { cafes, totalCount, totalPages } = await this.fetchAndSortPaginatedCafes(allRecommendedIds, page, limit);
-
-        // B. 데이터 가공 (Top 10 키워드 부착)
         const enrichedCafes = this.enrichCafesWithTopKeywords(cafes);
 
         return { cafes: enrichedCafes, totalCount, totalPages };
+    }
+
+    private async filterIdsByConvenience(orderedIds: string[], conveniences: string[]): Promise<string[]> {
+        const matchingCafes = await this.cafeRepository
+            .createQueryBuilder('cafe')
+            .select('cafe.id')
+            .where(
+                `EXISTS (SELECT 1 FROM jsonb_array_elements_text(cafe.convenience) elem WHERE elem = ANY(:conveniences))`,
+                { conveniences },
+            )
+            .getMany();
+
+        const matchingIdSet = new Set(matchingCafes.map((c) => c.id));
+        return orderedIds.filter((id) => matchingIdSet.has(id));
     }
 
     // 3. 공통: 페이지네이션, DB 조회, 순서 복원 로직 분리
@@ -215,7 +231,7 @@ export class CafeService {
             // 2. DB 저장 시도
             return await this.reviewRepository.save(newReview);
 
-        } catch (error) {
+        } catch (error: any) {
             // 3. PostgreSQL 에러 코드에 따른 예외 처리
             // 23503: foreign_key_violation (예: 탈퇴했거나 없는 userId로 요청한 경우)
             if (error.code === '23503') {

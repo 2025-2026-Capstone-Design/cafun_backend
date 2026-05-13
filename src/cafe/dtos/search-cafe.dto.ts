@@ -17,6 +17,16 @@ export class SearchCafesRequestDto {
   aspectVector: number[];
 
   @IsOptional()
+  @Transform(({ value }) => {
+    if (!value) return [];
+    if (typeof value === 'string') return value.split(',').map((s: string) => s.trim()).filter(Boolean);
+    return value;
+  })
+  @IsArray()
+  @IsString({ each: true })
+  conveniences?: string[] = [];
+
+  @IsOptional()
   @Type(() => Number)
   @IsInt()
   @Min(1)
