@@ -7,7 +7,7 @@ import { CafeMetadata } from "src/cafe/entities/cafe-metadata.entity";
 export class AddMasterMetaData1778233147090 implements MigrationInterface {
 
     public async up(queryRunner: QueryRunner): Promise<void> {
-        const batchSize = 500;
+        const batchSize = 200;
         // =========================================================
         // 1. 카페 측면 벡터 (Cafe Aspect Vectors) 데이터 적재
         // =========================================================
