@@ -29,10 +29,6 @@ export class CafeService {
     ): Promise<{ cafes: CafeWithTopKeywords[]; totalCount: number; totalPages: number }> {
         let allRecommendedIds = await this.aiModelAdapter.getRecommendedCafeIds(aspectVector);
 
-        if (conveniences.length > 0) {
-            allRecommendedIds = await this.filterIdsByConvenience(allRecommendedIds, conveniences);
-        }
-
         const { cafes, totalCount, totalPages } = await this.fetchAndSortPaginatedCafes(allRecommendedIds, page, limit);
         const enrichedCafes = this.enrichCafesWithTopKeywords(cafes);
 
@@ -47,30 +43,12 @@ export class CafeService {
         limit: number = 20,
         conveniences: string[] = [],
     ): Promise<{ cafes: CafeWithTopKeywords[]; totalCount: number; totalPages: number }> {
-        let allRecommendedIds = await this.aiModelAdapter.getRecommendedCafeIdsWithKeywords(aspectVector, keywords);
-
-        if (conveniences.length > 0) {
-            allRecommendedIds = await this.filterIdsByConvenience(allRecommendedIds, conveniences);
-        }
+        let allRecommendedIds = await this.aiModelAdapter.getRecommendedCafeIdsWithKeywords(aspectVector, keywords, conveniences);
 
         const { cafes, totalCount, totalPages } = await this.fetchAndSortPaginatedCafes(allRecommendedIds, page, limit);
         const enrichedCafes = this.enrichCafesWithTopKeywords(cafes);
 
         return { cafes: enrichedCafes, totalCount, totalPages };
-    }
-
-    private async filterIdsByConvenience(orderedIds: string[], conveniences: string[]): Promise<string[]> {
-        const matchingCafes = await this.cafeRepository
-            .createQueryBuilder('cafe')
-            .select('cafe.id')
-            .where(
-                `EXISTS (SELECT 1 FROM jsonb_array_elements_text(cafe.convenience) elem WHERE elem = ANY(:conveniences))`,
-                { conveniences },
-            )
-            .getMany();
-
-        const matchingIdSet = new Set(matchingCafes.map((c) => c.id));
-        return orderedIds.filter((id) => matchingIdSet.has(id));
     }
 
     // 3. 공통: 페이지네이션, DB 조회, 순서 복원 로직 분리

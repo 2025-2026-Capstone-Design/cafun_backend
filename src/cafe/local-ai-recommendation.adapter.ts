@@ -35,12 +35,26 @@ export class LocalAiRecommendationAdapter implements AiRecommendationPort {
   async getRecommendedCafeIdsWithKeywords(
     aspectVector: number[],
     keywords: string[],
+    conveniences: string[],
   ): Promise<string[]> {
     const results: { cafeId: string; keywordScore: number; aspectScore: number }[] = [];
     const vectors = this.cacheService.aspectVectors;
 
     for (const [cafeId, metadata] of this.cacheService.cafeMetadataMap) {
       const { index, keywordCounts } = metadata;
+
+      // 요구하는 편의시설 중 하나라도 없거나 값이 0이면 즉시 다음 카페로 넘어감
+      let missingConvenience = false;
+      for (const conv of conveniences) {
+        if (!keywordCounts[conv]) { 
+          missingConvenience = true;
+          break;
+        }
+      }
+      
+      if (missingConvenience) {
+        continue;
+      }
 
       let keywordScore = 0;
       for (const keyword of keywords) {
