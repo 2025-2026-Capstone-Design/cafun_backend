@@ -16,7 +16,7 @@ export class JwtStrategy extends PassportStrategy(Strategy) {
       jwtFromRequest: ExtractJwt.fromAuthHeaderAsBearerToken(),
       // 토큰 만료 여부 자동 검증
       ignoreExpiration: false,
-      secretOrKey: configService.get<string>('JWT_SECRET') || 'fallback_secret_key_for_dev', 
+      secretOrKey: configService.get<string>('JWT_SECRET') || 'fallback_secret_key',
     });
   }
 
