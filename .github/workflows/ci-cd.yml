@@ -125,7 +125,7 @@ jobs:
           host: ${{ secrets.EC2_HOST }}
           username: ${{ secrets.EC2_USERNAME }} 
           key: ${{ secrets.EC2_SSH_KEY }}
-          source: "dist,src,data,package.json,pnpm-lock.yaml"
+          source: "dist,src,data,package.json,pnpm-lock.yaml, tsconfig.json,tsconfig.build.json"
           target: "/home/ec2-user/app"
 
       # 6. SSH 접속 후 환경변수 세팅, 마이그레이션 및 앱 재시작
