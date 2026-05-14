@@ -1,4 +1,4 @@
-import { BadRequestException, Inject, Injectable, InternalServerErrorException, NotFoundException } from '@nestjs/common';
+import { BadRequestException, ForbiddenException, Inject, Injectable, InternalServerErrorException, NotFoundException } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
 import { Cafe } from './entities/cafe.entity';
 import { In, Repository } from 'typeorm';
@@ -221,5 +221,16 @@ export class CafeService {
             console.error('Review Save Error:', error);
             throw new InternalServerErrorException('리뷰 등록 중 서버 오류가 발생했습니다.');
         }
+    }
+
+    async deleteReview(reviewId: number, userId: number): Promise<void> {
+        const review = await this.reviewRepository.findOne({ where: { id: reviewId } });
+        if (!review) {
+            throw new NotFoundException('리뷰를 찾을 수 없습니다.');
+        }
+        if (review.userId !== userId) {
+            throw new ForbiddenException('본인의 리뷰만 삭제할 수 있습니다.');
+        }
+        await this.reviewRepository.remove(review);
     }
 }

@@ -4,13 +4,27 @@ import { User } from './entities/user.entity';
 import { Repository } from 'typeorm';
 import { RegisterReqDto } from './dtos/register.dto';
 import * as bcrypt from 'bcrypt';
+import { Review } from 'src/cafe/entities/review.entity';
 
 @Injectable()
 export class UserService {
-    constructor(@InjectRepository(User) private userRepository: Repository<User>,) { }
+    constructor(
+        @InjectRepository(User) private userRepository: Repository<User>,
+        @InjectRepository(Review) private reviewRepository: Repository<Review>,
+    ) { }
 
     async findByEmail(email: string): Promise<User | null> {
         return this.userRepository.findOne({ where: { email } });
+    }
+
+    async getMyReviews(userId: number, page: number, limit: number): Promise<{ reviews: Review[]; totalCount: number }> {
+        const [reviews, totalCount] = await this.reviewRepository.findAndCount({
+            where: { userId },
+            order: { createdAt: 'DESC' },
+            skip: (page - 1) * limit,
+            take: limit,
+        });
+        return { reviews, totalCount };
     }
 
     async checkEmailDuplicate(email: string): Promise<void> {
