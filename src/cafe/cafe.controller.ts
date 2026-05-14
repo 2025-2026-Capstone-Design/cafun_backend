@@ -1,4 +1,4 @@
-import { Body, Controller, Get, Param, Post, Query, Req, UseGuards } from '@nestjs/common';
+import { Body, Controller, Delete, Get, HttpCode, Param, Post, Query, Req, UseGuards } from '@nestjs/common';
 import { CafeService } from './cafe.service';
 import { SearchCafesByNameRequestDto, SearchCafesRequestDto, SearchCafesResponseDto, SearchCafesWithKeywordsRequestDto } from './dtos/search-cafe.dto';
 import { plainToInstance } from 'class-transformer';
@@ -125,5 +125,15 @@ export class CafeController {
         return plainToInstance(ReviewResponseDto, savedReview, {
             excludeExtraneousValues: true,
         });
+    }
+
+    @Delete(':cafeId/reviews/:reviewId')
+    @UseGuards(JwtAuthGuard)
+    @HttpCode(204)
+    async deleteReview(
+        @Param('reviewId') reviewId: string,
+        @Req() req: any,
+    ): Promise<void> {
+        await this.cafeService.deleteReview(+reviewId, req.user.id);
     }
 }
